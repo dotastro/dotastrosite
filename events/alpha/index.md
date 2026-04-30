@@ -15,6 +15,7 @@ title: ".Astronomy Alpha, Online, 2020"
 
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
+  <a href="#talks">Talks</a>
   <a href="#participants">Participants</a>
   <a href="#links">Links</a>
 </nav>
@@ -28,10 +29,18 @@ title: ".Astronomy Alpha, Online, 2020"
 - Robert Simpson (Google)
 - Becky Smethurst (University of Oxford)
 
-<span class="section-label">// programme</span>
-## Programme {#programme}
+<span class="section-label">// talks</span>
+## Talks {#talks}
 
-The conference featured the normal .Astronomy mix of talks, unconference sessions, and a hack day, adapted for the online format. Key talks were recorded and edited in advance to make the most of remote presentation. Unconference sessions and hack day activities were adapted for a virtual setting. The non-consecutive-days format was an experiment to further reduce barriers to participation.
+The conference featured talks recorded and edited in advance, plus live unconference sessions and a hack day, all adapted for the online format. Known speakers:
+
+- **Brett Morris** (University of Bern): talk (topic to be confirmed)
+- **Leo Burtscher** (Leiden Observatory): talk (topic to be confirmed)
+- **Sarah Kendrew** (ESO): talk (topic to be confirmed)
+
+The event ran across three non-consecutive days (17, 19 and 26 August 2020), 14:00--21:00 UTC each day.
+
+_Know what was discussed? [Add a talk via GitHub](https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%20alpha%20%E2%80%94%20Online%2C%202020)_
 
 <span class="section-label">// links</span>
 ## Links {#links}
@@ -42,7 +51,7 @@ The conference featured the normal .Astronomy mix of talks, unconference session
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-29 confirmed attendees at .Astronomy alpha, August 2020.
+41 participants attended .Astronomy alpha, August 2020. 29 are confirmed below; the remaining 12 are not yet recorded.
 
 <ul class="participants-list">
 <li>Alex Gagliano (University of Illinois at Urbana-Champaign)</li>
