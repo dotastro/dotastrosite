@@ -12,7 +12,9 @@ title: ".Astronomy 5 - Cambridge MA, 2013"
 </div>
 </div>
 
-The fifth .Astronomy conference was held in Cambridge, Massachusetts. It was the first .Astronomy event in North America, bringing the conference to a new continent and a new community of astronomers, educators, and technologists.
+The fifth .Astronomy conference was held at Microsoft Research's New England Research and Development (NERD) Center in Cambridge, Massachusetts, hosted by the Seamless Astronomy group at Harvard's Center for Astrophysics. It was the first .Astronomy event in North America, bringing the conference to a new continent and a new community of astronomers, educators, and technologists.
+
+60% of attendees were new to the meeting. The gender balance was 33% female, which Rob Simpson noted was "decent, but could be better."
 
 ## Organisers
 
@@ -26,7 +28,12 @@ The fifth .Astronomy conference was held in Cambridge, Massachusetts. It was the
 
 ## Programme
 
-_Information to be added._
+Talks were given by Stuart Lynn (A Smarter Zooniverse), Curtis Wong (WorldWide Telescope), David Hogg (Crowdsourcing an All-Sky Survey), Alberto Accomazzi (ADS 2.0), and Amanda Bauer (Communication Strategies). Elisabeth Newton spoke about Astrobites and astronomy blogging.
+
+The liveblog was written by Brooke Simmons and documented one of the most detailed records of a .Astronomy event.
+
+- [Full talks list](talks.html)
+- [Participants](participants.html)
 
 ## Hacks
 

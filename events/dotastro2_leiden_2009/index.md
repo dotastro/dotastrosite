@@ -45,9 +45,16 @@ Major themes included:
 
 Invited speakers included Dr. Michael Nielsen (author of Reinventing Discovery), Dr. Arfon Smith (Oxford University), Dr. John Taylor (Google), and Prof. Andy Lawrence (Edinburgh University).
 
+The Lorentz Centre's offices-and-desks setup, and its supply of bicycles, were a big hit with attendees. The five-day marathon meeting was the longest .Astronomy ever held.
+
+The Chromoscope web-based sky visualisation service was launched during the event, receiving significant press coverage.
+
+- [Talks](talks.html)
+- [Participants](participants.html)
+
 ## Hacks
 
-This was the first .Astronomy with a Hack Day. _Hack details to be added._
+This was the first .Astronomy with a Hack Day and unconference sessions, both of which became defining features of the series. _Hack details to be added._
 
 ## GitHub Repos
 

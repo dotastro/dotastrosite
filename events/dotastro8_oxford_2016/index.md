@@ -38,6 +38,9 @@ Day 0 tutorials covered: various programming languages and tools, GitHub, web ho
 
 The Hack Day took place on Wednesday 22nd June 2016.
 
+- [Full talks list](talks.html)
+- [Participants list](participants.html)
+
 ## Hacks
 
 [20 hacks documented](hacks.md)

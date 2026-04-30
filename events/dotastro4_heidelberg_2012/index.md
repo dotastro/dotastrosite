@@ -48,6 +48,9 @@ Speakers included:
 
 The conference was summarised in an "Unproceedings" paper posted to the arXiv.
 
+- [Full talks list](talks.html)
+- [Participants list](participants.html)
+
 ## Hacks
 
 [7 hacks documented](hacks.md)
