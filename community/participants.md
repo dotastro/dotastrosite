@@ -18,7 +18,19 @@ description: "Everyone who has ever attended a .Astronomy conference."
   </div>
 </div>
 
-<div class="dir-search-wrap" style="margin: 2rem 0 1rem">
+<h2 style="margin-top:2.5rem">Attendance timeline</h2>
+<p style="color:var(--text-muted); font-size:0.875rem; margin-bottom:1rem">People who attended two or more events. Gold = organiser, green = speaker, blue = attendee.</p>
+
+<div class="attendance-section">
+  <input type="search" class="dir-search" id="grid-search" placeholder="Filter by name..." autocomplete="off" style="margin-bottom:1rem">
+  <div id="attendance-grid-wrap">
+    <p style="color:var(--text-muted); font-family:var(--font-mono); font-size:0.8rem">Loading...</p>
+  </div>
+</div>
+
+<h2 style="margin-top:3rem">Full directory</h2>
+
+<div class="dir-search-wrap" style="margin: 1rem 0">
   <input type="search" class="dir-search" id="dir-search" placeholder="Search by name, affiliation, or event..." autocomplete="off" spellcheck="false">
 </div>
 
@@ -75,8 +87,60 @@ description: "Everyone who has ever attended a .Astronomy conference."
     return person.affiliation || '';
   }
 
+  function renderGrid(people) {
+    var multi = people.filter(function(p){ return p.events.length > 1; });
+    // Sort by event count desc, then name
+    multi.sort(function(a,b){ return b.events.length - a.events.length || a.name.localeCompare(b.name); });
+
+    var html = '<div class="ag-scroll"><div class="attendance-grid">';
+
+    // Header row
+    html += '<div class="ag-row ag-header">';
+    html += '<div class="ag-name">Name</div>';
+    EVENT_ORDER.forEach(function(ev) {
+      var label = EVENT_LABELS[ev];
+      var year = EVENT_YEARS[ev];
+      html += '<div class="ag-cell ag-header-cell" title=".Astronomy ' + label + ' (' + year + ')">' + label + '</div>';
+    });
+    html += '</div>';
+
+    // Person rows
+    multi.forEach(function(p) {
+      html += '<div class="ag-row" data-agname="' + esc(p.name.toLowerCase()) + '">';
+      html += '<div class="ag-name">' + esc(p.name) + '</div>';
+      EVENT_ORDER.forEach(function(ev) {
+        if (p.events.indexOf(ev) > -1) {
+          var roles = p.roles[ev] || ['attendee'];
+          var cls = 'ag-cell ag-filled';
+          if (roles.indexOf('organiser') > -1) cls += ' ag-org';
+          else if (roles.indexOf('speaker') > -1) cls += ' ag-spk';
+          var label = EVENT_LABELS[ev];
+          var roleLabel = roles.indexOf('organiser') > -1 ? 'organiser' : roles.indexOf('speaker') > -1 ? 'speaker' : 'attendee';
+          html += '<div class="' + cls + '" title="' + esc(p.name) + ' at .Astronomy ' + label + ' (' + roleLabel + ')"></div>';
+        } else {
+          html += '<div class="ag-cell ag-empty"></div>';
+        }
+      });
+      html += '</div>';
+    });
+
+    html += '</div></div>';
+    document.getElementById('attendance-grid-wrap').innerHTML = html;
+
+    // Grid search
+    document.getElementById('grid-search').addEventListener('input', function() {
+      var q = this.value.toLowerCase().trim();
+      document.querySelectorAll('.ag-row:not(.ag-header)').forEach(function(row) {
+        row.style.display = !q || (row.getAttribute('data-agname') || '').includes(q) ? '' : 'none';
+      });
+    });
+  }
+
   function render(data) {
     var people = data.people;
+
+    // Grid
+    renderGrid(people);
 
     // Stats
     document.getElementById('stat-total').textContent = people.length;

@@ -2933,3 +2933,107 @@ html, body { overflow-x: hidden; max-width: 100vw; }
   margin-top: 0.75rem;
   margin-bottom: 0.5rem;
 }
+
+/* =====================================================
+   ATTENDANCE GRID
+   ===================================================== */
+.ag-scroll {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+}
+
+.attendance-grid {
+  display: table;
+  min-width: 100%;
+  border-collapse: collapse;
+  font-size: 0.78rem;
+}
+
+.ag-row {
+  display: table-row;
+}
+
+.ag-row:hover .ag-name,
+.ag-row:hover .ag-cell {
+  background: var(--bg-2);
+}
+
+.ag-header .ag-name,
+.ag-header .ag-cell {
+  background: var(--bg-2) !important;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.ag-name {
+  display: table-cell;
+  padding: 7px 14px 7px 12px;
+  white-space: nowrap;
+  min-width: 160px;
+  border-bottom: 1px solid var(--border-dim, var(--border));
+  color: var(--text);
+  font-weight: 500;
+  position: sticky;
+  left: 0;
+  background: var(--bg-1);
+  z-index: 1;
+}
+
+.ag-cell {
+  display: table-cell;
+  width: 32px;
+  min-width: 32px;
+  height: 34px;
+  border-bottom: 1px solid var(--border-dim, var(--border));
+  border-left: 1px solid var(--border-dim, var(--border));
+  vertical-align: middle;
+  text-align: center;
+}
+
+.ag-header-cell {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--blue);
+  padding: 0;
+  line-height: 34px;
+}
+
+.ag-filled {
+  background: var(--blue-dim);
+  border-radius: 4px;
+}
+
+.ag-filled.ag-org {
+  background: rgba(245,158,11,0.2);
+}
+
+.ag-filled.ag-spk {
+  background: rgba(74,222,128,0.15);
+}
+
+.ag-empty {
+  background: transparent;
+}
+
+/* Dot inside filled cell */
+.ag-filled::after {
+  content: "";
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background: var(--blue);
+  opacity: 0.7;
+}
+
+.ag-filled.ag-org::after { background: #f59e0b; }
+.ag-filled.ag-spk::after { background: #4ade80; }
+
+.attendance-section { margin-bottom: 1rem; }
