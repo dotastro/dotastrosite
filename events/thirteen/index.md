@@ -15,9 +15,10 @@ title: ".Astronomy 13, Madrid, 2024"
 
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
+  <a href="#talks">Talks</a>
   <a href="#hacks">Hacks</a>
-  <a href="#links">Links</a>
   <a href="#participants">Participants</a>
+  <a href="#links">Links</a>
 </nav>
 
 
@@ -32,6 +33,41 @@ title: ".Astronomy 13, Madrid, 2024"
 - Jan Reerink (ESAC/ESA)
 - Robert Simpson (Google)
 - Becky Smethurst (Oxford)
+
+<span class="section-label">// talks</span>
+## Talks {#talks}
+
+<a href="{{ site.baseurl }}/assets/talks/thirteen/dotAstronomy13_schedule.pdf" class="btn btn-outline btn-sm" target="_blank" rel="noopener" style="margin-bottom:1.5rem">Full schedule (PDF)</a>
+
+### Day 0 -- Tuesday 23 April (Tutorial Day)
+
+- Introduction to Foundation models for computer vision in Astronomy
+- Introduction to Data Visualisation in Astronomy with Plotly
+- Introduction to Large Language Models in Astronomy
+- Introduction to Sonification for Discovery, Education and Accessibility
+- Introduction to Publishing Open Source Software
+- Introduction to James Webb Space Telescope tools and proposal system
+- Introduction to ESASky
+- Introduction to ESA Datalabs
+
+### Day 1 -- Wednesday 24 April (Keynotes and Unconferences)
+
+- **Anca Anghelea** (ESA): Keynote 1
+- **Ivelina Momcheva**: Keynote 2
+- **Peter Coles**: Keynote 3
+- **Alexander Nolte**: Keynote 4 (Day 3)
+- Tour of ESAC
+- Multiple parallel unconference sessions (A, B, C, D tracks)
+- Speed networking (Emily Hunt)
+- Conference dinner in Madrid
+
+### Day 2 -- Thursday 25 April (Hack Day)
+
+Hack pitches followed by a full day of hacking. See the hacks section below for projects.
+
+### Day 3 -- Friday 26 April
+
+Hack presentations and wrap-up.
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
