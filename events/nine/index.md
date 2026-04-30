@@ -15,9 +15,10 @@ title: ".Astronomy 9, Cape Town, 2017"
 
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
+  <a href="#talks">Talks</a>
   <a href="#hacks">Hacks</a>
-  <a href="#links">Links</a>
   <a href="#participants">Participants</a>
+  <a href="#links">Links</a>
 </nav>
 
 
@@ -32,6 +33,38 @@ title: ".Astronomy 9, Cape Town, 2017"
 ## Programme {#programme}
 
 Themes included machine learning, web interfaces, software development, education, and leveraging diversity in the astronomical community. This was the first .Astronomy held in Africa.
+
+<span class="section-label">// talks</span>
+## Talks {#talks}
+
+### Invited Speakers
+
+- **Bradley Frank** (University of Cape Town): *Jupyter Notebooks for Radio Astronomy on the Cloud* -- MeerKAT and SKA data challenges; using cloud computing and Jupyter notebooks for radio interferometric data analysis and training.
+- **Amanda Bauer** (LSST): *LSST: Education and Public Outreach* -- How LSST EPO will enable public access to survey data via a Portal, Skyviewer, Jupyter notebooks, and citizen science projects.
+- **Bruce Bassett** (UCT/SAAO/AIMS): *Threads of a Future Research 3.0* -- Lessons from experiments in research, collaboration and mentoring: how can we do research better?
+- **Arna Karick** (Tech Savvy Astronomer): *Getting the most out of hack day: Lessons learned from hacking for humanity* -- Experience as a Random Hacks of Kindness organiser; tips for the .Astronomy 9 Hack Day.
+- **Wanda Diaz Merced** (IAU Office of Astronomy for Development): *Is the use of multimodal perception a real possibility for Astronomy research, education and outreach?* -- The history and future of sonification and multimodal approaches in astronomy.
+- **Brian Nord** (Fermi National Accelerator Laboratory): *The role of narrative in the culture and practice of science* -- Storytelling as a fundamental mode of scientific communication and research.
+- **Chris Lintott** (Oxford University)
+
+### Contributed Talks
+
+- **Temba Matomela** (Iziko Planetarium, South Africa): *The AmaXhosa understanding of the night sky* -- Indigenous astronomy: Xhosa knowledge of the Pleiades, Orion's Belt, Canopus, and the Moon.
+- **Susan Murabana** (Travelling Telescope Africa, Kenya): *The Travelling Telescope* -- Promoting science and technology in African schools; reached 40,000+ students in Kenya.
+- **Lisa Ballard** (SETI Institute, USA): *Postcards from the Outer Planets* -- NASA Planetary Data System search interface and API for Voyager, Cassini, New Horizons, and Galileo imagery.
+- **Fernando Becerra** (Harvard University): *Astrollytelling: Astronomy through visual stories* -- Using scrollytelling and D3.js to explain astronomy concepts interactively at astrollytelling.io.
+
+### Day Zero Presenters
+
+- **Charl Cater** (Cape Town Creative Academy): Information design, animation, data visualisation
+- **Ben Cook** (Harvard University, PhD): Galaxy photometry modelling, HPC, machine learning, science outreach
+- **Nicholas Earl** (STScI): Science software for JWST; circumgalactic medium research
+- **Kevin Govender** (IAU Office of Astronomy for Development): Astronomy for development in Africa
+- **Brett Morris** (University of Washington): Astropy affiliated package astroplan; stellar activity and exoplanets
+- **Brian Nord** (Fermilab/UChicago): AI applications in cosmology; science communication workshops
+- **Josh Peek** (STScI): Project Scientist, Data Science Mission Office; ISM and MAST
+- **Brigitta Sipocz**: Astropy Project; exoplanets, low mass stars, asteroids
+- **Becky Smethurst** (University of Nottingham): Galaxy quenching and AGN feedback; YouTube science communicator
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
@@ -106,30 +139,40 @@ Themes included machine learning, web interfaces, software development, educatio
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Known attendees at .Astronomy 9 in Cape Town, 2017 (from hack contributors and organisers).
+Known attendees at .Astronomy 9 in Cape Town, 2017.
 
 <ul class="participants-list">
 <li>Adrianna Pinska</li>
-<li>Arna Karick</li>
-<li>Becky Smethurst</li>
-<li>Ben Cook</li>
-<li>Brian Nord</li>
-<li>Brett Morris</li>
-<li>Carolina Odman-Govender</li>
-<li>Charl Cater</li>
-<li>Chris Lintott</li>
+<li>Alasdair Allan</li>
+<li>Amanda Bauer (LSST)</li>
+<li>Arna Karick (Tech Savvy Astronomer)</li>
+<li>Arfon Smith (STScI)</li>
+<li>Becky Smethurst (University of Nottingham)</li>
+<li>Ben Cook (Harvard University)</li>
+<li>Bradley Frank (University of Cape Town)</li>
+<li>Brett Morris (University of Washington)</li>
+<li>Brian Nord (Fermilab)</li>
+<li>Brigitta Sipocz</li>
+<li>Bruce Bassett (UCT/SAAO/AIMS)</li>
+<li>Carolina Odman-Govender (IAU-OAD)</li>
+<li>Charl Cater (Cape Town Creative Academy)</li>
+<li>Chris Lintott (Oxford University)</li>
 <li>Daina Bouquin</li>
 <li>Demitri Muna</li>
-<li>Fernando Becerra</li>
-<li>Brigitta Sipocz</li>
-<li>Joshua Peek</li>
-<li>Kevin Govender</li>
-<li>Lisa Ballard</li>
+<li>Fernando Becerra (Harvard University)</li>
+<li>Joshua Peek (STScI)</li>
+<li>Kevin Govender (IAU-OAD)</li>
+<li>Lisa Ballard (SETI Institute)</li>
 <li>Mike Walmsley</li>
-<li>Nick Earl</li>
+<li>Nick Earl (STScI)</li>
 <li>Orapeleng Mogawana</li>
-<li>Steve Crawford</li>
+<li>Rob Simpson (Google)</li>
+<li>Sarah Kendrew (ESA/STScI)</li>
+<li>Steve Crawford (SAAO)</li>
+<li>Susan Murabana (Travelling Telescope Africa)</li>
+<li>Temba Matomela (Iziko Planetarium)</li>
 <li>Teresa de Young</li>
+<li>Wanda Diaz Merced (IAU-OAD)</li>
 <li>Will Armentrout</li>
 </ul>
 
