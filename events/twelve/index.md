@@ -136,7 +136,6 @@ Known attendees at .Astronomy 12 in New York, 2023.
 <li>Fatima Abdurrahman (CCA)</li>
 <li>Jackie Faherty</li>
 <li>Kelle Cruz (CUNY Hunter College and Flatiron Institute)</li>
-<li>Lauren</li>
 <li>Laurence</li>
 <li>Lia Corrales</li>
 <li>Lindsay G</li>

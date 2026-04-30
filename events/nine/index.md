@@ -133,8 +133,6 @@ Known attendees at .Astronomy 9 in Cape Town, 2017 (from hack contributors and o
 <li>Will Armentrout</li>
 </ul>
 
-_Participant list to be compiled. If you attended, [add yourself](https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml)._
-
 <div class="contribute-section" data-event=".Astronomy 9">
 <span class="section-label">// want to add something?</span>
 <div class="contribute-bar">

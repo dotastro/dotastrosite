@@ -16,6 +16,7 @@ title: ".Astronomy Alpha, Online, 2020"
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
   <a href="#links">Links</a>
+  <a href="#participants">Participants</a>
 </nav>
 
 
@@ -37,6 +38,20 @@ The conference featured the normal .Astronomy mix of talks, unconference session
 
 - [dotastronomy.com](https://www.dotastronomy.com/alpha)
 
+
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+Known attendees at .Astronomy alpha (online), 2020.
+
+<ul class="participants-list">
+<li>Becky Smethurst (University of Oxford)</li>
+<li>Chris Lintott (University of Oxford)</li>
+<li>Robert Simpson (Google)</li>
+<li>Sarah Kendrew (ESA/STScI)</li>
+</ul>
+
+_Participant list to be compiled. If you attended, [add yourself](https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml)._
 
 <div class="contribute-section" data-event=".Astronomy alpha">
 <span class="section-label">// want to add something?</span>
