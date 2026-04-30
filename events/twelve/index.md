@@ -15,7 +15,6 @@ title: ".Astronomy 12, New York, 2023"
 
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
-  <a href="#programme">Programme</a>
   <a href="#talks">Talks</a>
   <a href="#hacks">Hacks</a>
   <a href="#links">Links</a>
@@ -33,21 +32,6 @@ title: ".Astronomy 12, New York, 2023"
 - Becky Smethurst (Oxford)
 - Ana Foj (CCA, local support)
 - Fatima Abdurrahman (CCA, local support)
-
-<span class="section-label">// programme</span>
-## Programme {#programme}
-
-.Astronomy 12 ran across five days with around 80 participants, spread across two venues: 162 IDA (the Flatiron Institute) and Math for America (MfA, 17th floor).
-
-| Day | Date | Location | Theme |
-|-----|------|----------|-------|
-| Day 0 | Monday 2 Oct | MfA 17th floor | Tutorials and workshops |
-| Day 1 | Tuesday 3 Oct | IDA Auditorium | Talks and unconferences |
-| Hack Day | Wednesday 4 Oct | MfA 14th and 17th floors, then IDA | Pitches, hacking, presentations |
-| Day 3 | Thursday 5 Oct | IDA and Promenade | Talks, unconferences, hack presentations |
-| Day 4 | Friday 6 Oct | MfA 17th floor | Optional continued hacking, CCA Colloquium |
-
-Talks were live-broadcast. The event was funded in part via NASA's TWSC OSSI initiative. Registration fee was $200, with waivers available.
 
 <span class="section-label">// talks and sessions</span>
 ## Talks {#talks}
