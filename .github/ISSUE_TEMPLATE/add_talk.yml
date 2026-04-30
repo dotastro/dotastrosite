@@ -6,7 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for contributing to the .Astronomy archive! Fill in as much as you know.
+        Thanks for contributing to the .Astronomy archive!
+
+**Note:** Submissions are reviewed by the .Astronomy team before being added to the site. This may take a few days to a few weeks. You'll be notified here when your contribution goes live. Fill in as much as you know.
 
   - type: dropdown
     id: event

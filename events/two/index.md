@@ -120,12 +120,12 @@ Approximately 50 people attended .Astronomy 2 in Leiden, November–December 200
 .Astronomy 2 was generously supported by the Lorentz Center, Astron, the Royal Astronomical Society (RAS), the British Council, NWO, RadioNet, and the Platform Beta Techniek.
 
 
-<div class="contribute-section">
+<div class="contribute-section" data-event=".Astronomy 2">
 <span class="section-label">// want to add something?</span>
 <div class="contribute-bar">
   <span class="contribute-bar-label">Know something missing?</span>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a participant</a>
 </div>
 </div>

@@ -146,3 +146,39 @@ document.addEventListener('DOMContentLoaded', function () {
     cornerCredit.querySelector('a').href = bg.creditUrl;
   }
 });
+
+/* =====================================================
+   PENDING CONTRIBUTIONS COUNTER
+   Fetches open issues labelled 'content' for this event
+   and shows a count in the contribute section.
+   ===================================================== */
+(function () {
+  var section = document.querySelector('.contribute-section[data-event]');
+  if (!section) return;
+
+  var eventName = section.getAttribute('data-event');
+  if (!eventName) return;
+
+  // GitHub API: search open issues with label:content mentioning this event
+  var q = encodeURIComponent('repo:dotastro/dotastrosite is:issue is:open label:content ' + eventName);
+  var url = 'https://api.github.com/search/issues?q=' + q + '&per_page=1';
+
+  fetch(url, { headers: { 'Accept': 'application/vnd.github.v3+json' } })
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var count = data.total_count;
+      if (!count || count < 1) return;
+
+      var label = section.querySelector('.section-label');
+      if (!label) return;
+
+      var pill = document.createElement('a');
+      pill.href = 'https://github.com/dotastro/dotastrosite/issues?q=is%3Aissue+is%3Aopen+label%3Acontent+' + encodeURIComponent(eventName);
+      pill.target = '_blank';
+      pill.rel = 'noopener';
+      pill.className = 'pending-pill';
+      pill.textContent = count + ' pending ' + (count === 1 ? 'submission' : 'submissions');
+      label.insertAdjacentElement('afterend', pill);
+    })
+    .catch(function () { /* fail silently */ });
+})();

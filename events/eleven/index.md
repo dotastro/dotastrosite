@@ -39,12 +39,12 @@ title: ".Astronomy 11, Toronto, 2019"
 - [nstarman/2019-10-22-dotAstronomy-Plotting-Workshop](https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop): Plotting workshop materials from .Astronomy 11
 
 
-<div class="contribute-section">
+<div class="contribute-section" data-event=".Astronomy 11">
 <span class="section-label">// want to add something?</span>
 <div class="contribute-bar">
   <span class="contribute-bar-label">Know something missing?</span>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%2011%20%E2%80%94%20Toronto%2C%202019" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%2011%20%E2%80%94%20Toronto%2C%202019" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%2011%20%E2%80%94%20Toronto%2C%202019" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%2011%20%E2%80%94%20Toronto%2C%202019" target="_blank" rel="noopener" class="contribute-bar-link">Add a participant</a>
 </div>
 </div>
