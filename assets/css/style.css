@@ -259,6 +259,10 @@ li { margin-bottom: 0.3rem; }
 [data-theme="light"] .theme-toggle .icon-dark  { display: none; }
 [data-theme="light"] .theme-toggle .icon-light { display: block; }
 
+/* Fallback: if span is empty, use CSS content */
+.theme-toggle .icon-dark:empty::before  { content: "\2600"; }
+.theme-toggle .icon-light:empty::before { content: "\263D"; }
+
 /* =====================================================
    MAIN CONTENT
    ===================================================== */
