@@ -1,4 +1,5 @@
 ---
+permalink: /community/alumni/
 layout: default
 title: Alumni
 ---

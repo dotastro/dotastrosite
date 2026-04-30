@@ -1,4 +1,5 @@
 ---
+permalink: /community/participants/
 layout: default
 title: "Community Directory"
 description: "Everyone who has ever attended a .Astronomy conference."

@@ -1,4 +1,5 @@
 ---
+permalink: /community/repos/
 layout: default
 title: Community Repos
 ---

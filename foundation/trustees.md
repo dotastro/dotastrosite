@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trustees - The .Astronomy Foundation
+permalink: /foundation/trustees/
 ---
 
 <span class="section-label">// foundation</span>
