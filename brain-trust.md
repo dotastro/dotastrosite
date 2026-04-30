@@ -49,7 +49,7 @@ The people who have shaped and continue to guide the .Astronomy series.
 <div class="person-card">
 <div class="person-name">Becky Smethurst</div>
 <div class="person-role">University of Oxford</div>
-<div class="person-handle"><a href="https://bsky.app/profile/becky1505.bsky.social" target="_blank" rel="noopener">becky1505.bsky.social</a></div>
+<div class="person-handle"><a href="https://bsky.app/profile/drbecky.bsky.social" target="_blank" rel="noopener">drbecky.bsky.social</a></div>
 <p class="person-bio">Royal Astronomical Society Research Fellow in Astrophysics at Oxford. Her research focuses on the growth of supermassive black holes and their effect on galaxies. Also an enthusiastic science communicator and creator of the Dr Becky YouTube channel.</p>
 </div>
 
