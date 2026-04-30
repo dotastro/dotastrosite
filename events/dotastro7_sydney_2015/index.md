@@ -38,6 +38,15 @@ Speakers included:
 
 A public lecture on Giant Telescopes of the Future was given by Sarah Kendrew at the University of Sydney during the conference.
 
+The conference was officially opened by Professor Mary O'Kane, the NSW Chief Scientist and Engineer.
+
+Lightning talks were given by Katie Mack (using Twitter), Brett Morris (astroplan), Tamara Davis (Marz), and George Hobbs (data archives and coding in China).
+
+## Links to Talks and Participants
+
+- [Full talks list](talks.html)
+- [Participants](participants.html)
+
 ## Hacks
 
 [9 hacks documented](hacks.md)

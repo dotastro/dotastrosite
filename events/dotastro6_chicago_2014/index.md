@@ -12,7 +12,9 @@ title: ".Astronomy 6 - Chicago, 2014"
 </div>
 </div>
 
-The sixth .Astronomy conference was held at the Adler Planetarium in Chicago, Illinois. It continued the tradition of bringing together astronomers, educators, communicators, and developers to explore the intersection of astronomy and technology.
+The sixth .Astronomy conference was held at the Adler Planetarium in Chicago, Illinois. The Adler had taken the lead among planetariums worldwide in establishing an astronomy and astrophysics research group and a citizen science department in a museum setting. Founded in 1930, it was the first modern planetarium in the Western Hemisphere.
+
+This was a particularly significant edition: it included visitors from non-astronomy fields, supported by the Alfred P. Sloan Foundation, to observe and potentially replicate the .Astronomy format in their own disciplines. The event also marked a strong upward trend in diversity, building on discussions from .Astronomy 5.
 
 ## Organisers
 
@@ -20,9 +22,21 @@ The sixth .Astronomy conference was held at the Adler Planetarium in Chicago, Il
 - Lucianne Walkowicz
 - Laura Whyte
 
+## Supported by
+
+- GitHub
+- The Alfred P. Sloan Foundation
+
 ## Programme
 
-_Information to be added._
+Talks were given by Arfon Smith (GitHub for Science), Erin Braswell (Open Science Framework), Dustin Lang (Astrometry.net), Alberto Pepe (Authorea), Stefano Meschiari (Super Planet Crash), Laura Whyte (Engaging Young People), and Adam Becker (How to Destroy Science Publishing).
+
+Lightning talks featured contributions from Geert Barentsen, Emily Rice, Demitri Muna, Grace Wolf-Chase, Meredith Rawls, Angelle Tanner, Alice Allen, Alyssa Goodman, Chris Lintott, Vladimir Sudilovsky, and many more.
+
+Multiple unconference sessions were held across Monday and Wednesday, covering topics from JavaScript 101 to Software Citation, Gaming for Science, and the Journal of Brief Ideas.
+
+- [Full talks list](talks.html)
+- [Participants list](participants.html)
 
 ## Hacks
 

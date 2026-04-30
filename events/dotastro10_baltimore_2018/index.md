@@ -26,7 +26,37 @@ The tenth .Astronomy conference, known as ".Astronomy X" (using the Roman numera
 
 ## Programme
 
-_Information to be added._
+Most talks were webcast live and recorded.
+
+### Invited Speakers
+- Andy Connolly (University of Washington): *Back To The Future: A Decade of LSST Development and the Growth in Machine Learning*
+- Jarita Holbrook (University of the Western Cape)
+- Sarah Horst (Johns Hopkins University)
+- James Howison (University of Texas at Austin): *Software makes science better. But is it Research?*
+- Alcione Mora (ESA): *Gaia: Science, Data and Challenges*
+
+### Day Zero Talks
+- Jane Rigby (NASA GSFC): *The Future of NASA Astrophysics Missions*
+- Erik Tollerud: *Intro To Open Source/Astropy/Open Development*
+- Clara Brasseur and Tom Donaldson: *Introductions to MAST*
+- Frank Summers and Alex Lockwood: *Cinematic Astronomy*
+- Sarah Kendrew (ESA): *Ten Years of .Astronomy*
+
+### Contributed Talks
+- Stephanie Juneau (NOAO): *Galaxy Evolution at the Crossroads of Astronomy and Data Science*
+- Lauren Chambers (STScI): *A Different Kind of Dark Energy: Placing Race and Gender in Physics*
+- Brian Nord (Fermilab): *Ethics in AI*
+- Dara Norman (NOAO): *Can Big Data Lead an Inclusion Revolution?*
+- Craig Jones (STScI): *Hubble Image Discovery using Transfer Learning*
+
+Sarah Kendrew's talk, *Ten Years of .Astronomy*, reflected on the conference series' journey from a small gathering of 30 people in Cardiff to a globally recognised community.
+
+- [Full talks list](talks.html)
+- [Participants](participants.html)
+
+## Sponsors
+
+.Astronomy X was generously supported by the American Astronomical Society.
 
 ## Hacks
 

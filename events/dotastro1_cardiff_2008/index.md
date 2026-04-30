@@ -12,13 +12,16 @@ title: ".Astronomy 1 - Cardiff, 2008"
 </div>
 </div>
 
-The first .Astronomy conference was held at Cardiff University in September 2008. It was organised solely by Robert Simpson, a Cardiff PhD student at the time, bringing together astronomers, educators, and technologists to explore how the web and new media could transform astronomical research and outreach.
+The first .Astronomy conference was held at Cardiff University in September 2008. It was organised solely by Robert Simpson, a Cardiff PhD student at the time, with support from Prof. Derek Ward-Thompson. The original subtitle was "Networked Astronomy and the New Media". It brought together approximately 30 astronomers, educators, and technologists to explore how the web and new media could transform astronomical research and outreach.
 
-Formal proceedings were published by Canopus. It was something the organisers later noted was far too complicated and went out of date quickly.
+The event featured a mix of live and remote presentations. Many attendees were converted to Twitter during the event. There was much discussion of social media and its potential for science.
+
+Formal proceedings were published by Canopus Publishing (edited by Robin Rees). It was something the organisers later noted was far too complicated and went out of date quickly. All subsequent events used the more informal "Unproceedings" format.
 
 ## Organisers
 
 - Robert Simpson (Cardiff University)
+- Derek Ward-Thompson (Cardiff University)
 
 ## Programme
 
@@ -42,6 +45,14 @@ There was no Hack Day at the first .Astronomy event.
 
 _No GitHub repos linked to this event._
 
+## Venue
+
+Room WX3.09, Queen's Buildings, Cardiff School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.
+
 ## Links
 
 - [Official website archive](https://www.dotastronomy.com/one)
+- [Talks](talks.html)
+- [Participants](participants.html)
+
+<p class="archive-note">Content enriched from <a href="https://web.archive.org/web/20080602061747/http://dotastronomy.com:80/venue/" target="_blank" rel="noopener">web.archive.org</a> snapshots, 2008. Some details may be incomplete.</p>
