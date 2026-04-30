@@ -294,7 +294,9 @@ permalink: /community/tweets/
 
 <script>
 (function() {
-  var BASE = '/assets/social/';
+  var baseurlMeta = document.querySelector('meta[name="site-baseurl"]');
+  var BASEURL = baseurlMeta ? baseurlMeta.content : '';
+  var BASE = BASEURL + '/assets/social/';
   var EVENT_ORDER = [
     {name: 'one', label: '.Astronomy 1', year: 2008},
     {name: 'two', label: '.Astronomy 2', year: 2009},
