@@ -182,7 +182,10 @@ Known attendees at .Astronomy X, Baltimore:
 <li>Ayat Mohammed</li>
 <li>Brian Nord</li>
 <li>Alcione Mora</li>
-<li>Rob Simpson</li>
+<li>Rob Simpson (Google)</li>
+<li>Alasdair Allan</li>
+<li>Carolina Odman-Govender</li>
+<li>Demitri Muna</li>
 <li>Nuwanthika Fernando</li>
 <li>Andrew Connolly</li>
 <li>Dara Norman</li>
