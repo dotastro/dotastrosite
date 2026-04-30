@@ -5,7 +5,7 @@ title: ".Astronomy 9 - Cape Town, 2017"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 9</div>
-<h1>Cape Town, South Africa — 2017</h1>
+<h1>Cape Town, South Africa, 2017</h1>
 <div class="event-meta">
 <span>📅 14–17 November 2017</span>
 <span>📍 South African Astronomical Observatory, Cape Town</span>
@@ -44,8 +44,8 @@ Hacks from this event include:
 
 ## GitHub Repos
 
-- [bmorris3/dotastro9_astroplan_astroquery](https://github.com/bmorris3/dotastro9_astroplan_astroquery) — tutorial materials for astroplan and astroquery
-- [drarnakarick/dotastro9_we_are_science](https://github.com/drarnakarick/dotastro9_we_are_science) — "We Are Science" project materials from .Astronomy 9
+- [bmorris3/dotastro9_astroplan_astroquery](https://github.com/bmorris3/dotastro9_astroplan_astroquery), tutorial materials for astroplan and astroquery
+- [drarnakarick/dotastro9_we_are_science](https://github.com/drarnakarick/dotastro9_we_are_science), "We Are Science" project materials from .Astronomy 9
 
 ## Links
 

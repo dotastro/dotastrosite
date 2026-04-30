@@ -1,4 +1,4 @@
-# .Astronomy 8 — Oxford, 2016
+# .Astronomy 8: Oxford, 2016
 
 **Date:** June 2016
 **Location:** Pembroke College, University of Oxford, UK

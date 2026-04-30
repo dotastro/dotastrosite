@@ -1,4 +1,4 @@
-# .Astronomy — dotastronomy.com
+# .Astronomy: dotastronomy.com
 
 The official archive and website for the .Astronomy conference series, running since 2008.
 
@@ -10,9 +10,9 @@ Since 2008, .Astronomy has created a vibrant community of over 300 alumni in ast
 
 ## Site Structure
 
-- **[Events](events/)** — Archive of all .Astronomy conferences
-- **[About](about.md)** — What is .Astronomy?
-- **[Community](community/)** — The .Astronomy community and alumni
+- **[Events](events/)**: Archive of all .Astronomy conferences
+- **[About](about.md)**: What is .Astronomy?
+- **[Community](community/)**: The .Astronomy community and alumni
 
 ## Contributing
 

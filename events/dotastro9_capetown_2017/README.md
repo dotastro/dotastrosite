@@ -1,4 +1,4 @@
-# .Astronomy 9 — Cape Town, 2017
+# .Astronomy 9: Cape Town, 2017
 
 **Date:** 14-17 November 2017
 **Location:** South African Astronomical Observatory (SAAO), Cape Town, South Africa
@@ -14,7 +14,7 @@ Set against the backdrop of South Africa's rapidly growing astronomy infrastruct
 
 Conference website: https://dotastronomy9.saao.ac.za/
 
-_Further information to be added — submit a PR!_
+_Further information to be added: submit a PR!_
 
 ## Contents
 

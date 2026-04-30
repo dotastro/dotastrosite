@@ -59,7 +59,7 @@ In the relevant event folder, edit `participants.md` and add your name in alphab
 In the relevant event folder, edit `agenda.md` with the daily schedule:
 
 ```markdown
-## Day 1 — Date
+## Day 1: Date
 
 | Time | Session | Speaker/Lead |
 |------|---------|-------------|

@@ -5,7 +5,7 @@ title: ".Astronomy 13 - Madrid, 2024"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 13</div>
-<h1>Madrid, Spain — 2024</h1>
+<h1>Madrid, Spain, 2024</h1>
 <div class="event-meta">
 <span>📅 23–26 April 2024</span>
 <span>📍 European Space Astronomy Centre (ESAC), near Madrid, Spain</span>
@@ -14,7 +14,7 @@ title: ".Astronomy 13 - Madrid, 2024"
 
 .Astronomy 13 was held at the European Space Astronomy Centre (ESAC) near Madrid, Spain. ESAC is ESA's centre for space science missions and data archives, making it a fitting host for a conference about astronomy, technology, and data. This was the first .Astronomy at a European Space Agency facility.
 
-.Astronomy is not a traditional conference. It is a gathering of around 100 astronomy enthusiasts, passionate about how the web and technology can transform science — an opportunity to expand your toolset for research, communication, and collaboration.
+.Astronomy is not a traditional conference. It is a gathering of around 100 astronomy enthusiasts, passionate about how the web and technology can transform science. It is an opportunity to expand your toolset for research, communication, and collaboration.
 
 ## Organisers
 
@@ -56,8 +56,8 @@ Projects pitched at .Astronomy 13 included:
 
 ## GitHub Repos
 
-- [ESA-Datalabs/dotAstronomy13](https://github.com/ESA-Datalabs/dotAstronomy13) — official hack template repository for .Astronomy 13
-- [emilyhunt/dotastronomy-live-feed](https://github.com/emilyhunt/dotastronomy-live-feed) — live feed project from .Astronomy 13
+- [ESA-Datalabs/dotAstronomy13](https://github.com/ESA-Datalabs/dotAstronomy13), official hack template repository for .Astronomy 13
+- [emilyhunt/dotastronomy-live-feed](https://github.com/emilyhunt/dotastronomy-live-feed), live feed project from .Astronomy 13
 
 ## Links
 

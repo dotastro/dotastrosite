@@ -5,7 +5,7 @@ title: ".Astronomy 8 - Oxford, 2016"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 8</div>
-<h1>Oxford, UK — 2016</h1>
+<h1>Oxford, UK, 2016</h1>
 <div class="event-meta">
 <span>📅 20–23 June 2016</span>
 <span>📍 Pembroke College, Oxford University</span>
@@ -46,9 +46,9 @@ Hacks from this event include: .draft, StingRA, Are you still talking?, arxiv59,
 
 ## GitHub Repos
 
-- [barentsen/dotastro-argparse-tutorial](https://github.com/barentsen/dotastro-argparse-tutorial) — argparse tutorial from Day 0
-- [dfm/ArXivMailer](https://github.com/dfm/ArXivMailer) — hack to modernise the daily arXiv email formatting
-- [WillArmentrout/dotAstroGraveyard](https://github.com/WillArmentrout/dotAstroGraveyard) — tracking forgotten or failed hacks for future revival
+- [barentsen/dotastro-argparse-tutorial](https://github.com/barentsen/dotastro-argparse-tutorial), argparse tutorial from Day 0
+- [dfm/ArXivMailer](https://github.com/dfm/ArXivMailer), hack to modernise the daily arXiv email formatting
+- [WillArmentrout/dotAstroGraveyard](https://github.com/WillArmentrout/dotAstroGraveyard), tracking forgotten or failed hacks for future revival
 
 ## Links
 

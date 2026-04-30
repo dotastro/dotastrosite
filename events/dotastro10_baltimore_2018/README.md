@@ -1,4 +1,4 @@
-# .Astronomy X — Baltimore, 2018
+# .Astronomy X: Baltimore, 2018
 
 **Date:** 24-27 September 2018
 **Location:** Space Telescope Science Institute (STScI), Baltimore, MD, USA

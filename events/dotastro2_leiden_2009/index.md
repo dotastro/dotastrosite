@@ -5,7 +5,7 @@ title: ".Astronomy 2 - Leiden, 2009"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 2</div>
-<h1>Leiden, Netherlands — 2009</h1>
+<h1>Leiden, Netherlands, 2009</h1>
 <div class="event-meta">
 <span>📅 30 November – 4 December 2009</span>
 <span>📍 Lorentz Centre, Leiden University</span>

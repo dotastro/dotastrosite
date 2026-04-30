@@ -1,16 +1,16 @@
-# .Astronomy 13 — Madrid, 2024
+# .Astronomy 13: Madrid, 2024
 
 **Date:** 23-26 April 2024
 **Location:** European Space Astronomy Centre (ESAC), near Madrid, Spain
-**Theme:** _Information to be added — submit a PR!_
+**Theme:** _Information to be added: submit a PR!_
 **Attendance:** ~100 people
-**Organisers:** _Information to be added — submit a PR!_
+**Organisers:** _Information to be added: submit a PR!_
 
 ## About
 
 .Astronomy 13 was held at the European Space Astronomy Centre (ESAC) near Madrid, Spain.
 
-_Further information to be added — submit a PR!_
+_Further information to be added: submit a PR!_
 
 ## Contents
 

@@ -1,4 +1,4 @@
-# .Astronomy 4 — Heidelberg, 2012
+# .Astronomy 4: Heidelberg, 2012
 
 **Date:** 9-11 July 2012
 **Location:** Haus der Astronomie (HdA) and Internationales Wissenschaftsforum Heidelberg (IWH), Heidelberg, Germany

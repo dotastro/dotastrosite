@@ -5,4 +5,4 @@ title: Agenda
 
 # Agenda
 
-_Information to be added — submit a PR!_
+_Information to be added: submit a PR!_

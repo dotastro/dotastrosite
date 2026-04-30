@@ -1,10 +1,10 @@
-# .Astronomy 5 — Cambridge, MA, 2013
+# .Astronomy 5: Cambridge, MA, 2013
 
 **Date:** September 2013
 **Location:** Cambridge, MA, USA (Harvard-Smithsonian Center for Astrophysics area)
 **Theme:** Computing at scale, data mining, social media, citizen science, astronomy blogging
 **Attendance:** ~60 people
-**Organisers:** _Information to be added — submit a PR!_
+**Organisers:** _Information to be added: submit a PR!_
 
 ## About
 

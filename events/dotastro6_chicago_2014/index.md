@@ -5,7 +5,7 @@ title: ".Astronomy 6 - Chicago, 2014"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 6</div>
-<h1>Chicago, IL, USA — 2014</h1>
+<h1>Chicago, IL, USA, 2014</h1>
 <div class="event-meta">
 <span>📅 8–10 December 2014</span>
 <span>📍 Adler Planetarium, Chicago, Illinois</span>

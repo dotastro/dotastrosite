@@ -16,7 +16,7 @@ A visualisation of astronomy journal titles and abstracts using natural language
 
 ### Astroworld
 **Creator:** Carolina Odman-Govender  
-Collect information about astronomical facilities around the world — including old, abandoned observatories, flashy new ones, future ones, and archeo-astronomical sites — using EpiCollect.  
+Collect information about astronomical facilities around the world, including old, abandoned observatories, flashy new ones, future ones, and archeo-astronomical sites, using EpiCollect.  
 [More info](http://dotastronomy.com/blog/2012/08/astroworld-mapping-astronomical-facilities-worldwide/)
 
 ### Cosmology Calculator OS X Widget
@@ -26,7 +26,7 @@ A port of Ned Wright's Cosmology Calculator to an OS X widget.
 
 ### Flora
 **Creators:** Amit Kapadia, Phil Marshall, Laura Whyte  
-An attempt to enable quantitative measurements on images in a browser — measuring the position, size, and brightness of objects in astronomy images. Uses the astrojs library for FITS images and coordinate transformations.  
+An attempt to enable quantitative measurements on images in a browser, measuring the position, size, and brightness of objects in astronomy images. Uses the astrojs library for FITS images and coordinate transformations.  
 [Live](http://ubret.s3.amazonaws.com/dotastro4/index.html#/examine/m101)
 
 ### Science: It's Universal

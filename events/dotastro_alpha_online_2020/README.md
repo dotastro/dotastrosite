@@ -1,4 +1,4 @@
-# .Astronomy α (DotDotAstro) — Online, 2020
+# .Astronomy α (DotDotAstro): Online, 2020
 
 **Date:** 17, 19, and 26 August 2020
 **Location:** Online (synchronous sessions 14:00-21:00 UTC)

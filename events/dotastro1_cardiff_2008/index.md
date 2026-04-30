@@ -5,7 +5,7 @@ title: ".Astronomy 1 - Cardiff, 2008"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 1</div>
-<h1>Cardiff, UK — 2008</h1>
+<h1>Cardiff, UK, 2008</h1>
 <div class="event-meta">
 <span>📅 22–24 September 2008</span>
 <span>📍 Cardiff University Department of Physics and Astronomy</span>
@@ -14,7 +14,7 @@ title: ".Astronomy 1 - Cardiff, 2008"
 
 The first .Astronomy conference was held at Cardiff University in September 2008. It was organised solely by Robert Simpson, a Cardiff PhD student at the time, bringing together astronomers, educators, and technologists to explore how the web and new media could transform astronomical research and outreach.
 
-Formal proceedings were published by Canopus — something the organisers later noted was far too complicated and went out of date quickly.
+Formal proceedings were published by Canopus. It was something the organisers later noted was far too complicated and went out of date quickly.
 
 ## Organisers
 

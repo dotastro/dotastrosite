@@ -21,7 +21,7 @@ A Chrome extension that lets astronomers highlight an astronomical object and op
 
 ### Are You Still Talking?
 **Creator:** Edward Gomez  
-Use a blink(1) light to control your speakers when chairing a session. A Python package that installs a command-line talk timer — green while talking, orange in the warning period, red when time's up.  
+Use a blink(1) light to control your speakers when chairing a session. A Python package that installs a command-line talk timer, green while talking, orange in the warning period, red when time's up.  
 [Source](http://github.com/zemogle/session_chair)
 
 ### arxiv59
@@ -76,7 +76,7 @@ Generates paper titles/abstracts with a Markov chain trained on real papers retu
 
 ### Meta^4hack
 **Creators:** Erik Tollerud, Daina Bouquin, Tom Robitaille  
-Metadata on a hack about metadata on hacks — the submission form for this hack list.  
+Metadata on a hack about metadata on hacks, the submission form for this hack list.  
 [Source](https://github.com/dotastro/hack-list-submission-app) | [Live](https://dotastronomy-hack-submitter.herokuapp.com)
 
 ### Project Apollo Stories

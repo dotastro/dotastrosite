@@ -1,4 +1,4 @@
-# .Astronomy 1 — Cardiff, 2008
+# .Astronomy 1: Cardiff, 2008
 
 **Date:** September 2008
 **Location:** Cardiff University, Astronomy and Physics Department, Cardiff, UK

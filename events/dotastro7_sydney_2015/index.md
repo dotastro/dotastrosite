@@ -5,14 +5,14 @@ title: ".Astronomy 7 - Sydney, 2015"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 7</div>
-<h1>Sydney, Australia — 2015</h1>
+<h1>Sydney, Australia, 2015</h1>
 <div class="event-meta">
 <span>📅 3–6 November 2015</span>
 <span>📍 Justice and Police Museum, Sydney CBD</span>
 </div>
 </div>
 
-.Astronomy 7 was held in Sydney — the first .Astronomy conference outside Europe and the United States. The conference brought the .Astronomy community to Australia, connecting with a vibrant local astronomy and technology scene.
+.Astronomy 7 was held in Sydney, the first .Astronomy conference outside Europe and the United States. The conference brought the .Astronomy community to Australia, connecting with a vibrant local astronomy and technology scene.
 
 This edition introduced ".Astronomy Day Zero", an optional day of introductory tutorials on commonly used tools to help participants feel more prepared for the Hack Day. This format continued in subsequent years.
 
@@ -28,7 +28,7 @@ This edition introduced ".Astronomy Day Zero", an optional day of introductory t
 
 Speakers included:
 - **Tom Robitaille**: Astropy and the open-source revolution in astronomy
-- **Alice Williamson** (University of Sydney): Open Source Malaria — A New Way of Finding Medicines (cross-disciplinary talk)
+- **Alice Williamson** (University of Sydney): Open Source Malaria. A New Way of Finding Medicines (cross-disciplinary talk)
 - **Kirsten Gottschalk**: Astronomy education mini-websites
 - **Nuria Lorente** (AAO): Software development from the perspectives of astronomers and engineers
 - **Lisa Ballard**
@@ -55,7 +55,7 @@ Hacks from this event include:
 
 ## GitHub Repos
 
-- [demitri/dotastro7dayzero](https://github.com/demitri/dotastro7dayzero) — Day Zero tutorial materials
+- [demitri/dotastro7dayzero](https://github.com/demitri/dotastro7dayzero): Day Zero tutorial materials
 
 ## Links
 

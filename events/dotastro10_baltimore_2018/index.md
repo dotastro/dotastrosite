@@ -5,7 +5,7 @@ title: ".Astronomy X - Baltimore, 2018"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy X</div>
-<h1>Baltimore, MD, USA — 2018</h1>
+<h1>Baltimore, MD, USA, 2018</h1>
 <div class="event-meta">
 <span>📅 24–27 September 2018</span>
 <span>📍 Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
@@ -46,9 +46,9 @@ Hacks from this event include:
 
 ## GitHub Repos
 
-- [vcalderon2009/dotAstronomy_X](https://github.com/vcalderon2009/dotAstronomy_X) — materials from .Astronomy X
-- [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack) — public outreach tool for exploring research interactively (hack for .Astronomy X)
-- [dr-rodriguez/dotAstroX_scripts](https://github.com/dr-rodriguez/dotAstroX_scripts) — scripts from .Astronomy X
+- [vcalderon2009/dotAstronomy_X](https://github.com/vcalderon2009/dotAstronomy_X), materials from .Astronomy X
+- [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack), public outreach tool for exploring research interactively (hack for .Astronomy X)
+- [dr-rodriguez/dotAstroX_scripts](https://github.com/dr-rodriguez/dotAstroX_scripts), scripts from .Astronomy X
 
 ## Links
 

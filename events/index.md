@@ -83,7 +83,7 @@ title: Events
 <span class="event-card-title">Cape Town, South Africa</span>
 </div>
 <div class="event-card-meta">14–17 November 2017 &nbsp;·&nbsp; South African Astronomical Observatory</div>
-<div class="event-card-desc">First .Astronomy in Africa. Set against the backdrop of South Africa's growing astronomy scene — SKA, SALT, Office of Astronomy for Development. 9 hacks documented.</div>
+<div class="event-card-desc">First .Astronomy in Africa. Set against the backdrop of South Africa's growing astronomy scene: SKA, SALT, Office of Astronomy for Development. 9 hacks documented.</div>
 <div class="event-card-stats"><span class="event-chip">9 hacks</span><span class="event-chip">Crawford, Govender, Odman-Govender</span></div>
 </a></div>
 </div>

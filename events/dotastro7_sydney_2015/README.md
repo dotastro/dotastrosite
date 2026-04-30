@@ -1,4 +1,4 @@
-# .Astronomy 7 — Sydney, 2015
+# .Astronomy 7: Sydney, 2015
 
 **Date:** 3-6 November 2015
 **Location:** Justice & Police Museum, Sydney, Australia

@@ -5,7 +5,7 @@ title: ".Astronomy 5 - Cambridge MA, 2013"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 5</div>
-<h1>Cambridge, MA, USA — 2013</h1>
+<h1>Cambridge, MA, USA, 2013</h1>
 <div class="event-meta">
 <span>📅 16–18 September 2013</span>
 <span>📍 New England Research and Development Center, Cambridge, Massachusetts</span>

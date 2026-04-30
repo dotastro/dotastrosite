@@ -5,7 +5,7 @@ title: ".Astronomy 3 - Oxford, 2011"
 
 <div class="event-hero">
 <div class="event-num">.Astronomy 3</div>
-<h1>Oxford, UK — 2011</h1>
+<h1>Oxford, UK, 2011</h1>
 <div class="event-meta">
 <span>📅 4–8 April 2011</span>
 <span>📍 New College, Oxford University</span>

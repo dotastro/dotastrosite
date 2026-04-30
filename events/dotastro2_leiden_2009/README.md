@@ -1,10 +1,10 @@
-# .Astronomy 2 — Leiden, 2009
+# .Astronomy 2: Leiden, 2009
 
 **Date:** 30 November to 4 December 2009
 **Location:** Lorentz Center, Leiden University, Netherlands
 **Theme:** Data-driven astronomy, citizen science, new media, visualisation
 **Attendance:** ~50 people
-**Organisers:** _Information to be added — submit a PR!_
+**Organisers:** _Information to be added: submit a PR!_
 
 ## About
 
