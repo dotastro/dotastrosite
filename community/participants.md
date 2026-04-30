@@ -98,8 +98,11 @@ description: "Everyone who has ever attended a .Astronomy conference."
       var aff = latestAffiliation(p);
       var nameKey = p.name.toLowerCase();
 
-      // Event badges
-      var badges = p.events.map(function(ev) {
+      // Event badges -- sort by EVENT_ORDER for consistent chronological display
+      var sortedEvents = p.events.slice().sort(function(a, b) {
+        return EVENT_ORDER.indexOf(a) - EVENT_ORDER.indexOf(b);
+      });
+      var badges = sortedEvents.map(function(ev) {
         var roles = p.roles[ev] || ['attendee'];
         var roleClass = roles.indexOf('organiser') > -1 ? ' eb-role-org' : roles.indexOf('speaker') > -1 ? ' eb-role-spk' : '';
         var label = EVENT_LABELS[ev] || ev;
