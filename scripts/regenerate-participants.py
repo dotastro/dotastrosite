@@ -191,7 +191,7 @@ for dirname in event_map:
         if in_talks:
             m = re.match(r'^[-*]\s+\*\*([^*]+)\*\*', line)
             if m:
-                name = re.sub(r'\s*\(invited\)', '', m.group(1), flags=re.I).strip()
+                name = re.sub(r'\s*\(invited\)', '', m.group(1), flags=re.I).strip().rstrip(':,.')
                 add_person(name, '', dirname, 'speaker')
 
 # ── Bluesky lookup ──────────────────────────────────────────────────────────
@@ -248,6 +248,39 @@ for key, p in all_people.items():
             latest_aff = p['affiliations'][ev]
             break
     p['affiliation'] = latest_aff  # keep for backwards compat
+
+# Merge known aliases
+ALIASES = {
+    'rob simpson': 'robert simpson',
+    'rob simpson:': 'robert simpson',
+    'r. simpson': 'robert simpson',
+    'dan foreman-mackey': 'daniel foreman-mackey',
+    'daniel foreman-mackey': 'daniel foreman-mackey',
+}
+
+def canonical_key(key):
+    return ALIASES.get(key, key)
+
+# Merge alias entries into canonical
+for alias_key, canon_key in ALIASES.items():
+    if alias_key in all_people and canon_key in all_people and alias_key != canon_key:
+        alias = all_people[alias_key]
+        canon = all_people[canon_key]
+        for ev in alias['events']:
+            if ev not in canon['events']:
+                canon['events'].append(ev)
+            for role in alias['roles'].get(ev, []):
+                if role not in canon['roles'].get(ev, []):
+                    canon['roles'].setdefault(ev, []).append(role)
+            if alias['affiliations'].get(ev):
+                canon['affiliations'].setdefault(ev, alias['affiliations'][ev])
+        del all_people[alias_key]
+        print(f"  Merged '{alias_key}' into '{canon_key}'")
+    elif alias_key in all_people and canon_key not in all_people and alias_key != canon_key:
+        # Rename the alias to canonical
+        p = all_people.pop(alias_key)
+        p['name'] = ' '.join(w.capitalize() for w in canon_key.split())
+        all_people[canon_key] = p
 
 people_list = sorted(all_people.values(), key=lambda x: (-len(x['events']), x['name'].split()[-1]))
 

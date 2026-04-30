@@ -166,7 +166,6 @@ Known attendees at .Astronomy 9 in Cape Town, 2017.
 <li>Mike Walmsley</li>
 <li>Nick Earl (STScI)</li>
 <li>Orapeleng Mogawana</li>
-<li>Rob Simpson (Google)</li>
 <li>Sarah Kendrew (ESA/STScI)</li>
 <li>Steve Crawford (SAAO)</li>
 <li>Susan Murabana (Travelling Telescope Africa)</li>
