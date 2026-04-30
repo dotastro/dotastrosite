@@ -124,7 +124,7 @@ description: "Everyone who has ever attended a .Astronomy conference."
       EVENT_ORDER.forEach(function(ev) {
         if (p.events.indexOf(ev) > -1) {
           var roles = p.roles[ev] || ['attendee'];
-          var cls = 'ag-cell ag-filled';
+          var cls = 'ag-cell ag-filled ev-' + ev;
           if (roles.indexOf('organiser') > -1) cls += ' ag-org';
           else if (roles.indexOf('speaker') > -1) cls += ' ag-spk';
           var label = EVENT_LABELS[ev];

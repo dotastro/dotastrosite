@@ -3061,3 +3061,37 @@ html, body { overflow-x: hidden; max-width: 100vw; }
 .p-aff-tip:hover .p-aff-hist-dot {
   opacity: 1;
 }
+
+/* Per-event colours for attendance grid */
+.ag-filled.ev-one     { background: rgba(239,68,68,0.35); }
+.ag-filled.ev-one::after     { background: #ef4444; }
+.ag-filled.ev-two     { background: rgba(249,115,22,0.35); }
+.ag-filled.ev-two::after     { background: #f97316; }
+.ag-filled.ev-three   { background: rgba(234,179,8,0.35); }
+.ag-filled.ev-three::after   { background: #eab308; }
+.ag-filled.ev-four    { background: rgba(132,204,22,0.35); }
+.ag-filled.ev-four::after    { background: #84cc16; }
+.ag-filled.ev-five    { background: rgba(34,197,94,0.35); }
+.ag-filled.ev-five::after    { background: #22c55e; }
+.ag-filled.ev-six     { background: rgba(20,184,166,0.35); }
+.ag-filled.ev-six::after     { background: #14b8a6; }
+.ag-filled.ev-seven   { background: rgba(6,182,212,0.35); }
+.ag-filled.ev-seven::after   { background: #06b6d4; }
+.ag-filled.ev-eight   { background: rgba(59,130,246,0.35); }
+.ag-filled.ev-eight::after   { background: #3b82f6; }
+.ag-filled.ev-nine    { background: rgba(99,102,241,0.35); }
+.ag-filled.ev-nine::after    { background: #6366f1; }
+.ag-filled.ev-ten     { background: rgba(168,85,247,0.35); }
+.ag-filled.ev-ten::after     { background: #a855f7; }
+.ag-filled.ev-eleven  { background: rgba(236,72,153,0.35); }
+.ag-filled.ev-eleven::after  { background: #ec4899; }
+.ag-filled.ev-alpha   { background: rgba(244,114,182,0.35); }
+.ag-filled.ev-alpha::after   { background: #f472b6; }
+.ag-filled.ev-twelve  { background: rgba(251,146,60,0.35); }
+.ag-filled.ev-twelve::after  { background: #fb923c; }
+.ag-filled.ev-thirteen { background: rgba(163,230,53,0.35); }
+.ag-filled.ev-thirteen::after { background: #a3e635; }
+
+/* Organiser/speaker: brighter version of same event colour */
+.ag-filled.ag-org  { opacity: 1; filter: brightness(1.3) saturate(1.4); }
+.ag-filled.ag-spk  { opacity: 0.85; filter: brightness(1.15); }
