@@ -44,4 +44,19 @@ The .Astronomy community has produced several published works documenting the co
 </div>
 </div>
 
+<div class="paper-card">
+<div class="paper-meta">
+<span class="paper-year">2009</span>
+<span class="paper-type">Proceedings book</span>
+</div>
+<h2 class="paper-title">Dot Astronomy: Networked Astronomy and the New Media</h2>
+<p class="paper-authors">Edited by Robert Simpson and Derek Ward-Thompson</p>
+<p class="paper-abstract">The formal proceedings from .Astronomy 1, Cardiff 2008 -- the only edition of .Astronomy for which a traditional proceedings book was produced. Published by Canopus Publishing. Topics included blogging, Twitter for telescopes, open data, citizen science, and the emerging web as a medium for astronomy. Speakers included Phil Plait (Bad Astronomy) and Emily Lakdawalla (Planetary Society), both presenting remotely via Skype.</p>
+<p class="paper-abstract" style="font-size:0.82rem; color:var(--text-muted)">ISBN 0-9549846-9-2. Canopus Publishing is no longer active and no digital edition is known to exist online. Physical copies may be available via second-hand book sellers or university library catalogues.</p>
+<div class="paper-links">
+<a href="https://www.worldcat.org/search?q=isbn+0954984692" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Search WorldCat</a>
+<a href="{{ site.baseurl }}/events/one/" class="btn btn-outline btn-sm">.Astronomy 1 event page</a>
+</div>
+</div>
+
 </div>
