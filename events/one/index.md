@@ -63,30 +63,40 @@ There was no Hack Day at the first .Astronomy event.
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Approximately 30 people attended .Astronomy 1 in Cardiff, September 2008.
+23 confirmed attendees at .Astronomy 1 in Cardiff, September 2008, plus remote speakers.
 
 - Carol Christian (STScI)
 - Alberto Conti (STScI)
+- Rosa Doran
 - Will Gater (Sky at Night Magazine)
 - Pamela Gay (Astronomy Cast)
 - Edward Gomez (Las Cumbres Observatory / Cardiff University)
 - Peter Hargrave (Cardiff University)
+- Mark Jones
+- Jason Kirk
 - Emily Lakdawalla (The Planetary Society, remote)
 - Andy Lawrence (Royal Observatory Edinburgh)
 - Christopher Leigh (Liverpool John Moores University)
+- Fraser Lewis
 - Chris Lintott (Galaxy Zoo / The Sky at Night)
 - Stuart Lowe (The Jodcast / Astronomy Blog)
+- Huw Lynes
+- Ben Maughan
 - Phil Plait (Bad Astronomy, remote)
 - Jan Pomierny (Astronomia: Polish Astronomy Portal)
+- David Nutter
 - Nick Rattenbury (The Jodcast)
 - Robin Rees (Canopus Publishing)
 - Ian Robson (IYA 2009)
 - Paul Roche (Faulkes Telescope)
 - Fiona Romeo (Royal Observatory, Greenwich)
+- Sarah Roberts
 - Jenny Shipway (INTECH Science Centre and Planetarium)
 - Robert Simpson (Cardiff University)
+- Vanessa Stroud
 - Paul Tipper (Dublin Institute of Technology)
 - Derek Ward-Thompson (Cardiff University)
+- Nicholas Wright
 
 <span class="section-label">// links</span>
 ## Links {#links}
