@@ -34,7 +34,10 @@
           Search
           <span class="nav-search-kbd">⌘K</span>
         </button>
-        <div class="nav-links">
+        <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+        <div class="nav-links" id="nav-links">
           <a href="{{ site.baseurl }}/events/">Events</a>
           <a href="{{ site.baseurl }}/events/upcoming">Upcoming</a>
           <a href="{{ site.baseurl }}/community/">Community</a>
@@ -112,6 +115,31 @@
         document.documentElement.setAttribute('data-theme', e.matches ? 'light' : 'dark');
       }
     });
+
+    // Mobile hamburger
+    (function () {
+      var ham = document.getElementById('hamburger');
+      var navLinks = document.getElementById('nav-links');
+      if (!ham) return;
+
+      ham.addEventListener('click', function () {
+        var open = ham.getAttribute('aria-expanded') === 'true';
+        ham.setAttribute('aria-expanded', !open);
+        ham.classList.toggle('is-open', !open);
+        navLinks.classList.toggle('mobile-open', !open);
+        document.body.classList.toggle('nav-open', !open);
+      });
+
+      // Close on link click
+      navLinks.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', function () {
+          ham.setAttribute('aria-expanded', 'false');
+          ham.classList.remove('is-open');
+          navLinks.classList.remove('mobile-open');
+          document.body.classList.remove('nav-open');
+        });
+      });
+    })();
 
     // More dropdown
     (function () {
