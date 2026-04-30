@@ -447,7 +447,15 @@ li { margin-bottom: 0.3rem; }
   color: var(--blue);
   letter-spacing: 0.1em;
   margin-bottom: 0.5rem;
+  margin-top: 3.5rem;
   display: block;
+}
+
+/* First section-label on a page shouldn't have extra top margin */
+.main-content > .section-label:first-child,
+.event-page-nav + .section-label,
+h1 + .section-label {
+  margin-top: 2.5rem;
 }
 
 .section-tag {
