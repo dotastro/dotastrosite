@@ -70,7 +70,7 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <div class="person-handle"><a href="https://bsky.app/profile/sarahkendrew.bsky.social" target="_blank" rel="noopener">sarahkendrew.bsky.social</a></div>
 </div>
 </div>
-<p class="person-bio">Sarah has helped organise more .Astronomy events than anyone except Rob, and has been central to finding speakers and participants across many editions. She is an instrument scientist on the James Webb Space Telescope at ESA's Space Telescope Science Institute in Baltimore.</p>
+<p class="person-bio">Sarah has helped organise more .Astronomy events than anyone, and has been central to finding speakers and participants across many editions. She is an instrument scientist on the James Webb Space Telescope at ESA's Space Telescope Science Institute in Baltimore.</p>
 </div>
 
 <div class="person-card" data-handle="chrislintott.bsky.social">
