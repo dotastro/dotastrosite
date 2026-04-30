@@ -13,7 +13,7 @@ Do you have a friend or colleague who would benefit from attending .Astronomy? S
 
 <div class="form-card">
 
-<form id="nominate-form" action="https://formspree.io/f/FORMSPREE_ID" method="POST" novalidate>
+<form id="nominate-form" action="https://formspree.io/f/mgodwjpo" method="POST" novalidate>
 
   <input type="hidden" name="_subject" value="[.Astronomy] New Nomination">
   <input type="hidden" name="_next" value="https://dotastro.github.io/dotastrosite/nominate/thanks/">
@@ -64,9 +64,6 @@ Do you have a friend or colleague who would benefit from attending .Astronomy? S
     <input type="text" id="nom-event" name="event" placeholder="e.g. .Astronomy 14, or any future event">
   </div>
 
-  <!-- hCaptcha — enabled automatically by Formspree on paid plans, or use free hCaptcha widget -->
-  <div class="h-captcha" data-sitekey="HCAPTCHA_SITE_KEY" style="margin-bottom:1.25rem"></div>
-  <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
 
   <div class="form-actions">
     <button type="submit" class="btn btn-primary">Submit nomination</button>
