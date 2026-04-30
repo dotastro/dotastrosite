@@ -424,7 +424,12 @@
     "norman gray": true,
     "phil bull": true,
     "thomas boch": true,
-    "toner stevenson": true
+    "toner stevenson": true,
+    "adam ginsburg": true,
+    "amy robinson": true,
+    "chris beaumont": true,
+    "tony hey": true,
+    "will silversmith": true
   },
   "found": {
     "will gater": "willgater.bsky.social",
@@ -550,6 +555,7 @@
     "joe zuntz": "joezuntz.bsky.social",
     "markus p\u00f6ssel": "mpoessel.de",
     "michael williams": "michaeljwilliams.bsky.social",
-    "phil bull": "philbull.bsky.social"
+    "phil bull": "philbull.bsky.social",
+    "amy robinson": "amy-robinson.bsky.social"
   }
 }

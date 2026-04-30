@@ -36,17 +36,20 @@ title: ".Astronomy 5, Cambridge MA, 2013"
 <span class="section-label">// talks</span>
 ## Talks {#talks}
 
-### Invited Talks
+### Day 1 Talks
 
-- **Stuart Lynn** (Zooniverse / Adler Planetarium): *A Smarter Zooniverse*
-- **Curtis Wong** (Microsoft Research): *WorldWide Telescope*
-- **David Hogg** (New York University): *Crowdsourcing an All-Sky Survey*
-- **Alberto Accomazzi** (Smithsonian/NASA ADS): *The dotAstrophysics Data System (ADS 2.0)*
-- **Amanda Bauer** (Australian Astronomical Observatory): *Communication Strategies*
+- **Stuart Lynn** (Zooniverse): *A Smarter Zooniverse* -- real-time volunteer understanding and adaptive task routing
+- **Elisabeth Newton** (Harvard): *Astronomy Blogging and Astrobites* -- founding Astrobites as a gateway to the online astronomy community
+- **Curtis Wong** (Microsoft Research): *Outreach and Learning with Astronomy Data Visualization* -- WorldWide Telescope guided tours and large spatial-temporal datasets
+- **David Hogg** (NYU): *Crowdsourcing a High Dynamic-Range Image of the Entire Night Sky* -- building all-sky surveys from astrophotographer images on Flickr
+- **Alberto Accomazzi** (SAO): *The dotAstrophysics Data System* -- ADS 2.0 launch with public API, iterative search refinement, and grant acknowledgment queries
 
-### Short Talks / Lightning Talks
+### Day 3 Talks
 
-- **Elisabeth Newton** (Harvard): *Astrobites and astronomy blogging*
+- **Laura Trouille** (Adler Planetarium / Northwestern): *An Experiment in Supporting the Public in Research* -- Galaxy Zoo Quench: citizens doing end-to-end science with Zootools and Authorea
+- **Amy Robinson** (EyeWire): *EyeWire* -- a game to map the brain with 80,000 players, using citizen science to train machine learning algorithms
+- **Amanda Bauer** (Australian Astronomical Observatory): *Communication Strategies: How to Organize a Party in Space* -- defining goals, measuring impact, and promoting research
+- **Tony Hey** (Microsoft Research): *The Fourth Paradigm: Data-Intensive Scientific Discovery* -- open access, the data deluge, cloud computing for science
 
 ### Talk Highlights
 
@@ -100,18 +103,46 @@ Alberto Accomazzi announced the launch of ADS 2.0, featuring a new search engine
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Cambridge MA, September 2013. 60% were new to the conference, 33% were female. Known attendees:
+Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Cambridge MA, September 2013. 60% were new to the conference, 33% were female.
 
-- Alberto Accomazzi (Smithsonian/NASA ADS)
-- Amanda Bauer (Australian Astronomical Observatory, @astropixie)
-- Brooke Simmons (Yale University, @vrooje)
-- Curtis Wong (Microsoft Research)
-- David Hogg (New York University, @davidwhogg)
-- Elisabeth Newton (Harvard, @EllieInSpace)
-- Jonathan Fay (Microsoft Research, @astrojonathan)
-- Josh Peek
-- Robert Simpson (Oxford University, @orbitingfrog)
-- Stuart Lynn (Zooniverse / Adler Planetarium, @stuart_lynn)
+<ul class="participants-list">
+<li>Adam Ginsburg (University of Colorado-Boulder)</li>
+<li>Adrian Price-Whelan (Columbia University)</li>
+<li>Alberto Accomazzi (Smithsonian/NASA ADS)</li>
+<li>Alberto Pepe (Harvard CfA)</li>
+<li>Alyssa Goodman (Harvard-Smithsonian CfA)</li>
+<li>Amanda Bauer (Australian Astronomical Observatory)</li>
+<li>Amy Robinson (EyeWire / MIT)</li>
+<li>Andy Casey (Harvard)</li>
+<li>August Muench (Harvard CfA)</li>
+<li>Brooke Simmons (Oxford Astrophysics)</li>
+<li>Carolina Ödman-Govender</li>
+<li>Chris Beaumont</li>
+<li>Curtis Wong (Microsoft Research)</li>
+<li>David Hogg (New York University)</li>
+<li>Demitri Muna (NYU)</li>
+<li>Elisabeth Newton (Harvard)</li>
+<li>Geert Barentsen</li>
+<li>Jenine Humber</li>
+<li>Jonathan Fay (Microsoft Research)</li>
+<li>Jose Galache</li>
+<li>Josh Peek</li>
+<li>Kelle Cruz</li>
+<li>Kevin Govender (IAU-OAD)</li>
+<li>Laura Trouille (Adler Planetarium / Northwestern University)</li>
+<li>Louise Rubin</li>
+<li>Michelle Borkin (Harvard)</li>
+<li>Niall Deacon</li>
+<li>Renée Hložek</li>
+<li>Robert Simpson (Oxford University)</li>
+<li>Ruth Angus</li>
+<li>Sarah Block (Harvard)</li>
+<li>Sarah Kendrew (MPIA)</li>
+<li>Stuart Lynn (Zooniverse)</li>
+<li>Tony Hey (Microsoft Research)</li>
+<li>Vanessa Moss</li>
+<li>Will Silversmith (EyeWire)</li>
+</ul>
 
 <span class="section-label">// links</span>
 ## Links {#links}
