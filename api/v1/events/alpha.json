@@ -1,0 +1,201 @@
+{
+  "slug": "alpha",
+  "number": "α",
+  "name": ".Astronomy α",
+  "year": 2020,
+  "city": "Online",
+  "country": "Online",
+  "venue": "Online (synchronous parts ran 14:00–21:00 UTC)",
+  "dates": "17, 19, and 26 August 2020",
+  "url": "https://dotastro.github.io/dotastrosite/events/alpha/",
+  "organisers": [
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "ESA/STScI",
+      "bluesky": "sarahkendrew.bsky.social"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "University of Oxford",
+      "bluesky": "chrislintott.bsky.social"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Google",
+      "bluesky": "orbitingfrog.bsky.social"
+    },
+    {
+      "name": "Becky Smethurst",
+      "affiliation": "University of Oxford",
+      "bluesky": "drbecky.bsky.social"
+    }
+  ],
+  "talks": [
+    {
+      "event": "alpha",
+      "year": 2020,
+      "speaker": "Brett Morris",
+      "affiliation": "University of Bern",
+      "title": "talk (topic to be confirmed)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "alpha",
+      "year": 2020,
+      "speaker": "Leo Burtscher",
+      "affiliation": "Leiden Observatory",
+      "title": "talk (topic to be confirmed)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "alpha",
+      "year": 2020,
+      "speaker": "Sarah Kendrew",
+      "affiliation": "ESO",
+      "title": "talk (topic to be confirmed)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [],
+  "participants": [
+    {
+      "name": "Alex Gagliano",
+      "affiliation": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "name": "Angela Tanner",
+      "affiliation": "Mississippi State University"
+    },
+    {
+      "name": "Ania Kapuscinska",
+      "affiliation": "Thought Machine / Open University"
+    },
+    {
+      "name": "Becky Smethurst",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "name": "Brett Morris",
+      "affiliation": "University of Bern"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "name": "Cliff Johnson",
+      "affiliation": "Zooniverse / Northwestern University"
+    },
+    {
+      "name": "Danielle Rowland",
+      "affiliation": "American Museum of Natural History"
+    },
+    {
+      "name": "Devontae Baxter",
+      "affiliation": "University of California, Irvine"
+    },
+    {
+      "name": "Emily Hunt",
+      "affiliation": "Landessternwarte Heidelberg"
+    },
+    {
+      "name": "Gabriele Cepparulo",
+      "affiliation": "University of Manchester"
+    },
+    {
+      "name": "Heidi Thiemann",
+      "affiliation": "Open University"
+    },
+    {
+      "name": "Joanna Barstow",
+      "affiliation": "The Open University"
+    },
+    {
+      "name": "Joseph Ribaudo",
+      "affiliation": "Providence College"
+    },
+    {
+      "name": "Juanjo Bazan",
+      "affiliation": "Independent"
+    },
+    {
+      "name": "Justyn Campbell-White",
+      "affiliation": "University of Dundee"
+    },
+    {
+      "name": "Leo Burtscher",
+      "affiliation": "Leiden Observatory"
+    },
+    {
+      "name": "Matt Brealey",
+      "affiliation": "Developer"
+    },
+    {
+      "name": "Meg Schwamb",
+      "affiliation": "Queen's University Belfast"
+    },
+    {
+      "name": "Nina Cameron",
+      "affiliation": "Glasgow Science Centre"
+    },
+    {
+      "name": "Raquel Yumi Shida",
+      "affiliation": "ESO / IAU / ESA"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Google"
+    },
+    {
+      "name": "Samuel Pearson",
+      "affiliation": "University of St Andrews"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "ESO"
+    },
+    {
+      "name": "Shreyas Bapat",
+      "affiliation": "IIT Mandi"
+    },
+    {
+      "name": "Stefania Amodeo",
+      "affiliation": "Cornell University"
+    },
+    {
+      "name": "Tamara Civera",
+      "affiliation": "CEFCA"
+    },
+    {
+      "name": "Timothy Gebhard",
+      "affiliation": "CEFCA"
+    },
+    {
+      "name": "Tomas Muller",
+      "affiliation": "University of Southampton"
+    },
+    {
+      "name": "Wilhelmina Nekoto",
+      "affiliation": "HTW-Berlin"
+    },
+    {
+      "name": "Yan Grange",
+      "affiliation": "ASTRON"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/alpha"
+    }
+  ],
+  "participant_count": 31,
+  "hack_count": 0,
+  "talk_count": 3
+}

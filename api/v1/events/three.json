@@ -1,0 +1,394 @@
+{
+  "slug": "three",
+  "number": "3",
+  "name": ".Astronomy 3",
+  "year": 2011,
+  "city": "Oxford",
+  "country": "United Kingdom",
+  "venue": "New College, Oxford University",
+  "dates": "4–8 April 2011",
+  "url": "https://dotastro.github.io/dotastrosite/events/three/",
+  "organisers": [
+    {
+      "name": "Robert Simpson",
+      "affiliation": "University of Oxford",
+      "bluesky": "orbitingfrog.bsky.social"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "University of Oxford",
+      "bluesky": "chrislintott.bsky.social"
+    },
+    {
+      "name": "Arfon Smith",
+      "affiliation": "University of Oxford",
+      "bluesky": "arfon.bsky.social"
+    }
+  ],
+  "talks": [
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Jill Tarter",
+      "affiliation": "SETI Institute",
+      "title": "invited keynote (09:30--10:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Ed Gomez",
+      "affiliation": "LCOGT",
+      "title": "talk (11:00--11:20)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Mike Peel",
+      "affiliation": "Wikimedia UK",
+      "title": "talk (11:20--11:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Matt Wood",
+      "affiliation": "AWS",
+      "title": "talk (11:40--12:00)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Chris Lintott",
+      "affiliation": "Oxford University",
+      "title": "talk (12:00--12:20)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Tom Robitaille",
+      "affiliation": "Harvard-Smithsonian CfA",
+      "title": "talk (09:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Thomas Boch",
+      "affiliation": "CDS, Observatoire de Strasbourg",
+      "title": "talk (09:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Jonathan Fay",
+      "affiliation": "Microsoft Research",
+      "title": "talk (11:00--11:40)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Rob Simpson",
+      "affiliation": "Oxford University",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Cameron Neylon",
+      "affiliation": "STFC",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "David Hogg",
+      "affiliation": "New York University",
+      "title": "talk (09:30 onwards)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Francisco Sanchez-Moreno",
+      "affiliation": "Universidad Politécnica de Madrid",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Geert Barentsen",
+      "affiliation": "Armagh Observatory",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Matthew Graham",
+      "affiliation": "Caltech",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Pamela Gay",
+      "affiliation": "SIUE",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [
+    {
+      "title": "Chromotone",
+      "event": "three",
+      "year": 2011,
+      "creators": [
+        "Jon Yardley",
+        "Chris North",
+        "Haley Gomez",
+        "Edward Gomez"
+      ],
+      "description": "Exploring multiwavelength astronomy with sound. Each waveband has a pitch; the intensity/brightness in that waveband is represented by the volume of a note. When you scan a mouse over an image, Chromotone plays a chord with components corresponding to the intensity at each pixel. This .Astronomy 3 version aimed to make a lighter, more web-friendly version of the original Processing implementation, with added functionality.",
+      "source_url": null,
+      "live_url": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alasdair Allan",
+      "affiliation": "University of Exeter"
+    },
+    {
+      "name": "Amanda Bauer",
+      "affiliation": "Australian Astronomical Observatory"
+    },
+    {
+      "name": "Arfon Smith",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Ariel Waldman",
+      "affiliation": "Spacehack.org / Science Hack Day SF"
+    },
+    {
+      "name": "Aude Alapini Odunlade",
+      "affiliation": "University of Exeter"
+    },
+    {
+      "name": "Bipana Bantawa",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Boris Häußler",
+      "affiliation": "University of Nottingham"
+    },
+    {
+      "name": "Cameron Neylon",
+      "affiliation": "STFC"
+    },
+    {
+      "name": "Carolina Ödman-Govender",
+      "affiliation": "SKA / SAAO / AIMS"
+    },
+    {
+      "name": "Chris Kemp",
+      "affiliation": "NASA"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Chris North",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Cory Lehan",
+      "affiliation": "SIUE"
+    },
+    {
+      "name": "Danny Price",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "David Hogg",
+      "affiliation": "New York University"
+    },
+    {
+      "name": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory"
+    },
+    {
+      "name": "Eli Bressert",
+      "affiliation": "Exeter / ESO / CfA"
+    },
+    {
+      "name": "Francisco Manuel Sánchez-Moreno",
+      "affiliation": "Universidad Politécnica de Madrid"
+    },
+    {
+      "name": "Geert Barentsen",
+      "affiliation": "Armagh Observatory"
+    },
+    {
+      "name": "Griffin Foster",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Haley Gomez",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Jill Tarter",
+      "affiliation": "SETI Institute"
+    },
+    {
+      "name": "Joe Zuntz",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Jon Yardley",
+      "affiliation": "Freelance Web Developer"
+    },
+    {
+      "name": "Jonathan Fay",
+      "affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Jose Enrique Ruiz",
+      "affiliation": "Instituto Astrofísica Andalucia"
+    },
+    {
+      "name": "Karen Masters",
+      "affiliation": "University of Portsmouth"
+    },
+    {
+      "name": "Kevin Govender"
+    },
+    {
+      "name": "Markus Pössel",
+      "affiliation": "CAEO, Heidelberg"
+    },
+    {
+      "name": "Matthew Graham",
+      "affiliation": "Caltech"
+    },
+    {
+      "name": "Matthew Povich",
+      "affiliation": "Penn State University"
+    },
+    {
+      "name": "Meg Schwamb",
+      "affiliation": "Yale University"
+    },
+    {
+      "name": "Michael Williams",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Mike Peel",
+      "affiliation": "Jodrell Bank / Wikimedia UK"
+    },
+    {
+      "name": "Nick Howes",
+      "affiliation": "Astronomy Now Magazine"
+    },
+    {
+      "name": "Norman Gray",
+      "affiliation": "University of Glasgow"
+    },
+    {
+      "name": "Pamela Gay",
+      "affiliation": "SIUE"
+    },
+    {
+      "name": "Phil Bull",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Phil Marshall",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Robert Hollow",
+      "affiliation": "CSIRO Astronomy and Space Science"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "MPIA"
+    },
+    {
+      "name": "Stuart Lowe",
+      "affiliation": "Las Cumbres Observatory"
+    },
+    {
+      "name": "Stuart Lynn",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Thomas Boch",
+      "affiliation": "CDS, Observatoire de Strasbourg"
+    },
+    {
+      "name": "Thomas Robitaille",
+      "affiliation": "Harvard-Smithsonian CfA"
+    },
+    {
+      "name": "Toner Stevenson",
+      "affiliation": "Sydney Observatory"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/three"
+    }
+  ],
+  "participant_count": 47,
+  "hack_count": 1,
+  "talk_count": 15
+}

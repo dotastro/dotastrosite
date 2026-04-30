@@ -1,0 +1,280 @@
+{
+  "slug": "two",
+  "number": "2",
+  "name": ".Astronomy 2",
+  "year": 2009,
+  "city": "Leiden",
+  "country": "Netherlands",
+  "venue": "Lorentz Centre, Leiden University",
+  "dates": "30 November – 4 December 2009",
+  "url": "https://dotastro.github.io/dotastrosite/events/two/",
+  "organisers": [
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "Leiden University",
+      "bluesky": "sarahkendrew.bsky.social"
+    },
+    {
+      "name": "Carolina Odman",
+      "affiliation": "Leiden University"
+    }
+  ],
+  "talks": [
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Dr. Michael Nielsen",
+      "affiliation": "author of *Reinventing Discovery*",
+      "title": "Open science and networked collaboration",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Dr. Arfon Smith",
+      "affiliation": "Oxford University",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Dr. John Taylor",
+      "affiliation": "Google",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Prof. Andy Lawrence",
+      "affiliation": "Edinburgh University",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [],
+  "participants": [
+    {
+      "name": "Alasdair Allan",
+      "affiliation": "University of Exeter"
+    },
+    {
+      "name": "Salim Ansari",
+      "affiliation": "Noordwijk, Netherlands"
+    },
+    {
+      "name": "Nancy Atkinson",
+      "affiliation": "Rochester, United States"
+    },
+    {
+      "name": "Amanda Bauer",
+      "affiliation": "Nottingham, United Kingdom"
+    },
+    {
+      "name": "Eli Bressert",
+      "affiliation": "Exeter, United Kingdom"
+    },
+    {
+      "name": "Marjolein Cuppen",
+      "affiliation": "Groningen, Netherlands"
+    },
+    {
+      "name": "Erik Deul",
+      "affiliation": "Leiden, Netherlands"
+    },
+    {
+      "name": "George Djorgovski",
+      "affiliation": "Pasadena, United States"
+    },
+    {
+      "name": "Carlo Fabricatore",
+      "affiliation": "Rome, Italy"
+    },
+    {
+      "name": "Jonathan Fay",
+      "affiliation": "Redmond, WA, United States"
+    },
+    {
+      "name": "Michael Garrett",
+      "affiliation": "Dwingeloo, Netherlands"
+    },
+    {
+      "name": "Pamela Gay",
+      "affiliation": "Edwardsville, United States"
+    },
+    {
+      "name": "Edward Gomez",
+      "affiliation": "Cardiff, United Kingdom"
+    },
+    {
+      "name": "Matthew Graham",
+      "affiliation": "Pasadena, United States"
+    },
+    {
+      "name": "Peter Hargrave",
+      "affiliation": "Cardiff, United Kingdom"
+    },
+    {
+      "name": "Robert Hollow",
+      "affiliation": "Epping, Australia"
+    },
+    {
+      "name": "Nina Jansen",
+      "affiliation": "Niva, Denmark"
+    },
+    {
+      "name": "Tim Jenness",
+      "affiliation": "Hilo, United States"
+    },
+    {
+      "name": "Nicholas Johnson",
+      "affiliation": "Dublin, Ireland"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "Leiden University"
+    },
+    {
+      "name": "Maurits Kreijveld",
+      "affiliation": "Den Haag, Netherlands"
+    },
+    {
+      "name": "Andy Lawrence",
+      "affiliation": "Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Chris Lawton",
+      "affiliation": "Voorhout, Netherlands"
+    },
+    {
+      "name": "Cory Lehan",
+      "affiliation": "Cahokia, United States"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Stuart Lowe",
+      "affiliation": "University of Manchester"
+    },
+    {
+      "name": "Amruta Mehta",
+      "affiliation": "Noordwijk, Netherlands"
+    },
+    {
+      "name": "Jaap Meijers",
+      "affiliation": "Nijmegen, Netherlands"
+    },
+    {
+      "name": "August Muench",
+      "affiliation": "Cambridge, United States"
+    },
+    {
+      "name": "Michael Nielsen",
+      "affiliation": "Waterloo, Canada"
+    },
+    {
+      "name": "Carolina Odman",
+      "affiliation": "Leiden University"
+    },
+    {
+      "name": "Karen O'Flaherty",
+      "affiliation": "Noordwijk, Netherlands"
+    },
+    {
+      "name": "Douglas Pierce-Price",
+      "affiliation": "Garching bei Munchen, Germany"
+    },
+    {
+      "name": "Markus Poessel",
+      "affiliation": "Heidelberg, Germany"
+    },
+    {
+      "name": "Jose Enrique Ruiz del Mazo",
+      "affiliation": "Granada, Spain"
+    },
+    {
+      "name": "Francisco Manuel Sanchez-Moreno",
+      "affiliation": "Madrid, Spain"
+    },
+    {
+      "name": "Mark Sands",
+      "affiliation": "Hillsboro, United States"
+    },
+    {
+      "name": "Daniel Scuka",
+      "affiliation": "Darmstadt, Germany"
+    },
+    {
+      "name": "Rob Seaman",
+      "affiliation": "Tucson, AZ, United States"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Arfon Smith",
+      "affiliation": "Oxford, United Kingdom"
+    },
+    {
+      "name": "Babak Tafreshi",
+      "affiliation": "Tehran, Iran"
+    },
+    {
+      "name": "John Taylor",
+      "affiliation": "Pittsburgh, United States"
+    },
+    {
+      "name": "Edwin Valentijn",
+      "affiliation": "Groningen, Netherlands"
+    },
+    {
+      "name": "Jatila Van der Veen",
+      "affiliation": "Santa Barbara, California, United States"
+    },
+    {
+      "name": "Huib Van Langevelde",
+      "affiliation": "Dwingeloo, Netherlands"
+    },
+    {
+      "name": "Gijs Verdoes Kleijn",
+      "affiliation": "Groningen, Netherlands"
+    },
+    {
+      "name": "Derek Ward-Thompson",
+      "affiliation": "Cardiff, United Kingdom"
+    },
+    {
+      "name": "Natasha Waterson",
+      "affiliation": "London, United Kingdom"
+    },
+    {
+      "name": "Roy Williams",
+      "affiliation": "Pasadena, United States"
+    },
+    {
+      "name": "Michael Wise",
+      "affiliation": "Dwingeloo, Netherlands"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/two"
+    }
+  ],
+  "participant_count": 51,
+  "hack_count": 0,
+  "talk_count": 4
+}

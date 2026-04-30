@@ -1,0 +1,967 @@
+{
+  "hacks": [
+    {
+      "title": "Chromotone",
+      "event": "three",
+      "year": 2011,
+      "creators": [
+        "Jon Yardley",
+        "Chris North",
+        "Haley Gomez",
+        "Edward Gomez"
+      ],
+      "description": "Exploring multiwavelength astronomy with sound. Each waveband has a pitch; the intensity/brightness in that waveband is represented by the volume of a note. When you scan a mouse over an image, Chromotone plays a chord with components corresponding to the intensity at each pixel. This .Astronomy 3 version aimed to make a lighter, more web-friendly version of the original Processing implementation, with added functionality.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "AstroScanr",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Rob Simpson",
+        "Sarah Kendrew",
+        "Karen Masters"
+      ],
+      "description": "A visualisation of astronomy journal titles and abstracts using natural language processing techniques.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astroworld",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Carolina Odman-Govender"
+      ],
+      "description": "Collect information about astronomical facilities around the world, including old, abandoned observatories, flashy new ones, future ones, and archeo-astronomical sites, using EpiCollect.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Cosmology Calculator OS X Widget",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Brooke Simmons",
+        "Stuart Lowe",
+        "Kevin Schawinski",
+        "Julie Steele"
+      ],
+      "description": "A port of Ned Wright's Cosmology Calculator to an OS X widget.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Flora",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Amit Kapadia",
+        "Phil Marshall",
+        "Laura Whyte"
+      ],
+      "description": "An attempt to enable quantitative measurements on images in a browser, measuring the position, size, and brightness of objects in astronomy images. Uses the astrojs library for FITS images and coordinate transformations.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Science: It's Universal",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Amanda Bauer",
+        "Nicole Gugliucci"
+      ],
+      "description": "An outreach video about what science is and what it is like to be a scientist.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Sh*t Scientists Say",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Niall Deacon",
+        "Emily Rice",
+        "Kelle Cruz"
+      ],
+      "description": "A collection of what astronomers love, hate, and repeat.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Zoonibot",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Adrian Price-Whelan",
+        "Chris Beaumont",
+        "Gabe Perez-Giz",
+        "Chris Lintott",
+        "David Hogg",
+        "Meg Schwamb"
+      ],
+      "description": "A \"Planet Hunters butler\" for the Zooniverse Talk platform, ready to automatically answer questions and provide detail when users request information.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Don't Call Me Colin",
+      "event": "five",
+      "year": 2013,
+      "creators": [
+        "Niall Deacon",
+        "Ruth Angus"
+      ],
+      "description": "The International Astronomical Union announced that extrasolar planets might get more interesting names. This hack is about a planet (Gliese 581d) that really wants a nice mythical name like the Solar System planets, and not to be named after a celebrity or someone's cat (Colin).",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "D3PO",
+      "event": "five",
+      "year": 2013,
+      "creators": [
+        "Adrian Price-Whelan",
+        "Josh Peek",
+        "Chris Beaumont",
+        "Elisabeth Newton",
+        "Michelle Borkin"
+      ],
+      "description": "D3PO is designed to allow an astronomer, with no specialised data visualisation skills, to make an interactive, publication-quality figure with staged builds and linked brushing across plots.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Python Client for the NASA ADS API",
+      "event": "five",
+      "year": 2013,
+      "creators": [
+        "Andy Casey (remote simultaneous hack)"
+      ],
+      "description": "A Python module to interact with NASA's ADS that Doesn't Suck.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "AAS Job Viz",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Vanessa Moss"
+      ],
+      "description": "A visualisation of the AAS job register using location to pin jobs on a map. Allows users to filter jobs by type and location, using the Leaflet.js JavaScript library.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Adler Zodiac Story",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Lucianne Walkowicz"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astronomer Bot (BotAstro)",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Robert Simpson"
+      ],
+      "description": "A Twitter bot for astronomers.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Cite Me Maybe",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Andy Casey"
+      ],
+      "description": "See which articles were referenced in your \"field\" that a paper did not cite.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Elevate ApJ",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "James Davenport"
+      ],
+      "description": "Working to elevate the readability and design of astronomy journal articles.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Kepler Song and Drum Machine",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Ruth Angus"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Rate My Institution",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Laura Trouille"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Tones and Drones: Sampling Stars",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Sascha Ishikawa"
+      ],
+      "description": "Sonifying Kepler light curves to create music.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Unclockify",
+      "event": "six",
+      "year": 2014,
+      "creators": [
+        "Adrian Price-Whelan"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Life Cycle of Astronomers",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Jennifer Piscionere"
+      ],
+      "description": "Visualising astronomy career paths with D3.js.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Friendly Virtual Radio Interferometer",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Cormac Purcell",
+        "Nuria Lorente",
+        "George Howitt",
+        "Andrew O'Brien",
+        "Demitri Muna"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Literal Virtual Observatory",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Aidan Hotan"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Pudding to the Max",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Vanessa Moss"
+      ],
+      "description": "Catch up with the exploits of the Cosmic Pudding at .Astronomy through a Koalas-to-the-Max style interface.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Radio Yourself",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Kirsten Gottschalk"
+      ],
+      "description": "Upload an image and see what you'd look like through a radio telescope.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "robo-ph",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Tom Robitaille",
+        "Josh Peek",
+        "Katie Mack",
+        "Arna Karick"
+      ],
+      "description": "A podcast that reads astro-ph abstracts one by one.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Space Shark",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "James Gilbert",
+        "Simon Mutch",
+        "Dany Vohl",
+        "Pascal Elahi",
+        "Kieran Leschinski",
+        "Kirsten Gottschalk"
+      ],
+      "description": "An alt-az pointer to be used for education.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "webcite",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Becky Smethurst",
+        "Lisa Ballard",
+        "Demitri Muna"
+      ],
+      "description": "Takes an ADS bibliographic code and plots a geographical web of citations for that paper. Finds the institutions of first authors of papers that cite the given paper.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "What's Up?",
+      "event": "seven",
+      "year": 2015,
+      "creators": [
+        "Aaron Robotham"
+      ],
+      "description": "Updated Astroplan web app to help you plan observations.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": ".draft",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Andy Casey"
+      ],
+      "description": "Automagically highlight LaTeX differences between GitHub drafts.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "StingRA: Simbad Quick-Look Chrome Extension",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Hugh Osborn",
+        "Jonathan Fay"
+      ],
+      "description": "A Chrome extension that lets astronomers highlight an astronomical object and open a quick-look pop-up of magnitudes, images, sky position, and links to SIMBAD and WorldWide Telescope.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Are You Still Talking?",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Edward Gomez"
+      ],
+      "description": "Use a blink(1) light to control your speakers when chairing a session. A Python package that installs a command-line talk timer, green while talking, orange in the warning period, red when time's up.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "arxiv59",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Andy Casey"
+      ],
+      "description": "Twitter bot that posts papers which missed the top-of-the-arXiv deadline by about a second.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "The ArXiv Mailer",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Dan Foreman-Mackey"
+      ],
+      "description": "An app to modernise the formatting of the daily arXiv email.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "AstroBadger",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Matthew Kenworthy",
+        "Lisa Ballard"
+      ],
+      "description": "Getting you in the habit of writing 200 academic words per day, every day. Gamified writing! Chrome plugin plus Flask app.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "AstroGoldStars",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Geert Barentsen",
+        "Kelle Cruz"
+      ],
+      "description": "Give a Gold Star to a fellow scientist by tweeting @username++ at @AstroGoldStars on Twitter. Solves credit sharing in science.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "bvi-sonification",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Coleman Krawczyk",
+        "Jamie Ferguson",
+        "Andy Newsam",
+        "Adam Avison",
+        "Philipp Plewa"
+      ],
+      "description": "Uses a Leap Motion device to allow a user to listen to a galaxy's spectra based on hand position.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Fakespeare",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Ruth Angus",
+        "Dan Foreman-Mackey"
+      ],
+      "description": "A LSTM neural network trained on the corpus of all Shakespeare plays that can generate hilarious and nonsensical plays.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Galaxy Zoo Maze",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "James Gilbert",
+        "Ricarda Beckman",
+        "Ellen Schallig",
+        "Becky Smethurst",
+        "Marten Veldthuis"
+      ],
+      "description": "Creates a responsive view of a Zooniverse subject and a QR code, then supports scanning and reacting to results.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "GitNL",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Brett Andrews",
+        "Brian Cherinka",
+        "Erik Tollerud"
+      ],
+      "description": "Run Git commands using normal English sentences parsed with Google's natural language processor.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Hacks Collector",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Erik Tollerud",
+        "Daina Bouquin",
+        "Tom Robitaille",
+        "Edward Gomez",
+        "Becky Smethurst",
+        "Arna Karick"
+      ],
+      "description": "A way to archive all hacks made at .Astronomy conferences. Each hack has a separate YAML file containing all metadata.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Markov Papers",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Benjamin Pope"
+      ],
+      "description": "Generates paper titles/abstracts with a Markov chain trained on real papers returned by any ADS search keywords.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Meta^4hack",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Erik Tollerud",
+        "Daina Bouquin",
+        "Tom Robitaille"
+      ],
+      "description": "Metadata on a hack about metadata on hacks, the submission form for this hack list.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Project Apollo Stories",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Arna Karick",
+        "Sam Vaughan"
+      ],
+      "description": "A Zooniverse Project to re-create incredible stories from the Apollo missions using selected images from the Apollo Project Flickr gallery and Timeline JS.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "SIMBAD the Bot",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Simon Murphy"
+      ],
+      "description": "Twitter bot that tweets a multi-wavelength animated GIF of a random SIMBAD object a few times a day.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Spacebar",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Scott Thomas"
+      ],
+      "description": "Astronomy-themed mini-games where you only need the spacebar. Keep rain out of the dome while observing, find the galaxies, and more.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Stellar Autopsies Zooniverse",
+      "event": "eight",
+      "year": 2016,
+      "creators": [
+        "Adam A. Miller",
+        "Brigitta Sipocz",
+        "Ashley Villar"
+      ],
+      "description": "A Zooniverse Project to classify the light curves of dying stars.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Hack Graveyard",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Will Armentrout",
+        "Arna Karick",
+        "Lisa Ballard"
+      ],
+      "description": ".Astronomy is full of amazing pitches and hacks. Unfortunately, there are never enough hours in the Hack Day to complete all of them. The Hack Graveyard tracks these incomplete hacks so they can be revived in the future.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Hack Roulette",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Lisa Ballard",
+        "Daina Bouquin",
+        "Steve Crawford"
+      ],
+      "description": "Spin the wheel to generate a new hack using past dotastro hacks.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Project PHaEDRA Website and Logo",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Charl Cater",
+        "Daina Bouquin"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Sketch dotAstro: Hunting for Jupiter Sketches in Archival Notebooks",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Daina Bouquin",
+        "Chris Lintott",
+        "Teresa de Young"
+      ],
+      "description": "Attempting to use computer vision to distinguish between boring pages in archival notebooks and pages with sketches of Jupiter.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Wave At Kepler",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Ben Cook",
+        "Becky Smethurst"
+      ],
+      "description": "Static website to compute the direction to Kepler when it takes a photo, so you can wave at the right moment.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Where in the Universe?",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Becky Smethurst",
+        "Brigitta Sipocz",
+        "Fernando Becerra",
+        "Lisa Ballard"
+      ],
+      "description": "Have you ever wondered where you'd be in the Universe if you were launched toward the zenith above your birth place at the time you were born? This site calculates your position in space and the nearest star.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Whose Line Is It Anyway?",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Brett Morris",
+        "Nick Earl",
+        "Adrianna Pinska",
+        "Mike Walmsley",
+        "Demitri Muna",
+        "Becky Smethurst"
+      ],
+      "description": "A small package for plotting common spectral line lists on your spectra, so you can discover which absorption/emission features are responsible for what you see.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "xorastro: Extremely Open, Extremely Reproducible Astronomy",
+      "event": "nine",
+      "year": 2017,
+      "creators": [
+        "Joshua Peek",
+        "Orapeleng Mogawana",
+        "Brian Nord",
+        "Chris Lintott"
+      ],
+      "description": "Built a neural network to predict galaxy colors from galaxy shapes in the most open and reproducible way possible.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Contributor Plots for Astropy-Affiliated Packages",
+      "event": "ten",
+      "year": 2018,
+      "creators": [
+        "Matthew Bourque",
+        "Erik Tollerud"
+      ],
+      "description": "Visualisation tools showing contribution activity across the Astropy ecosystem of affiliated packages.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": ".Astronomy X Scripts",
+      "event": "ten",
+      "year": 2018,
+      "creators": [
+        "David Rodriguez"
+      ],
+      "description": "Scripts and code developed at .Astronomy X.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": ".Astronomy X Resources",
+      "event": "ten",
+      "year": 2018,
+      "creators": [
+        "Victor Calderon"
+      ],
+      "description": "Repository for information and materials from .Astronomy X.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Ru-stronomy",
+      "event": "eleven",
+      "year": 2019,
+      "creators": [
+        "Becky Smethurst"
+      ],
+      "description": "A Markov chain generator trained on drag queen names, astronomical acronyms, RuPaul lyrics, and clickbait science headlines. Generates new astronomical mission names that sound like drag queens -- and vice versa. Created as part of the \"Engaging astronomers in the era of clickbait\" talk.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Contributing to Astropy",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "Elliott Molter"
+      ],
+      "description": "A session on how to contribute to the Astropy project.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Snakemake and Show Your Work",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "Sam Vaughan"
+      ],
+      "description": "A tutorial session on reproducible workflows using Snakemake and the showyourwork framework.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Multi-Order Coverage (MOC) Hack",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "David Rodriguez"
+      ],
+      "description": "Working with Multi-Order Coverage maps for astronomical footprints in MAST.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "dotAstro Demo",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "Lia Corrales"
+      ],
+      "description": "Demo materials from .Astronomy 12.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Promoting Bluesky to Astronomers",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Emily Hunt (Heidelberg University)"
+      ],
+      "description": "A live feed project connected to the conference, promoting Bluesky as a social platform for astronomers.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Website for Astronomy Illustrations",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Agni Banerjee"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "DumBot",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Yago Ascasibar"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Galaxy Sonification (+ VR maybe)",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Coleman Krawczyk"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Datacube Listener, Live!",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "James Trayford"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "dotAstronomy13 Soundtrack",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Jose A. Caballero"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astronomy as a Great Tool to Have Impact on Humans in 21st Century",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Shahrzad Mirsoltani"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astrotalks: ArXiV for Presentations",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "David Hendriks"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Make a Search Bar",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Mike Walmsley"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "AstroCollab",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Zoe Faes"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Set up JDaviz Example Notebooks on Datalabs",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Clare Shanahan"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "So You Want to Be an Astropy Contributor?",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Iva Momcheva"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Redo the Software Use in Astro Survey",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Iva Momcheva"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Getting Started with ML in Astronomy",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Sandor Kruk"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Adding to the ESASky Virtual Assistant",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Debbie Baines"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astro Careers, Networks, Publication Stats",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Iva Momcheva"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "How to Tailor Outreach Projects for Marginalised Communities",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Thendy Nomthendeleko Motha"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    }
+  ],
+  "total": 80,
+  "generated_at": "2026-04-30T19:53:57.014012+00:00"
+}

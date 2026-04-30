@@ -1,0 +1,312 @@
+{
+  "slug": "five",
+  "number": "5",
+  "name": ".Astronomy 5",
+  "year": 2013,
+  "city": "Cambridge, MA",
+  "country": "United States",
+  "venue": "New England Research and Development Center (NERD), Cambridge, Massachusetts",
+  "dates": "16–18 September 2013",
+  "url": "https://dotastro.github.io/dotastrosite/events/five/",
+  "organisers": [
+    {
+      "name": "August Muench",
+      "affiliation": "Harvard-Smithsonian CfA"
+    },
+    {
+      "name": "Alyssa Goodman",
+      "affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Alberto Pepe",
+      "affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Jenine Humber"
+    },
+    {
+      "name": "Jose Galache"
+    },
+    {
+      "name": "Louise Rubin"
+    },
+    {
+      "name": "Sarah Block"
+    }
+  ],
+  "talks": [
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Stuart Lynn",
+      "affiliation": "Zooniverse",
+      "title": "A Smarter Zooniverse",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Elisabeth Newton",
+      "affiliation": "Harvard",
+      "title": "Astronomy Blogging and Astrobites",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Curtis Wong",
+      "affiliation": "Microsoft Research",
+      "title": "Outreach and Learning with Astronomy Data Visualization",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "David Hogg",
+      "affiliation": "NYU",
+      "title": "Crowdsourcing a High Dynamic-Range Image of the Entire Night Sky",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Alberto Accomazzi",
+      "affiliation": "SAO",
+      "title": "The dotAstrophysics Data System",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Laura Trouille",
+      "affiliation": "Adler Planetarium / Northwestern",
+      "title": "An Experiment in Supporting the Public in Research",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Amy Robinson",
+      "affiliation": "EyeWire",
+      "title": "EyeWire",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Amanda Bauer",
+      "affiliation": "Australian Astronomical Observatory",
+      "title": "Communication Strategies: How to Organize a Party in Space",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Tony Hey",
+      "affiliation": "Microsoft Research",
+      "title": "The Fourth Paradigm: Data-Intensive Scientific Discovery",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [
+    {
+      "title": "Don't Call Me Colin",
+      "event": "five",
+      "year": 2013,
+      "creators": [
+        "Niall Deacon",
+        "Ruth Angus"
+      ],
+      "description": "The International Astronomical Union announced that extrasolar planets might get more interesting names. This hack is about a planet (Gliese 581d) that really wants a nice mythical name like the Solar System planets, and not to be named after a celebrity or someone's cat (Colin).",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "D3PO",
+      "event": "five",
+      "year": 2013,
+      "creators": [
+        "Adrian Price-Whelan",
+        "Josh Peek",
+        "Chris Beaumont",
+        "Elisabeth Newton",
+        "Michelle Borkin"
+      ],
+      "description": "D3PO is designed to allow an astronomer, with no specialised data visualisation skills, to make an interactive, publication-quality figure with staged builds and linked brushing across plots.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Python Client for the NASA ADS API",
+      "event": "five",
+      "year": 2013,
+      "creators": [
+        "Andy Casey (remote simultaneous hack)"
+      ],
+      "description": "A Python module to interact with NASA's ADS that Doesn't Suck.",
+      "source_url": null,
+      "live_url": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Adam Ginsburg",
+      "affiliation": "University of Colorado-Boulder"
+    },
+    {
+      "name": "Adrian Price-Whelan",
+      "affiliation": "Columbia University"
+    },
+    {
+      "name": "Alberto Accomazzi",
+      "affiliation": "Smithsonian/NASA ADS"
+    },
+    {
+      "name": "Alberto Pepe",
+      "affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Alyssa Goodman",
+      "affiliation": "Harvard-Smithsonian CfA"
+    },
+    {
+      "name": "Amanda Bauer",
+      "affiliation": "Australian Astronomical Observatory"
+    },
+    {
+      "name": "Amy Robinson",
+      "affiliation": "EyeWire / MIT"
+    },
+    {
+      "name": "Andy Casey",
+      "affiliation": "Harvard"
+    },
+    {
+      "name": "August Muench",
+      "affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Brooke Simmons",
+      "affiliation": "Oxford Astrophysics"
+    },
+    {
+      "name": "Carolina Ödman-Govender"
+    },
+    {
+      "name": "Chris Beaumont"
+    },
+    {
+      "name": "Curtis Wong",
+      "affiliation": "Microsoft Research"
+    },
+    {
+      "name": "David Hogg",
+      "affiliation": "New York University"
+    },
+    {
+      "name": "Demitri Muna",
+      "affiliation": "NYU"
+    },
+    {
+      "name": "Elisabeth Newton",
+      "affiliation": "Harvard"
+    },
+    {
+      "name": "Geert Barentsen"
+    },
+    {
+      "name": "Jenine Humber"
+    },
+    {
+      "name": "Jonathan Fay",
+      "affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Jose Galache"
+    },
+    {
+      "name": "Josh Peek"
+    },
+    {
+      "name": "Kelle Cruz"
+    },
+    {
+      "name": "Kevin Govender",
+      "affiliation": "IAU-OAD"
+    },
+    {
+      "name": "Laura Trouille",
+      "affiliation": "Adler Planetarium / Northwestern University"
+    },
+    {
+      "name": "Louise Rubin"
+    },
+    {
+      "name": "Michelle Borkin",
+      "affiliation": "Harvard"
+    },
+    {
+      "name": "Niall Deacon"
+    },
+    {
+      "name": "Renée Hložek"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Ruth Angus"
+    },
+    {
+      "name": "Sarah Block",
+      "affiliation": "Harvard"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "MPIA"
+    },
+    {
+      "name": "Stuart Lynn",
+      "affiliation": "Zooniverse"
+    },
+    {
+      "name": "Tony Hey",
+      "affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Vanessa Moss"
+    },
+    {
+      "name": "Will Silversmith",
+      "affiliation": "EyeWire"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/five"
+    }
+  ],
+  "participant_count": 36,
+  "hack_count": 3,
+  "talk_count": 9
+}

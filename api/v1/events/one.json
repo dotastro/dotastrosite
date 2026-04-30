@@ -1,0 +1,284 @@
+{
+  "slug": "one",
+  "number": "1",
+  "name": ".Astronomy 1",
+  "year": 2008,
+  "city": "Cardiff",
+  "country": "United Kingdom",
+  "venue": "Cardiff University Department of Physics and Astronomy",
+  "dates": "22–24 September 2008",
+  "url": "https://dotastro.github.io/dotastrosite/events/one/",
+  "organisers": [
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Cardiff University",
+      "bluesky": "orbitingfrog.bsky.social"
+    },
+    {
+      "name": "Derek Ward-Thompson",
+      "affiliation": "Cardiff University"
+    }
+  ],
+  "talks": [
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Joshua Bloom",
+      "affiliation": "UC Berkeley",
+      "title": "PAIRITEL and robotic telescope networks",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Will Gater",
+      "affiliation": "Sky at Night Magazine",
+      "title": "Astronomy journalism and new media",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Pamela Gay",
+      "affiliation": "Astronomy Cast / Star Stryder",
+      "title": "Podcasting astronomy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory / Cardiff University",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Andy Lawrence",
+      "affiliation": "Royal Observatory Edinburgh / AstroGRID",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Chris Lintott",
+      "affiliation": "Galaxy Zoo / The Sky at Night",
+      "title": "Galaxy Zoo and citizen science",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Stuart Lowe",
+      "affiliation": "The Jodcast / Astronomy Blog",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Nick Rattenbury",
+      "affiliation": "The Jodcast",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Ian Robson",
+      "affiliation": "IYA 2009",
+      "title": "The International Year of Astronomy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Paul Roche",
+      "affiliation": "Faulkes Telescope Project",
+      "title": "The Faulkes Telescope Project",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Phil Plait",
+      "affiliation": "Bad Astronomy",
+      "title": "Astronomy blogging",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Emily Lakdawalla",
+      "affiliation": "The Planetary Society",
+      "title": "Public access to open imagery from the Solar System",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Carol Christian",
+      "affiliation": null,
+      "title": "and **Alberto Conti** (STScI): Google Sky",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [],
+  "participants": [
+    {
+      "name": "Carol Christian",
+      "affiliation": "STScI"
+    },
+    {
+      "name": "Alberto Conti",
+      "affiliation": "STScI"
+    },
+    {
+      "name": "Rosa Doran"
+    },
+    {
+      "name": "Will Gater",
+      "affiliation": "Sky at Night Magazine"
+    },
+    {
+      "name": "Pamela Gay",
+      "affiliation": "Astronomy Cast"
+    },
+    {
+      "name": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory / Cardiff University"
+    },
+    {
+      "name": "Peter Hargrave",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Mark Jones"
+    },
+    {
+      "name": "Jason Kirk"
+    },
+    {
+      "name": "Emily Lakdawalla",
+      "affiliation": "The Planetary Society, remote"
+    },
+    {
+      "name": "Andy Lawrence",
+      "affiliation": "Royal Observatory Edinburgh"
+    },
+    {
+      "name": "Christopher Leigh",
+      "affiliation": "Liverpool John Moores University"
+    },
+    {
+      "name": "Fraser Lewis"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "Galaxy Zoo / The Sky at Night"
+    },
+    {
+      "name": "Stuart Lowe",
+      "affiliation": "The Jodcast / Astronomy Blog"
+    },
+    {
+      "name": "Huw Lynes"
+    },
+    {
+      "name": "Ben Maughan"
+    },
+    {
+      "name": "Phil Plait",
+      "affiliation": "Bad Astronomy, remote"
+    },
+    {
+      "name": "Jan Pomierny",
+      "affiliation": "Astronomia: Polish Astronomy Portal"
+    },
+    {
+      "name": "David Nutter"
+    },
+    {
+      "name": "Nick Rattenbury",
+      "affiliation": "The Jodcast"
+    },
+    {
+      "name": "Robin Rees",
+      "affiliation": "Canopus Publishing"
+    },
+    {
+      "name": "Ian Robson",
+      "affiliation": "IYA 2009"
+    },
+    {
+      "name": "Paul Roche",
+      "affiliation": "Faulkes Telescope"
+    },
+    {
+      "name": "Fiona Romeo",
+      "affiliation": "Royal Observatory, Greenwich"
+    },
+    {
+      "name": "Sarah Roberts"
+    },
+    {
+      "name": "Jenny Shipway",
+      "affiliation": "INTECH Science Centre and Planetarium"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Vanessa Stroud"
+    },
+    {
+      "name": "Paul Tipper",
+      "affiliation": "Dublin Institute of Technology"
+    },
+    {
+      "name": "Derek Ward-Thompson",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Nicholas Wright"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/one"
+    }
+  ],
+  "participant_count": 32,
+  "hack_count": 0,
+  "talk_count": 13
+}

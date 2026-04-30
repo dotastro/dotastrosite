@@ -1,0 +1,2026 @@
+{
+  "talks": [
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Joshua Bloom",
+      "affiliation": "UC Berkeley",
+      "title": "PAIRITEL and robotic telescope networks",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Will Gater",
+      "affiliation": "Sky at Night Magazine",
+      "title": "Astronomy journalism and new media",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Pamela Gay",
+      "affiliation": "Astronomy Cast / Star Stryder",
+      "title": "Podcasting astronomy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory / Cardiff University",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Andy Lawrence",
+      "affiliation": "Royal Observatory Edinburgh / AstroGRID",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Chris Lintott",
+      "affiliation": "Galaxy Zoo / The Sky at Night",
+      "title": "Galaxy Zoo and citizen science",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Stuart Lowe",
+      "affiliation": "The Jodcast / Astronomy Blog",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Nick Rattenbury",
+      "affiliation": "The Jodcast",
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Ian Robson",
+      "affiliation": "IYA 2009",
+      "title": "The International Year of Astronomy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Paul Roche",
+      "affiliation": "Faulkes Telescope Project",
+      "title": "The Faulkes Telescope Project",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Phil Plait",
+      "affiliation": "Bad Astronomy",
+      "title": "Astronomy blogging",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Emily Lakdawalla",
+      "affiliation": "The Planetary Society",
+      "title": "Public access to open imagery from the Solar System",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "one",
+      "year": 2008,
+      "speaker": "Carol Christian",
+      "affiliation": null,
+      "title": "and **Alberto Conti** (STScI): Google Sky",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Dr. Michael Nielsen",
+      "affiliation": "author of *Reinventing Discovery*",
+      "title": "Open science and networked collaboration",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Dr. Arfon Smith",
+      "affiliation": "Oxford University",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Dr. John Taylor",
+      "affiliation": "Google",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "two",
+      "year": 2009,
+      "speaker": "Prof. Andy Lawrence",
+      "affiliation": "Edinburgh University",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Jill Tarter",
+      "affiliation": "SETI Institute",
+      "title": "invited keynote (09:30--10:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Ed Gomez",
+      "affiliation": "LCOGT",
+      "title": "talk (11:00--11:20)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Mike Peel",
+      "affiliation": "Wikimedia UK",
+      "title": "talk (11:20--11:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Matt Wood",
+      "affiliation": "AWS",
+      "title": "talk (11:40--12:00)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Chris Lintott",
+      "affiliation": "Oxford University",
+      "title": "talk (12:00--12:20)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Tom Robitaille",
+      "affiliation": "Harvard-Smithsonian CfA",
+      "title": "talk (09:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Thomas Boch",
+      "affiliation": "CDS, Observatoire de Strasbourg",
+      "title": "talk (09:30)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Jonathan Fay",
+      "affiliation": "Microsoft Research",
+      "title": "talk (11:00--11:40)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Rob Simpson",
+      "affiliation": "Oxford University",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Cameron Neylon",
+      "affiliation": "STFC",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "David Hogg",
+      "affiliation": "New York University",
+      "title": "talk (09:30 onwards)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Francisco Sanchez-Moreno",
+      "affiliation": "Universidad Politécnica de Madrid",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Geert Barentsen",
+      "affiliation": "Armagh Observatory",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Matthew Graham",
+      "affiliation": "Caltech",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "three",
+      "year": 2011,
+      "speaker": "Pamela Gay",
+      "affiliation": "SIUE",
+      "title": "talk",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Kevin Govender",
+      "affiliation": "IAU Office for Astronomy Development",
+      "title": "Astronomy for a Better World",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Markus Poessel",
+      "affiliation": "Haus der Astronomie",
+      "title": "Haus der Astronomie",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Amit Kapadia",
+      "affiliation": "Adler Planetarium",
+      "title": "AstroJS: Javascript for Astronomy",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "August Muench",
+      "affiliation": "Harvard CfA",
+      "title": "Astronomy Dataverse",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Thomas Robitaille",
+      "affiliation": "MPIA Heidelberg",
+      "title": "Astro Python",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Bruce Berriman",
+      "affiliation": "IPAC / Caltech",
+      "title": "Astronomy in the Cloud",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Thomas Kitching",
+      "affiliation": "University of Edinburgh",
+      "title": "Astronomy Crowdsourcing",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Michelle Borkin",
+      "affiliation": "Harvard",
+      "title": "Mechanical Turk, Visualisation and 'Glue'",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Julie Steele",
+      "affiliation": "O'Reilly Media",
+      "title": "and **Noah Iliinsky** (Consultant/Author): *How to be a Data Visualisation Star*",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Kelle Cruz",
+      "affiliation": "CUNY",
+      "title": "AstroBetter",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Alberto Pepe",
+      "affiliation": "Harvard CfA",
+      "title": "Data Mining and ADS",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Alyssa Goodman",
+      "affiliation": "Harvard CfA",
+      "title": "Seamless Astronomy",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Stuart Lynn",
+      "affiliation": "Zooniverse",
+      "title": "A Smarter Zooniverse",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Elisabeth Newton",
+      "affiliation": "Harvard",
+      "title": "Astronomy Blogging and Astrobites",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Curtis Wong",
+      "affiliation": "Microsoft Research",
+      "title": "Outreach and Learning with Astronomy Data Visualization",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "David Hogg",
+      "affiliation": "NYU",
+      "title": "Crowdsourcing a High Dynamic-Range Image of the Entire Night Sky",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Alberto Accomazzi",
+      "affiliation": "SAO",
+      "title": "The dotAstrophysics Data System",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Laura Trouille",
+      "affiliation": "Adler Planetarium / Northwestern",
+      "title": "An Experiment in Supporting the Public in Research",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Amy Robinson",
+      "affiliation": "EyeWire",
+      "title": "EyeWire",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Amanda Bauer",
+      "affiliation": "Australian Astronomical Observatory",
+      "title": "Communication Strategies: How to Organize a Party in Space",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "speaker": "Tony Hey",
+      "affiliation": "Microsoft Research",
+      "title": "The Fourth Paradigm: Data-Intensive Scientific Discovery",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Arfon Smith",
+      "affiliation": "GitHub",
+      "title": "GitHub for Science",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Erin Braswell",
+      "affiliation": "Center for Open Science",
+      "title": "The Open Science Framework",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Dustin Lang",
+      "affiliation": "Carnegie Mellon University",
+      "title": "Astrometry.net",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Alberto Pepe",
+      "affiliation": "Authorea",
+      "title": "Authorea: Collaborative Scientific Writing",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Stefano Meschiari",
+      "affiliation": "UT Austin",
+      "title": "Super Planet Crash",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Laura Whyte",
+      "affiliation": "Adler Planetarium",
+      "title": "Engaging Young People with Astronomy and Tech",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Adam Becker",
+      "affiliation": "Freelance",
+      "title": "How to Destroy Science Publishing",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Geert Barentsen",
+      "affiliation": "University of Hertfordshire",
+      "title": "There Is No Data Deluge",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Emily Rice",
+      "affiliation": null,
+      "title": "and **Demitri Muna**: *Astronomy on Tap*",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Grace Wolf-Chase",
+      "affiliation": "Adler Planetarium",
+      "title": "Yellow Balls in the Milky Way Project",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Emily Rice",
+      "affiliation": null,
+      "title": "STARtorialist",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Reed Riddle",
+      "affiliation": "Caltech",
+      "title": "Robo-AO",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Ali Swanson",
+      "affiliation": "University of Oxford",
+      "title": "Snapshot Serengeti",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Elisabeth Newton",
+      "affiliation": "Harvard",
+      "title": "ComSciCon",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Eric Hilton",
+      "affiliation": null,
+      "title": "Universe Sandbox",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Hanno Rein",
+      "affiliation": "University of Toronto",
+      "title": "Open Exoplanet Catalogue",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Ivelina Momcheva",
+      "affiliation": "Yale University",
+      "title": "3D-HST",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Jesse Rogerson",
+      "affiliation": "York University",
+      "title": "Online Astronomy Radio",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Meredith Rawls",
+      "affiliation": "New Mexico State University",
+      "title": "Astrobites",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Andy Casey",
+      "affiliation": "University of Cambridge",
+      "title": "Metrics for Code",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Robert Nemiroff",
+      "affiliation": "Michigan Technological University",
+      "title": "APOD Wall",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Angelle Tanner",
+      "affiliation": "MSU",
+      "title": "STARCHIVE: an open access stellar archive",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Lucianne Walkowicz",
+      "affiliation": "Adler Planetarium",
+      "title": "Science Train",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Alice Allen",
+      "affiliation": "Astrophysics Source Code Library",
+      "title": "ASCL",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Alyssa Goodman",
+      "affiliation": "Harvard University",
+      "title": "WWT",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Chris Lintott",
+      "affiliation": "University of Oxford",
+      "title": "Threshold Fear",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "six",
+      "year": 2014,
+      "speaker": "Vladimir Sudilovsky",
+      "affiliation": "NASA/ADS",
+      "title": "ADS Services",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Tom Robitaille",
+      "affiliation": null,
+      "title": "Astropy and the Open Source Revolution in Astronomy",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Lisa Ballard",
+      "affiliation": null,
+      "title": "Cataloging the World's Active Space Probes: How We Made the Spaceprob.es Website",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Alice Williamson",
+      "affiliation": ", University of Sydney",
+      "title": "Open Source Malaria: A New Way of Finding Medicines",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Danny Vohl",
+      "affiliation": null,
+      "title": "Astronomy in the Petascale Data Era: Storage, Transfer and Visualization",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Yeshe Fenner",
+      "affiliation": ", AAL",
+      "title": "Investing in Astronomy Infrastructure and Lessons Building a Federated Data Hub",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Nuria Lorente",
+      "affiliation": "AAO",
+      "title": "Software development from the perspectives of astronomers and engineers",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Sze-leung Cheng",
+      "affiliation": null,
+      "title": "Astronomy education",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Kirsten Gottschalk",
+      "affiliation": null,
+      "title": "Astronomy education mini-websites",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Katie Mack",
+      "affiliation": null,
+      "title": "Using Twitter effectively for science communication",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Brett Morris",
+      "affiliation": null,
+      "title": "astroplan: Open source observation planning for Python",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "Tamara Davis",
+      "affiliation": null,
+      "title": "Marz: spectral redshifting in the browser",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "seven",
+      "year": 2015,
+      "speaker": "George Hobbs",
+      "affiliation": null,
+      "title": "Data archives, working in China, and Julia vs Python",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Sarah Kendrew",
+      "affiliation": "ESA, STScI",
+      "title": "JWST and Astronomy -- bringing JWST into the 21st century with better community tools",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Bruno Merin",
+      "affiliation": "ESA",
+      "title": "ESASky -- a multi-mission interface",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Carl Ferkinhoff",
+      "affiliation": "Winona State University",
+      "title": "Open Source Hardware in Astronomy",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Ali Swanson",
+      "affiliation": "Oxford / Zooniverse",
+      "title": "Citizen Science with the Zooniverse",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "James Gilbert",
+      "affiliation": "Oxford",
+      "title": "Gaffa tape and string: professional hardware hacking",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Geert Barentsen",
+      "affiliation": "NASA Ames",
+      "title": "Open Science with K2",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Aleks Scholz",
+      "affiliation": "University of St Andrews",
+      "title": "#foundthem",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Ashley Villar",
+      "affiliation": "Harvard",
+      "title": "astrobites.org",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory",
+      "title": "There is no such thing as a stupid question",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Coleman Krawczyk",
+      "affiliation": "University of Portsmouth",
+      "title": "Astronomy projects for the blind and visually impaired",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Matthew Graham",
+      "affiliation": "Caltech/NOAO",
+      "title": "NOAO Data Lab",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Justyn Campbell-White",
+      "affiliation": "University of Kent",
+      "title": "Classifying Stellar Bubbles",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Adam Avison",
+      "affiliation": "ALMA",
+      "title": "The Pynterferometer",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "William Roby",
+      "affiliation": "Caltech",
+      "title": "A short history of JavaScript",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory",
+      "title": "Asteroid Day -- June 30th, 2016",
+      "type": "lightning",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eight",
+      "year": 2016,
+      "speaker": "Aleks Scholz",
+      "affiliation": null,
+      "title": "WETI: The Wait for Extraterrestrial Intelligence!",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Bradley Frank",
+      "affiliation": "University of Cape Town",
+      "title": "Jupyter Notebooks for Radio Astronomy on the Cloud",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Amanda Bauer",
+      "affiliation": "LSST",
+      "title": "LSST: Education and Public Outreach",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Bruce Bassett",
+      "affiliation": "UCT/SAAO/AIMS",
+      "title": "Threads of a Future Research 3.0",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Arna Karick",
+      "affiliation": "Tech Savvy Astronomer",
+      "title": "Getting the most out of hack day: Lessons learned from hacking for humanity",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Wanda Diaz Merced",
+      "affiliation": "IAU Office of Astronomy for Development",
+      "title": "Is the use of multimodal perception a real possibility for Astronomy research, education and outreach?",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Brian Nord",
+      "affiliation": "Fermi National Accelerator Laboratory",
+      "title": "The role of narrative in the culture and practice of science",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Chris Lintott",
+      "affiliation": "Oxford University",
+      "title": null,
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Temba Matomela",
+      "affiliation": "Iziko Planetarium, South Africa",
+      "title": "The AmaXhosa understanding of the night sky",
+      "type": "contributed",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Susan Murabana",
+      "affiliation": "Travelling Telescope Africa, Kenya",
+      "title": "The Travelling Telescope",
+      "type": "contributed",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Lisa Ballard",
+      "affiliation": "SETI Institute, USA",
+      "title": "Postcards from the Outer Planets",
+      "type": "contributed",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Fernando Becerra",
+      "affiliation": "Harvard University",
+      "title": "Astrollytelling: Astronomy through visual stories",
+      "type": "contributed",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Charl Cater",
+      "affiliation": "Cape Town Creative Academy",
+      "title": "Information design, animation, data visualisation",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Ben Cook",
+      "affiliation": "Harvard University, PhD",
+      "title": "Galaxy photometry modelling, HPC, machine learning, science outreach",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Nicholas Earl",
+      "affiliation": "STScI",
+      "title": "Science software for JWST; circumgalactic medium research",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Kevin Govender",
+      "affiliation": "IAU Office of Astronomy for Development",
+      "title": "Astronomy for development in Africa",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Brett Morris",
+      "affiliation": "University of Washington",
+      "title": "Astropy affiliated package astroplan; stellar activity and exoplanets",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Brian Nord",
+      "affiliation": "Fermilab/UChicago",
+      "title": "AI applications in cosmology; science communication workshops",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Josh Peek",
+      "affiliation": "STScI",
+      "title": "Project Scientist, Data Science Mission Office; ISM and MAST",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Brigitta Sipocz",
+      "affiliation": null,
+      "title": "Astropy Project; exoplanets, low mass stars, asteroids",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "nine",
+      "year": 2017,
+      "speaker": "Becky Smethurst",
+      "affiliation": "University of Nottingham",
+      "title": "Galaxy quenching and AGN feedback; YouTube science communicator",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Sarah Kendrew:",
+      "affiliation": null,
+      "title": "Ten Years of .Astronomy (plenary)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Jane Rigby:",
+      "affiliation": null,
+      "title": "The Future of NASA Astrophysics Missions (plenary)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Erik Tollerud:",
+      "affiliation": null,
+      "title": "Intro to open source, Astropy, and open development; Python packaging",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Clara Brasseur and Tom Donaldson:",
+      "affiliation": null,
+      "title": "Making use of MAST (Mikulski Archive for Space Telescopes)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Matthew Bourque and Jules Fowler:",
+      "affiliation": null,
+      "title": "Git(Hub) 401",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Azalee Bostroem and Lauren Chambers:",
+      "affiliation": null,
+      "title": "Git(Hub) 101",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Clara Brasseur and Steve Crawford:",
+      "affiliation": null,
+      "title": "Kicking the tires: Astropy and Astroquery",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Jamie Kinney:",
+      "affiliation": null,
+      "title": "Introduction to Google Cloud",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Jules Fowler and Matthew Bourque:",
+      "affiliation": null,
+      "title": "Flask",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Frank Summers:",
+      "affiliation": null,
+      "title": "Cinematic Astronomy (plenary close)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Invited talks:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "James Howison",
+      "affiliation": "invited",
+      "title": "Software makes science better, but is it research? Arguments for a research agenda in scientific software work",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Alcione Mora",
+      "affiliation": "invited",
+      "title": "Gaia: science, data and challenges",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Contributed talks:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Stephanie Juneau:",
+      "affiliation": null,
+      "title": "Galaxy Evolution at the crossroad of Astronomy and Data Science",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Ayat Mohammed:",
+      "affiliation": null,
+      "title": "Visualize This: Lessons from the front-lines of high-performance visualisation",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Lauren Chambers:",
+      "affiliation": null,
+      "title": "A Different Kind of Dark Energy: Placing Race and Gender in Physics",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Brian Nord:",
+      "affiliation": null,
+      "title": "Ethics in AI: What does the future hold for science, work, privacy, justice?",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Unconference sessions (3 parallel tracks):",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Invited talks:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Andrew Connolly",
+      "affiliation": "invited",
+      "title": "Back to the Future: a decade of LSST development and the growth in machine learning",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Jarita Holbrook",
+      "affiliation": "invited",
+      "title": "Educating Astrophysicists in South Africa",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Sarah Hörst",
+      "affiliation": "invited",
+      "title": "The Role of Laboratory Work in Space Science",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Contributed talks:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Dara Norman:",
+      "affiliation": null,
+      "title": "Can Big Data Lead an Inclusion Revolution?",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Craig Jones:",
+      "affiliation": null,
+      "title": "Hubble Image Discovery using Transfer Learning",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "ten",
+      "year": 2018,
+      "speaker": "Unconference sessions:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Rob Simpson:",
+      "affiliation": null,
+      "title": "How to get the most from .Astronomy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Suresh Sivanandam",
+      "affiliation": "invited",
+      "title": "Data-Driven Approaches for Astronomical Adaptive Optics",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Alyssa Goodman:",
+      "affiliation": null,
+      "title": "Enhancing our appreciation for high-dimensional data",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Nathaniel Starkman:",
+      "affiliation": null,
+      "title": "Plot all the things",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Mike Reid:",
+      "affiliation": null,
+      "title": "Astronomy outreach at scale",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "David Neto:",
+      "affiliation": null,
+      "title": "Astronomy tricks of a magician &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Tina Peters:",
+      "affiliation": null,
+      "title": "Learn from machine learning: PLAsTiCC",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Demitri Muna:",
+      "affiliation": null,
+      "title": "Accessing Heterogeneous Data &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Kartheik Iyer:",
+      "affiliation": null,
+      "title": "What can we learn from the SEDs of galaxies? &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Katharina Lutz:",
+      "affiliation": null,
+      "title": "Write a paper in one Jupyter notebook &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Becky Smethurst:",
+      "affiliation": null,
+      "title": "Engaging astronomers in the era of clickbait",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Erik Tollerud:",
+      "affiliation": null,
+      "title": "The Astropy community &nbsp; Files",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Tina Peters:",
+      "affiliation": null,
+      "title": "Learn from machine learning: PLAsTiCC &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Coleman Krawczyk:",
+      "affiliation": null,
+      "title": "Zooniverse overview &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Coleman Krawczyk:",
+      "affiliation": null,
+      "title": "Workshop: Building a Zooniverse Project &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Kelly Lepo:",
+      "affiliation": null,
+      "title": "Editing Wikipedia &nbsp; PPTX",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Mike Reid:",
+      "affiliation": null,
+      "title": "Astronomy outreach at scale &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Brittany Kamai",
+      "affiliation": "invited",
+      "title": "Designing the Future of Gravitational Wave Detectors",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Nicole Cabrera Salazar",
+      "affiliation": "invited",
+      "title": "The Incredible Wholeness of Being",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Cassandra Mangroo",
+      "affiliation": "invited",
+      "title": "BenchSci",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Hilding Neilson:",
+      "affiliation": null,
+      "title": "Integrating Indigenous Knowledge and Astronomy &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Mubdi Rahman:",
+      "affiliation": null,
+      "title": "Gaussian Process Regression",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Bridget Falck:",
+      "affiliation": null,
+      "title": "A crash course in philosophy of science for astrophysicists &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Jessie Christiansen",
+      "affiliation": "invited",
+      "title": "Inreach vs Outreach",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Leah Fulmer:",
+      "affiliation": null,
+      "title": "Networking in astronomy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "eleven",
+      "year": 2019,
+      "speaker": "Lauren Corlies:",
+      "affiliation": null,
+      "title": "Outreach to Non-Astronomers &nbsp; PDF",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "alpha",
+      "year": 2020,
+      "speaker": "Brett Morris",
+      "affiliation": "University of Bern",
+      "title": "talk (topic to be confirmed)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "alpha",
+      "year": 2020,
+      "speaker": "Leo Burtscher",
+      "affiliation": "Leiden Observatory",
+      "title": "talk (topic to be confirmed)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "alpha",
+      "year": 2020,
+      "speaker": "Sarah Kendrew",
+      "affiliation": "ESO",
+      "title": "talk (topic to be confirmed)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Lia Corrales:",
+      "affiliation": null,
+      "title": "Version control with Git and GitHub",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Andy Tzanidakis:",
+      "affiliation": null,
+      "title": "Intro to Astronomy Outreach",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Dan Foreman-Mackey:",
+      "affiliation": null,
+      "title": "How to Release Your Code",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Brett Morris:",
+      "affiliation": null,
+      "title": "Interactive Data Visualisation and Analysis with Jdaviz",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Emily Hunt:",
+      "affiliation": null,
+      "title": "Everything about Bluesky",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Steven Crawford",
+      "affiliation": "NASA",
+      "title": "NASA Open Science (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Natalie Gosnell:",
+      "affiliation": null,
+      "title": "Art and Science: Choices (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Caprice Phillips:",
+      "affiliation": null,
+      "title": "Black in Astro (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Unconference sessions:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Jackie Faherty:",
+      "affiliation": null,
+      "title": "Open Space (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Brett:",
+      "affiliation": null,
+      "title": "Contributing to Astropy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Lia:",
+      "affiliation": null,
+      "title": "How to stay informed on latest code, tools and trends",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Benjamin:",
+      "affiliation": null,
+      "title": "Spectroscopy software ecosystem",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Unconference sessions:",
+      "affiliation": null,
+      "title": "Three parallel sessions (A, B, C)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Anca Anghelea",
+      "affiliation": "ESA",
+      "title": "Keynote 1",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Ivelina Momcheva",
+      "affiliation": null,
+      "title": "Keynote 2",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Peter Coles",
+      "affiliation": null,
+      "title": "Keynote 3",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Alexander Nolte",
+      "affiliation": null,
+      "title": "Keynote 4 (Day 3)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "total": 202,
+  "generated_at": "2026-04-30T19:53:57.014012+00:00"
+}

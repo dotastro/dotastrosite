@@ -1,0 +1,354 @@
+{
+  "slug": "twelve",
+  "number": "12",
+  "name": ".Astronomy 12",
+  "year": 2023,
+  "city": "New York",
+  "country": "United States",
+  "venue": "Flatiron Institute CCA, IDA and Math for America, New York",
+  "dates": "2–6 October 2023",
+  "url": "https://dotastro.github.io/dotastrosite/events/twelve/",
+  "organisers": [
+    {
+      "name": "Kelle Cruz",
+      "affiliation": "CUNY Hunter College and Flatiron Institute"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "ESA, STScI",
+      "bluesky": "sarahkendrew.bsky.social"
+    },
+    {
+      "name": "Robert Simpson",
+      "bluesky": "orbitingfrog.bsky.social"
+    },
+    {
+      "name": "Natalie Gosnell"
+    },
+    {
+      "name": "Emily Hunt",
+      "affiliation": "Heidelberg",
+      "bluesky": "emilyhunt.bsky.social"
+    },
+    {
+      "name": "Manodeep Sinha",
+      "affiliation": "Swinburne"
+    },
+    {
+      "name": "Becky Smethurst",
+      "affiliation": "Oxford",
+      "bluesky": "drbecky.bsky.social"
+    },
+    {
+      "name": "Ana Foj",
+      "affiliation": "CCA, local support"
+    },
+    {
+      "name": "Fatima Abdurrahman",
+      "affiliation": "CCA, local support"
+    }
+  ],
+  "talks": [
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Lia Corrales:",
+      "affiliation": null,
+      "title": "Version control with Git and GitHub",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Andy Tzanidakis:",
+      "affiliation": null,
+      "title": "Intro to Astronomy Outreach",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Dan Foreman-Mackey:",
+      "affiliation": null,
+      "title": "How to Release Your Code",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Brett Morris:",
+      "affiliation": null,
+      "title": "Interactive Data Visualisation and Analysis with Jdaviz",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Emily Hunt:",
+      "affiliation": null,
+      "title": "Everything about Bluesky",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Steven Crawford",
+      "affiliation": "NASA",
+      "title": "NASA Open Science (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Natalie Gosnell:",
+      "affiliation": null,
+      "title": "Art and Science: Choices (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Caprice Phillips:",
+      "affiliation": null,
+      "title": "Black in Astro (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Unconference sessions:",
+      "affiliation": null,
+      "title": null,
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Jackie Faherty:",
+      "affiliation": null,
+      "title": "Open Space (45m)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Brett:",
+      "affiliation": null,
+      "title": "Contributing to Astropy",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Lia:",
+      "affiliation": null,
+      "title": "How to stay informed on latest code, tools and trends",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Benjamin:",
+      "affiliation": null,
+      "title": "Spectroscopy software ecosystem",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "speaker": "Unconference sessions:",
+      "affiliation": null,
+      "title": "Three parallel sessions (A, B, C)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [
+    {
+      "title": "Contributing to Astropy",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "Elliott Molter"
+      ],
+      "description": "A session on how to contribute to the Astropy project.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Snakemake and Show Your Work",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "Sam Vaughan"
+      ],
+      "description": "A tutorial session on reproducible workflows using Snakemake and the showyourwork framework.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Multi-Order Coverage (MOC) Hack",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "David Rodriguez"
+      ],
+      "description": "Working with Multi-Order Coverage maps for astronomical footprints in MAST.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "dotAstro Demo",
+      "event": "twelve",
+      "year": 2023,
+      "creators": [
+        "Lia Corrales"
+      ],
+      "description": "Demo materials from .Astronomy 12.",
+      "source_url": null,
+      "live_url": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alyssa"
+    },
+    {
+      "name": "Ana Foj",
+      "affiliation": "CCA"
+    },
+    {
+      "name": "Andy Tzanidakis"
+    },
+    {
+      "name": "Ashley"
+    },
+    {
+      "name": "Benjamin"
+    },
+    {
+      "name": "Becky Smethurst",
+      "affiliation": "Oxford"
+    },
+    {
+      "name": "Brett Morris"
+    },
+    {
+      "name": "Caprice Phillips"
+    },
+    {
+      "name": "Charlotte"
+    },
+    {
+      "name": "Dan Foreman-Mackey"
+    },
+    {
+      "name": "David Rodriguez"
+    },
+    {
+      "name": "Elliott Molter"
+    },
+    {
+      "name": "Emily Hunt",
+      "affiliation": "Heidelberg"
+    },
+    {
+      "name": "Fatima Abdurrahman",
+      "affiliation": "CCA"
+    },
+    {
+      "name": "Jackie Faherty"
+    },
+    {
+      "name": "Kelle Cruz",
+      "affiliation": "CUNY Hunter College and Flatiron Institute"
+    },
+    {
+      "name": "Laurence"
+    },
+    {
+      "name": "Lia Corrales"
+    },
+    {
+      "name": "Lindsay G"
+    },
+    {
+      "name": "Luciano"
+    },
+    {
+      "name": "Manodeep Sinha",
+      "affiliation": "Swinburne"
+    },
+    {
+      "name": "Mark"
+    },
+    {
+      "name": "Micah"
+    },
+    {
+      "name": "Natalie Gosnell"
+    },
+    {
+      "name": "Ned Molter"
+    },
+    {
+      "name": "Robert Simpson"
+    },
+    {
+      "name": "Robin"
+    },
+    {
+      "name": "Sam Vaughan"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "ESA, STScI"
+    },
+    {
+      "name": "Stephanie"
+    },
+    {
+      "name": "Steven Crawford",
+      "affiliation": "NASA"
+    },
+    {
+      "name": "Theo"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/twelve"
+    }
+  ],
+  "participant_count": 32,
+  "hack_count": 4,
+  "talk_count": 14
+}

@@ -1,0 +1,379 @@
+{
+  "slug": "thirteen",
+  "number": "13",
+  "name": ".Astronomy 13",
+  "year": 2024,
+  "city": "Madrid",
+  "country": "Spain",
+  "venue": "European Space Astronomy Centre (ESAC), near Madrid, Spain",
+  "dates": "23–26 April 2024",
+  "url": "https://dotastro.github.io/dotastrosite/events/thirteen/",
+  "organisers": [
+    {
+      "name": "Emily Hunt",
+      "affiliation": "Heidelberg University",
+      "bluesky": "emilyhunt.bsky.social"
+    },
+    {
+      "name": "Sandor Kruk",
+      "affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "ESA, Baltimore",
+      "bluesky": "sarahkendrew.bsky.social"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "Oxford",
+      "bluesky": "chrislintott.bsky.social"
+    },
+    {
+      "name": "Bruno Merin Martin",
+      "affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Jan Reerink",
+      "affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Google",
+      "bluesky": "orbitingfrog.bsky.social"
+    },
+    {
+      "name": "Becky Smethurst",
+      "affiliation": "Oxford",
+      "bluesky": "drbecky.bsky.social"
+    }
+  ],
+  "talks": [
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Anca Anghelea",
+      "affiliation": "ESA",
+      "title": "Keynote 1",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Ivelina Momcheva",
+      "affiliation": null,
+      "title": "Keynote 2",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Peter Coles",
+      "affiliation": null,
+      "title": "Keynote 3",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "speaker": "Alexander Nolte",
+      "affiliation": null,
+      "title": "Keynote 4 (Day 3)",
+      "type": "talk",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [
+    {
+      "title": "Promoting Bluesky to Astronomers",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Emily Hunt (Heidelberg University)"
+      ],
+      "description": "A live feed project connected to the conference, promoting Bluesky as a social platform for astronomers.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Website for Astronomy Illustrations",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Agni Banerjee"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "DumBot",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Yago Ascasibar"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Galaxy Sonification (+ VR maybe)",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Coleman Krawczyk"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Datacube Listener, Live!",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "James Trayford"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "dotAstronomy13 Soundtrack",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Jose A. Caballero"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astronomy as a Great Tool to Have Impact on Humans in 21st Century",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Shahrzad Mirsoltani"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astrotalks: ArXiV for Presentations",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "David Hendriks"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Make a Search Bar",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Mike Walmsley"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "AstroCollab",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Zoe Faes"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Set up JDaviz Example Notebooks on Datalabs",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Clare Shanahan"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "So You Want to Be an Astropy Contributor?",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Iva Momcheva"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Redo the Software Use in Astro Survey",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Iva Momcheva"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Getting Started with ML in Astronomy",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Sandor Kruk"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Adding to the ESASky Virtual Assistant",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Debbie Baines"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astro Careers, Networks, Publication Stats",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Iva Momcheva"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "How to Tailor Outreach Projects for Marginalised Communities",
+      "event": "thirteen",
+      "year": 2024,
+      "creators": [
+        "Thendy Nomthendeleko Motha"
+      ],
+      "description": "",
+      "source_url": null,
+      "live_url": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Agni Banerjee"
+    },
+    {
+      "name": "Becky Smethurst",
+      "affiliation": "Oxford"
+    },
+    {
+      "name": "Bruno Merin Martin",
+      "affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "Oxford"
+    },
+    {
+      "name": "Clare Shanahan"
+    },
+    {
+      "name": "Coleman Krawczyk"
+    },
+    {
+      "name": "David Hendriks"
+    },
+    {
+      "name": "Debbie Baines"
+    },
+    {
+      "name": "Emily Hunt",
+      "affiliation": "Heidelberg University"
+    },
+    {
+      "name": "Iva Momcheva"
+    },
+    {
+      "name": "Jan Reerink",
+      "affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "James Trayford"
+    },
+    {
+      "name": "Jose A. Caballero"
+    },
+    {
+      "name": "Mike Walmsley"
+    },
+    {
+      "name": "Sandor Kruk",
+      "affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "ESA, Baltimore"
+    },
+    {
+      "name": "Shahrzad Mirsoltani"
+    },
+    {
+      "name": "Thendy Nomthendeleko Motha"
+    },
+    {
+      "name": "Yago Ascasibar"
+    },
+    {
+      "name": "Zoe Faes"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/thirteen"
+    },
+    {
+      "label": "ESA-Datalabs/dotAstronomy13",
+      "url": "https://github.com/ESA-Datalabs/dotAstronomy13"
+    },
+    {
+      "label": "emilyhunt/dotastronomy-live-feed",
+      "url": "https://github.com/emilyhunt/dotastronomy-live-feed"
+    },
+    {
+      "label": "Schedule",
+      "url": "https://www.dotastronomy.com/schedule-13"
+    },
+    {
+      "label": "dotAstronomy Slack",
+      "url": "https://join.slack.com/t/dotastronomyteam/shared_invite/zt-2eo300ols-PQyNcxo4llv7ijVXgiSEfA"
+    },
+    {
+      "label": "ESAC accommodation information",
+      "url": "https://www.esa.int/About_Us/ESAC/Accommodation_near_ESAC"
+    }
+  ],
+  "participant_count": 20,
+  "hack_count": 17,
+  "talk_count": 4
+}

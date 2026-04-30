@@ -1,0 +1,4460 @@
+{
+  "people": [
+    {
+      "name": "Sarah Kendrew",
+      "events": [
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten",
+        "alpha",
+        "twelve",
+        "thirteen"
+      ],
+      "event_count": 12,
+      "roles": {
+        "two": [
+          "organiser"
+        ],
+        "four": [
+          "organiser"
+        ],
+        "seven": [
+          "speaker"
+        ],
+        "eight": [
+          "organiser",
+          "speaker"
+        ],
+        "ten": [
+          "organiser",
+          "speaker"
+        ],
+        "alpha": [
+          "organiser",
+          "speaker"
+        ],
+        "twelve": [
+          "organiser"
+        ],
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "bluesky": "sarahkendrew.bsky.social",
+      "current_affiliation": "ESA, Baltimore"
+    },
+    {
+      "name": "Robert Simpson",
+      "events": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "alpha",
+        "twelve",
+        "thirteen",
+        "ten",
+        "eleven"
+      ],
+      "event_count": 11,
+      "roles": {
+        "one": [
+          "organiser"
+        ],
+        "three": [
+          "organiser"
+        ],
+        "alpha": [
+          "organiser"
+        ],
+        "twelve": [
+          "organiser"
+        ],
+        "thirteen": [
+          "organiser"
+        ],
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "orbitingfrog.bsky.social",
+      "current_affiliation": "Google"
+    },
+    {
+      "name": "Chris Lintott",
+      "events": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "six",
+        "eight",
+        "nine",
+        "ten",
+        "alpha",
+        "thirteen"
+      ],
+      "event_count": 10,
+      "roles": {
+        "one": [
+          "speaker"
+        ],
+        "three": [
+          "organiser"
+        ],
+        "six": [
+          "speaker"
+        ],
+        "eight": [
+          "organiser"
+        ],
+        "nine": [
+          "speaker"
+        ],
+        "alpha": [
+          "organiser"
+        ],
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "bluesky": "chrislintott.bsky.social",
+      "current_affiliation": "Oxford"
+    },
+    {
+      "name": "Demitri Muna",
+      "events": [
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten",
+        "eleven"
+      ],
+      "event_count": 8,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "pentingmode.bsky.social"
+    },
+    {
+      "name": "Alasdair Allan",
+      "events": [
+        "two",
+        "three",
+        "four",
+        "six",
+        "eight",
+        "nine",
+        "ten"
+      ],
+      "event_count": 7,
+      "bluesky": "alasdairallan.com",
+      "current_affiliation": "Bablim Light Industries"
+    },
+    {
+      "name": "Becky Smethurst",
+      "events": [
+        "seven",
+        "eight",
+        "nine",
+        "eleven",
+        "alpha",
+        "twelve",
+        "thirteen"
+      ],
+      "event_count": 7,
+      "roles": {
+        "eight": [
+          "organiser"
+        ],
+        "nine": [
+          "speaker"
+        ],
+        "eleven": [
+          "speaker"
+        ],
+        "alpha": [
+          "organiser"
+        ],
+        "twelve": [
+          "organiser"
+        ],
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "bluesky": "drbecky.bsky.social",
+      "current_affiliation": "Oxford"
+    },
+    {
+      "name": "Amanda Bauer",
+      "events": [
+        "two",
+        "three",
+        "four",
+        "five",
+        "seven",
+        "nine"
+      ],
+      "event_count": 6,
+      "roles": {
+        "five": [
+          "speaker"
+        ],
+        "seven": [
+          "organiser"
+        ],
+        "nine": [
+          "speaker"
+        ]
+      },
+      "bluesky": "amandabauer.bsky.social",
+      "current_affiliation": "LSST"
+    },
+    {
+      "name": "Edward Gomez",
+      "events": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "seven",
+        "eight"
+      ],
+      "event_count": 6,
+      "roles": {
+        "one": [
+          "speaker"
+        ],
+        "eight": [
+          "organiser",
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Geert Barentsen",
+      "events": [
+        "three",
+        "four",
+        "five",
+        "six",
+        "eight",
+        "ten"
+      ],
+      "event_count": 6,
+      "roles": {
+        "six": [
+          "speaker"
+        ],
+        "eight": [
+          "speaker"
+        ]
+      },
+      "bluesky": "geert.bsky.social",
+      "current_affiliation": "University of Hertfordshire"
+    },
+    {
+      "name": "Jonathan Fay",
+      "events": [
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "eight"
+      ],
+      "event_count": 6,
+      "current_affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Alyssa Goodman",
+      "events": [
+        "four",
+        "five",
+        "six",
+        "eight",
+        "eleven"
+      ],
+      "event_count": 5,
+      "roles": {
+        "four": [
+          "speaker"
+        ],
+        "five": [
+          "organiser"
+        ],
+        "six": [
+          "speaker"
+        ],
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "alyssagoodman.bsky.social",
+      "current_affiliation": "Harvard University"
+    },
+    {
+      "name": "Arfon Smith",
+      "events": [
+        "two",
+        "three",
+        "six",
+        "nine",
+        "ten"
+      ],
+      "event_count": 5,
+      "roles": {
+        "three": [
+          "organiser"
+        ],
+        "six": [
+          "speaker"
+        ],
+        "ten": [
+          "organiser"
+        ]
+      },
+      "bluesky": "arfon.bsky.social",
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Kelle Cruz",
+      "events": [
+        "four",
+        "five",
+        "six",
+        "eight",
+        "twelve"
+      ],
+      "event_count": 5,
+      "roles": {
+        "four": [
+          "speaker"
+        ],
+        "twelve": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "CUNY Hunter College and Flatiron Institute"
+    },
+    {
+      "name": "August Muench",
+      "events": [
+        "two",
+        "four",
+        "five",
+        "eight"
+      ],
+      "event_count": 4,
+      "roles": {
+        "four": [
+          "speaker"
+        ],
+        "five": [
+          "organiser"
+        ]
+      },
+      "bluesky": "augustfly.bsky.social",
+      "current_affiliation": "Harvard-Smithsonian CfA"
+    },
+    {
+      "name": "Brett Morris",
+      "events": [
+        "seven",
+        "nine",
+        "alpha",
+        "twelve"
+      ],
+      "event_count": 4,
+      "roles": {
+        "seven": [
+          "speaker"
+        ],
+        "nine": [
+          "speaker"
+        ],
+        "alpha": [
+          "speaker"
+        ],
+        "twelve": [
+          "speaker"
+        ]
+      },
+      "bluesky": "brettmorr.is",
+      "current_affiliation": "University of Bern"
+    },
+    {
+      "name": "Coleman Krawczyk",
+      "events": [
+        "six",
+        "eight",
+        "eleven",
+        "thirteen"
+      ],
+      "event_count": 4,
+      "roles": {
+        "eight": [
+          "speaker"
+        ],
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Portsmouth ICG"
+    },
+    {
+      "name": "Daniel Foreman-Mackey",
+      "events": [
+        "four",
+        "six",
+        "eight",
+        "twelve"
+      ],
+      "event_count": 4,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "NYU"
+    },
+    {
+      "name": "Erik Tollerud",
+      "events": [
+        "six",
+        "eight",
+        "ten",
+        "eleven"
+      ],
+      "event_count": 4,
+      "roles": {
+        "ten": [
+          "organiser",
+          "speaker"
+        ],
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "eteq.bsky.social",
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Kevin Govender",
+      "events": [
+        "three",
+        "four",
+        "five",
+        "nine"
+      ],
+      "event_count": 4,
+      "roles": {
+        "four": [
+          "speaker"
+        ],
+        "nine": [
+          "organiser",
+          "speaker"
+        ]
+      },
+      "bluesky": "govender.bsky.social",
+      "current_affiliation": "IAU-OAD"
+    },
+    {
+      "name": "Stuart Lowe",
+      "events": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "event_count": 4,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "LCOGT"
+    },
+    {
+      "name": "Adrian Price-Whelan",
+      "events": [
+        "four",
+        "five",
+        "six"
+      ],
+      "event_count": 3,
+      "bluesky": "adrian.pw",
+      "current_affiliation": "Columbia University"
+    },
+    {
+      "name": "Alberto Pepe",
+      "events": [
+        "four",
+        "five",
+        "six"
+      ],
+      "event_count": 3,
+      "roles": {
+        "four": [
+          "speaker"
+        ],
+        "five": [
+          "organiser"
+        ],
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Authorea"
+    },
+    {
+      "name": "Andy Casey",
+      "events": [
+        "five",
+        "six",
+        "eight"
+      ],
+      "event_count": 3,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "University of Cambridge"
+    },
+    {
+      "name": "Andy Lawrence",
+      "events": [
+        "one",
+        "two",
+        "eight"
+      ],
+      "event_count": 3,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "bluesky": "e-astronomer.bsky.social",
+      "current_affiliation": "Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Arna Karick",
+      "events": [
+        "six",
+        "seven",
+        "nine"
+      ],
+      "event_count": 3,
+      "roles": {
+        "seven": [
+          "organiser"
+        ],
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Tech Savvy Astronomer"
+    },
+    {
+      "name": "Brooke Simmons",
+      "events": [
+        "four",
+        "five",
+        "six"
+      ],
+      "event_count": 3,
+      "bluesky": "vrooje.net",
+      "current_affiliation": "Oxford"
+    },
+    {
+      "name": "Carolina Odman-Govender",
+      "events": [
+        "four",
+        "nine",
+        "ten"
+      ],
+      "event_count": 3,
+      "roles": {
+        "nine": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "IAU-OAD"
+    },
+    {
+      "name": "Eli Bressert",
+      "events": [
+        "two",
+        "three",
+        "four"
+      ],
+      "event_count": 3,
+      "current_affiliation": "ESO / University of Exeter"
+    },
+    {
+      "name": "Emily Hunt",
+      "events": [
+        "alpha",
+        "twelve",
+        "thirteen"
+      ],
+      "event_count": 3,
+      "roles": {
+        "twelve": [
+          "organiser",
+          "speaker"
+        ],
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "bluesky": "emilyhunt.bsky.social",
+      "current_affiliation": "Heidelberg University"
+    },
+    {
+      "name": "Ivelina Momcheva",
+      "events": [
+        "six",
+        "ten",
+        "thirteen"
+      ],
+      "event_count": 3,
+      "roles": {
+        "six": [
+          "speaker"
+        ],
+        "ten": [
+          "organiser"
+        ],
+        "thirteen": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Josh Peek",
+      "events": [
+        "five",
+        "seven",
+        "nine"
+      ],
+      "event_count": 3,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "bluesky": "jegpeek.bsky.social"
+    },
+    {
+      "name": "Lisa Ballard",
+      "events": [
+        "seven",
+        "eight",
+        "nine"
+      ],
+      "event_count": 3,
+      "roles": {
+        "seven": [
+          "speaker"
+        ],
+        "nine": [
+          "speaker"
+        ]
+      },
+      "bluesky": "drlmhb.bsky.social",
+      "current_affiliation": "SETI Institute"
+    },
+    {
+      "name": "Matthew Graham",
+      "events": [
+        "two",
+        "three",
+        "eight"
+      ],
+      "event_count": 3,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Caltech"
+    },
+    {
+      "name": "Meg Schwamb",
+      "events": [
+        "three",
+        "four",
+        "alpha"
+      ],
+      "event_count": 3,
+      "bluesky": "megschwamb.bsky.social",
+      "current_affiliation": "Queen's University Belfast"
+    },
+    {
+      "name": "Niall Deacon",
+      "events": [
+        "four",
+        "five",
+        "eight"
+      ],
+      "event_count": 3,
+      "bluesky": "nialldeacon.com",
+      "current_affiliation": "MPIA Heidelberg"
+    },
+    {
+      "name": "Pamela Gay",
+      "events": [
+        "one",
+        "two",
+        "three"
+      ],
+      "event_count": 3,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "bluesky": "starstryder.space",
+      "current_affiliation": "SIUE"
+    },
+    {
+      "name": "Ruth Angus",
+      "events": [
+        "five",
+        "six",
+        "eight"
+      ],
+      "event_count": 3,
+      "roles": {
+        "eight": [
+          "organiser"
+        ]
+      },
+      "bluesky": "ruthangus.bsky.social",
+      "current_affiliation": "University of Oxford"
+    },
+    {
+      "name": "Stuart Lynn",
+      "events": [
+        "three",
+        "five",
+        "six"
+      ],
+      "event_count": 3,
+      "roles": {
+        "five": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Thomas Robitaille",
+      "events": [
+        "three",
+        "four",
+        "eight"
+      ],
+      "event_count": 3,
+      "roles": {
+        "four": [
+          "speaker"
+        ]
+      },
+      "bluesky": "astrofrog.trobitaille.dev",
+      "current_affiliation": "MPIA"
+    },
+    {
+      "name": "Vanessa Moss",
+      "events": [
+        "five",
+        "six",
+        "seven"
+      ],
+      "event_count": 3,
+      "roles": {
+        "seven": [
+          "organiser"
+        ]
+      },
+      "bluesky": "cosmicpudding.bsky.social"
+    },
+    {
+      "name": "Adam Becker",
+      "events": [
+        "six",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "bluesky": "adambecker.bsky.social",
+      "current_affiliation": "Freelance"
+    },
+    {
+      "name": "Aleks Scholz",
+      "events": [
+        "four",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      },
+      "bluesky": "aleks.mastodon.scot.ap.brid.gy",
+      "current_affiliation": "Dublin Institute for Advanced Studies"
+    },
+    {
+      "name": "Ali Swanson",
+      "events": [
+        "six",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "six": [
+          "speaker"
+        ],
+        "eight": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "University of Oxford"
+    },
+    {
+      "name": "Brian Nord",
+      "events": [
+        "nine",
+        "ten"
+      ],
+      "event_count": 2,
+      "roles": {
+        "nine": [
+          "speaker"
+        ],
+        "ten": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Fermilab"
+    },
+    {
+      "name": "Carol Christian",
+      "events": [
+        "one",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Carolina Ödman-Govender",
+      "events": [
+        "three",
+        "five"
+      ],
+      "event_count": 2,
+      "current_affiliation": "SKA / SAAO / AIMS"
+    },
+    {
+      "name": "Chris North",
+      "events": [
+        "three",
+        "eight"
+      ],
+      "event_count": 2,
+      "current_affiliation": "Cardiff University"
+    },
+    {
+      "name": "Cory Lehan",
+      "events": [
+        "two",
+        "three"
+      ],
+      "event_count": 2,
+      "current_affiliation": "SIUE"
+    },
+    {
+      "name": "Daina Bouquin",
+      "events": [
+        "eight",
+        "nine"
+      ],
+      "event_count": 2
+    },
+    {
+      "name": "David Hogg",
+      "events": [
+        "three",
+        "five"
+      ],
+      "event_count": 2,
+      "roles": {
+        "five": [
+          "speaker"
+        ]
+      },
+      "bluesky": "hogg.bsky.social",
+      "current_affiliation": "New York University"
+    },
+    {
+      "name": "David Rodriguez",
+      "events": [
+        "ten",
+        "twelve"
+      ],
+      "event_count": 2,
+      "bluesky": "strakul.bsky.social"
+    },
+    {
+      "name": "David W. Hogg",
+      "events": [
+        "four",
+        "six"
+      ],
+      "event_count": 2,
+      "bluesky": "hogg.bsky.social",
+      "current_affiliation": "New York University"
+    },
+    {
+      "name": "Derek Ward-Thompson",
+      "events": [
+        "one",
+        "two"
+      ],
+      "event_count": 2,
+      "roles": {
+        "one": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "Cardiff, United Kingdom"
+    },
+    {
+      "name": "Elisabeth Newton",
+      "events": [
+        "five",
+        "six"
+      ],
+      "event_count": 2,
+      "roles": {
+        "five": [
+          "speaker"
+        ],
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Harvard"
+    },
+    {
+      "name": "Emily Rice",
+      "events": [
+        "four",
+        "six"
+      ],
+      "event_count": 2,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "bluesky": "emilylrice.me",
+      "current_affiliation": "CUNY/AMNH"
+    },
+    {
+      "name": "Haley Gomez",
+      "events": [
+        "three",
+        "four"
+      ],
+      "event_count": 2,
+      "current_affiliation": "Cardiff University"
+    },
+    {
+      "name": "James Allen",
+      "events": [
+        "seven",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "seven": [
+          "organiser"
+        ]
+      },
+      "bluesky": "tljamesa.com"
+    },
+    {
+      "name": "James Davenport",
+      "events": [
+        "six",
+        "eight"
+      ],
+      "event_count": 2,
+      "bluesky": "jradavenport.com",
+      "current_affiliation": "University of Washington"
+    },
+    {
+      "name": "James Gilbert",
+      "events": [
+        "seven",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      },
+      "bluesky": "astrosurf.bsky.social"
+    },
+    {
+      "name": "Jan Pomierny",
+      "events": [
+        "one",
+        "four"
+      ],
+      "event_count": 2,
+      "current_affiliation": "Astronomia.pl / UNAWE / Zooniverse Poland"
+    },
+    {
+      "name": "Joshua Peek",
+      "events": [
+        "nine",
+        "ten"
+      ],
+      "event_count": 2,
+      "roles": {
+        "ten": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Justyn Campbell-White",
+      "events": [
+        "eight",
+        "alpha"
+      ],
+      "event_count": 2,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "University of Dundee"
+    },
+    {
+      "name": "Karen Masters",
+      "events": [
+        "three",
+        "four"
+      ],
+      "event_count": 2,
+      "bluesky": "karenlmasters.bsky.social",
+      "current_affiliation": "ICG Portsmouth"
+    },
+    {
+      "name": "Laura Trouille",
+      "events": [
+        "five",
+        "six"
+      ],
+      "event_count": 2,
+      "roles": {
+        "five": [
+          "speaker"
+        ],
+        "six": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "Northwestern University"
+    },
+    {
+      "name": "Laura Whyte",
+      "events": [
+        "four",
+        "six"
+      ],
+      "event_count": 2,
+      "roles": {
+        "six": [
+          "organiser",
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Markus Poessel",
+      "events": [
+        "two",
+        "four"
+      ],
+      "event_count": 2,
+      "roles": {
+        "four": [
+          "organiser",
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Director, Haus der Astronomie"
+    },
+    {
+      "name": "Meredith Rawls",
+      "events": [
+        "six",
+        "eight"
+      ],
+      "event_count": 2,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "bluesky": "merrdiff.bsky.social",
+      "current_affiliation": "New Mexico State University"
+    },
+    {
+      "name": "Michelle Borkin",
+      "events": [
+        "four",
+        "five"
+      ],
+      "event_count": 2,
+      "roles": {
+        "four": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Harvard"
+    },
+    {
+      "name": "Mike Walmsley",
+      "events": [
+        "nine",
+        "thirteen"
+      ],
+      "event_count": 2
+    },
+    {
+      "name": "Peter Hargrave",
+      "events": [
+        "one",
+        "two"
+      ],
+      "event_count": 2,
+      "current_affiliation": "Cardiff, United Kingdom"
+    },
+    {
+      "name": "Phil Marshall",
+      "events": [
+        "three",
+        "four"
+      ],
+      "event_count": 2,
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "Renée Hložek",
+      "events": [
+        "five",
+        "eleven"
+      ],
+      "event_count": 2,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "Dunlap Institute, University of Toronto"
+    },
+    {
+      "name": "Robert Hollow",
+      "events": [
+        "two",
+        "three"
+      ],
+      "event_count": 2,
+      "current_affiliation": "CSIRO Astronomy and Space Science"
+    },
+    {
+      "name": "Sam Vaughan",
+      "events": [
+        "eight",
+        "twelve"
+      ],
+      "event_count": 2,
+      "roles": {
+        "eight": [
+          "organiser"
+        ]
+      },
+      "bluesky": "samvaughan.bsky.social"
+    },
+    {
+      "name": "Sandor Kruk",
+      "events": [
+        "eight",
+        "thirteen"
+      ],
+      "event_count": 2,
+      "roles": {
+        "eight": [
+          "organiser"
+        ],
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Steve Crawford",
+      "events": [
+        "nine",
+        "ten"
+      ],
+      "event_count": 2,
+      "roles": {
+        "nine": [
+          "organiser"
+        ]
+      },
+      "bluesky": "astrocrawford.bsky.social",
+      "current_affiliation": "SAAO"
+    },
+    {
+      "name": "Tom Robitaille",
+      "events": [
+        "four",
+        "seven"
+      ],
+      "event_count": 2,
+      "roles": {
+        "four": [
+          "organiser"
+        ],
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Aaron Robotham",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Adam Avison",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Adam Ginsburg",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Colorado-Boulder"
+    },
+    {
+      "name": "Adam Tarnoff",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Adrianna Pinska",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Agni Banerjee",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Aidan Hotan",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Alberto Accomazzi",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Smithsonian/NASA ADS"
+    },
+    {
+      "name": "Alberto Conti",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Alcione Mora",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Alex Gagliano",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "name": "Alexander Nolte",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "roles": {
+        "thirteen": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Alice Allen",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Astrophysics Source Code Library"
+    },
+    {
+      "name": "Alice Chow",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Alice Williamson",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "acwilliamson.bsky.social",
+      "current_affiliation": "University of Sydney"
+    },
+    {
+      "name": "Alyssa",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "alyssaharad.bsky.social"
+    },
+    {
+      "name": "Amit Kapadia",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "roles": {
+        "four": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Amruta Mehta",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Noordwijk, Netherlands"
+    },
+    {
+      "name": "Amy Robinson",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "speaker"
+        ]
+      },
+      "bluesky": "amy-robinson.bsky.social",
+      "current_affiliation": "EyeWire / MIT"
+    },
+    {
+      "name": "Ana Foj",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "CCA, local support"
+    },
+    {
+      "name": "Anca Anghelea",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "roles": {
+        "thirteen": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Andrew Connolly",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "andrewconnolly.bsky.social"
+    },
+    {
+      "name": "Andrew Newsam",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Andrew O'Brien",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Andy Tzanidakis",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      },
+      "bluesky": "andyastro.bsky.social"
+    },
+    {
+      "name": "Angela Tanner",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Mississippi State University"
+    },
+    {
+      "name": "Angelle Tanner",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "bluesky": "astrochic73.bsky.social",
+      "current_affiliation": "MSU"
+    },
+    {
+      "name": "Ania Kapuscinska",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Thought Machine / Open University"
+    },
+    {
+      "name": "Anna K. Weigel",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Ariel Waldman",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "bluesky": "arielwaldman.com",
+      "current_affiliation": "Spacehack.org / Science Hack Day SF"
+    },
+    {
+      "name": "Arif Solmaz",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "bluesky": "arifsolmaz.bsky.social",
+      "current_affiliation": "Cag University"
+    },
+    {
+      "name": "Ashley",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "floralashes.bsky.social"
+    },
+    {
+      "name": "Ashley Villar",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Aude Alapini Odunlade",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Exeter"
+    },
+    {
+      "name": "Ayat Mohammed",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Azalee Bostroem",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "bluesky": "supernovazzie.bsky.social"
+    },
+    {
+      "name": "Azalee Bostroem and Lauren Chambers",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Babak Tafreshi",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "babaktafreshi.bsky.social",
+      "current_affiliation": "Tehran, Iran"
+    },
+    {
+      "name": "Ben Cook",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Harvard University"
+    },
+    {
+      "name": "Ben Maughan",
+      "events": [
+        "one"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Benjamin",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Benjamin Pope",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "benjaminpope.bsky.social"
+    },
+    {
+      "name": "Benjamin Weiner",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "bluesky": "cloud149.bsky.social",
+      "current_affiliation": "Steward Observatory"
+    },
+    {
+      "name": "Bipana Bantawa",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "Boris Haeussler",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Nottingham"
+    },
+    {
+      "name": "Boris Häußler",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Nottingham"
+    },
+    {
+      "name": "Bradley Frank",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "University of Cape Town"
+    },
+    {
+      "name": "Brett",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      },
+      "bluesky": "brettmorr.is"
+    },
+    {
+      "name": "Brett Andrews",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Brian Cherinka",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Bridget Falck",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Brigitta Sipocz",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Brittany Kamai",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Bruce Bassett",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "UCT/SAAO/AIMS"
+    },
+    {
+      "name": "Bruce Berriman",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "roles": {
+        "four": [
+          "speaker"
+        ]
+      },
+      "bluesky": "gbruce.bsky.social",
+      "current_affiliation": "Virtual Astronomical Observatory"
+    },
+    {
+      "name": "Bruno Merin",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Bruno Merin Martin",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "roles": {
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Bryan Gaensler",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      },
+      "bluesky": "scibry.bsky.social",
+      "current_affiliation": "Dunlap Institute"
+    },
+    {
+      "name": "Cameron Neylon",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "STFC"
+    },
+    {
+      "name": "Caprice Phillips",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      },
+      "bluesky": "capricephillips.bsky.social"
+    },
+    {
+      "name": "Carl Ferkinhoff",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Carlo Fabricatore",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Rome, Italy"
+    },
+    {
+      "name": "Carolina Odman",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "roles": {
+        "two": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "Leiden University"
+    },
+    {
+      "name": "Cassandra Mangroo",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Catherine Zucker",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "bluesky": "catherinezucker.bsky.social"
+    },
+    {
+      "name": "Charl Cater",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Cape Town Creative Academy"
+    },
+    {
+      "name": "Charlotte",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "charlottegarden.bsky.social"
+    },
+    {
+      "name": "Chris Beaumont",
+      "events": [
+        "five"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Chris Kemp",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "NASA"
+    },
+    {
+      "name": "Chris Lawton",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Voorhout, Netherlands"
+    },
+    {
+      "name": "Christopher Beaumont",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Christopher Clark",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "bluesky": "alaskanewsguy.bsky.social",
+      "current_affiliation": "Cardiff University"
+    },
+    {
+      "name": "Christopher Leigh",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Liverpool John Moores University"
+    },
+    {
+      "name": "Clara Brasseur",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Clara Brasseur and Steve Crawford",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Clara Brasseur and Tom Donaldson",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Clare Shanahan",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Cliff Johnson",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "bluesky": "lcjohnso.bsky.social",
+      "current_affiliation": "Zooniverse / Northwestern University"
+    },
+    {
+      "name": "Cormac Purcell",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Craig Jones",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "tobycjones.bsky.social"
+    },
+    {
+      "name": "Curtis Wong",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "speaker"
+        ]
+      },
+      "bluesky": "curtismwong.bsky.social",
+      "current_affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Daniel Scuka",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Darmstadt, Germany"
+    },
+    {
+      "name": "Danielle Rowland",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "bluesky": "deendn.bsky.social",
+      "current_affiliation": "American Museum of Natural History"
+    },
+    {
+      "name": "Danny Price",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "Danny Vohl",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Dany Vohl",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Dara Norman",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Darren Croton",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "David Hendriks",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "bluesky": "davidhendriks.bsky.social"
+    },
+    {
+      "name": "David Neto",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "stellar-forge.bsky.social"
+    },
+    {
+      "name": "David Nutter",
+      "events": [
+        "one"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "David Perez-Suarez",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Trinity College University"
+    },
+    {
+      "name": "Debbie Baines",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Devontae Baxter",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "bluesky": "sentientstarstuff.bsky.social",
+      "current_affiliation": "University of California, Irvine"
+    },
+    {
+      "name": "Dorotea Dudas",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "ESO HITS"
+    },
+    {
+      "name": "Doug Roberts",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "WWT"
+    },
+    {
+      "name": "Douglas Pierce-Price",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Garching bei Munchen, Germany"
+    },
+    {
+      "name": "Dr. Arfon Smith",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "roles": {
+        "two": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Dr. John Taylor",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "roles": {
+        "two": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Dr. Michael Nielsen",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "roles": {
+        "two": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Dustin Lang",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Carnegie Mellon University"
+    },
+    {
+      "name": "Edwin Valentijn",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Groningen, Netherlands"
+    },
+    {
+      "name": "Ellen Schallig",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Elliott Molter",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Emily Lakdawalla",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "bluesky": "elakdawalla.bsky.social",
+      "current_affiliation": "The Planetary Society, remote"
+    },
+    {
+      "name": "Eric Hilton",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Universe Sandbox"
+    },
+    {
+      "name": "Erik Deul",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Leiden, Netherlands"
+    },
+    {
+      "name": "Erin Braswell",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Center for Open Science"
+    },
+    {
+      "name": "Fatima Abdurrahman",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "CCA, local support"
+    },
+    {
+      "name": "Fernando Becerra",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "bluesky": "fbecerra.bsky.social",
+      "current_affiliation": "Harvard University"
+    },
+    {
+      "name": "Fiona Romeo",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Royal Observatory, Greenwich"
+    },
+    {
+      "name": "Francisco Manuel Sanchez-Moreno",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Madrid, Spain"
+    },
+    {
+      "name": "Francisco Manuel Sánchez-Moreno",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Universidad Politécnica de Madrid"
+    },
+    {
+      "name": "Frank Summers",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "drfranksummers.bsky.social"
+    },
+    {
+      "name": "Fraser Lewis",
+      "events": [
+        "one"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Gabe Perez-Giz",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "NYU Center for Cosmology and Particle Physics"
+    },
+    {
+      "name": "Gabriele Cepparulo",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Manchester"
+    },
+    {
+      "name": "Gary McDowell",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Tufts University"
+    },
+    {
+      "name": "George Djorgovski",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Pasadena, United States"
+    },
+    {
+      "name": "George Hobbs",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "George Howitt",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Gijs Verdoes Kleijn",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Groningen, Netherlands"
+    },
+    {
+      "name": "Grace Wolf-Chase",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Grant Miller",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "bluesky": "gmill15.bsky.social",
+      "current_affiliation": "University of Oxford / Zooniverse"
+    },
+    {
+      "name": "Greg Schwarz",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Griffin Foster",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "Hanno Rein",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "University of Toronto"
+    },
+    {
+      "name": "Hans-Walter Rix",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "MPIA Heidelberg"
+    },
+    {
+      "name": "Heidi Tebbe",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "NCSU"
+    },
+    {
+      "name": "Heidi Thiemann",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Open University"
+    },
+    {
+      "name": "Hilding Neilson",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "astrojipjawej.bsky.social"
+    },
+    {
+      "name": "Hugh Osborn",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "exohugh.bsky.social"
+    },
+    {
+      "name": "Huib Van Langevelde",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "huibjan.bsky.social",
+      "current_affiliation": "Dwingeloo, Netherlands"
+    },
+    {
+      "name": "Huw Lynes",
+      "events": [
+        "one"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Ian Robson",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "bluesky": "ianrobsons.bsky.social",
+      "current_affiliation": "IYA 2009"
+    },
+    {
+      "name": "Ingrid Small",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Iva Momcheva",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "bluesky": "ivastar.bsky.social"
+    },
+    {
+      "name": "Jaap Meijers",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Nijmegen, Netherlands"
+    },
+    {
+      "name": "Jackie Faherty",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "James Howison",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "James Trayford",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "bluesky": "trayford.bsky.social"
+    },
+    {
+      "name": "Jamie Ferguson",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Jamie Kinney",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Jan Reerink",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "roles": {
+        "thirteen": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "ESAC/ESA"
+    },
+    {
+      "name": "Jane Rigby",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "janerigby.bsky.social"
+    },
+    {
+      "name": "Janine Fohlmeister",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Zentrum fur Astronomie Heidelberg"
+    },
+    {
+      "name": "Jarita Holbrook",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "astroholbrook.bsky.social"
+    },
+    {
+      "name": "Jason Kirk",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "bluesky": "tag-coo.bsky.social"
+    },
+    {
+      "name": "Jatila Van der Veen",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Santa Barbara, California, United States"
+    },
+    {
+      "name": "Jeff Grube",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Jeffrey Simpson",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Jenine Humber",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Jennifer Piscionere",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Jenny Shipway",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "bluesky": "jennyshipway.bsky.social",
+      "current_affiliation": "INTECH Science Centre and Planetarium"
+    },
+    {
+      "name": "Jesse Rogerson",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "York University"
+    },
+    {
+      "name": "Jesse Shanahan",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Jessie Christiansen",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "aussiastronomer.bsky.social"
+    },
+    {
+      "name": "Jeyhan Kartaltepe",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "bluesky": "jeyhan.bsky.social",
+      "current_affiliation": "NOAO"
+    },
+    {
+      "name": "Jill Tarter",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "SETI Institute"
+    },
+    {
+      "name": "Joanna Barstow",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "bluesky": "drjovian.bsky.social",
+      "current_affiliation": "The Open University"
+    },
+    {
+      "name": "Joanna Baylon",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Joe Zuntz",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "bluesky": "joezuntz.bsky.social",
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "John Taylor",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "johnallentaylor.bsky.social",
+      "current_affiliation": "Pittsburgh, United States"
+    },
+    {
+      "name": "Jon Yardley",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Freelance Web Developer"
+    },
+    {
+      "name": "Jonathan Sick",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Queen's University"
+    },
+    {
+      "name": "Jordan Martin",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "jsmartin.bsky.social"
+    },
+    {
+      "name": "Jose A. Caballero",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Jose Enrique Ruiz",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Instituto Astrofísica Andalucia"
+    },
+    {
+      "name": "Jose Enrique Ruiz del Mazo",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Granada, Spain"
+    },
+    {
+      "name": "Jose Galache",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Joseph Ribaudo",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "bluesky": "jribaudo.bsky.social",
+      "current_affiliation": "Providence College"
+    },
+    {
+      "name": "Joshua Bloom",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Joshua Warren",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "nebraskawomble.bsky.social"
+    },
+    {
+      "name": "Juanjo Bazan",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Independent"
+    },
+    {
+      "name": "Jules Fowler",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Jules Fowler and Matthew Bourque",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Julie Feldt",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Julie Steele",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "roles": {
+        "four": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "O'Reilly"
+    },
+    {
+      "name": "Karen O'Flaherty",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Noordwijk, Netherlands"
+    },
+    {
+      "name": "Kartheik Iyer",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser",
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Katharina Lutz",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Katie Breivik",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      },
+      "bluesky": "katiebreivik.bsky.social"
+    },
+    {
+      "name": "Katie Mack",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "astrokatie.com"
+    },
+    {
+      "name": "Kelly Lepo",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "kellylepo.bsky.social"
+    },
+    {
+      "name": "Kevin Schawinski",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "bluesky": "kevinschawinski.bsky.social",
+      "current_affiliation": "Yale University"
+    },
+    {
+      "name": "Kieran Leschinski",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Kirsten Gottschalk",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Lauren Chambers",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "laurenmarietta.bsky.social"
+    },
+    {
+      "name": "Lauren Corlies",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Laurence",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "asleepywanderer.bsky.social"
+    },
+    {
+      "name": "Leah Fulmer",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Leo Burtscher",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "roles": {
+        "alpha": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Leiden Observatory"
+    },
+    {
+      "name": "Lia",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Lia Corrales",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Lia Sartori",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Lindsay G",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Louise Rubin",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Lucianne Walkowicz",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "organiser",
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Luciano",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Madhura Killedar",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Manodeep Sinha",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "Swinburne"
+    },
+    {
+      "name": "Marjolein Cuppen",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Groningen, Netherlands"
+    },
+    {
+      "name": "Mark",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "markey.senate.gov"
+    },
+    {
+      "name": "Mark Jones",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "bluesky": "marktewdwr-jones.bsky.social"
+    },
+    {
+      "name": "Mark Richardson",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Mark Sands",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Hillsboro, United States"
+    },
+    {
+      "name": "Mark SubbaRao",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "bluesky": "marksubbarao.bsky.social",
+      "current_affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Markus Pössel",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "bluesky": "mpoessel.de",
+      "current_affiliation": "CAEO, Heidelberg"
+    },
+    {
+      "name": "Matt Brealey",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Developer"
+    },
+    {
+      "name": "Matthew Bourque",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Matthew Bourque and Jules Fowler",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Matthew Kenworthy",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "mattkenworthy.bsky.social"
+    },
+    {
+      "name": "Matthew Povich",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Penn State University"
+    },
+    {
+      "name": "Matthew Sottile",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Galois"
+    },
+    {
+      "name": "Matthew Turk",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "bluesky": "matthewturk.bsky.social",
+      "current_affiliation": "Columbia University"
+    },
+    {
+      "name": "Maurits Kreijveld",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Den Haag, Netherlands"
+    },
+    {
+      "name": "Meaghan MacSween",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Melanie Beck",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Meredith Durbin",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Micah",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "micahflee.com"
+    },
+    {
+      "name": "Michael Garrett",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "profterencegarrett.bsky.social",
+      "current_affiliation": "Dwingeloo, Netherlands"
+    },
+    {
+      "name": "Michael Nielsen",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Waterloo, Canada"
+    },
+    {
+      "name": "Michael Williams",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "bluesky": "michaeljwilliams.bsky.social",
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "Michael Wise",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "wisespace.bsky.social",
+      "current_affiliation": "Dwingeloo, Netherlands"
+    },
+    {
+      "name": "Mike Peel",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Jodrell Bank / Wikimedia UK"
+    },
+    {
+      "name": "Mike Reid",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser",
+          "speaker"
+        ]
+      },
+      "bluesky": "rationalremise.bsky.social"
+    },
+    {
+      "name": "Mubdi Rahman",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser",
+          "speaker"
+        ]
+      },
+      "bluesky": "mubdi.bsky.social"
+    },
+    {
+      "name": "Nancy Atkinson",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "nancyatkinson.bsky.social",
+      "current_affiliation": "Rochester, United States"
+    },
+    {
+      "name": "Natalie Gosnell",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "organiser",
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Natasha Waterson",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "London, United Kingdom"
+    },
+    {
+      "name": "Nathaniel Starkman",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser",
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Ned Molter",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Nicholas Earl",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "bluesky": "ionick.bsky.social"
+    },
+    {
+      "name": "Nicholas Johnson",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Dublin, Ireland"
+    },
+    {
+      "name": "Nicholas Wright",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "bluesky": "nicwright15.bsky.social"
+    },
+    {
+      "name": "Nick Earl",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Nick Howes",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Astronomy Now Magazine"
+    },
+    {
+      "name": "Nick Rattenbury",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "The Jodcast"
+    },
+    {
+      "name": "Nicole Cabrera Salazar",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Nicole Gugliucci",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "bluesky": "noisyastronomer.com",
+      "current_affiliation": "CosmoQuest"
+    },
+    {
+      "name": "Nina Cameron",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Glasgow Science Centre"
+    },
+    {
+      "name": "Nina Jansen",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Niva, Denmark"
+    },
+    {
+      "name": "Noah Iliinsky",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Author"
+    },
+    {
+      "name": "Norman Gray",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Glasgow"
+    },
+    {
+      "name": "Nuria Lorente",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Nuwanthika Fernando",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Orapeleng Mogawana",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Pascal Elahi",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Patrick Hall",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Paul Roche",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Faulkes Telescope"
+    },
+    {
+      "name": "Paul Tipper",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Dublin Institute of Technology"
+    },
+    {
+      "name": "Pedro Russo",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Leiden University / EU Universe Awareness"
+    },
+    {
+      "name": "Peter Coles",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1,
+      "roles": {
+        "thirteen": [
+          "speaker"
+        ]
+      },
+      "bluesky": "telescoper.bsky.social"
+    },
+    {
+      "name": "Peter Krautzberger",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "MathJax"
+    },
+    {
+      "name": "Peter Melchior",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "The Ohio State University"
+    },
+    {
+      "name": "Phil Bull",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "bluesky": "philbull.bsky.social",
+      "current_affiliation": "Oxford University"
+    },
+    {
+      "name": "Phil Plait",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "bluesky": "philplait.bsky.social",
+      "current_affiliation": "Bad Astronomy, remote"
+    },
+    {
+      "name": "Philipp Plewa",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Prof. Andy Lawrence",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "roles": {
+        "two": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Professor Mary O'Kane",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Rachel Prudden",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "UK MET Office"
+    },
+    {
+      "name": "Raquel Yumi Shida",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "ESO / IAU / ESA"
+    },
+    {
+      "name": "Rasmi Elasmar",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Rebecca Smethurst",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Oxford"
+    },
+    {
+      "name": "Reed Riddle",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Caltech"
+    },
+    {
+      "name": "Ricarda Beckmann",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Rob Hollow",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Rob Seaman",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "bluesky": "robseaman.bsky.social",
+      "current_affiliation": "Tucson, AZ, United States"
+    },
+    {
+      "name": "Robert Nemiroff",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Michigan Technological University"
+    },
+    {
+      "name": "Robin",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "robin.berjon.com"
+    },
+    {
+      "name": "Robin Rees",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Canopus Publishing"
+    },
+    {
+      "name": "Rosa Doran",
+      "events": [
+        "one"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Roy Williams",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Pasadena, United States"
+    },
+    {
+      "name": "Salim Ansari",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Noordwijk, Netherlands"
+    },
+    {
+      "name": "Samuel Pearson",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of St Andrews"
+    },
+    {
+      "name": "Sarah Block",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "Harvard"
+    },
+    {
+      "name": "Sarah Hörst",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      },
+      "bluesky": "planetdr.bsky.social"
+    },
+    {
+      "name": "Sarah Roberts",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "bluesky": "ubiquity75.xyz"
+    },
+    {
+      "name": "Scott Thomas",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "scottathomas.bsky.social"
+    },
+    {
+      "name": "Sergei Schmalz",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "International Meteor Organization"
+    },
+    {
+      "name": "Shahrzad Mirsoltani",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Shreyas Bapat",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "IIT Mandi"
+    },
+    {
+      "name": "Simon Murphy",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Simon Mutch",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Siqi Liu",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      }
+    },
+    {
+      "name": "Stefania Amodeo",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Cornell University"
+    },
+    {
+      "name": "Stefano Meschiari",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "UT Austin"
+    },
+    {
+      "name": "Stephanie",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "wordswithsteph.bsky.social"
+    },
+    {
+      "name": "Stephanie Juneau",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Stephen Serjeant",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "bluesky": "stephenserjeant.bsky.social"
+    },
+    {
+      "name": "Steven Crawford",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "roles": {
+        "twelve": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "NASA"
+    },
+    {
+      "name": "Stijn Calders",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Summer Ash",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Suresh Sivanandam",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Susan Kassin",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Susan Murabana",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Travelling Telescope Africa"
+    },
+    {
+      "name": "Sze-leung Cheng",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Tamara Civera",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "CEFCA"
+    },
+    {
+      "name": "Tamara Davis",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      },
+      "bluesky": "tamarastro.bsky.social"
+    },
+    {
+      "name": "Temba Matomela",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Iziko Planetarium"
+    },
+    {
+      "name": "Teresa de Young",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Thendy Nomthendeleko Motha",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Theo",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1,
+      "bluesky": "theopennotebook.bsky.social"
+    },
+    {
+      "name": "Thomas Boch",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "CDS, Observatoire de Strasbourg"
+    },
+    {
+      "name": "Thomas Kitching",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "roles": {
+        "four": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Tim Jenness",
+      "events": [
+        "two"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Hilo, United States"
+    },
+    {
+      "name": "Timothy Gebhard",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "CEFCA"
+    },
+    {
+      "name": "Tina Peters",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser",
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Tom Donaldson",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1,
+      "roles": {
+        "ten": [
+          "organiser"
+        ]
+      },
+      "current_affiliation": "STScI"
+    },
+    {
+      "name": "Tom Kitching",
+      "events": [
+        "four"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Edinburgh"
+    },
+    {
+      "name": "Tomas Muller",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "University of Southampton"
+    },
+    {
+      "name": "Toner Stevenson",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "current_affiliation": "Sydney Observatory"
+    },
+    {
+      "name": "Tony Hey",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "roles": {
+        "five": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Vanessa Stroud",
+      "events": [
+        "one"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Victor Calderon",
+      "events": [
+        "ten"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Vladimir Sudilovsky",
+      "events": [
+        "six"
+      ],
+      "event_count": 1,
+      "roles": {
+        "six": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "NASA/ADS"
+    },
+    {
+      "name": "Wanda Diaz Merced",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1,
+      "roles": {
+        "nine": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": "IAU-OAD"
+    },
+    {
+      "name": "Wilhelmina Nekoto",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "HTW-Berlin"
+    },
+    {
+      "name": "Will Armentrout",
+      "events": [
+        "nine"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Will Gater",
+      "events": [
+        "one"
+      ],
+      "event_count": 1,
+      "roles": {
+        "one": [
+          "speaker"
+        ]
+      },
+      "bluesky": "willgater.bsky.social",
+      "current_affiliation": "Sky at Night Magazine"
+    },
+    {
+      "name": "Will Silversmith",
+      "events": [
+        "five"
+      ],
+      "event_count": 1,
+      "current_affiliation": "EyeWire"
+    },
+    {
+      "name": "William Roby",
+      "events": [
+        "eight"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eight": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Yago Ascasibar",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Yan Grange",
+      "events": [
+        "alpha"
+      ],
+      "event_count": 1,
+      "current_affiliation": "ASTRON"
+    },
+    {
+      "name": "Yeshe Fenner",
+      "events": [
+        "seven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "seven": [
+          "speaker"
+        ]
+      }
+    },
+    {
+      "name": "Zoe Faes",
+      "events": [
+        "thirteen"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "Zoe Jaremus",
+      "events": [
+        "eleven"
+      ],
+      "event_count": 1,
+      "roles": {
+        "eleven": [
+          "organiser"
+        ]
+      }
+    }
+  ],
+  "total": 404,
+  "generated_at": "2026-04-30T19:53:57.014012+00:00"
+}

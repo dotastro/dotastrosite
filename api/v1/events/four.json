@@ -1,0 +1,461 @@
+{
+  "slug": "four",
+  "number": "4",
+  "name": ".Astronomy 4",
+  "year": 2012,
+  "city": "Heidelberg",
+  "country": "Germany",
+  "venue": "Haus der Astronomie and Internationales Wissenschaftsforum Heidelberg (IWH)",
+  "dates": "9–11 July 2012",
+  "url": "https://dotastro.github.io/dotastrosite/events/four/",
+  "organisers": [
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "MPIA",
+      "bluesky": "sarahkendrew.bsky.social"
+    },
+    {
+      "name": "Tom Robitaille",
+      "affiliation": "MPIA"
+    },
+    {
+      "name": "Markus Poessel",
+      "affiliation": "Director, Haus der Astronomie"
+    }
+  ],
+  "talks": [
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Kevin Govender",
+      "affiliation": "IAU Office for Astronomy Development",
+      "title": "Astronomy for a Better World",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Markus Poessel",
+      "affiliation": "Haus der Astronomie",
+      "title": "Haus der Astronomie",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Amit Kapadia",
+      "affiliation": "Adler Planetarium",
+      "title": "AstroJS: Javascript for Astronomy",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "August Muench",
+      "affiliation": "Harvard CfA",
+      "title": "Astronomy Dataverse",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Thomas Robitaille",
+      "affiliation": "MPIA Heidelberg",
+      "title": "Astro Python",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Bruce Berriman",
+      "affiliation": "IPAC / Caltech",
+      "title": "Astronomy in the Cloud",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Thomas Kitching",
+      "affiliation": "University of Edinburgh",
+      "title": "Astronomy Crowdsourcing",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Michelle Borkin",
+      "affiliation": "Harvard",
+      "title": "Mechanical Turk, Visualisation and 'Glue'",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Julie Steele",
+      "affiliation": "O'Reilly Media",
+      "title": "and **Noah Iliinsky** (Consultant/Author): *How to be a Data Visualisation Star*",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Kelle Cruz",
+      "affiliation": "CUNY",
+      "title": "AstroBetter",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Alberto Pepe",
+      "affiliation": "Harvard CfA",
+      "title": "Data Mining and ADS",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    },
+    {
+      "event": "four",
+      "year": 2012,
+      "speaker": "Alyssa Goodman",
+      "affiliation": "Harvard CfA",
+      "title": "Seamless Astronomy",
+      "type": "invited",
+      "slides_url": null,
+      "video_url": null
+    }
+  ],
+  "hacks": [
+    {
+      "title": "AstroScanr",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Rob Simpson",
+        "Sarah Kendrew",
+        "Karen Masters"
+      ],
+      "description": "A visualisation of astronomy journal titles and abstracts using natural language processing techniques.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Astroworld",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Carolina Odman-Govender"
+      ],
+      "description": "Collect information about astronomical facilities around the world, including old, abandoned observatories, flashy new ones, future ones, and archeo-astronomical sites, using EpiCollect.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Cosmology Calculator OS X Widget",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Brooke Simmons",
+        "Stuart Lowe",
+        "Kevin Schawinski",
+        "Julie Steele"
+      ],
+      "description": "A port of Ned Wright's Cosmology Calculator to an OS X widget.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Flora",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Amit Kapadia",
+        "Phil Marshall",
+        "Laura Whyte"
+      ],
+      "description": "An attempt to enable quantitative measurements on images in a browser, measuring the position, size, and brightness of objects in astronomy images. Uses the astrojs library for FITS images and coordinate transformations.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Science: It's Universal",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Amanda Bauer",
+        "Nicole Gugliucci"
+      ],
+      "description": "An outreach video about what science is and what it is like to be a scientist.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Sh*t Scientists Say",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Niall Deacon",
+        "Emily Rice",
+        "Kelle Cruz"
+      ],
+      "description": "A collection of what astronomers love, hate, and repeat.",
+      "source_url": null,
+      "live_url": null
+    },
+    {
+      "title": "Zoonibot",
+      "event": "four",
+      "year": 2012,
+      "creators": [
+        "Adrian Price-Whelan",
+        "Chris Beaumont",
+        "Gabe Perez-Giz",
+        "Chris Lintott",
+        "David Hogg",
+        "Meg Schwamb"
+      ],
+      "description": "A \"Planet Hunters butler\" for the Zooniverse Talk platform, ready to automatically answer questions and provide detail when users request information.",
+      "source_url": null,
+      "live_url": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Alasdair Allan",
+      "affiliation": "Many"
+    },
+    {
+      "name": "Geert Barentsen",
+      "affiliation": "Armagh Observatory"
+    },
+    {
+      "name": "Amanda Bauer",
+      "affiliation": "Australian Astronomical Observatory"
+    },
+    {
+      "name": "Christopher Beaumont",
+      "affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Bruce Berriman",
+      "affiliation": "Virtual Astronomical Observatory"
+    },
+    {
+      "name": "Michelle Borkin",
+      "affiliation": "Harvard University"
+    },
+    {
+      "name": "Eli Bressert",
+      "affiliation": "ESO / University of Exeter"
+    },
+    {
+      "name": "Christopher Clark",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Kelle Cruz",
+      "affiliation": "Hunter College / CUNY / AMNH"
+    },
+    {
+      "name": "Niall Deacon",
+      "affiliation": "MPIA Heidelberg"
+    },
+    {
+      "name": "Jonathan Fay",
+      "affiliation": "Microsoft Research"
+    },
+    {
+      "name": "Janine Fohlmeister",
+      "affiliation": "Zentrum fur Astronomie Heidelberg"
+    },
+    {
+      "name": "Daniel Foreman-Mackey",
+      "affiliation": "NYU"
+    },
+    {
+      "name": "Haley Gomez",
+      "affiliation": "Cardiff University"
+    },
+    {
+      "name": "Edward Gomez",
+      "affiliation": "Las Cumbres Observatory"
+    },
+    {
+      "name": "Alyssa Goodman",
+      "affiliation": "Harvard CfA"
+    },
+    {
+      "name": "Kevin Govender",
+      "affiliation": "IAU Office of Astronomy for Development"
+    },
+    {
+      "name": "Nicole Gugliucci",
+      "affiliation": "CosmoQuest"
+    },
+    {
+      "name": "Boris Haeussler",
+      "affiliation": "University of Nottingham"
+    },
+    {
+      "name": "David W. Hogg",
+      "affiliation": "New York University"
+    },
+    {
+      "name": "Noah Iliinsky",
+      "affiliation": "Author"
+    },
+    {
+      "name": "Amit Kapadia",
+      "affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Sarah Kendrew",
+      "affiliation": "MPIA Heidelberg"
+    },
+    {
+      "name": "Tom Kitching",
+      "affiliation": "University of Edinburgh"
+    },
+    {
+      "name": "Chris Lintott",
+      "affiliation": "University of Oxford"
+    },
+    {
+      "name": "Stuart Lowe",
+      "affiliation": "LCOGT"
+    },
+    {
+      "name": "Phil Marshall",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Karen Masters",
+      "affiliation": "ICG Portsmouth"
+    },
+    {
+      "name": "Peter Melchior",
+      "affiliation": "The Ohio State University"
+    },
+    {
+      "name": "August Muench",
+      "affiliation": "Harvard-Smithsonian CfA"
+    },
+    {
+      "name": "Demitri Muna",
+      "affiliation": "New York University"
+    },
+    {
+      "name": "Carolina Odman-Govender",
+      "affiliation": "Freelance"
+    },
+    {
+      "name": "Alberto Pepe",
+      "affiliation": "Harvard University"
+    },
+    {
+      "name": "Gabe Perez-Giz",
+      "affiliation": "NYU Center for Cosmology and Particle Physics"
+    },
+    {
+      "name": "David Perez-Suarez",
+      "affiliation": "Trinity College University"
+    },
+    {
+      "name": "Jan Pomierny",
+      "affiliation": "Astronomia.pl / UNAWE / Zooniverse Poland"
+    },
+    {
+      "name": "Markus Poessel",
+      "affiliation": "Haus der Astronomie"
+    },
+    {
+      "name": "Adrian Price-Whelan",
+      "affiliation": "Columbia University"
+    },
+    {
+      "name": "Emily Rice",
+      "affiliation": "CUNY / American Museum of Natural History"
+    },
+    {
+      "name": "Hans-Walter Rix",
+      "affiliation": "MPIA Heidelberg"
+    },
+    {
+      "name": "Thomas Robitaille",
+      "affiliation": "MPIA"
+    },
+    {
+      "name": "Pedro Russo",
+      "affiliation": "Leiden University / EU Universe Awareness"
+    },
+    {
+      "name": "Kevin Schawinski",
+      "affiliation": "Yale University"
+    },
+    {
+      "name": "Sergei Schmalz",
+      "affiliation": "International Meteor Organization"
+    },
+    {
+      "name": "Aleks Scholz",
+      "affiliation": "Dublin Institute for Advanced Studies"
+    },
+    {
+      "name": "Meg Schwamb",
+      "affiliation": "Yale University"
+    },
+    {
+      "name": "Brooke Simmons",
+      "affiliation": "Yale University"
+    },
+    {
+      "name": "Robert Simpson",
+      "affiliation": "Oxford University"
+    },
+    {
+      "name": "Julie Steele",
+      "affiliation": "O'Reilly"
+    },
+    {
+      "name": "Adam Tarnoff",
+      "affiliation": "Adler Planetarium"
+    },
+    {
+      "name": "Laura Whyte",
+      "affiliation": "Adler Planetarium"
+    }
+  ],
+  "links": [
+    {
+      "label": "dotastronomy.com",
+      "url": "https://www.dotastronomy.com/four"
+    },
+    {
+      "label": ".Astronomy 4 Unproceedings -- arXiv:1301.5193",
+      "url": "https://arxiv.org/abs/1301.5193"
+    }
+  ],
+  "participant_count": 51,
+  "hack_count": 7,
+  "talk_count": 12
+}
