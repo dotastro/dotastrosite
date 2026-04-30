@@ -45,6 +45,19 @@ const BACKGROUNDS = [
     accentBorder: 'rgba(232, 122, 159, 0.3)',
     accentGlow: 'rgba(232, 122, 159, 0.25)',
   },
+  {
+    id: 'hubble-arp142',
+    file: 'hubble-arp142-penguin.jpg',
+    title: 'The Penguin and the Egg: Arp 142',
+    credit: 'NASA, ESA and the Hubble Heritage Team (STScI/AURA)',
+    creditUrl: 'https://esahubble.org/images/heic1311a/',
+    instrument: 'Hubble Space Telescope',
+    // Accent: warm copper/red from the dust lanes of the interacting galaxy
+    accent: '#c47a52',
+    accentDim: 'rgba(196, 122, 82, 0.12)',
+    accentBorder: 'rgba(196, 122, 82, 0.3)',
+    accentGlow: 'rgba(196, 122, 82, 0.25)',
+  },
 ];
 
 function pickBackground() {
