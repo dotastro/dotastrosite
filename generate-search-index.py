@@ -15,6 +15,35 @@ def strip_md(text):
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
+def extract_hacks(raw, url_base, section_label):
+    """Extract individual hack cards as separate index documents."""
+    hacks = []
+    # Match hack-card divs
+    cards = re.findall(
+        r'class="hack-title">([^<]+)</div>.*?class="hack-creators">([^<]*)</div>.*?(?:class="hack-desc"[^>]*>([^<]*)</p>|class="hack-desc">([^<]*)</div>)',
+        raw, re.DOTALL
+    )
+    for card in re.finditer(
+        r'<div class="hack-card">(.*?)</div>\s*</div>',
+        raw, re.DOTALL
+    ):
+        block = card.group(1)
+        title_m = re.search(r'hack-title">([^<]+)', block)
+        creator_m = re.search(r'hack-creators">([^<]+)', block)
+        desc_m = re.search(r'hack-desc"[^>]*>([^<]+)', block)
+        if not title_m:
+            continue
+        title = title_m.group(1).strip()
+        creators = creator_m.group(1).strip() if creator_m else ''
+        desc = desc_m.group(1).strip() if desc_m else ''
+        hacks.append({
+            'title': title,
+            'url': url_base,
+            'section': section_label + ' / Hack',
+            'body': ' '.join(filter(None, [title, creators, desc])),
+        })
+    return hacks
+
 def get_title(text, filepath):
     m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', text, re.MULTILINE)
     if m: return m.group(1).strip()
@@ -68,8 +97,13 @@ for pattern in patterns:
             'title': title,
             'url': url,
             'section': section_label(fpath),
-            'body': body[:2000],
+            'body': body[:5000],  # increased from 2000
         })
+        # Also index individual hacks from event pages
+        if '/events/' in fpath and 'hack-card' in raw:
+            sec = section_label(fpath)
+            for hack in extract_hacks(raw, url, sec):
+                docs.append(hack)
 
 out = os.path.join(BASE, 'assets/js/search-index.json')
 with open(out, 'w') as f:
