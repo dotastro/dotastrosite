@@ -84,6 +84,27 @@
     </div>
   </footer>
 
+  <!-- Mobile nav overlay (outside header to avoid backdrop-filter stacking context) -->
+  <div class="mobile-nav-overlay" id="mobile-nav-overlay" aria-hidden="true">
+    <nav class="mobile-nav-inner" id="mobile-nav-inner">
+      <a href="{{ site.baseurl }}/events/">Events</a>
+      <a href="{{ site.baseurl }}/events/upcoming">Upcoming</a>
+      <a href="{{ site.baseurl }}/community/">Community</a>
+      <div class="mobile-nav-section">
+        <div class="mobile-nav-section-label">More</div>
+        <a href="{{ site.baseurl }}/nominate" class="mobile-nav-highlight">Nominate someone</a>
+        <a href="{{ site.baseurl }}/brain-trust">Brain Trust</a>
+        <a href="{{ site.baseurl }}/foundation/">Foundation</a>
+        <a href="{{ site.baseurl }}/about">About</a>
+        <a href="{{ site.baseurl }}/what-to-expect">What to Expect</a>
+        <a href="{{ site.baseurl }}/hosting">Hosting</a>
+        <a href="{{ site.baseurl }}/code-of-conduct">Code of Conduct</a>
+        <a href="{{ site.baseurl }}/research">Research</a>
+        <a href="https://github.com/dotastro" target="_blank" rel="noopener">GitHub &#8599;</a>
+      </div>
+    </nav>
+  </div>
+
   <!-- Search overlay -->
   <div class="search-overlay" id="search-overlay" role="dialog" aria-modal="true" aria-label="Site search">
     <div class="search-box">
@@ -124,28 +145,41 @@
       }
     });
 
-    // Mobile hamburger
+    // Mobile hamburger -- uses separate overlay div outside header (fixes backdrop-filter stacking context)
     (function () {
       var ham = document.getElementById('hamburger');
-      var navLinks = document.getElementById('nav-links');
-      if (!ham) return;
+      var overlay = document.getElementById('mobile-nav-overlay');
+      if (!ham || !overlay) return;
+
+      function openNav() {
+        ham.setAttribute('aria-expanded', 'true');
+        ham.classList.add('is-open');
+        overlay.classList.add('is-open');
+        document.body.classList.add('nav-open');
+      }
+
+      function closeNav() {
+        ham.setAttribute('aria-expanded', 'false');
+        ham.classList.remove('is-open');
+        overlay.classList.remove('is-open');
+        document.body.classList.remove('nav-open');
+      }
 
       ham.addEventListener('click', function () {
-        var open = ham.getAttribute('aria-expanded') === 'true';
-        ham.setAttribute('aria-expanded', !open);
-        ham.classList.toggle('is-open', !open);
-        navLinks.classList.toggle('mobile-open', !open);
-        document.body.classList.toggle('nav-open', !open);
+        ham.getAttribute('aria-expanded') === 'true' ? closeNav() : openNav();
       });
 
-      // Close on link click
-      navLinks.querySelectorAll('a').forEach(function (a) {
-        a.addEventListener('click', function () {
-          ham.setAttribute('aria-expanded', 'false');
-          ham.classList.remove('is-open');
-          navLinks.classList.remove('mobile-open');
-          document.body.classList.remove('nav-open');
-        });
+      overlay.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', closeNav);
+      });
+
+      // Tap outside to close
+      overlay.addEventListener('click', function (e) {
+        if (e.target === overlay) closeNav();
+      });
+
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') closeNav();
       });
     })();
 
