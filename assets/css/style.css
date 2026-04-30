@@ -984,6 +984,7 @@ textarea {
 .nav-nominate:hover {
   background: var(--blue) !important;
   color: #fff !important;
+  border-color: var(--blue) !important;
 }
 
 /* =====================================================
