@@ -19,19 +19,32 @@ const BACKGROUNDS = [
     accentBorder: 'rgba(74, 158, 255, 0.3)',
     accentGlow: 'rgba(74, 158, 255, 0.25)',
   },
-  // Add more images here. Example structure:
-  // {
-  //   id: 'pillars',
-  //   file: 'jwst-pillars-of-creation.jpg',
-  //   title: 'Pillars of Creation',
-  //   credit: 'NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan (STScI)',
-  //   creditUrl: 'https://science.nasa.gov/mission/webb/multimedia/images/',
-  //   instrument: 'James Webb Space Telescope (NIRCam)',
-  //   accent: '#c17b3a',        // warm amber from the pillars
-  //   accentDim: 'rgba(193, 123, 58, 0.12)',
-  //   accentBorder: 'rgba(193, 123, 58, 0.3)',
-  //   accentGlow: 'rgba(193, 123, 58, 0.25)',
-  // },
+  {
+    id: 'artemis-earth',
+    file: 'artemis-earth.jpg',
+    title: 'Earth from Artemis I',
+    credit: 'NASA',
+    creditUrl: 'https://www.nasa.gov/image-detail/amf-art002e009289/',
+    instrument: 'Artemis I mission, 2022',
+    // Accent: warm amber from the sunlit Earth limb
+    accent: '#f5a94a',
+    accentDim: 'rgba(245, 169, 74, 0.12)',
+    accentBorder: 'rgba(245, 169, 74, 0.3)',
+    accentGlow: 'rgba(245, 169, 74, 0.25)',
+  },
+  {
+    id: 'hubble-ngc1084',
+    file: 'hubble-ngc1084.jpg',
+    title: 'Starry Spiral: NGC 1084',
+    credit: 'ESA/Hubble & NASA, D. Thilker and the PHANGS-HST Team',
+    creditUrl: 'https://www.esa.int/ESA_Multimedia/Images',
+    instrument: 'Hubble Space Telescope',
+    // Accent: rose/pink from the star-forming regions
+    accent: '#e87a9f',
+    accentDim: 'rgba(232, 122, 159, 0.12)',
+    accentBorder: 'rgba(232, 122, 159, 0.3)',
+    accentGlow: 'rgba(232, 122, 159, 0.25)',
+  },
 ];
 
 function pickBackground() {
