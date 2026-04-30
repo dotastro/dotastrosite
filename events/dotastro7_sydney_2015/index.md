@@ -144,7 +144,7 @@ Alice Williamson, a non-astronomer, gave a cross-disciplinary talk about Open So
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-The following names appear in the liveblogs and conference reports. Full list not recovered from the Wayback Machine.
+Known attendees:
 
 - Aidan Hotan
 - Alice Williamson (University of Sydney, @all_isee)
@@ -185,5 +185,5 @@ The following names appear in the liveblogs and conference reports. Full list no
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/seven)
+- [dotastronomy.com](https://www.dotastronomy.com/seven)
 - [demitri/dotastro7dayzero](https://github.com/demitri/dotastro7dayzero): Day Zero tutorial materials

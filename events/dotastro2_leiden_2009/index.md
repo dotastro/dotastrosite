@@ -112,7 +112,7 @@ Approximately 50 people attended .Astronomy 2 in Leiden, November–December 200
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/two)
+- [dotastronomy.com](https://www.dotastronomy.com/two)
 
 ### Sponsors
 

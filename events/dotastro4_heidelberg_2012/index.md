@@ -172,4 +172,4 @@ Approximately 50 people attended .Astronomy 4 in Heidelberg, July 2012.
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/four)
+- [dotastronomy.com](https://www.dotastronomy.com/four)

@@ -90,4 +90,4 @@ Approximately 30 people attended .Astronomy 1 in Cardiff, September 2008.
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/one)
+- [dotastronomy.com](https://www.dotastronomy.com/one)

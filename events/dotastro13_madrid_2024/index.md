@@ -144,7 +144,7 @@ title: ".Astronomy 13, Madrid, 2024"
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/thirteen)
+- [dotastronomy.com](https://www.dotastronomy.com/thirteen)
 - [ESA-Datalabs/dotAstronomy13](https://github.com/ESA-Datalabs/dotAstronomy13): official hack template repository for .Astronomy 13
 - [emilyhunt/dotastronomy-live-feed](https://github.com/emilyhunt/dotastronomy-live-feed): live feed project from .Astronomy 13
 - [Schedule](https://www.dotastronomy.com/schedule-13)

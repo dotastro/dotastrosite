@@ -68,7 +68,7 @@ title: ".Astronomy 12, New York, 2023"
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/twelve)
+- [dotastronomy.com](https://www.dotastronomy.com/twelve)
 - [eblur/dotAstro-demo](https://github.com/eblur/dotAstro-demo): demo materials from .Astronomy 12
 - [emolter/dotAstro12-contribute-to-astropy](https://github.com/emolter/dotAstro12-contribute-to-astropy): contributing to Astropy session materials
 - [samvaughan/dotastro-snakemake-showyourwork-session](https://github.com/samvaughan/dotastro-snakemake-showyourwork-session): Snakemake and showyourwork tutorial session

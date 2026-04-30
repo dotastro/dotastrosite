@@ -58,7 +58,7 @@ Topics discussed at .Astronomy 3 included:
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Approximately 50 people attended .Astronomy 3 at New College, Oxford, April 2011. The following names appear in liveblogs, blog posts, and conference reports:
+Approximately 50 people attended .Astronomy 3 at New College, Oxford, April 2011. Known attendees:
 
 - Amanda Bauer (@astropixie)
 - Markus Poessel (@mpoessel)
@@ -70,4 +70,4 @@ Approximately 50 people attended .Astronomy 3 at New College, Oxford, April 2011
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/three)
+- [dotastronomy.com](https://www.dotastronomy.com/three)

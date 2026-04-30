@@ -10,7 +10,7 @@ title: ".Astronomy 5, Cambridge MA, 2013"
     <span>16–18 September 2013</span>
     <span>New England Research and Development Center (NERD), Cambridge, Massachusetts</span>
   </div>
-  <p class="event-page-desc">The fifth .Astronomy conference was held at Microsoft Research's New England Research and Development (NERD) Center in Cambridge, Massachusetts, hosted by the Seamless Astronomy group at Harvard's Center for Astrophysics. It was the first .Astronomy event in North America, bringing the conference to a new continent. 60% of attendees were new to the meeting. The gender balance was 33% female. The liveblog, written by Brooke Simmons, documented one of the most detailed records of a .Astronomy event.</p>
+  <p class="event-page-desc">The fifth .Astronomy conference was held at Microsoft Research's New England Research and Development (NERD) Center in Cambridge, Massachusetts, hosted by the Seamless Astronomy group at Harvard's Center for Astrophysics. It was the first .Astronomy event in North America, bringing the conference to a new continent. 60% of attendees were new to the meeting. The gender balance was 33% female. </p>
 </div>
 
 <nav class="event-page-nav" aria-label="Jump to section">
@@ -99,7 +99,7 @@ Alberto Accomazzi announced the launch of ADS 2.0, featuring a new search engine
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Cambridge MA, September 2013. 60% were new to the conference. 33% were female. The following names appear in liveblogs and conference reports:
+Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Cambridge MA, September 2013. 60% were new to the conference, 33% were female. Known attendees:
 
 - Alberto Accomazzi (Smithsonian/NASA ADS)
 - Amanda Bauer (Australian Astronomical Observatory, @astropixie)
@@ -115,4 +115,4 @@ Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Camb
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/five)
+- [dotastronomy.com](https://www.dotastronomy.com/five)

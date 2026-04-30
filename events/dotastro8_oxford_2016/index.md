@@ -273,7 +273,7 @@ See also the [.Astronomy 8 Hacks Collector page](https://dotastro.github.io/hack
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/eight)
+- [dotastronomy.com](https://www.dotastronomy.com/eight)
 - [.Astronomy 8 Hacks Collector](https://dotastro.github.io/hacks-collector/)
 - [barentsen/dotastro-argparse-tutorial](https://github.com/barentsen/dotastro-argparse-tutorial): argparse tutorial from Day 0
 - [dfm/ArXivMailer](https://github.com/dfm/ArXivMailer): hack to modernise the daily arXiv email formatting

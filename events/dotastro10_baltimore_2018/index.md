@@ -152,7 +152,7 @@ Supported by the American Astronomical Society.
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/ten)
+- [dotastronomy.com](https://www.dotastronomy.com/ten)
 - [vcalderon2009/dotAstronomy_X](https://github.com/vcalderon2009/dotAstronomy_X): materials from .Astronomy X
 - [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack): public outreach tool hack
 - [dr-rodriguez/dotAstroX_scripts](https://github.com/dr-rodriguez/dotAstroX_scripts): scripts from .Astronomy X

@@ -214,4 +214,4 @@ Approximately 60 people attended .Astronomy 6 in Chicago, December 2014.
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/six)
+- [dotastronomy.com](https://www.dotastronomy.com/six)

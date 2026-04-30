@@ -34,4 +34,4 @@ The conference featured the normal .Astronomy mix of talks, unconference session
 <span class="section-label">// links</span>
 ## Links {#links}
 
-- [Official website archive](https://www.dotastronomy.com/alpha)
+- [dotastronomy.com](https://www.dotastronomy.com/alpha)
