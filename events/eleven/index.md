@@ -53,14 +53,16 @@ title: ".Astronomy 11, Toronto, 2019"
 - **Mike Reid:** Astronomy outreach at scale
 - **David Neto:** Astronomy tricks of a magician &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/DNeto_ThinkingLikeAMagician.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - **Tina Peters:** Learn from machine learning: PLAsTiCC
-- **Demitri Muna:** Accessing Heterogeneous Data
+- **Demitri Muna:** Accessing Heterogeneous Data &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Muna_HeterogeneousData.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - **Kartheik Iyer:** What can we learn from the SEDs of galaxies? &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Iyer_SEDsOfGalaxies.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
-- **Katharina Lutz:** Write a paper in one Jupyter notebook
+- **Katharina Lutz:** Write a paper in one Jupyter notebook &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Lutz_PaperInOneNotebook.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - **Becky Smethurst:** Engaging astronomers in the era of clickbait
-- **Erik Tollerud:** The Astropy community
+- **Erik Tollerud:** The Astropy community &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Tollerud_Astropy.zip" class="hack-link" target="_blank" rel="noopener">Files</a>
+- **Tina Peters:** Learn from machine learning: PLAsTiCC &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Peters_PLAsTiCC.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - **Coleman Krawczyk:** Zooniverse overview &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Coleman_Zooniverse_Overview.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - **Coleman Krawczyk:** Workshop: Building a Zooniverse Project &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Coleman_Building_a_Zooniverse_Project.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
-- **Kelly Lepo:** Editing Wikipedia
+- **Kelly Lepo:** Editing Wikipedia &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Lepo_EditingWikipedia.pptx" class="hack-link" target="_blank" rel="noopener">PPTX</a>
+- **Mike Reid:** Astronomy outreach at scale &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Reid_OutreachAtScale.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 
 ### Day 1 -- Wednesday 23 October
 
@@ -73,6 +75,7 @@ title: ".Astronomy 11, Toronto, 2019"
 
 ### Day 3 -- Friday 25 October
 
+- **Bridget Falck:** A crash course in philosophy of science for astrophysicists &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Falck_PhilSciForAstrophysicists.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - **Jessie Christiansen** (invited): Inreach vs Outreach
 - **Leah Fulmer:** Networking in astronomy
 - **Lauren Corlies:** Outreach to Non-Astronomers &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Corlies_OutreachToNonAstronomers.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
@@ -136,6 +139,7 @@ Known attendees at .Astronomy 11, Toronto:
 <li>Jessie Christiansen</li>
 <li>Leah Fulmer</li>
 <li>Lauren Corlies</li>
+<li>Bridget Falck</li>
 </ul>
 
 <span class="section-label">// links</span>
