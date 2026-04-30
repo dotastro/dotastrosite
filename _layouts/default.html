@@ -35,21 +35,20 @@
           <a href="{{ site.baseurl }}/events/upcoming">Upcoming</a>
           <a href="{{ site.baseurl }}/community/">Community</a>
 
-          <!-- More dropdown -->
-          <div class="nav-more" id="nav-more">
-            <button class="nav-more-btn" id="nav-more-btn" aria-expanded="false" aria-haspopup="true">
-              More <span class="nav-more-chevron">&#8964;</span>
+          <div class="nav-more" id="nav-more-wrap">
+            <button class="nav-more-btn" id="nav-more-btn" aria-expanded="false" aria-haspopup="menu">
+              More <span class="nav-more-chevron">▾</span>
             </button>
             <div class="nav-more-menu" id="nav-more-menu" role="menu">
+              <a href="{{ site.baseurl }}/nominate" role="menuitem" class="nav-more-highlight">Nominate someone</a>
+              <div class="nav-more-divider"></div>
               <a href="{{ site.baseurl }}/brain-trust" role="menuitem">Brain Trust</a>
               <a href="{{ site.baseurl }}/foundation/" role="menuitem">Foundation</a>
               <a href="{{ site.baseurl }}/about" role="menuitem">About</a>
               <div class="nav-more-divider"></div>
-              <a href="https://github.com/dotastro" target="_blank" rel="noopener" role="menuitem">GitHub</a>
+              <a href="https://github.com/dotastro" target="_blank" rel="noopener" role="menuitem">GitHub ↗</a>
             </div>
           </div>
-
-          <a href="{{ site.baseurl }}/nominate" class="nav-nominate">Nominate</a>
         </div>
 
         <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
@@ -82,36 +81,58 @@
   <script src="{{ site.baseurl }}/assets/js/background.js"></script>
   <script>
     // Theme toggle
-    document.getElementById('theme-toggle').addEventListener('click', function() {
+    document.getElementById('theme-toggle').addEventListener('click', function () {
       var html = document.documentElement;
       var next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
       html.setAttribute('data-theme', next);
       localStorage.setItem('dotastro-theme', next);
     });
 
-    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function(e) {
+    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function (e) {
       if (!localStorage.getItem('dotastro-theme')) {
         document.documentElement.setAttribute('data-theme', e.matches ? 'light' : 'dark');
       }
     });
 
     // More dropdown
-    var moreBtn = document.getElementById('nav-more-btn');
-    var moreMenu = document.getElementById('nav-more-menu');
+    (function () {
+      var btn = document.getElementById('nav-more-btn');
+      var menu = document.getElementById('nav-more-menu');
 
-    moreBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      var open = moreBtn.getAttribute('aria-expanded') === 'true';
-      moreBtn.setAttribute('aria-expanded', !open);
-      moreMenu.classList.toggle('open', !open);
-    });
+      function openMenu() {
+        btn.setAttribute('aria-expanded', 'true');
+        menu.classList.add('is-open');
+      }
 
-    document.addEventListener('click', function() {
-      moreBtn.setAttribute('aria-expanded', 'false');
-      moreMenu.classList.remove('open');
-    });
+      function closeMenu() {
+        btn.setAttribute('aria-expanded', 'false');
+        menu.classList.remove('is-open');
+      }
 
-    moreMenu.addEventListener('click', function(e) { e.stopPropagation(); });
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        if (menu.classList.contains('is-open')) {
+          closeMenu();
+        } else {
+          openMenu();
+        }
+      });
+
+      // Close on outside click
+      document.addEventListener('click', function () {
+        closeMenu();
+      });
+
+      // Don't close when clicking inside the menu
+      menu.addEventListener('click', function (e) {
+        e.stopPropagation();
+      });
+
+      // Close on Escape
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') closeMenu();
+      });
+    })();
   </script>
 </body>
 </html>
