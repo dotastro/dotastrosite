@@ -1635,6 +1635,35 @@ body.bg-transitioning .bg-layer {
 .nav-more-btn {
   gap: 0.35rem;
   cursor: pointer;
+  /* Reset browser button defaults */
+  appearance: none;
+  -webkit-appearance: none;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 500;
+  /* Match nav link pill exactly */
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 14px;
+  color: var(--text-muted);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--bg-3) 60%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid transparent;
+  transition: color 0.15s, background 0.15s, border-color 0.15s;
+}
+
+.nav-more-btn:hover {
+  color: var(--text);
+  background: color-mix(in srgb, var(--bg-4) 80%, transparent);
+  border-color: var(--border);
+}
+
+.nav-more-btn[aria-expanded="true"] {
+  color: var(--text);
+  background: color-mix(in srgb, var(--bg-4) 80%, transparent);
+  border-color: var(--border);
 }
 
 .nav-more-chevron {
