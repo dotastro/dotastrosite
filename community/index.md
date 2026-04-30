@@ -49,10 +49,10 @@ description: The .Astronomy community of astronomers, developers, educators and 
     <span class="clc-cta">View repos &rarr;</span>
   </a>
 
-  <a href="https://github.com/dotastro" target="_blank" rel="noopener" class="community-link-card">
-    <div class="clc-title">Follow along</div>
-    <p class="clc-desc">Find us on GitHub and follow <strong>@dotastronomy</strong> on Twitter for news and updates.</p>
-    <span class="clc-cta">github.com/dotastro &rarr;</span>
+  <a href="{{ site.baseurl }}/community/participants" class="community-link-card">
+    <div class="clc-title">Were you there?</div>
+    <p class="clc-desc">We are building a directory of everyone who has ever attended a .Astronomy conference. Check if you are listed and help us fill in the gaps.</p>
+    <span class="clc-cta">See the directory &rarr;</span>
   </a>
 
 </div>
