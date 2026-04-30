@@ -1,0 +1,189 @@
+{
+  "event": "twelve",
+  "year": 2023,
+  "hashtag": "#dotastro",
+  "sources": [
+    "bluesky"
+  ],
+  "posts": [
+    {
+      "id": "bsky-3kapg4ist2e2u",
+      "text": "On my way to dotAstro in NY this week - see you there?",
+      "author": "@brettmorr.is",
+      "author_name": "Brett Morris",
+      "date": "2023-10-01",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/brettmorr.is/post/3kapg4ist2e2u"
+    },
+    {
+      "id": "bsky-3kas3uzdwvl2z",
+      "text": "I'm very sad to be missing dotastro / dotastronomy12 this week because of other travel, so I did my hack project a few days early! Here is jupyterlab_gist_it, a Jupyterlab extension for easily creating @github.com Gist's from a notebook, to share!\ngithub.com/adrn/jupyter...",
+      "author": "@adrian.pw",
+      "author_name": "Adrian Price-Whelan",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/adrian.pw/post/3kas3uzdwvl2z"
+    },
+    {
+      "id": "bsky-3kas24vfth62x",
+      "text": "Having a blast in NYC this week at dotAstro!",
+      "author": "@andyastro.bsky.social",
+      "author_name": "Andy Tzanidakis",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/andyastro.bsky.social/post/3kas24vfth62x"
+    },
+    {
+      "id": "bsky-3karz6mukzr2o",
+      "text": "Advantages of BSky for being a new \"town square of science\" (according to @emily.space at dotastro):\n- platform is open source\n- separate components that anyone can/will host\n- will eventually be federated\n- posts are called \"skeets\" this is non-negotiable\n\ud83e\uddea\ud83d\udd2d",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3karz6mukzr2o"
+    },
+    {
+      "id": "bsky-3karywakxx72g",
+      "text": "Great to have @brettmor.bsky.social give us a demo of the JDaviz software toolbox for interactive visualization & data analysis, especially useful for JWST data, at dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3karywakxx72g"
+    },
+    {
+      "id": "bsky-3karys6k3ey2d",
+      "text": "I am at #dotastro 12 in New York - and I'm trying this out...",
+      "author": "@orbitingfrog.bsky.social",
+      "author_name": "Robert Simpson",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/orbitingfrog.bsky.social/post/3karys6k3ey2d"
+    },
+    {
+      "id": "bsky-3karoqtjvu62w",
+      "text": "Hey look, it\u2019s @andyastro.bsky.social at dotAstro! UW grads rule \ud83e\udee1",
+      "author": "@brettmorr.is",
+      "author_name": "Brett Morris",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/brettmorr.is/post/3karoqtjvu62w"
+    },
+    {
+      "id": "bsky-3karolkuhda23",
+      "text": "It's Day Zero of the first in-person .Astronomy conference in several years - super excited to be in New York and meeting a new cohort of dotastro participants. Today we have a great lineup of tutorials, not least an intro to Bluesky from @emily.space!",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2023-10-02",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3karolkuhda23"
+    },
+    {
+      "id": "bsky-3kav3x7v5lw2l",
+      "text": "Met @brettmor.bsky.social at dotAstro today, and I started our conversation with \u201cI go to bed thinking about HAT-P-11 and I wake up still thinking about HAT-P-11.\u201d",
+      "author": "@sabinastro.bsky.social",
+      "author_name": "Sabina Sagynbayeva",
+      "date": "2023-10-03",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sabinastro.bsky.social/post/3kav3x7v5lw2l"
+    },
+    {
+      "id": "bsky-3kaufpxohsu2d",
+      "text": "Only half of a day into #dotAstro and I've been inspired chatting with folks for all sorts of interesting projects and collaborations. Looking forward to seeing which unconference sessions get selected and the hack projects later in the week. \ud83d\ude03",
+      "author": "@strakul.bsky.social",
+      "author_name": "David Rodriguez",
+      "date": "2023-10-03",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/strakul.bsky.social/post/3kaufpxohsu2d"
+    },
+    {
+      "id": "bsky-3kau5dyok5k2k",
+      "text": "This morning at dotastro 12 Steve Crawford from NASA is telling us about the agency's work in open science. Did you know that NASA have an open guide to its open science policies on Github? github.com/nasa/smd-ope... \ud83e\uddea",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2023-10-03",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kau5dyok5k2k"
+    },
+    {
+      "id": "bsky-3kau4jqz6sm2k",
+      "text": "Could someone please explain what #dotAstro is? Seems like a conference in NYC this week, but my Google searches are failing me!\ud83d\udd2d",
+      "author": "@jdc.pub",
+      "author_name": "Joey Carpinelli",
+      "date": "2023-10-03",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/jdc.pub/post/3kau4jqz6sm2k"
+    },
+    {
+      "id": "bsky-3kau47wwm4x2j",
+      "text": "Starting the day at #dotAstro with Steven Crawford presenting on NASA Open Science and how it is meant to be accessible, reproducible, and inclusive. \ud83d\udd2d",
+      "author": "@strakul.bsky.social",
+      "author_name": "David Rodriguez",
+      "date": "2023-10-03",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/strakul.bsky.social/post/3kau47wwm4x2j"
+    },
+    {
+      "id": "bsky-3kaxkukfrjy2t",
+      "text": "Lots of great hack ideas today at #dotAstro. I ended up working on two things, including one making a quick CLI to post to both BlueSky and Mastodon simultaneously. https://github.com/bluesky-astronomy/BlueSky-Mastodon-CLI #astronomy #coding \ud83d\ude04\ud83d\udd2d",
+      "author": "@strakul.bsky.social",
+      "author_name": "David Rodriguez",
+      "date": "2023-10-04",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/strakul.bsky.social/post/3kaxkukfrjy2t"
+    },
+    {
+      "id": "bsky-3kav64cxzsa2i",
+      "text": "Lots of great people to meet at #dotAstro, both old friends and new. It's been also great to get back into the big picture outlook of why our work in archiving #astronomy data is important, instead of the minute details day-to-day work frequently entails \ud83d\ude09",
+      "author": "@strakul.bsky.social",
+      "author_name": "David Rodriguez",
+      "date": "2023-10-04",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/strakul.bsky.social/post/3kav64cxzsa2i"
+    },
+    {
+      "id": "bsky-3kazqstpaqj2v",
+      "text": "Incredible visualizations of astronomical data using the OpenSpace platform, from Jackie Faherty of the American Museum of Natural Hisytory, at #dotastro 12 in NYC today",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2023-10-05",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kazqstpaqj2v"
+    },
+    {
+      "id": "bsky-3kaz62qcnhz2q",
+      "text": "Laughing at all the crazy AI abstracts generated by AstroLLaMa (https://huggingface.co/universeTBD/astrollama) at #dotAstro. May have to try this myself.  #astronomy",
+      "author": "@strakul.bsky.social",
+      "author_name": "David Rodriguez",
+      "date": "2023-10-05",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/strakul.bsky.social/post/3kaz62qcnhz2q"
+    },
+    {
+      "id": "bsky-3kaxtcjxsd22f",
+      "text": "I\u2019m at dotAstro so I\u2019ll ask Robert Simpson \ud83e\udd1e",
+      "author": "@brettmorr.is",
+      "author_name": "Brett Morris",
+      "date": "2023-10-05",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/brettmorr.is/post/3kaxtcjxsd22f"
+    },
+    {
+      "id": "bsky-3kb45bdkxgx23",
+      "text": "Not 100% sorted out, but here's a quick Friday hack that finds which JWST observations overlap with TESS in the month of June 2023. This was experimenting with Multi-Order Coverage maps and MAST footprints, but more work is needed to work out a few details. #dotAstro #astronomy",
+      "author": "@strakul.bsky.social",
+      "author_name": "David Rodriguez",
+      "date": "2023-10-06",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/strakul.bsky.social/post/3kb45bdkxgx23"
+    }
+  ],
+  "highlights": [
+    "Robert Simpson: \"I am at #dotastro 12 in New York - and I'm trying this out...\"",
+    "Sarah Kendrew: \"It's Day Zero of the first in-person .Astronomy conference in several years\"",
+    "Emily Hunt's Bluesky Astronomy feeds were presented as an alternative to Twitter",
+    "David Rodriguez documented multiple days of hacks and talks",
+    "Brett Morris and Andy Tzanidakis representing UW grads"
+  ],
+  "notes": "The .Astronomy community had begun migrating to Bluesky by this event. 19+ posts recovered from the Bluesky public search API. This was the first in-person dotastro in several years, held in New York City."
+}

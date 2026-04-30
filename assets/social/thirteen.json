@@ -1,0 +1,458 @@
+{
+  "event": "thirteen",
+  "year": 2024,
+  "hashtag": "#dotastro",
+  "sources": [
+    "bluesky"
+  ],
+  "posts": [
+    {
+      "id": "bsky-3kq6ggry2bo2z",
+      "text": "I'm excited to go to Madrid next week for #dotastro 13! \n\nI'm also making this vague post to test my dashboard at emilyhunt.github.io/dotastronomy-live-feed!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-15",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kq6ggry2bo2z"
+    },
+    {
+      "id": "bsky-3kqaootkzda2b",
+      "text": "a very fun use of Bluesky in practice: this conference dashboard for the projectors at #dotastro that includes a live feed of the hashtag and an auto-updating schedule linked to Google Sheets!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-16",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqaootkzda2b"
+    },
+    {
+      "id": "bsky-3kqo5zr67ef22",
+      "text": "On my way to the next #dotastro conference at ESAC in Madrid. Looking forward to seeing friends and meeting new participants!",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-21",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqo5zr67ef22"
+    },
+    {
+      "id": "bsky-3kqq4phfb4d23",
+      "text": "On my way to Madrid today for #dotastro 13!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-22",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqq4phfb4d23"
+    },
+    {
+      "id": "bsky-3kqsojwr7d22k",
+      "text": "As if today wasn't already exciting enough, I'm now on the fast train from Barcelona to Madrid and thence to #dotastro tomorrow.",
+      "author": "@telescoper.bsky.social",
+      "author_name": "Peter Coles \ud83c\udff3\ufe0f\u200d\ud83c\udf08 \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f \ud83c\uddee\ud83c\uddea",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/telescoper.bsky.social/post/3kqsojwr7d22k"
+    },
+    {
+      "id": "bsky-3kqsmkdhrps2k",
+      "text": "Final tutorial of #dotAstro: hearing about ESA Datalabs, a cloud computing tool for doing science with ESA data!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqsmkdhrps2k"
+    },
+    {
+      "id": "bsky-3kqskitzt642f",
+      "text": "Here's the Top 10 Trending Words over the Past 10 Minutes (weighted by past usage):\n1st - jorge\n2nd - \u4e0d\u5177\u5408\n3rd - \u30c4\u30a4\u30c3\u30bf\u30fc\n4th - \ud2b8\uc704\ud130\n5th - \u8abf\u5b50\n6th - \u76f4\u3063\n7th - \u30aa\u30fc\u30c8\n8th - livros\n9th - gaza\n10th - \u7981\u6b62\n(tap/click to see all posts with that word!)\n\n#ListenToBlackVoices",
+      "author": "@nowbreezing.ntw.app",
+      "author_name": "\u2601\ufe0fNow\ud83e\udd16Breezing\ud83d\udca8",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/nowbreezing.ntw.app/post/3kqskitzt642f"
+    },
+    {
+      "id": "bsky-3kqskc52w5s2d",
+      "text": "New experimental feature of ESA Sky is a Virtual Assistant: you can ask questions, e.g. \"what is a spiral galaxy?\" or say \"show me a spiral galaxy\" and it will display it in ESA Sky. Neat! #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqskc52w5s2d"
+    },
+    {
+      "id": "bsky-3kqsk55c4sc2q",
+      "text": "The ESASky astroquery module was apparently started as a #dotastro hack! Now fully implemented & available to the community astroquery.readthedocs.io/en/latest/es...",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqsk55c4sc2q"
+    },
+    {
+      "id": "bsky-3kqsk457uws2w",
+      "text": "This afternoon we'll get a demo & tutorial for 2 awesome \nESA science\n projects at #dotastro: ESASky (sky.esa.int) and Datalabs (datalabs.esa.int), a science platform that allows scientists to work closer to the data.",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqsk457uws2w"
+    },
+    {
+      "id": "bsky-3kqsjezdw3q24",
+      "text": "Here's the Top 10 Trending Words over the Past 10 Minutes (weighted by past usage):\n1st - jorge\n2nd - ukraine\n3rd - \u540c\u50da\n4th - gaza\n5th - salve\n6th - 1,039\n7th - \u8a8d\u3081\n8th - \u7dad\u6301\n9th - \u5438\u3063\n10th - \u518d\u3073\n(tap/click to see all posts with that word!)\n\n#\u0439\u043e\u0431\u0430\u043d\u0430\u0440\u0443\u0441\u043d\u044f \ud83c\uddfa\ud83c\udde6",
+      "author": "@nowbreezing.ntw.app",
+      "author_name": "\u2601\ufe0fNow\ud83e\udd16Breezing\ud83d\udca8",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/nowbreezing.ntw.app/post/3kqsjezdw3q24"
+    },
+    {
+      "id": "bsky-3kqsj6eyb5d2h",
+      "text": "You can try ESASky yourself to look at data - there's also an explorer mode with a dice button that takes you to a random object every time! #dotastro \ud83d\udd2d\n\nsky.esa.int",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqsj6eyb5d2h"
+    },
+    {
+      "id": "bsky-3kqsj3sipd22b",
+      "text": "Finally made it to a #dotAstro and seen so many amazing tools already! Grateful to be able to talk about our sonification work and the STRAUSS code. You can try the notebook for the live tutorial here github.com/james-trayfo... - You can run this completely in the cloud using platforms like Colab!",
+      "author": "@trayford.bsky.social",
+      "author_name": "James Trayford",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/trayford.bsky.social/post/3kqsj3sipd22b"
+    },
+    {
+      "id": "bsky-3kqsiegcb4l2h",
+      "text": "Next #dotastro tutorial: we're hearing about the ESASky tool for visualizing Astronomy data!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqsiegcb4l2h"
+    },
+    {
+      "id": "bsky-3kqshyq7nkd2f",
+      "text": "It's tour time at #dotastro! The conference is at the European Space Astronomy Centre (ESAC), the main place where ESA processes and archives mission data. \n\nIt's really cool \ud83d\ude01 \ud83d\udd2d",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqshyq7nkd2f"
+    },
+    {
+      "id": "bsky-3kqsashpnsc2c",
+      "text": "I had no idea that Plotly figures are just .html files by default - makes it a much easier plotting library to embed in web things than matplotlib figures #dotastro",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqsashpnsc2c"
+    },
+    {
+      "id": "bsky-3kqs7v2ax542e",
+      "text": "Here's the Top 10 Trending Words over the Past 10 Minutes (weighted by past usage):\n1st - jorge\n2nd - ukraine\n3rd - \u30db\u30bf\u30eb\n4th - salve\n5th - \u5927\u548c\n6th - \u30da\u30c3\u30c8\n7th - liberdade\n8th - \u751f\u653e\u9001\n9th - \u5f85\u3064\n10th - \u521d\u65e5\n(tap/click to see all posts with that word!)\n\n#FreePalestine \ud83c\uddf5\ud83c\uddf8",
+      "author": "@nowbreezing.ntw.app",
+      "author_name": "\u2601\ufe0fNow\ud83e\udd16Breezing\ud83d\udca8",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/nowbreezing.ntw.app/post/3kqs7v2ax542e"
+    },
+    {
+      "id": "bsky-3kqs7gzmvld23",
+      "text": "@emily.space maybe those of you at #dotastro this year should write a coda/sequel to Starlink Ruined My Night called e.g. Twitter Murderer?",
+      "author": "@drjovian.bsky.social",
+      "author_name": "Dr Joanna Barstow",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/drjovian.bsky.social/post/3kqs7gzmvld23"
+    },
+    {
+      "id": "bsky-3kqs7fss2332f",
+      "text": "Final #dotastro tutorial of the morning - we're hearing about the Python plotting library Plotly from Cameron Swiggum!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqs7fss2332f"
+    },
+    {
+      "id": "bsky-3kqs6d7euss2g",
+      "text": "Next #dotastro tutorial is by James Trayford and is about data sonification. \n\nIt's *amazing* how data that looks complicated (like this light curve) can be much easier to understand by listening to it!\n\n(It becomes really obvious that there are multiple periods)",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqs6d7euss2g"
+    },
+    {
+      "id": "bsky-3kqs5gb6nyi2l",
+      "text": "Some serious FOMO today seeing #dotastro 13 posts. I hope those of you there have a great time. Some of my most energising and motivating conferences were dotastros of the past - even though I\u2019ve only been to two or three of them.",
+      "author": "@karenlmasters.bsky.social",
+      "author_name": "Karen Masters",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/karenlmasters.bsky.social/post/3kqs5gb6nyi2l"
+    },
+    {
+      "id": "bsky-3kqs53lj5vm2f",
+      "text": "Here's the Top 10 Trending Words over the Past 10 Minutes (weighted by past usage):\n1st - \u30db\u30bf\u30eb\n2nd - george's\n3rd - \u9000\u52e4\n4th - \u9650\u3089\n5th - \u73cd\u3057\u3044\n6th - \u30ab\u30c4\n7th - \u305d\u3089\n8th - russland\n9th - gaza\n10th - \u6f70\u308c\n(tap/click to see all posts with that word!)\n\n#ListenToBlackVoices",
+      "author": "@nowbreezing.ntw.app",
+      "author_name": "\u2601\ufe0fNow\ud83e\udd16Breezing\ud83d\udca8",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/nowbreezing.ntw.app/post/3kqs53lj5vm2f"
+    },
+    {
+      "id": "bsky-3kqs4t5hqis2h",
+      "text": "At #dotastro 13 at the ESAC in Madrid. A very different feel to regular conferences!\n\nLoving it and looking forward to more\n\nAlso my first time in Spain!\n#astronomy \ud83d\udd2d",
+      "author": "@riobanerjee.bsky.social",
+      "author_name": "Agnibha Banerjee",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/riobanerjee.bsky.social/post/3kqs4t5hqis2h"
+    },
+    {
+      "id": "bsky-3kqs4nu36ik2z",
+      "text": "Shoutout from Jo Ciuca for our colleagues at ADS who are doing awesome work #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqs4nu36ik2z"
+    },
+    {
+      "id": "bsky-3kqs4lbqto227",
+      "text": "Day 1 of #dotastro at ESAC: great talk from Jo Ciuca on LLMs in Astro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqs4lbqto227"
+    },
+    {
+      "id": "bsky-3kqrxrm4x532h",
+      "text": "It's tutorial day at #dotastro 13! Kicking off today learning from Mike Walmsley about foundation models",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-23",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqrxrm4x532h"
+    },
+    {
+      "id": "bsky-3kquqw2rq3b25",
+      "text": "Here's the Top 10 Trending Words over the Past 10 Minutes (weighted by past usage):\n1st - \u7fbd\u7530\n2nd - 4/24\n3rd - horses\n4th - \u30ab\u30ed\u30ea\u30fc\n5th - \u307b\u3084\n6th - \u30ec\u30a4\n7th - \u30de\u30b9\u30bf\u30fc\n8th - \u3061\u3044\n9th - www.nicovideo.jp/watch/sm\n10th - weapon\n(tap/click to see all posts with that word!)\n\n#FreePalestine \ud83c\uddf5\ud83c\uddf8",
+      "author": "@nowbreezing.ntw.app",
+      "author_name": "\u2601\ufe0fNow\ud83e\udd16Breezing\ud83d\udca8",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/nowbreezing.ntw.app/post/3kquqw2rq3b25"
+    },
+    {
+      "id": "bsky-3kquqtdtht22x",
+      "text": "Number of papers published by @ojastro.bsky.social is increasing right now - up from ~10/yr to 50 last year, projected to ~100 in 2024. Approx 55% acceptance rate.   #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kquqtdtht22x"
+    },
+    {
+      "id": "bsky-3kquqlkcvxk2u",
+      "text": "The Open Journal of Astrophysics is on bluesky - follow at @ojastro.bsky.social #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kquqlkcvxk2u"
+    },
+    {
+      "id": "bsky-3kquqib2b3k2j",
+      "text": "Big shoutout from Peter Coles to the library staff at Maynooth Uni who provided a lot of support to the Open Journal of Astrophysics.    #dotastro #librariansftw",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kquqib2b3k2j"
+    },
+    {
+      "id": "bsky-3kquqho236c25",
+      "text": "The annual running cost of the @ojastro.bsky.social is less than the cost of publishing ONE paper in MNRAS. \ud83d\udd2d #dotastro",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kquqho236c25"
+    },
+    {
+      "id": "bsky-3kquqfqbsx22u",
+      "text": "Invited #dotastro talk from Peter Coles on open access publishing - 5 mins in and we\u2019ve already covered Marx and Taylor Swift \ud83d\udc4f\ud83d\ude4c",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kquqfqbsx22u"
+    },
+    {
+      "id": "bsky-3kqup4ytans25",
+      "text": "Next keynote at #dotastro: we're hearing about the Open Journal of Astrophysics from @telescoper.bsky.social!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqup4ytans25"
+    },
+    {
+      "id": "bsky-3kqumdvl7yk2f",
+      "text": "Even back in 2015, 100% of astronomers were using software in their research #dotastro \ud83d\udd2d",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqumdvl7yk2f"
+    },
+    {
+      "id": "bsky-3kqulthr2ik2z",
+      "text": "Next up at #dotastro - hearing about data science in astronomy from Iva Momcheva!",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqulthr2ik2z"
+    },
+    {
+      "id": "bsky-3kqui7gdbr32z",
+      "text": "eodashboard.org: communicating EO science via interactive web-based storytelling based on EO mission data from ESA, NASA & JAXA - looks really nice #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqui7gdbr32z"
+    },
+    {
+      "id": "bsky-3kqui6ck3bk2i",
+      "text": "Great talk from Anca Anghelea from\nESA Earth Observation on great EO #openscience work to make EO more easily accessible & shareable. Check out e.g. the opensciencedata.esa.int #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqui6ck3bk2i"
+    },
+    {
+      "id": "bsky-3kqugidb5us2s",
+      "text": "Back at #dotastro today! Starting off hearing about ESA's earth observation programs",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-24",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqugidb5us2s"
+    },
+    {
+      "id": "bsky-3kqx53c6pbc2j",
+      "text": "Working on a Bluesky #dotastro hack and confronting (a) my bad habit of lurking here rather than posting, and (b) the fact I have never actually joined @emily.space \u2018s Astronomy feed!",
+      "author": "@vrooje.net",
+      "author_name": "Brooke Simmons",
+      "date": "2024-04-25",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/vrooje.net/post/3kqx53c6pbc2j"
+    },
+    {
+      "id": "bsky-3kqzok7wsbp2i",
+      "text": "Did you know there's a Hackathon Planning Kit? Thanks to our invited speaker Alexander Nolte for sharing and for co-creating this amazing resource hackathon-planning-kit.org #dotastro \ud83d\udd2d\ud83e\uddea",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-26",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqzok7wsbp2i"
+    },
+    {
+      "id": "bsky-3kqzmf3zm7t2z",
+      "text": "Yesterday's hack day at #dotastro was so busy! (And so fun)\n\nNow today we're hearing about how to foster the impact of hsckathons from Alexander Nolte:",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-26",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kqzmf3zm7t2z"
+    },
+    {
+      "id": "bsky-3kqzl3nlvkn2a",
+      "text": "Excited for our last #dotastro invited speaker who will talk about fostering the impact of hackathons \ud83d\udd2d\ud83e\uddea",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-26",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqzl3nlvkn2a"
+    },
+    {
+      "id": "bsky-3kqzkbhzmop2i",
+      "text": "#dotastro musical hack to Queen, Sting, the Beatles and Radiohead  - that's a whole new level \ud83e\udd2f\ud83d\udd2d",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-26",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqzkbhzmop2i"
+    },
+    {
+      "id": "bsky-3kqzil76dks2e",
+      "text": "Awesome - @ivastar.bsky.social, @sarahkendrew.bsky.social and others have updated the Astronomy Software Use Survey and it\u2019s ready for a decadal update! Astronomers, BOLO in your inbox for this 2-minute survey. There were >1000 responses last time; it\u2019s really important! #dotastro \ud83d\udd2d",
+      "author": "@vrooje.net",
+      "author_name": "Brooke Simmons",
+      "date": "2024-04-26",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/vrooje.net/post/3kqzil76dks2e"
+    },
+    {
+      "id": "bsky-3kqzhbk7v6k2h",
+      "text": "We (mostly @davidoryan.bsky.social + @emily.space ) made a Bluesky bot that shares a galaxy from the Galaxy Zoo archive! Currently planning to share a few a day, working on the scheduling but everything else is done. #dotastro \ud83d\udd2d\ud83e\uddea",
+      "author": "@vrooje.net",
+      "author_name": "Brooke Simmons",
+      "date": "2024-04-26",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/vrooje.net/post/3kqzhbk7v6k2h"
+    },
+    {
+      "id": "bsky-3kr4ifiitsk2y",
+      "text": "In the meantime, @emily.space was awesome at helping us set this up and encouraging us to go for it, and @davidoryan.bsky.social did the actual work of creating the bot and making it work! \u2764\ufe0f this was such a fun way to spend a #dotastro hack day. \ud83d\udd2d\ud83e\uddea",
+      "author": "@vrooje.net",
+      "author_name": "Brooke Simmons",
+      "date": "2024-04-27",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/vrooje.net/post/3kr4ifiitsk2y"
+    },
+    {
+      "id": "bsky-3kr44rm76ml2h",
+      "text": "Bye, Madrid! I had a great time at #dotastro this week chatting with lots of very cool people about lots of very cool astro things",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-27",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3kr44rm76ml2h"
+    },
+    {
+      "id": "bsky-3krbutkgjoc2g",
+      "text": "Interested in learning how to use our Jdaviz tools for #JWST interactive analysis? Sign up for our Jwebbinar on May 22nd! \ud83e\uddea\ud83d\udd2d #dotastro",
+      "author": "@sarahkendrew.bsky.social",
+      "author_name": "Sarah Kendrew",
+      "date": "2024-04-29",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/sarahkendrew.bsky.social/post/3krbutkgjoc2g"
+    },
+    {
+      "id": "bsky-3krb7kkqzrm2v",
+      "text": "One thing to come out of #dotastro last week was this bot that posts a galaxy every hour. \n\nEven then, it will take 171 *years* to post all 1.5 million galaxies labelled in the Galaxy Zoo project.\n\nAnd that's assuming they don't do even more before then... \ud83d\udd2d\ud83e\uddea",
+      "author": "@emily.space",
+      "author_name": "Emily Hunt",
+      "date": "2024-04-29",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/emily.space/post/3krb7kkqzrm2v"
+    }
+  ],
+  "highlights": [
+    "Emily Hunt: \"One thing to come out of #dotastro last week was this bot that posts a galaxy every hour\"",
+    "Sarah Kendrew promoting Jdaviz tools at the event",
+    "Karen Masters connecting it to Galaxy Zoo community",
+    "The community was firmly on Bluesky by this event"
+  ],
+  "notes": "44 posts recovered from the Bluesky public search API. The .Astronomy community had fully embraced Bluesky as its social platform by this point."
+}

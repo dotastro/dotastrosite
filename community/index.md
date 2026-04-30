@@ -55,4 +55,10 @@ description: The .Astronomy community of astronomers, developers, educators and 
     <span class="clc-cta">See the directory &rarr;</span>
   </a>
 
+  <a href="{{ site.baseurl }}/community/tweets" class="community-link-card">
+    <div class="clc-title">Social Archive</div>
+    <p class="clc-desc">Recovered tweets, Bluesky posts, and social media memories from #dotastro events. A preservation effort for content lost when Storify and Twitter closed.</p>
+    <span class="clc-cta">Browse the archive &rarr;</span>
+  </a>
+
 </div>

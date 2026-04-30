@@ -1,0 +1,52 @@
+{
+  "description": "Social media archive for .Astronomy conference events. Recovered from Storify (via Wayback Machine), Bluesky, and archived liveblogs.",
+  "recovery_date": "2026-04-30",
+  "total_posts": 99,
+  "events": [
+    {
+      "event": "three",
+      "year": 2011,
+      "post_count": 1
+    },
+    {
+      "event": "five",
+      "year": 2013,
+      "post_count": 17
+    },
+    {
+      "event": "twelve",
+      "year": 2023,
+      "post_count": 19
+    },
+    {
+      "event": "thirteen",
+      "year": 2024,
+      "post_count": 49
+    },
+    {
+      "event": "general",
+      "year": 0,
+      "post_count": 13
+    }
+  ],
+  "sources_searched": {
+    "storify": "Searched Wayback Machine for storify.com/dotastronomy/* - only dotastro 5 was archived (16 tweets recovered)",
+    "bluesky": "Searched Bluesky public API for \"dotastro\" - 82 posts recovered (2023-2024)",
+    "eventifier": "Searched Wayback Machine for eventifier.co/event/dotastro - page was behind JS challenge, no content recovered",
+    "twitter_wayback": "Twitter/X pages from Wayback Machine were not accessible due to platform changes",
+    "liveblogs": "Recovered three full-day liveblogs from dotastronomy.com via Wayback Machine (dotastro 5)"
+  },
+  "gaps": {
+    "dotastro_1": "No social media archive found (2008, pre-widespread Twitter archiving)",
+    "dotastro_2": "No social media archive found (2009)",
+    "dotastro_3": "One re-shared tweet recovered via Bluesky (2011)",
+    "dotastro_4": "No social media archive found. Storify pages for this event were not captured by Wayback Machine (2012)",
+    "dotastro_6": "No social media archive found. Storify pages were not captured (2014)",
+    "dotastro_7": "No social media archive found (2015)",
+    "dotastro_8": "No social media archive found (2016)",
+    "dotastro_9": "No social media archive found (2017)",
+    "dotastro_X": "No social media archive found (2018)",
+    "dotastro_11": "No data found (likely virtual/pandemic era)"
+  },
+  "note": "Many tweets from 2008-2018 were lost when Twitter changed its API policies and Storify shut down in 2018. Only dotastro 5 had its Storify page archived by the Wayback Machine. The community migration to Bluesky in 2023-2024 means more recent events have better preservation."
+}

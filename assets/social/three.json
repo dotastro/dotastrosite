@@ -1,0 +1,23 @@
+{
+  "event": "three",
+  "year": 2011,
+  "hashtag": "#dotastro",
+  "sources": [
+    "bluesky"
+  ],
+  "posts": [
+    {
+      "id": "bsky-3lcdnw7o77k2p",
+      "text": "Yes but the guns RT @sarahkendrew: \"there are only 12 armies in the world larger the @the_zooniverse community\" - @orbitingfrog #dotastro",
+      "author": "@edyong209.bsky.social",
+      "author_name": "Ed Yong",
+      "date": "2011-04-05",
+      "source": "bluesky",
+      "url": "https://bsky.app/profile/edyong209.bsky.social/post/3lcdnw7o77k2p"
+    }
+  ],
+  "highlights": [
+    "\"there are only 12 armies in the world larger the @the_zooniverse community\" - @orbitingfrog #dotastro (via Ed Yong on Bluesky, originally from 2011)"
+  ],
+  "notes": "Only one post recovered: a re-shared tweet from the original event, found on Bluesky."
+}
