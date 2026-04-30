@@ -7,37 +7,124 @@ title: ".Astronomy 11, Toronto, 2019"
   <div class="event-page-kicker">.Astronomy 11</div>
   <h1 class="event-page-title">Toronto, Canada</h1>
   <div class="event-page-meta">
-    <span> 22–25 October 2019</span>
-    <span> Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto, Ontario</span>
+    <span>22–25 October 2019</span>
+    <span>Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto</span>
   </div>
-  <p class="event-page-desc">The 11th .Astronomy conference was hosted by the Dunlap Institute for Astronomy and Astrophysics at the University of Toronto. This was the first time .Astronomy came to Canada, a country with a rich heritage in astronomy, including the development of Very Long Baseline Interferometry (VLBI), the discovery of Supernova 1987A, and observations of the first known black hole, Cygnus X-1. Toronto has a large community of astronomers with interests across both astronomy and software/data issues, making it an ideal host.</p>
+  <p class="event-page-desc">The first .Astronomy in Canada, hosted by the Dunlap Institute for Astronomy and Astrophysics at the University of Toronto. The conference acknowledged the traditional lands of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit River.</p>
 </div>
 
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
+  <a href="#talks">Talks</a>
+  <a href="#participants">Participants</a>
   <a href="#links">Links</a>
 </nav>
-
 
 <span class="section-label">// organisers</span>
 ## Organisers {#organisers}
 
-- Renee Hlozek (University of Toronto, Co-Chair)
-- Bryan Gaensler (University of Toronto, Co-Chair)
+- Renée Hložek (Dunlap Institute, University of Toronto)
+- Bryan Gaensler (Dunlap Institute)
 - Katie Breivik
+- Kartheik Iyer
 - Siqi Liu
+- Meaghan MacSween
 - Tina Peters
 - Mubdi Rahman
-- Michael Reid
+- Mike Reid
+- Ingrid Small
 - Nathaniel Starkman
+- Alice Chow
+- Joanna Baylon
+- Zoe Jaremus
+
+<span class="section-label">// talks</span>
+## Talks {#talks}
+
+<a href="{{ site.baseurl }}/assets/talks/eleven/dotAstronomy11_schedule.pdf" class="btn btn-outline btn-sm" target="_blank" rel="noopener" style="margin-bottom:1.5rem">Full schedule (PDF)</a>
+
+### Day 0 -- Tuesday 22 October
+
+- **Rob Simpson:** How to get the most from .Astronomy
+- **Suresh Sivanandam** (invited): Data-Driven Approaches for Astronomical Adaptive Optics
+- **Alyssa Goodman:** Enhancing our appreciation for high-dimensional data
+- **Nathaniel Starkman:** Plot all the things
+- **Mike Reid:** Astronomy outreach at scale
+- **David Neto:** Astronomy tricks of a magician &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/DNeto_ThinkingLikeAMagician.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
+- **Tina Peters:** Learn from machine learning: PLAsTiCC
+- **Demitri Muna:** Accessing Heterogeneous Data
+- **Kartheik Iyer:** What can we learn from the SEDs of galaxies? &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Iyer_SEDsOfGalaxies.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
+- **Katharina Lutz:** Write a paper in one Jupyter notebook
+- **Becky Smethurst:** Engaging astronomers in the era of clickbait
+- **Erik Tollerud:** The Astropy community
+- **Coleman Krawczyk:** Zooniverse overview &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Coleman_Zooniverse_Overview.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
+- **Coleman Krawczyk:** Workshop: Building a Zooniverse Project &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Coleman_Building_a_Zooniverse_Project.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
+- **Kelly Lepo:** Editing Wikipedia
+
+### Day 1 -- Wednesday 23 October
+
+- **Brittany Kamai** (invited): Designing the Future of Gravitational Wave Detectors
+- **Nicole Cabrera Salazar** (invited): The Incredible Wholeness of Being
+- **Cassandra Mangroo** (invited): BenchSci
+- **Hilding Neilson:** Integrating Indigenous Knowledge and Astronomy &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Neilson_IndigenousKnowledge.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
+- **Mubdi Rahman:** Gaussian Process Regression
+- Unconference sessions
+
+### Day 3 -- Friday 25 October
+
+- **Jessie Christiansen** (invited): Inreach vs Outreach
+- **Leah Fulmer:** Networking in astronomy
+- **Lauren Corlies:** Outreach to Non-Astronomers &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Corlies_OutreachToNonAstronomers.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
+- Unconference sessions
+- Hack presentations
+
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+Known attendees at .Astronomy 11, Toronto:
+
+<ul class="participants-list">
+<li>Renée Hložek</li>
+<li>Bryan Gaensler</li>
+<li>Katie Breivik</li>
+<li>Kartheik Iyer</li>
+<li>Siqi Liu</li>
+<li>Meaghan MacSween</li>
+<li>Tina Peters</li>
+<li>Mubdi Rahman</li>
+<li>Mike Reid</li>
+<li>Ingrid Small</li>
+<li>Nathaniel Starkman</li>
+<li>Alice Chow</li>
+<li>Joanna Baylon</li>
+<li>Zoe Jaremus</li>
+<li>Rob Simpson</li>
+<li>Suresh Sivanandam</li>
+<li>Alyssa Goodman</li>
+<li>David Neto</li>
+<li>Tina Peters</li>
+<li>Demitri Muna</li>
+<li>Katharina Lutz</li>
+<li>Becky Smethurst</li>
+<li>Erik Tollerud</li>
+<li>Coleman Krawczyk</li>
+<li>Kelly Lepo</li>
+<li>Brittany Kamai</li>
+<li>Nicole Cabrera Salazar</li>
+<li>Cassandra Mangroo</li>
+<li>Hilding Neilson</li>
+<li>Jessie Christiansen</li>
+<li>Leah Fulmer</li>
+<li>Lauren Corlies</li>
+</ul>
 
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [dotastronomy.com](https://www.dotastronomy.com/eleven)
-- [mubdi/dotastroto_gaussianprocesses](https://github.com/mubdi/dotastroto_gaussianprocesses): Gaussian Processes tutorial from .Astronomy 11 Toronto
-- [nstarman/2019-10-22-dotAstronomy-Plotting-Workshop](https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop): Plotting workshop materials from .Astronomy 11
-
+- [Full schedule PDF]({{ site.baseurl }}/assets/talks/eleven/dotAstronomy11_schedule.pdf)
+- [mubdi/dotastroto_gaussianprocesses](https://github.com/mubdi/dotastroto_gaussianprocesses): Gaussian Processes tutorial
+- [nstarman/2019-10-22-dotAstronomy-Plotting-Workshop](https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop): Plotting workshop
 
 <div class="contribute-section" data-event=".Astronomy 11">
 <span class="section-label">// want to add something?</span>
