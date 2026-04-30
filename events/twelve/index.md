@@ -19,12 +19,6 @@ title: ".Astronomy 12, New York, 2023"
   <a href="#links">Links</a>
 </nav>
 
-<div class="contribute-bar">
-  <span class="contribute-bar-label">Know something missing?</span>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%2012%20%E2%80%94%20New%20York%2C%202023" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%2012%20%E2%80%94%20New%20York%2C%202023" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%2012%20%E2%80%94%20New%20York%2C%202023" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
-</div>
 
 <span class="section-label">// organisers</span>
 ## Organisers {#organisers}
@@ -80,3 +74,11 @@ title: ".Astronomy 12, New York, 2023"
 - [emolter/dotAstro12-contribute-to-astropy](https://github.com/emolter/dotAstro12-contribute-to-astropy): contributing to Astropy session materials
 - [samvaughan/dotastro-snakemake-showyourwork-session](https://github.com/samvaughan/dotastro-snakemake-showyourwork-session): Snakemake and showyourwork tutorial session
 - [dr-rodriguez/MOC_dotAstro12](https://github.com/dr-rodriguez/MOC_dotAstro12): Multi-Order Coverage hack from .Astronomy 12
+
+---
+<div class="contribute-bar">
+  <span class="contribute-bar-label">Know something missing?</span>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%2012%20%E2%80%94%20New%20York%2C%202023" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%2012%20%E2%80%94%20New%20York%2C%202023" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%2012%20%E2%80%94%20New%20York%2C%202023" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>

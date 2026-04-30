@@ -19,12 +19,6 @@ title: ".Astronomy 9, Cape Town, 2017"
   <a href="#links">Links</a>
 </nav>
 
-<div class="contribute-bar">
-  <span class="contribute-bar-label">Know something missing?</span>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%209%20%E2%80%94%20Cape%20Town%2C%202017" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%209%20%E2%80%94%20Cape%20Town%2C%202017" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%209%20%E2%80%94%20Cape%20Town%2C%202017" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
-</div>
 
 <span class="section-label">// organisers</span>
 ## Organisers {#organisers}
@@ -106,3 +100,11 @@ Themes included machine learning, web interfaces, software development, educatio
 - [dotastronomy.com](https://www.dotastronomy.com/nine)
 - [bmorris3/dotastro9_astroplan_astroquery](https://github.com/bmorris3/dotastro9_astroplan_astroquery): tutorial materials for astroplan and astroquery
 - [drarnakarick/dotastro9_we_are_science](https://github.com/drarnakarick/dotastro9_we_are_science): "We Are Science" project materials from .Astronomy 9
+
+---
+<div class="contribute-bar">
+  <span class="contribute-bar-label">Know something missing?</span>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%209%20%E2%80%94%20Cape%20Town%2C%202017" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%209%20%E2%80%94%20Cape%20Town%2C%202017" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%209%20%E2%80%94%20Cape%20Town%2C%202017" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>

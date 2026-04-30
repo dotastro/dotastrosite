@@ -20,12 +20,6 @@ title: ".Astronomy 2, Leiden, 2009"
   <a href="#links">Links</a>
 </nav>
 
-<div class="contribute-bar">
-  <span class="contribute-bar-label">Know something missing?</span>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
-  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
-</div>
 
 <span class="section-label">// organisers</span>
 ## Organisers {#organisers}
@@ -124,3 +118,11 @@ Approximately 50 people attended .Astronomy 2 in Leiden, November–December 200
 ### Sponsors
 
 .Astronomy 2 was generously supported by the Lorentz Center, Astron, the Royal Astronomical Society (RAS), the British Council, NWO, RadioNet, and the Platform Beta Techniek.
+
+---
+<div class="contribute-bar">
+  <span class="contribute-bar-label">Know something missing?</span>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%202%20%E2%80%94%20Leiden%2C%202009" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>
