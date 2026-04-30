@@ -59,14 +59,57 @@ Topics discussed at .Astronomy 3 included:
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Approximately 50 people attended .Astronomy 3 at New College, Oxford, April 2011. Known attendees:
+47 confirmed attendees at .Astronomy 3, New College, Oxford, April 2011.
 
-- Amanda Bauer (@astropixie)
-- Markus Poessel (@mpoessel)
-- Robert Simpson (University of Oxford)
-- Chris Lintott (University of Oxford)
-- Arfon Smith (University of Oxford)
-- Stuart Lynn (@stuart_lynn)
+<ul class="participants-list">
+<li>Alasdair Allan (University of Exeter)</li>
+<li>Amanda Bauer (Australian Astronomical Observatory)</li>
+<li>Arfon Smith (Oxford University)</li>
+<li>Ariel Waldman (Spacehack.org / Science Hack Day SF)</li>
+<li>Aude Alapini Odunlade (University of Exeter)</li>
+<li>Bipana Bantawa (Oxford University)</li>
+<li>Boris Häußler (University of Nottingham)</li>
+<li>Cameron Neylon (STFC)</li>
+<li>Carolina Ödman-Govender (SKA / SAAO / AIMS)</li>
+<li>Chris Kemp (NASA)</li>
+<li>Chris Lintott (Oxford University)</li>
+<li>Chris North (Cardiff University)</li>
+<li>Cory Lehan (SIUE)</li>
+<li>Danny Price (Oxford University)</li>
+<li>David Hogg (New York University)</li>
+<li>Edward Gomez (Las Cumbres Observatory)</li>
+<li>Eli Bressert (Exeter / ESO / CfA)</li>
+<li>Francisco Manuel Sánchez-Moreno (Universidad Politécnica de Madrid)</li>
+<li>Geert Barentsen (Armagh Observatory)</li>
+<li>Griffin Foster (Oxford University)</li>
+<li>Haley Gomez (Cardiff University)</li>
+<li>Jill Tarter (SETI Institute)</li>
+<li>Joe Zuntz (Oxford University)</li>
+<li>Jon Yardley (Freelance Web Developer)</li>
+<li>Jonathan Fay (Microsoft Research)</li>
+<li>Jose Enrique Ruiz (Instituto Astrofísica Andalucia)</li>
+<li>Karen Masters (University of Portsmouth)</li>
+<li>Kevin Govender</li>
+<li>Markus Pössel (CAEO, Heidelberg)</li>
+<li>Matthew Graham (Caltech)</li>
+<li>Matthew Povich (Penn State University)</li>
+<li>Meg Schwamb (Yale University)</li>
+<li>Michael Williams (Oxford University)</li>
+<li>Mike Peel (Jodrell Bank / Wikimedia UK)</li>
+<li>Nick Howes (Astronomy Now Magazine)</li>
+<li>Norman Gray (University of Glasgow)</li>
+<li>Pamela Gay (SIUE)</li>
+<li>Phil Bull (Oxford University)</li>
+<li>Phil Marshall (Oxford University)</li>
+<li>Robert Hollow (CSIRO Astronomy and Space Science)</li>
+<li>Robert Simpson (Oxford University)</li>
+<li>Sarah Kendrew (MPIA)</li>
+<li>Stuart Lowe (Las Cumbres Observatory)</li>
+<li>Stuart Lynn (Oxford University)</li>
+<li>Thomas Boch (CDS, Observatoire de Strasbourg)</li>
+<li>Thomas Robitaille (Harvard-Smithsonian CfA)</li>
+<li>Toner Stevenson (Sydney Observatory)</li>
+</ul>
 
 <span class="section-label">// links</span>
 ## Links {#links}
