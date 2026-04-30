@@ -142,6 +142,11 @@ description: "Everyone who has ever attended a .Astronomy conference."
 })();
 </script>
 
-<p style="margin-top:2rem; font-family:var(--font-mono); font-size:0.7rem; color:var(--text-dim)">
-  Directory rebuilt nightly from event pages. Role key: <span class="event-badge-xs eb-eight eb-role-org">8</span> organiser &nbsp; <span class="event-badge-xs eb-eight eb-role-spk">8</span> speaker &nbsp; <span class="event-badge-xs eb-eight">8</span> attendee. Missing someone? <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml">Add them via GitHub.</a>
-</p>
+<div class="dir-footer-actions">
+<p>Role key: <span class="event-badge-xs eb-eight eb-role-org">8</span> organiser &nbsp; <span class="event-badge-xs eb-eight eb-role-spk">8</span> speaker &nbsp; <span class="event-badge-xs eb-eight">8</span> attendee</p>
+<div class="dir-footer-links">
+<a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Add someone missing</a>
+<a href="https://github.com/dotastro/dotastrosite/issues/new?template=update_participant.yml" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Correct my record</a>
+</div>
+<p style="font-family:var(--font-mono); font-size:0.68rem; color:var(--text-dim); margin-top:0.75rem">Directory rebuilt nightly from event pages. Changes submitted via GitHub are reviewed before being applied.</p>
+</div>
