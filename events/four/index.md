@@ -180,13 +180,13 @@ The document covers: visualisation, JavaScript and Python in the browser, crowds
 
 **Authors:** Robert Simpson, Chris Lintott, Amanda Bauer, Bruce Berriman, Edward Gomez, Sarah Kendrew, Thomas Kitching, August Muench, Demitri Muna, Thomas Robitaille, Megan E. Schwamb, Brooke Simmons
 
-<a href="https://docs.google.com/document/d/1x8GffmAk8nRItzuUERDpfZb4qSwiqV1f4I30XSrmvMY/edit" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Read the Unproceedings</a>
+<a href="https://arxiv.org/abs/1301.5193" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Read on arXiv (1301.5193)</a>
 
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [dotastronomy.com](https://www.dotastronomy.com/four)
-- [.Astronomy 4 Unproceedings](https://docs.google.com/document/d/1x8GffmAk8nRItzuUERDpfZb4qSwiqV1f4I30XSrmvMY/edit)
+- [.Astronomy 4 Unproceedings -- arXiv:1301.5193](https://arxiv.org/abs/1301.5193)
 
 
 <div class="contribute-section" data-event=".Astronomy 4">
