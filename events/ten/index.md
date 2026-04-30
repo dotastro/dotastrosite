@@ -7,10 +7,10 @@ title: ".Astronomy X, Baltimore, 2018"
   <div class="event-page-kicker">.Astronomy X</div>
   <h1 class="event-page-title">Baltimore, MD, USA</h1>
   <div class="event-page-meta">
-    <span> 24–27 September 2018</span>
-    <span> Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
+    <span>24–27 September 2018</span>
+    <span>Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
   </div>
-  <p class="event-page-desc">The tenth .Astronomy conference, known as ".Astronomy X" (using the Roman numeral), was held at the Space Telescope Science Institute in Baltimore, Maryland. STScI is the science operations centre for the Hubble Space Telescope and the James Webb Space Telescope, making it a fitting venue for a conference at the intersection of astronomy and technology. Most talks were webcast live and recorded. Sarah Kendrew's talk, "Ten Years of .Astronomy", reflected on the conference series' decade-long journey from a small gathering of 30 people in Cardiff to a globally recognised community.</p>
+  <p class="event-page-desc">The tenth edition of .Astronomy, held at the Space Telescope Science Institute in Baltimore -- science operations centre for the Hubble Space Telescope and James Webb Space Telescope. The Roman numeral X made for a fittingly memorable name. Organised jointly by STScI staff and the .Astronomy Brain Trust.</p>
 </div>
 
 <nav class="event-page-nav" aria-label="Jump to section">
@@ -21,47 +21,87 @@ title: ".Astronomy X, Baltimore, 2018"
   <a href="#links">Links</a>
 </nav>
 
-
 <span class="section-label">// organisers</span>
 ## Organisers {#organisers}
 
-- Sarah Kendrew (ESA/STScI, Chair)
-- Arfon Smith (STScI, co-Chair)
+- Sarah Kendrew (ESA)
+- Arfon Smith (STScI)
 - Erik Tollerud (STScI)
 - Joshua Peek (STScI)
 - Ivelina Momcheva (STScI)
 - Tom Donaldson (STScI)
 - Susan Kassin (STScI)
 
-Supported by the American Astronomical Society.
-
 <span class="section-label">// talks</span>
 ## Talks {#talks}
 
-### Invited Speakers
+<a href="{{ site.baseurl }}/assets/talks/ten/AstronomyX_Schedule.xlsx" class="btn btn-outline btn-sm" target="_blank" rel="noopener" style="margin-bottom:1.5rem">Full schedule (XLSX)</a>
 
-- **Andy Connolly** (University of Washington): *Back To The Future: A Decade of LSST Development and the Growth in Machine Learning*
-- **Jarita Holbrook** (University of the Western Cape): (not recorded)
-- **Sarah Horst** (Johns Hopkins University): (not recorded)
-- **James Howison** (University of Texas at Austin): *Software makes science better. But is it Research?*
-- **Alcione Mora** (European Space Agency): *Gaia: Science, Data and Challenges*
+### Day 0 -- Monday 24 September (Bachall Auditorium, STScI)
 
-### Day Zero Introductory Talks
+Tutorials and workshops running in parallel across three rooms:
 
-- **Jane Rigby** (NASA Goddard Space Flight Center): *The Future of NASA Astrophysics Missions*
-- **Erik Tollerud** (STScI): *Intro To Open Source/Astropy/Open Development*
-- **Clara Brasseur** and **Tom Donaldson** (STScI): *Introductions to MAST, Astroquery.Mast Demo*
-- **Frank Summers** and **Alex Lockwood** (STScI): *OPO Presentation: Cinematic Astronomy*
-- **Sarah Kendrew** (ESA): *Ten Years of .Astronomy*
+- **Sarah Kendrew:** Ten Years of .Astronomy (plenary)
+- **Jane Rigby:** The Future of NASA Astrophysics Missions (plenary)
+- **Erik Tollerud:** Intro to open source, Astropy, and open development; Python packaging
+- **Clara Brasseur and Tom Donaldson:** Making use of MAST (Mikulski Archive for Space Telescopes)
+- **Matthew Bourque and Jules Fowler:** Git(Hub) 401
+- **Azalee Bostroem and Lauren Chambers:** Git(Hub) 101
+- **Clara Brasseur and Steve Crawford:** Kicking the tires: Astropy and Astroquery
+- **Jamie Kinney:** Introduction to Google Cloud
+- **Jules Fowler and Matthew Bourque:** Flask
+- **Frank Summers:** Cinematic Astronomy (plenary close)
 
-### Contributed Talks
+### Day 1 -- Tuesday 25 September
 
-- **Stephanie Juneau** (NOAO, Tucson): *Galaxy Evolution at the Crossroads of Astronomy and Data Science*
-- **Ayat Mohammed** (University of Texas at Austin): *Visualize This: Lessons from the Front-lines of High Performance Visualization*
-- **Lauren Chambers** (STScI): *A Different Kind of Dark Energy: Placing Race and Gender in Physics*
-- **Brian Nord** (Fermilab / University of Chicago): *Ethics in AI: What Does the Future Hold for Science, Work, Privacy, Justice*
-- **Dara Norman** (NOAO): *Can Big Data Lead an Inclusion Revolution?*
-- **Craig Jones** (STScI): *Hubble Image Discovery using Transfer Learning*
+**Invited talks:**
+- **James Howison** (invited): Software makes science better, but is it research? Arguments for a research agenda in scientific software work
+- **Alcione Mora** (invited): Gaia: science, data and challenges
+
+**Contributed talks:**
+- **Stephanie Juneau:** Galaxy Evolution at the crossroad of Astronomy and Data Science
+- **Ayat Mohammed:** Visualize This: Lessons from the front-lines of high-performance visualisation
+- **Lauren Chambers:** A Different Kind of Dark Energy: Placing Race and Gender in Physics
+- **Brian Nord:** Ethics in AI: What does the future hold for science, work, privacy, justice?
+
+**Unconference sessions (3 parallel tracks):**
+
+Session 1:
+- Bokeh 101 [David R] -- <a href="https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+- Make Astro People Believe Social Scientists [Azalee] -- <a href="https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+- What Can Google Do for Astronomers [Rob S] -- <a href="https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+
+Session 2:
+- Deep Learning with Kepler [Jonathan F] -- <a href="https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+- NOAO Data Lab: Tutorials and Demos [S. Juneau] -- <a href="https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+- More Discussion about Credit for Software [Chris L] -- <a href="https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+
+Session 3:
+- Cloud Compute 101 [Iva M] -- <a href="https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+- Multi-Dimensional Data-Viz with Glue [Catherine Z] -- <a href="https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+- Thinking More About Race/Gender in Physics [Lauren C] -- <a href="https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+
+### Day 3 -- Thursday 27 September
+
+**Invited talks:**
+- **Andrew Connolly** (invited): Back to the Future: a decade of LSST development and the growth in machine learning
+- **Jarita Holbrook** (invited): Educating Astrophysicists in South Africa
+- **Sarah Hörst** (invited): The Role of Laboratory Work in Space Science
+
+**Contributed talks:**
+- **Dara Norman:** Can Big Data Lead an Inclusion Revolution?
+- **Craig Jones:** Hubble Image Discovery using Transfer Learning
+
+**Unconference sessions:**
+- Techniques and Tools for Maintaining Mental Health [Bridget]
+- What Should Journals do with Jupyter Notebooks? [Chris L]
+- Inclusiveness Statistics [Geert]
+- How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]
+- Q&A on Astro to Tech Careers
+- Reproducibility in Astronomy: How are we Doing? [Erik]
+- Auto ML 101 [Iva]
+- Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]
+- What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
@@ -69,70 +109,48 @@ Supported by the American Astronomical Society.
 <div class="hacks-grid">
 
 <div class="hack-card">
-<div class="hack-title">Alternatives to Transparency in Multiwavelength Visualization</div>
-<div class="hack-creators">Carolina Odman</div>
-<div class="hack-desc">Exploring other ways to browse overlaid images in different wavelengths beyond simple transparency.</div>
-</div>
-
-<div class="hack-card">
-<div class="hack-title">Bokeh Hacking with FITS Images</div>
-<div class="hack-creators">David Rodriguez</div>
-<div class="hack-desc">Working out how to use FITS images, catalog data, and observation footprints with the Bokeh visualisation library.</div>
-<div class="hack-links"><a href="https://github.com/dr-rodriguez/BokehHack">Source</a> | <a href="https://dr-portal.herokuapp.com">Live</a></div>
-</div>
-
-<div class="hack-card">
 <div class="hack-title">Contributor Plots for Astropy-Affiliated Packages</div>
 <div class="hack-creators">Matthew Bourque, Erik Tollerud</div>
-<div class="hack-desc">Code that uses the GitHub REST API to plot the number of unique contributors over time for astropy-affiliated packages.</div>
-<div class="hack-links"><a href="https://github.com/astropy/astropy-procedures/pull/96">Source</a></div>
+<p class="hack-desc">Visualisation tools showing contribution activity across the Astropy ecosystem of affiliated packages.</p>
 </div>
 
 <div class="hack-card">
 <div class="hack-title">Data Sonification</div>
 <div class="hack-creators">Clara Brasseur, Nuwanthika Fernando</div>
-<div class="hack-desc">Experimenting with turning astronomical data into sound.</div>
-<div class="hack-links"><a href="https://github.com/ceb8/SonificationExperiments">Source</a></div>
+<p class="hack-desc">Tools and techniques for converting astronomical data into sound.</p>
 </div>
 
 <div class="hack-card">
-<div class="hack-title">Developing Social Justice Reading Groups for Astronomical Communities</div>
-<div class="hack-creators">Lauren Chambers, Gourav Khullar</div>
-<div class="hack-desc">Collecting resources and texts to generate a syllabus for social justice/equity/diversity/inclusion discussion groups in astronomical institutions.</div>
+<div class="hack-title">Specreduce</div>
+<div class="hack-creators">Erik Tollerud and collaborators</div>
+<p class="hack-desc">A spectral data reduction package for Astropy.</p>
 </div>
 
 <div class="hack-card">
-<div class="hack-title">Optical Depth in a Minute</div>
-<div class="hack-creators">Rocio Kiman, Carolina Odman</div>
-<div class="hack-desc">Creating short (approximately 60 second) educational videos that explain astronomical concepts using simple tools.</div>
+<div class="hack-title">Social Justice Reading Group Resource</div>
+<div class="hack-creators">Lauren Chambers, Brian Nord and collaborators</div>
+<p class="hack-desc">A curated resource to support astronomy departments running social justice and equity reading groups.</p>
 </div>
 
 <div class="hack-card">
-<div class="hack-title">Public Outreach Tool for Exploring Research Interactively</div>
-<div class="hack-creators">Claire Murray, Jules Fowler</div>
-<div class="hack-desc">A web-based outreach tool for contextualising astronomical research for the public by tagging recent science results to interactive all-sky maps, using Aladdin Lite.</div>
-<div class="hack-links"><a href="http://github.com/cmurray-astro/dotastro_hack">Source</a></div>
+<div class="hack-title">Interactive Research Explorer</div>
+<div class="hack-creators">C. Murray and collaborators</div>
+<p class="hack-desc">A public outreach tool for exploring research interactively.</p>
+<div class="hack-links"><a href="https://github.com/cmurray-astro/dotastro_hack" class="hack-link" target="_blank" rel="noopener">GitHub</a></div>
 </div>
 
 <div class="hack-card">
-<div class="hack-title">Space, Wow</div>
-<div class="hack-creators">Joseph Long, Frank Summers</div>
-<div class="hack-desc">Building something like the HubbleSite video experience live in the browser.</div>
-<div class="hack-links"><a href="https://github.com/joseph-long/space-wow">Source</a> | <a href="https://joseph-long.github.io/space-wow/">Live</a></div>
+<div class="hack-title">.Astronomy X Scripts</div>
+<div class="hack-creators">David Rodriguez</div>
+<p class="hack-desc">Scripts and code developed at .Astronomy X.</p>
+<div class="hack-links"><a href="https://github.com/dr-rodriguez/dotAstroX_scripts" class="hack-link" target="_blank" rel="noopener">GitHub</a></div>
 </div>
 
 <div class="hack-card">
-<div class="hack-title">Specreduce: A Hack Day Package</div>
-<div class="hack-creators">Azalee Bostroem, Mees Fix, Iva Momcheva, Laura Prichard</div>
-<div class="hack-desc">Advancing the specreduce package: clean wavelength tables, convenient function access, air-to-vacuum conversion, and testing of the trace function.</div>
-<div class="hack-links"><a href="https://github.com/astropy/specreduce">Source</a></div>
-</div>
-
-<div class="hack-card">
-<div class="hack-title">You Might Also Like These Matplotlib Keywords</div>
-<div class="hack-creators">Benjamin Weiner</div>
-<div class="hack-desc">Reads a training set of Python files for matplotlib function calls, then reads your file and shows the most commonly used keywords for the functions you actually used.</div>
-<div class="hack-links"><a href="https://github.com/bjweiner/dotastro/tree/master/keyword_recommend">Source</a></div>
+<div class="hack-title">.Astronomy X Resources</div>
+<div class="hack-creators">Victor Calderon</div>
+<p class="hack-desc">Repository for information and materials from .Astronomy X.</p>
+<div class="hack-links"><a href="https://github.com/vcalderon2009/dotAstronomy_X" class="hack-link" target="_blank" rel="noopener">GitHub</a></div>
 </div>
 
 </div>
@@ -140,24 +158,51 @@ Supported by the American Astronomical Society.
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-### Scientific Organisation Committee
+Known attendees at .Astronomy X, Baltimore:
 
-- Sarah Kendrew (ESA/STScI, Chair)
-- Arfon Smith (STScI, co-Chair)
-- Tom Donaldson (STScI)
-- Susan Kassin (STScI)
-- Iva Momcheva (STScI)
-- Josh Peek (STScI)
-- Erik Tollerud (STScI)
+<ul class="participants-list">
+<li>Sarah Kendrew</li>
+<li>Arfon Smith</li>
+<li>Erik Tollerud</li>
+<li>Joshua Peek</li>
+<li>Ivelina Momcheva</li>
+<li>Tom Donaldson</li>
+<li>Susan Kassin</li>
+<li>Jane Rigby</li>
+<li>Frank Summers</li>
+<li>Clara Brasseur</li>
+<li>Steve Crawford</li>
+<li>Matthew Bourque</li>
+<li>Jules Fowler</li>
+<li>Azalee Bostroem</li>
+<li>Lauren Chambers</li>
+<li>Jamie Kinney</li>
+<li>James Howison</li>
+<li>Stephanie Juneau</li>
+<li>Ayat Mohammed</li>
+<li>Brian Nord</li>
+<li>Alcione Mora</li>
+<li>Rob Simpson</li>
+<li>Nuwanthika Fernando</li>
+<li>Andrew Connolly</li>
+<li>Dara Norman</li>
+<li>Craig Jones</li>
+<li>Jarita Holbrook</li>
+<li>Sarah Hörst</li>
+<li>David Rodriguez</li>
+<li>Victor Calderon</li>
+<li>Geert Barentsen</li>
+<li>Catherine Zucker</li>
+</ul>
 
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [dotastronomy.com](https://www.dotastronomy.com/ten)
-- [vcalderon2009/dotAstronomy_X](https://github.com/vcalderon2009/dotAstronomy_X): materials from .Astronomy X
-- [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack): public outreach tool hack
+- [Full schedule (XLSX)]({{ site.baseurl }}/assets/talks/ten/AstronomyX_Schedule.xlsx)
+- [vcalderon2009/dotAstronomy_X](https://github.com/vcalderon2009/dotAstronomy_X): .Astronomy X resources repository
+- [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack): outreach hack
 - [dr-rodriguez/dotAstroX_scripts](https://github.com/dr-rodriguez/dotAstroX_scripts): scripts from .Astronomy X
-
 
 <div class="contribute-section" data-event=".Astronomy X">
 <span class="section-label">// want to add something?</span>
