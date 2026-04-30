@@ -210,7 +210,6 @@ Known attendees at .Astronomy 13 in Madrid, 2024.
 <li>James Trayford</li>
 <li>Jose A. Caballero</li>
 <li>Mike Walmsley</li>
-<li>Robert Simpson (Google)</li>
 <li>Sandor Kruk (ESAC/ESA)</li>
 <li>Sarah Kendrew (ESA, Baltimore)</li>
 <li>Shahrzad Mirsoltani</li>
