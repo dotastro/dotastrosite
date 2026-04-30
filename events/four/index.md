@@ -18,6 +18,7 @@ title: ".Astronomy 4, Heidelberg, 2012"
   <a href="#talks">Talks</a>
   <a href="#hacks">Hacks</a>
   <a href="#participants">Participants</a>
+  <a href="#unproceedings">Unproceedings</a>
   <a href="#links">Links</a>
 </nav>
 
@@ -170,10 +171,22 @@ Approximately 50 people attended .Astronomy 4 in Heidelberg, July 2012.
 - Adam Tarnoff (Adler Planetarium)
 - Laura Whyte (Adler Planetarium, @whytewithawhy)
 
+<span class="section-label">// unproceedings</span>
+## Unproceedings {#unproceedings}
+
+.Astronomy 4 produced a collaborative "Unproceedings" document: a written record edited by attendees covering the key themes and ideas from the conference. This was an experiment in documenting an informal conference in the spirit of .Astronomy itself.
+
+The document covers: visualisation, JavaScript and Python in the browser, crowdsourcing, career development and hack culture, hacking the literature, education for a global audience, and a summary of hacks. It includes the observation that 48 of 51 attendees had Twitter accounts and generated over 1,200 #dotastro tweets during the three-day meeting.
+
+**Authors:** Robert Simpson, Chris Lintott, Amanda Bauer, Bruce Berriman, Edward Gomez, Sarah Kendrew, Thomas Kitching, August Muench, Demitri Muna, Thomas Robitaille, Megan E. Schwamb, Brooke Simmons
+
+<a href="https://docs.google.com/document/d/1x8GffmAk8nRItzuUERDpfZb4qSwiqV1f4I30XSrmvMY/edit" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Read the Unproceedings</a>
+
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [dotastronomy.com](https://www.dotastronomy.com/four)
+- [.Astronomy 4 Unproceedings](https://docs.google.com/document/d/1x8GffmAk8nRItzuUERDpfZb4qSwiqV1f4I30XSrmvMY/edit)
 
 
 <div class="contribute-section" data-event=".Astronomy 4">
