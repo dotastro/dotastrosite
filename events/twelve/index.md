@@ -16,6 +16,7 @@ title: ".Astronomy 12, New York, 2023"
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
   <a href="#programme">Programme</a>
+  <a href="#talks">Talks</a>
   <a href="#hacks">Hacks</a>
   <a href="#links">Links</a>
 </nav>
@@ -36,15 +37,57 @@ title: ".Astronomy 12, New York, 2023"
 <span class="section-label">// programme</span>
 ## Programme {#programme}
 
-.Astronomy 12 ran across five days with attendance around 80 participants.
+.Astronomy 12 ran across five days with around 80 participants, spread across two venues: 162 IDA (the Flatiron Institute) and Math for America (MfA, 17th floor).
 
-- **Monday (Day 0):** Tutorials and workshops at Math for America (MfA)
-- **Tuesday:** Talks and sessions at the IDA Auditorium (capacity 100), with breakout rooms available
-- **Wednesday (Hack Day):** Full day at Math for America, moving to the Flatiron for the evening
-- **Thursday:** Talks and sessions, with breakout rooms for unconferences
-- **Friday:** Optional continued hacking
+| Day | Date | Location | Theme |
+|-----|------|----------|-------|
+| Day 0 | Monday 2 Oct | MfA 17th floor | Tutorials and workshops |
+| Day 1 | Tuesday 3 Oct | IDA Auditorium | Talks and unconferences |
+| Hack Day | Wednesday 4 Oct | MfA 14th and 17th floors, then IDA | Pitches, hacking, presentations |
+| Day 3 | Thursday 5 Oct | IDA and Promenade | Talks, unconferences, hack presentations |
+| Day 4 | Friday 6 Oct | MfA 17th floor | Optional continued hacking, CCA Colloquium |
 
 Talks were live-broadcast. The event was funded in part via NASA's TWSC OSSI initiative. Registration fee was $200, with waivers available.
+
+<span class="section-label">// talks and sessions</span>
+## Talks {#talks}
+
+### Day 0 -- Monday 2 October (MfA, 17th floor)
+
+- **Lia Corrales:** Version control with Git and GitHub
+- **Andy Tzanidakis:** Intro to Astronomy Outreach
+- **Dan Foreman-Mackey:** How to Release Your Code
+- **Brett Morris:** Interactive Data Visualisation and Analysis with Jdaviz
+- **Emily Hunt:** Everything about Bluesky
+- How to Unconference (facilitated session)
+
+### Day 1 -- Tuesday 3 October (IDA)
+
+- **Steven Crawford** (NASA): NASA Open Science (45m)
+- **Natalie Gosnell:** Art and Science: Choices (45m)
+- **Caprice Phillips:** Black in Astro (45m)
+- How to Unconference (fast format)
+
+**Unconference sessions:**
+- Snakemake Pipelines and ShowYourWork (Ned and Mark)
+- Astro-animation Workshop (Robin and Laurence)
+- Creative Science Curriculum (Natalie)
+- Data sharing for small collaborations (Kelle)
+- Web tools for making data accessible (Luciano)
+- GenAI for Research and Teaching (Ashley)
+- Funding, algorithms, telescopes: ethical practices (Charlotte)
+
+### Day 3 -- Thursday 5 October (IDA)
+
+- **Jackie Faherty:** Open Space (45m)
+- **Brett:** Contributing to Astropy
+- **Lia:** How to stay informed on latest code, tools and trends
+- **Benjamin:** Spectroscopy software ecosystem
+- More Open Space + Glue + WWT (Micah, Jackie, Alyssa, Theo, Emily)
+- How to Make a Free Personal Website via GitHub (Lindsay G)
+- 3D/VR/AR Resources for Art and Education (Stephanie and Ashley)
+
+**Unconference sessions:** Three parallel sessions (A, B, C)
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
