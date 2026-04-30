@@ -58,7 +58,7 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <div class="person-handle"><a href="https://bsky.app/profile/orbitingfrog.bsky.social" target="_blank" rel="noopener">orbitingfrog.bsky.social</a></div>
 </div>
 </div>
-<p class="person-bio">Rob founded .Astronomy in Cardiff in 2008 as a PhD student, and has been the driving force behind the series ever since. He has organised or co-organised more editions than anyone else, and is the keeper of the community's institutional memory. As Chairperson, he sets the direction for both the Foundation and the conference series.</p>
+<p class="person-bio">Rob started .Astronomy in Cardiff in 2008, while still a PhD student. He has been involved in organising the conference in one form or another ever since, and knows more about its history than anyone else.</p>
 </div>
 
 <div class="person-card" data-handle="sarahkendrew.bsky.social">
@@ -70,7 +70,7 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <div class="person-handle"><a href="https://bsky.app/profile/sarahkendrew.bsky.social" target="_blank" rel="noopener">sarahkendrew.bsky.social</a></div>
 </div>
 </div>
-<p class="person-bio">Sarah has helped run more .Astronomy events than anyone else, and is one of the most well-connected people in UK and European astronomy. As an instrument scientist on the James Webb Space Telescope at ESA and STScI, she brings both deep scientific credibility and an extraordinary network of researchers, communicators, and developers. She has been invaluable in finding scientific speakers and participants throughout the series, and serves as Secretary to the Foundation.</p>
+<p class="person-bio">Sarah has helped organise more .Astronomy events than anyone except Rob, and has been central to finding speakers and participants across many editions. She is an instrument scientist on the James Webb Space Telescope at ESA's Space Telescope Science Institute in Baltimore.</p>
 </div>
 
 <div class="person-card" data-handle="chrislintott.bsky.social">
@@ -82,7 +82,7 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <div class="person-handle"><a href="https://bsky.app/profile/chrislintott.bsky.social" target="_blank" rel="noopener">chrislintott.bsky.social</a></div>
 </div>
 </div>
-<p class="person-bio">Professor of Astrophysics at Oxford University, Chris has been part of .Astronomy from the very beginning. As lead of the Zooniverse, the world's largest citizen science platform, he brings both enormous scientific credibility and a network that spans research, outreach, and the institutions that matter. His presence gives the Foundation authority and opens doors.</p>
+<p class="person-bio">Chris is Professor of Astrophysics at Oxford University and leads the Zooniverse citizen science group. He has been involved with .Astronomy since the beginning and has been a consistent part of what makes the conference work.</p>
 </div>
 
 </div>
