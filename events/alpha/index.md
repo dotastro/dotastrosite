@@ -15,8 +15,8 @@ title: ".Astronomy Alpha, Online, 2020"
 
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
-  <a href="#links">Links</a>
   <a href="#participants">Participants</a>
+  <a href="#links">Links</a>
 </nav>
 
 
@@ -42,16 +42,41 @@ The conference featured the normal .Astronomy mix of talks, unconference session
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
-Known attendees at .Astronomy alpha (online), 2020.
+29 confirmed attendees at .Astronomy alpha, August 2020.
 
 <ul class="participants-list">
+<li>Alex Gagliano (University of Illinois at Urbana-Champaign)</li>
+<li>Angela Tanner (Mississippi State University)</li>
+<li>Ania Kapuscinska (Thought Machine / Open University)</li>
 <li>Becky Smethurst (University of Oxford)</li>
+<li>Brett Morris (University of Bern)</li>
 <li>Chris Lintott (University of Oxford)</li>
+<li>Cliff Johnson (Zooniverse / Northwestern University)</li>
+<li>Danielle Rowland (American Museum of Natural History)</li>
+<li>Devontae Baxter (University of California, Irvine)</li>
+<li>Emily Hunt (Landessternwarte Heidelberg)</li>
+<li>Gabriele Cepparulo (University of Manchester)</li>
+<li>Heidi Thiemann (Open University)</li>
+<li>Joanna Barstow (The Open University)</li>
+<li>Joseph Ribaudo (Providence College)</li>
+<li>Juanjo Bazan (Independent)</li>
+<li>Justyn Campbell-White (University of Dundee)</li>
+<li>Leo Burtscher (Leiden Observatory)</li>
+<li>Matt Brealey (Developer)</li>
+<li>Meg Schwamb (Queen's University Belfast)</li>
+<li>Nina Cameron (Glasgow Science Centre)</li>
+<li>Raquel Yumi Shida (ESO / IAU / ESA)</li>
 <li>Robert Simpson (Google)</li>
-<li>Sarah Kendrew (ESA/STScI)</li>
+<li>Samuel Pearson (University of St Andrews)</li>
+<li>Sarah Kendrew (ESO)</li>
+<li>Shreyas Bapat (IIT Mandi)</li>
+<li>Stefania Amodeo (Cornell University)</li>
+<li>Tamara Civera (CEFCA)</li>
+<li>Timothy Gebhard (CEFCA)</li>
+<li>Tomas Muller (University of Southampton)</li>
+<li>Wilhelmina Nekoto (HTW-Berlin)</li>
+<li>Yan Grange (ASTRON)</li>
 </ul>
-
-_Participant list to be compiled. If you attended, [add yourself](https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml)._
 
 <div class="contribute-section" data-event=".Astronomy alpha">
 <span class="section-label">// want to add something?</span>
