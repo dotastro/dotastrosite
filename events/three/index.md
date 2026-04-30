@@ -32,15 +32,34 @@ title: ".Astronomy 3, Oxford, 2011"
 <span class="section-label">// talks</span>
 ## Talks {#talks}
 
-Trending topics: Amazon AWS, Crowdsourcing, Twitter, SETI.
+### Monday
 
-Topics discussed at .Astronomy 3 included:
+- **Jill Tarter** (SETI Institute): invited keynote (09:30--10:30)
+- **Ed Gomez** (LCOGT): talk (11:00--11:20)
+- **Mike Peel** (Wikimedia UK): talk (11:20--11:30)
+- **Matt Wood** (AWS): talk (11:40--12:00)
+- **Chris Lintott** (Oxford University): talk (12:00--12:20)
+- Unconference sessions (afternoon)
+- Debrief (17:00--17:30)
 
-- Citizen science platforms and the Zooniverse
-- Amazon Web Services for astronomy
-- Chromoscope and browser-based visualisation
-- REF impact evaluation for astronomy tools
-- Career paths for astronomers leaving academia
+### Tuesday (Hack Day)
+
+- **Tom Robitaille** (Harvard-Smithsonian CfA): talk (09:30)
+- **Thomas Boch** (CDS, Observatoire de Strasbourg): talk (09:30)
+- **Jonathan Fay** (Microsoft Research): talk (11:00--11:40)
+- **Rob Simpson** (Oxford University): talk
+- **Cameron Neylon** (STFC): talk
+- Hack Day (afternoon)
+
+### Wednesday
+
+- **David Hogg** (New York University): talk (09:30 onwards)
+- **Francisco Sanchez-Moreno** (Universidad Politécnica de Madrid): talk
+- **Geert Barentsen** (Armagh Observatory): talk
+- **Matthew Graham** (Caltech): talk
+- **Pamela Gay** (SIUE): talk
+- Unconference sessions (afternoon)
+- Debrief and conference dinner
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
