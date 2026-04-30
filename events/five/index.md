@@ -150,6 +150,32 @@ Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Camb
 - [dotastronomy.com](https://www.dotastronomy.com/five)
 
 
+
+<span class="section-label">// from the community</span>
+<h2 id="community">From the community</h2>
+
+<div class="community-posts">
+<div class="community-post">
+<div class="cp-text">The internet is an amazing platform for astronomers & research. This week's #dotastro illuminates the possibilities hvrd.me/1623t7I</div>
+<div class="cp-meta"><span class="cp-author">Harvard University</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">4:30am alarm. On my way to my first #dotastro conference!</div>
+<div class="cp-meta"><span class="cp-author">Alex Viana</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">Schedule, speakers and talks for #dotastro 5 are up at dotastronomy.com/events/five/</div>
+<div class="cp-meta"><span class="cp-author">.Astronomy</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">Follow along with the tweets from @dotastronomy using #dotastro (there are usually lots of them!)</div>
+<div class="cp-meta"><span class="cp-author">.Astronomy</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">Now LHR to IAD to BOS for #dotastro and more jetlag. Gotta keep that body on its toes #whereintheworldissarah</div>
+<div class="cp-meta"><span class="cp-author">Sarah Horst</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
+</div>
+</div>
 <div class="contribute-section" data-event=".Astronomy 5">
 <span class="section-label">// want to add something?</span>
 <div class="contribute-bar">

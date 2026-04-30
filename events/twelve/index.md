@@ -154,6 +154,38 @@ Known attendees at .Astronomy 12 in New York, 2023.
 <li>Theo</li>
 </ul>
 
+
+<span class="section-label">// from the community</span>
+<h2 id="community">From the community</h2>
+
+<div class="community-posts">
+<div class="community-post">
+<div class="cp-text">On my way to dotAstro in NY this week - see you there?</div>
+<div class="cp-meta"><span class="cp-author">Brett Morris</span> <span class="cp-date">2023-10-01</span> <a href="https://bsky.app/profile/brettmorr.is/post/3kapg4ist2e2u" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">I'm very sad to be missing dotastro / dotastronomy12 this week because of other travel, so I did my hack project a few days early! Here is jupyterlab_gist_it, a Jupyterlab extension for easily creating @github.com Gist's from a notebook, to share!
+github.com/adrn/jupyter...</div>
+<div class="cp-meta"><span class="cp-author">Adrian Price-Whelan</span> <span class="cp-date">2023-10-02</span> <a href="https://bsky.app/profile/adrian.pw/post/3kas3uzdwvl2z" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">Having a blast in NYC this week at dotAstro!</div>
+<div class="cp-meta"><span class="cp-author">Andy Tzanidakis</span> <span class="cp-date">2023-10-02</span> <a href="https://bsky.app/profile/andyastro.bsky.social/post/3kas24vfth62x" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">Advantages of BSky for being a new "town square of science" (according to @emily.space at dotastro):
+- platform is open source
+- separate components that anyone can/will host
+- will eventually be federated
+- posts are called "skeets" this is non-negotiable
+🧪🔭</div>
+<div class="cp-meta"><span class="cp-author">Sarah Kendrew</span> <span class="cp-date">2023-10-02</span> <a href="https://bsky.app/profile/sarahkendrew.bsky.social/post/3karz6mukzr2o" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">Great to have @brettmor.bsky.social give us a demo of the JDaviz software toolbox for interactive visualization & data analysis, especially useful for JWST data, at dotastro</div>
+<div class="cp-meta"><span class="cp-author">Sarah Kendrew</span> <span class="cp-date">2023-10-02</span> <a href="https://bsky.app/profile/sarahkendrew.bsky.social/post/3karywakxx72g" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+</div>
 <div class="contribute-section" data-event=".Astronomy 12">
 <span class="section-label">// want to add something?</span>
 <div class="contribute-bar">

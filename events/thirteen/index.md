@@ -218,6 +218,34 @@ Known attendees at .Astronomy 13 in Madrid, 2024.
 <li>Zoe Faes</li>
 </ul>
 
+
+<span class="section-label">// from the community</span>
+<h2 id="community">From the community</h2>
+
+<div class="community-posts">
+<div class="community-post">
+<div class="cp-text">I'm excited to go to Madrid next week for #dotastro 13! 
+
+I'm also making this vague post to test my dashboard at emilyhunt.github.io/dotastronomy-live-feed!</div>
+<div class="cp-meta"><span class="cp-author">Emily Hunt</span> <span class="cp-date">2024-04-15</span> <a href="https://bsky.app/profile/emily.space/post/3kq6ggry2bo2z" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">a very fun use of Bluesky in practice: this conference dashboard for the projectors at #dotastro that includes a live feed of the hashtag and an auto-updating schedule linked to Google Sheets!</div>
+<div class="cp-meta"><span class="cp-author">Emily Hunt</span> <span class="cp-date">2024-04-16</span> <a href="https://bsky.app/profile/emily.space/post/3kqaootkzda2b" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">On my way to the next #dotastro conference at ESAC in Madrid. Looking forward to seeing friends and meeting new participants!</div>
+<div class="cp-meta"><span class="cp-author">Sarah Kendrew</span> <span class="cp-date">2024-04-21</span> <a href="https://bsky.app/profile/sarahkendrew.bsky.social/post/3kqo5zr67ef22" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">On my way to Madrid today for #dotastro 13!</div>
+<div class="cp-meta"><span class="cp-author">Emily Hunt</span> <span class="cp-date">2024-04-22</span> <a href="https://bsky.app/profile/emily.space/post/3kqq4phfb4d23" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+<div class="community-post">
+<div class="cp-text">As if today wasn't already exciting enough, I'm now on the fast train from Barcelona to Madrid and thence to #dotastro tomorrow.</div>
+<div class="cp-meta"><span class="cp-author">Peter Coles 🏳️‍🌈 🏳️‍⚧️ 🇮🇪</span> <span class="cp-date">2024-04-23</span> <a href="https://bsky.app/profile/telescoper.bsky.social/post/3kqsojwr7d22k" class="cp-link" target="_blank" rel="noopener">View</a> <span class="cp-source">bluesky</span></div>
+</div>
+</div>
 <div class="contribute-section" data-event=".Astronomy 13">
 <span class="section-label">// want to add something?</span>
 <div class="contribute-bar">

@@ -3594,3 +3594,45 @@ html, body { overflow-x: hidden; max-width: 100vw; }
   white-space: pre-wrap;
   word-break: break-word;
 }
+
+/* Community posts (social archive snippets on event pages) */
+.community-posts {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.community-post {
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+}
+
+.cp-text {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+.cp-meta {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text-dim);
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cp-author { color: var(--blue); }
+.cp-link { color: var(--text-dim); }
+.cp-link:hover { color: var(--blue); }
+.cp-source {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 6px;
+  color: var(--text-dim);
+}
