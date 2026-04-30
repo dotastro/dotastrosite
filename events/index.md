@@ -12,7 +12,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2024</div>
-<div class="event-card"><a href="dotastro13_madrid_2024/">
+<div class="event-card"><a href="thirteen/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 13</span>
 <span class="event-card-title">Madrid, Spain</span>
@@ -25,7 +25,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2023</div>
-<div class="event-card"><a href="dotastro12_newyork_2023/">
+<div class="event-card"><a href="twelve/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 12</span>
 <span class="event-card-title">New York, USA</span>
@@ -38,7 +38,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2020</div>
-<div class="event-card"><a href="dotastro_alpha_online_2020/">
+<div class="event-card"><a href="alpha/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy &#945;</span>
 <span class="event-card-title">Online</span>
@@ -51,7 +51,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2019</div>
-<div class="event-card"><a href="dotastro11_toronto_2019/">
+<div class="event-card"><a href="eleven/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 11</span>
 <span class="event-card-title">Toronto, Canada</span>
@@ -64,7 +64,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2018</div>
-<div class="event-card"><a href="dotastro10_baltimore_2018/">
+<div class="event-card"><a href="ten/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy X</span>
 <span class="event-card-title">Baltimore, USA</span>
@@ -77,7 +77,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2017</div>
-<div class="event-card"><a href="dotastro9_capetown_2017/">
+<div class="event-card"><a href="nine/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 9</span>
 <span class="event-card-title">Cape Town, South Africa</span>
@@ -90,7 +90,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2016</div>
-<div class="event-card"><a href="dotastro8_oxford_2016/">
+<div class="event-card"><a href="eight/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 8</span>
 <span class="event-card-title">Oxford, UK</span>
@@ -103,7 +103,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2015</div>
-<div class="event-card"><a href="dotastro7_sydney_2015/">
+<div class="event-card"><a href="seven/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 7</span>
 <span class="event-card-title">Sydney, Australia</span>
@@ -116,7 +116,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2014</div>
-<div class="event-card"><a href="dotastro6_chicago_2014/">
+<div class="event-card"><a href="six/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 6</span>
 <span class="event-card-title">Chicago, USA</span>
@@ -129,7 +129,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2013</div>
-<div class="event-card"><a href="dotastro5_cambridge_2013/">
+<div class="event-card"><a href="five/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 5</span>
 <span class="event-card-title">Cambridge MA, USA</span>
@@ -142,7 +142,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2012</div>
-<div class="event-card"><a href="dotastro4_heidelberg_2012/">
+<div class="event-card"><a href="four/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 4</span>
 <span class="event-card-title">Heidelberg, Germany</span>
@@ -155,7 +155,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2011</div>
-<div class="event-card"><a href="dotastro3_oxford_2011/">
+<div class="event-card"><a href="three/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 3</span>
 <span class="event-card-title">Oxford, UK</span>
@@ -168,7 +168,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2009</div>
-<div class="event-card"><a href="dotastro2_leiden_2009/">
+<div class="event-card"><a href="two/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 2</span>
 <span class="event-card-title">Leiden, Netherlands</span>
@@ -181,7 +181,7 @@ title: Events
 
 <div class="event-row">
 <div class="event-year">2008</div>
-<div class="event-card"><a href="dotastro1_cardiff_2008/">
+<div class="event-card"><a href="one/">
 <div class="event-card-head">
 <span class="event-num-badge">.Astronomy 1</span>
 <span class="event-card-title">Cardiff, UK</span>
