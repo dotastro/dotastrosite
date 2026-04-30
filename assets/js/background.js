@@ -22,10 +22,10 @@ const BACKGROUNDS = [
   {
     id: 'artemis-earth',
     file: 'artemis-earth.jpg',
-    title: 'Earth from Artemis I',
+    title: 'Earth from Artemis II',
     credit: 'NASA',
     creditUrl: 'https://www.nasa.gov/image-detail/amf-art002e009289/',
-    instrument: 'Artemis I mission, 2022',
+    instrument: 'Artemis II mission',
     // Accent: warm amber from the sunlit Earth limb
     accent: '#f5a94a',
     accentDim: 'rgba(245, 169, 74, 0.12)',
