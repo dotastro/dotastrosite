@@ -185,6 +185,7 @@ Known attendees at .Astronomy X, Baltimore:
 <li>Rob Simpson (Google)</li>
 <li>Alasdair Allan</li>
 <li>Carolina Odman-Govender</li>
+<li>Chris Lintott (Oxford University)</li>
 <li>Demitri Muna</li>
 <li>Nuwanthika Fernando</li>
 <li>Andrew Connolly</li>
