@@ -98,10 +98,10 @@ function applyBackground(bg) {
   }
 
   // Update corner credit
-  const cornerEl = document.getElementById('bg-corner-credit');
-  if (cornerEl) {
-    cornerEl.querySelector('a').href = bg.creditUrl;
-    cornerEl.querySelector('a').textContent = bg.title;
+  const cornerLink = document.getElementById('bg-corner-link');
+  if (cornerLink) {
+    cornerLink.href = bg.creditUrl;
+    cornerLink.textContent = bg.title;
   }
 }
 
@@ -109,19 +109,32 @@ document.addEventListener('DOMContentLoaded', function () {
   const { bg, idx } = pickBackground();
   applyBackground(bg);
 
-  // Rotate button (on about page)
+  // Cycle function -- shared by corner button and about page button
+  function cycleBackground() {
+    const { bg: next } = nextBackground();
+    applyBackground(next);
+    document.body.classList.add('bg-transitioning');
+    setTimeout(() => document.body.classList.remove('bg-transitioning'), 600);
+    // Update count on about page if present
+    const countEl = document.getElementById('bg-count');
+    const newIdx = parseInt(sessionStorage.getItem('dotastro-bg-idx') || '0');
+    if (countEl) countEl.textContent = `${newIdx + 1} of ${BACKGROUNDS.length}`;
+  }
+
+  // Corner cycle button
+  const cornerCycleBtn = document.getElementById('bg-corner-cycle-btn');
+  if (cornerCycleBtn) {
+    cornerCycleBtn.addEventListener('click', function (e) {
+      e.preventDefault();
+      cycleBackground();
+    });
+  }
+
+  // Rotate button on about page
   const rotateBtn = document.getElementById('bg-rotate-btn');
   if (rotateBtn) {
-    rotateBtn.addEventListener('click', function () {
-      const { bg: next } = nextBackground();
-      applyBackground(next);
-
-      // Crossfade the background
-      document.body.classList.add('bg-transitioning');
-      setTimeout(() => document.body.classList.remove('bg-transitioning'), 600);
-    });
-
-    // Show count if multiple images
+    rotateBtn.addEventListener('click', cycleBackground);
+    // Show count
     const countEl = document.getElementById('bg-count');
     if (countEl) countEl.textContent = `${idx + 1} of ${BACKGROUNDS.length}`;
   }
