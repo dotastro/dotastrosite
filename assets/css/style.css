@@ -3252,3 +3252,22 @@ html, body { overflow-x: hidden; max-width: 100vw; }
   text-transform: uppercase;
   padding: 0.25rem 0.5rem;
 }
+
+/* Trends chart mobile fixes */
+@media (max-width: 640px) {
+  .trends-legend {
+    max-height: 7rem;
+    overflow-y: auto;
+    padding-bottom: 0.25rem;
+  }
+
+  .trends-chart-outer {
+    padding: 0.5rem;
+    overflow: hidden;
+  }
+
+  #trends-canvas {
+    display: block;
+    max-width: 100%;
+  }
+}

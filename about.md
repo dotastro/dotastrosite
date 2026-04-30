@@ -75,10 +75,13 @@ How the themes of .Astronomy have shifted across 14 events. Hover or tap a line 
     var highlighted = null;
 
     function resize() {
-      W = canvas.parentElement.clientWidth;
-      H = 300;
-      canvas.width = W * window.devicePixelRatio;
-      canvas.height = H * window.devicePixelRatio;
+      var rect = canvas.parentElement.getBoundingClientRect();
+      W = Math.floor(rect.width) - 4;  // subtract padding
+      if (W < 1) W = 300;
+      H = window.innerWidth < 640 ? 200 : 300;
+      var dpr = window.devicePixelRatio || 1;
+      canvas.width = Math.round(W * dpr);
+      canvas.height = Math.round(H * dpr);
       canvas.style.width = W + 'px';
       canvas.style.height = H + 'px';
       draw();
@@ -86,7 +89,8 @@ How the themes of .Astronomy have shifted across 14 events. Hover or tap a line 
 
     function draw() {
       var ctx = canvas.getContext('2d');
-      ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+      var dpr = window.devicePixelRatio || 1;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       ctx.clearRect(0, 0, W, H);
 
       var isDark = document.documentElement.getAttribute('data-theme') !== 'light';
@@ -179,7 +183,8 @@ How the themes of .Astronomy have shifted across 14 events. Hover or tap a line 
     var themeObs = new MutationObserver(function() { draw(); });
     themeObs.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
 
-    window.addEventListener('resize', function() { ctx = null; resize(); });
+    window.addEventListener('resize', function() { resize(); });
+    window.addEventListener('orientationchange', function() { setTimeout(resize, 100); });
     resize();
   }
 })();
