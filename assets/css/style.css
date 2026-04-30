@@ -19,9 +19,9 @@
   --blue-glow:    rgba(74, 158, 255, 0.25);
   --blue-border:  rgba(74, 158, 255, 0.3);
 
-  --text:         #dde0f0;
-  --text-muted:   #7a7a9a;
-  --text-dim:     #44446a;
+  --text:         #eceef8;
+  --text-muted:   #a0a0c0;
+  --text-dim:     #666688;
   --text-bright:  #ffffff;
 
   --dot:          #4a9eff;
@@ -60,9 +60,9 @@
   --blue-glow:    rgba(26, 111, 212, 0.2);
   --blue-border:  rgba(26, 111, 212, 0.25);
 
-  --text:         #2a2d42;
-  --text-muted:   #5a5e7a;
-  --text-dim:     #9096b8;
+  --text:         #1a1c2e;
+  --text-muted:   #42466a;
+  --text-dim:     #6a6e98;
   --text-bright:  #0d0f1e;
 
   --dot:          #1a6fd4;
@@ -99,7 +99,7 @@ body {
   font-family: var(--font-body);
   background: var(--bg);
   color: var(--text);
-  line-height: 1.7;
+  line-height: 1.75;
   min-height: 100vh;
 }
 
@@ -266,6 +266,7 @@ li { margin-bottom: 0.3rem; }
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 3rem 1.5rem 6rem;
+  position: relative;
 }
 
 /* =====================================================
@@ -355,7 +356,7 @@ li { margin-bottom: 0.3rem; }
 
 .hero-sub {
   font-size: 1.05rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.7;
   max-width: 520px;
   margin-bottom: 2.25rem;
@@ -563,7 +564,7 @@ li { margin-bottom: 0.3rem; }
 
 .event-card-desc {
   font-size: 0.875rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.55;
 }
 
@@ -676,7 +677,7 @@ li { margin-bottom: 0.3rem; }
 
 .hack-desc {
   font-size: 0.875rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.6;
   margin-bottom: 0.9rem;
 }
@@ -735,7 +736,7 @@ li { margin-bottom: 0.3rem; }
 
 .repo-desc {
   font-size: 0.82rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.5;
 }
 
@@ -868,7 +869,7 @@ li { margin-bottom: 0.3rem; }
 
 .person-bio {
   font-size: 0.85rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.6;
   margin-bottom: 0;
 }
@@ -1039,7 +1040,7 @@ textarea {
 
 .contribute-card-desc {
   font-size: 0.85rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.6;
   flex: 1;
   margin-bottom: 1rem !important;
@@ -1155,7 +1156,7 @@ textarea {
 
 .clc-desc {
   font-size: 0.875rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.6;
   flex: 1;
   margin-bottom: 1rem;
@@ -1252,7 +1253,7 @@ textarea {
 
 .upcoming-desc {
   font-size: 0.925rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.65;
   margin-bottom: 0.75rem;
 }
@@ -1457,7 +1458,7 @@ body.bg-transitioning .bg-layer {
 .person-card,
 .form-card,
 .slack-hero {
-  background: color-mix(in srgb, var(--bg-1) 80%, transparent) !important;
+  background: color-mix(in srgb, var(--bg-1) 92%, transparent) !important;
   backdrop-filter: blur(12px) saturate(1.2);
   -webkit-backdrop-filter: blur(12px) saturate(1.2);
 }
@@ -1645,7 +1646,7 @@ body.bg-transitioning .bg-layer {
   display: inline-flex;
   align-items: center;
   padding: 6px 14px;
-  color: var(--text-muted);
+  color: var(--text);
   border-radius: 999px;
   background: color-mix(in srgb, var(--bg-3) 60%, transparent);
   backdrop-filter: blur(8px);
@@ -1789,7 +1790,7 @@ body.bg-transitioning .bg-layer {
 
 .event-page-desc {
   font-size: 1.05rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.7;
   max-width: 680px;
 }
@@ -2012,7 +2013,7 @@ body.bg-transitioning .bg-layer {
   font-family: var(--font-body);
   font-size: 0.82rem;
   font-weight: 500;
-  color: var(--text-muted);
+  color: var(--text);
   border-radius: 999px;
   background: color-mix(in srgb, var(--bg-3) 60%, transparent);
   backdrop-filter: blur(8px);
