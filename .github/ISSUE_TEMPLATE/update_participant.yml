@@ -31,17 +31,35 @@ body:
     validations:
       required: true
 
+  - type: checkboxes
+    id: events_attended
+    attributes:
+      label: Events I attended (tick all that apply)
+      description: Only fill this in if you are correcting your attendance record.
+      options:
+        - label: ".Astronomy 1 — Cardiff, 2008"
+        - label: ".Astronomy 2 — Leiden, 2009"
+        - label: ".Astronomy 3 — Oxford, 2011"
+        - label: ".Astronomy 4 — Heidelberg, 2012"
+        - label: ".Astronomy 5 — Cambridge MA, 2013"
+        - label: ".Astronomy 6 — Chicago, 2014"
+        - label: ".Astronomy 7 — Sydney, 2015"
+        - label: ".Astronomy 8 — Oxford, 2016"
+        - label: ".Astronomy 9 — Cape Town, 2017"
+        - label: ".Astronomy X — Baltimore, 2018"
+        - label: ".Astronomy 11 — Toronto, 2019"
+        - label: ".Astronomy alpha — Online, 2020"
+        - label: ".Astronomy 12 — New York, 2023"
+        - label: ".Astronomy 13 — Madrid, 2024"
+
   - type: textarea
     id: details
     attributes:
-      label: Details
-      description: What is correct? Include specific event names, correct affiliation, correct Bluesky handle, etc.
+      label: Anything else to correct?
+      description: Affiliation, name spelling, Bluesky handle, or other details.
       placeholder: |
-        e.g. I attended .Astronomy 8 (Oxford 2016) but am not listed.
-        My affiliation should be: University of Edinburgh (not Oxford).
+        e.g. My affiliation should be: University of Edinburgh (not Oxford).
         My Bluesky is: janesmith.bsky.social
-    validations:
-      required: true
 
   - type: input
     id: bluesky
