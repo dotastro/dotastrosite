@@ -2248,3 +2248,47 @@ html, body { overflow-x: hidden; max-width: 100vw; }
 [data-theme="light"] .bg-corner-cycle:hover {
   color: rgba(0,0,0,0.8);
 }
+
+/* =====================================================
+   CONTRIBUTE BAR (event pages)
+   ===================================================== */
+.contribute-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  padding: 0.75rem 1rem;
+  background: color-mix(in srgb, var(--bg-2) 80%, transparent);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+  font-size: 0.8rem;
+}
+
+.contribute-bar-label {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--text-dim);
+  margin-right: 0.25rem;
+  flex-shrink: 0;
+}
+
+.contribute-bar-link {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  border: 1px solid var(--border-hi);
+  border-radius: 999px;
+  padding: 3px 11px;
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+
+.contribute-bar-link:hover {
+  color: var(--blue);
+  border-color: var(--blue-border);
+  background: var(--blue-dim);
+  text-decoration: none;
+}

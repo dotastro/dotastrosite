@@ -21,6 +21,13 @@ title: ".Astronomy 3, Oxford, 2011"
   <a href="#links">Links</a>
 </nav>
 
+<div class="contribute-bar">
+  <span class="contribute-bar-label">Know something missing?</span>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%203%20%E2%80%94%20Oxford%2C%202011" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%203%20%E2%80%94%20Oxford%2C%202011" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%203%20%E2%80%94%20Oxford%2C%202011" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>
+
 <span class="section-label">// organisers</span>
 ## Organisers {#organisers}
 

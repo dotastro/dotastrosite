@@ -1,0 +1,75 @@
+name: Add a hack
+description: Add a hack or project from a .Astronomy hack day
+title: "hack: [event] — [hack title]"
+labels: ["content", "hack"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the .Astronomy archive! Fill in as much as you know. All fields except **Title** and **Event** are optional but the more detail the better.
+
+  - type: input
+    id: title
+    attributes:
+      label: Hack title
+      placeholder: "e.g. ArXiv Mailer"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event
+    attributes:
+      label: Which event?
+      options:
+        - ".Astronomy 1 — Cardiff, 2008"
+        - ".Astronomy 2 — Leiden, 2009"
+        - ".Astronomy 3 — Oxford, 2011"
+        - ".Astronomy 4 — Heidelberg, 2012"
+        - ".Astronomy 5 — Cambridge MA, 2013"
+        - ".Astronomy 6 — Chicago, 2014"
+        - ".Astronomy 7 — Sydney, 2015"
+        - ".Astronomy 8 — Oxford, 2016"
+        - ".Astronomy 9 — Cape Town, 2017"
+        - ".Astronomy X — Baltimore, 2018"
+        - ".Astronomy 11 — Toronto, 2019"
+        - ".Astronomy alpha — Online, 2020"
+        - ".Astronomy 12 — New York, 2023"
+        - ".Astronomy 13 — Madrid, 2024"
+    validations:
+      required: true
+
+  - type: textarea
+    id: creators
+    attributes:
+      label: Creators
+      description: One name per line
+      placeholder: |
+        Jane Smith
+        Alex Jones
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What did it do? What problem did it solve? A sentence or two is fine.
+      placeholder: "A tool that emails you a daily digest of new arXiv papers matching your keywords."
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Source code URL
+      placeholder: "https://github.com/..."
+
+  - type: input
+    id: live_url
+    attributes:
+      label: Live demo URL (if still running)
+      placeholder: "https://..."
+
+  - type: input
+    id: writeup_url
+    attributes:
+      label: Write-up, blog post, or video URL
+      placeholder: "https://..."

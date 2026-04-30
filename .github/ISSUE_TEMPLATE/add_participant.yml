@@ -1,0 +1,57 @@
+name: Add yourself as a participant
+description: Record that you attended a .Astronomy event
+title: "participant: [event] — [your name]"
+labels: ["content", "participant"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Were you at a .Astronomy event that isn't in the archive? Add yourself!
+
+  - type: dropdown
+    id: event
+    attributes:
+      label: Which event did you attend?
+      options:
+        - ".Astronomy 1 — Cardiff, 2008"
+        - ".Astronomy 2 — Leiden, 2009"
+        - ".Astronomy 3 — Oxford, 2011"
+        - ".Astronomy 4 — Heidelberg, 2012"
+        - ".Astronomy 5 — Cambridge MA, 2013"
+        - ".Astronomy 6 — Chicago, 2014"
+        - ".Astronomy 7 — Sydney, 2015"
+        - ".Astronomy 8 — Oxford, 2016"
+        - ".Astronomy 9 — Cape Town, 2017"
+        - ".Astronomy X — Baltimore, 2018"
+        - ".Astronomy 11 — Toronto, 2019"
+        - ".Astronomy alpha — Online, 2020"
+        - ".Astronomy 12 — New York, 2023"
+        - ".Astronomy 13 — Madrid, 2024"
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      placeholder: "Jane Smith"
+    validations:
+      required: true
+
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation at the time
+      placeholder: "University of Oxford"
+
+  - type: input
+    id: bluesky
+    attributes:
+      label: Bluesky handle (optional)
+      placeholder: "yourhandle.bsky.social"
+
+  - type: input
+    id: website
+    attributes:
+      label: Website or profile URL (optional)
+      placeholder: "https://..."
