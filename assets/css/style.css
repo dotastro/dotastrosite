@@ -996,101 +996,6 @@ textarea {
 }
 
 /* =====================================================
-   COMMUNITY PAGE
-   ===================================================== */
-.community-cta-grid {
-  display: grid;
-  grid-template-columns: 1fr 340px;
-  gap: 1.5rem;
-  align-items: start;
-  margin-top: 0.5rem;
-}
-
-@media (max-width: 780px) {
-  .community-cta-grid { grid-template-columns: 1fr; }
-}
-
-.community-cta.slack {
-  background: var(--bg-1);
-  border: 1px solid var(--blue-border);
-  border-radius: var(--radius-lg);
-  padding: 2.5rem 2rem;
-}
-
-.community-cta-icon {
-  color: var(--blue);
-  margin-bottom: 1rem;
-}
-
-.community-cta h2 {
-  font-family: var(--font-head);
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--text-bright);
-  margin-top: 0;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0;
-  border-bottom: none;
-}
-
-.community-cta p {
-  font-size: 0.975rem;
-  color: var(--text-muted);
-  line-height: 1.7;
-  max-width: 480px;
-  margin-bottom: 1.5rem;
-}
-
-.community-cta-note {
-  font-family: var(--font-mono);
-  font-size: 0.72rem !important;
-  color: var(--text-dim) !important;
-  margin-top: 0.75rem !important;
-  margin-bottom: 0 !important;
-}
-
-.community-cta-note a { color: var(--text-dim); }
-.community-cta-note a:hover { color: var(--blue); text-decoration: none; }
-
-.community-cta-side {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-}
-
-.community-link-card {
-  background: var(--bg-1);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1rem 1.2rem;
-  transition: border-color 0.2s;
-}
-
-.community-link-card:hover { border-color: var(--blue-border); }
-
-.community-link-title {
-  font-family: var(--font-head);
-  font-size: 0.9rem;
-  font-weight: 700;
-  color: var(--text-bright);
-  margin-bottom: 0.35rem;
-}
-
-.community-link-desc {
-  font-size: 0.82rem;
-  color: var(--text-muted);
-  line-height: 1.5;
-  margin-bottom: 0.75rem !important;
-}
-
-.community-link-desc a { color: var(--blue); }
-
-.btn-sm {
-  padding: 6px 14px;
-  font-size: 0.8rem;
-}
-
-/* =====================================================
    CONTRIBUTE CARDS (about page)
    ===================================================== */
 .contribute-grid {
@@ -1146,4 +1051,126 @@ textarea {
   border-color: var(--blue);
   color: var(--blue);
   background: var(--blue-dim);
+}
+
+/* =====================================================
+   COMMUNITY PAGE
+   ===================================================== */
+.page-lead {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 600px;
+  margin-bottom: 2.5rem;
+  line-height: 1.7;
+}
+
+.slack-hero {
+  background: var(--bg-1);
+  border: 1px solid var(--blue-border);
+  border-radius: var(--radius-lg);
+  padding: 2rem 2rem;
+  margin-bottom: 3rem;
+}
+
+.slack-hero-body {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.slack-icon {
+  color: var(--blue);
+  flex-shrink: 0;
+  margin-top: 0.2rem;
+}
+
+.slack-hero-text h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.slack-hero-text p {
+  color: var(--text-muted);
+  font-size: 0.975rem;
+  max-width: 520px;
+  margin-bottom: 1.25rem;
+}
+
+.slack-signin {
+  font-family: var(--font-mono);
+  font-size: 0.72rem !important;
+  color: var(--text-dim) !important;
+  margin-top: 0.6rem !important;
+  margin-bottom: 0 !important;
+}
+
+.slack-signin a { color: var(--text-dim); }
+.slack-signin a:hover { color: var(--blue); text-decoration: none; }
+
+@media (max-width: 560px) {
+  .slack-hero-body { flex-direction: column; gap: 1rem; }
+}
+
+.community-links {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+@media (max-width: 560px) {
+  .community-links { grid-template-columns: 1fr; }
+}
+
+.community-link-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, transform 0.15s, box-shadow 0.15s;
+}
+
+.community-link-card:hover {
+  border-color: var(--blue-border);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px var(--shadow);
+  text-decoration: none;
+  color: inherit;
+}
+
+.clc-title {
+  font-family: var(--font-head);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  margin-bottom: 0.4rem;
+}
+
+.clc-desc {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  flex: 1;
+  margin-bottom: 1rem;
+}
+
+.clc-cta {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--blue);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.community-link-card:hover .clc-cta {
+  text-decoration: underline;
 }
