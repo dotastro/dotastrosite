@@ -2292,3 +2292,22 @@ html, body { overflow-x: hidden; max-width: 100vw; }
   background: var(--blue-dim);
   text-decoration: none;
 }
+
+/* Contribute section wrapper */
+.contribute-section {
+  margin-top: 4rem;
+  padding-top: 0;
+  border-top: 1px solid var(--border);
+}
+
+.contribute-section .section-label {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.contribute-section .contribute-bar {
+  margin-bottom: 0;
+  background: none;
+  border: none;
+  padding: 0;
+}

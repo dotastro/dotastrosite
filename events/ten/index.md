@@ -158,10 +158,13 @@ Supported by the American Astronomical Society.
 - [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack): public outreach tool hack
 - [dr-rodriguez/dotAstroX_scripts](https://github.com/dr-rodriguez/dotAstroX_scripts): scripts from .Astronomy X
 
----
+
+<div class="contribute-section">
+<span class="section-label">// want to add something?</span>
 <div class="contribute-bar">
   <span class="contribute-bar-label">Know something missing?</span>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%20X%20%E2%80%94%20Baltimore%2C%202018" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%20X%20%E2%80%94%20Baltimore%2C%202018" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%20X%20%E2%80%94%20Baltimore%2C%202018" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>
 </div>

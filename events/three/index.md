@@ -73,10 +73,13 @@ Approximately 50 people attended .Astronomy 3 at New College, Oxford, April 2011
 
 - [dotastronomy.com](https://www.dotastronomy.com/three)
 
----
+
+<div class="contribute-section">
+<span class="section-label">// want to add something?</span>
 <div class="contribute-bar">
   <span class="contribute-bar-label">Know something missing?</span>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%203%20%E2%80%94%20Oxford%2C%202011" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%203%20%E2%80%94%20Oxford%2C%202011" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%203%20%E2%80%94%20Oxford%2C%202011" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>
 </div>

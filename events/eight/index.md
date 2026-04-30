@@ -280,10 +280,13 @@ See also the [.Astronomy 8 Hacks Collector page](https://dotastro.github.io/hack
 - [dfm/ArXivMailer](https://github.com/dfm/ArXivMailer): hack to modernise the daily arXiv email formatting
 - [WillArmentrout/dotAstroGraveyard](https://github.com/WillArmentrout/dotAstroGraveyard): tracking forgotten or failed hacks for future revival
 
----
+
+<div class="contribute-section">
+<span class="section-label">// want to add something?</span>
 <div class="contribute-bar">
   <span class="contribute-bar-label">Know something missing?</span>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20.Astronomy%208%20%E2%80%94%20Oxford%2C%202016" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%208%20%E2%80%94%20Oxford%2C%202016" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
   <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20.Astronomy%208%20%E2%80%94%20Oxford%2C%202016" target="_blank" rel="noopener" class="contribute-bar-link">Add yourself</a>
+</div>
 </div>
