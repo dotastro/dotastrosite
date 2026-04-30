@@ -39,7 +39,7 @@ def add_person(name, affiliation, event_dir, role):
     if key not in all_people:
         all_people[key] = {
             'name': name,
-            'affiliation': affiliation,
+            'affiliations': {},   # event_dir -> affiliation string
             'events': [],
             'roles': {},
         }
@@ -49,8 +49,11 @@ def add_person(name, affiliation, event_dir, role):
     if role not in roles:
         roles.append(role)
     all_people[key]['roles'][event_dir] = roles
-    if affiliation and not all_people[key]['affiliation']:
-        all_people[key]['affiliation'] = affiliation
+    # Store affiliation per event (if provided)
+    if affiliation:
+        all_people[key]['affiliations'][event_dir] = affiliation
+
+event_map_order = ['one','two','three','four','five','six','seven','eight','nine','ten','eleven','alpha','twelve','thirteen']
 
 for dirname in event_map:
     fpath = os.path.join(EVENTS_DIR, dirname, 'index.md')
@@ -118,6 +121,16 @@ for dirname in event_map:
             if m:
                 name = re.sub(r'\s*\(invited\)', '', m.group(1), flags=re.I).strip()
                 add_person(name, '', dirname, 'speaker')
+
+# Build final list -- derive current affiliation from most recent event
+for key, p in all_people.items():
+    # Latest event with a known affiliation
+    latest_aff = ''
+    for ev in reversed(event_map_order):
+        if ev in p.get('affiliations', {}) and p['affiliations'][ev]:
+            latest_aff = p['affiliations'][ev]
+            break
+    p['affiliation'] = latest_aff  # keep for backwards compat
 
 people_list = sorted(all_people.values(), key=lambda x: (-len(x['events']), x['name'].split()[-1]))
 

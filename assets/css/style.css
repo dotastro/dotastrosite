@@ -3037,3 +3037,27 @@ html, body { overflow-x: hidden; max-width: 100vw; }
 .ag-filled.ag-spk::after { background: #4ade80; }
 
 .attendance-section { margin-bottom: 1rem; }
+
+/* Affiliation with history indicator */
+.p-aff-tip {
+  position: relative;
+  cursor: help;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.p-aff-hist-dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--blue);
+  opacity: 0.55;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+
+.p-aff-tip:hover .p-aff-hist-dot {
+  opacity: 1;
+}

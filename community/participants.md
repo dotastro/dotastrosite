@@ -77,14 +77,27 @@ description: "Everyone who has ever attended a .Astronomy conference."
     .catch(function() { document.getElementById('dir-table-wrap').innerHTML = '<p style="color:var(--text-muted)">Could not load directory data.</p>'; });
 
   function latestAffiliation(person) {
-    // Find affiliation from most recent event
+    var affs = person.affiliations || {};
     for (var i = EVENT_ORDER.length - 1; i >= 0; i--) {
       var ev = EVENT_ORDER[i];
-      if (person.events.indexOf(ev) > -1 && person.affiliation) {
-        return person.affiliation;
-      }
+      if (affs[ev]) return affs[ev];
     }
     return person.affiliation || '';
+  }
+
+  function affiliationHistory(person) {
+    var affs = person.affiliations || {};
+    var seen = {};
+    var history = [];
+    EVENT_ORDER.forEach(function(ev) {
+      if (affs[ev] && !seen[affs[ev]]) {
+        seen[affs[ev]] = true;
+        var label = EVENT_LABELS[ev];
+        var year = EVENT_YEARS[ev];
+        history.push(label + ' \u2019' + String(year).slice(2) + ': ' + affs[ev]);
+      }
+    });
+    return history;
   }
 
   function renderGrid(people) {
@@ -160,6 +173,7 @@ description: "Everyone who has ever attended a .Astronomy conference."
     people.forEach(function(p) {
       var bsky = BSKY[p.name.toLowerCase()] || p.bluesky || '';
       var aff = latestAffiliation(p);
+      var history = affiliationHistory(p);
       var nameKey = p.name.toLowerCase();
 
       // Event badges -- sort by EVENT_ORDER for consistent chronological display
@@ -180,7 +194,12 @@ description: "Everyone who has ever attended a .Astronomy conference."
       var rowClass = p.events.length > 1 ? 'p-multi' : '';
       html += '<tr class="' + rowClass + '" data-name="' + esc(p.name.toLowerCase()) + '" data-aff="' + esc(aff.toLowerCase()) + '" data-events="' + esc(p.events.join(' ')) + '">';
       html += '<td class="p-name">' + esc(p.name) + '</td>';
-      html += '<td class="p-aff">' + esc(aff) + '</td>';
+      if (history.length > 1) {
+        var tooltip = history.join('\n');
+        html += '<td class="p-aff"><span class="p-aff-tip" title="' + esc(tooltip) + '">' + esc(aff) + '<span class="p-aff-hist-dot" aria-hidden="true"></span></span></td>';
+      } else {
+        html += '<td class="p-aff">' + esc(aff) + '</td>';
+      }
       html += '<td class="p-events">' + badges + '</td>';
       html += '<td class="p-bsky">' + bskyHtml + '</td>';
       html += '</tr>';
