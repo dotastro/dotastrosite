@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 9, Cape Town, 2017"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="9">
   <div class="event-page-kicker">.Astronomy 9</div>
   <h1 class="event-page-title">Cape Town, South Africa</h1>
   <div class="event-page-meta">

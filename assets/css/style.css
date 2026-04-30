@@ -2171,3 +2171,39 @@ body.nav-open { overflow: hidden; }
 
 /* Global overflow fix */
 html, body { overflow-x: hidden; max-width: 100vw; }
+
+/* =====================================================
+   EVENT PAGE GHOST NUMBER
+   ===================================================== */
+.event-page-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.event-page-hero::after {
+  content: attr(data-num);
+  position: absolute;
+  top: -0.15em;
+  right: -0.05em;
+  font-family: var(--font-head);
+  font-size: clamp(8rem, 22vw, 18rem);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--blue);
+  opacity: 0.06;
+  pointer-events: none;
+  user-select: none;
+  z-index: 0;
+  white-space: nowrap;
+}
+
+[data-theme="light"] .event-page-hero::after {
+  opacity: 0.05;
+}
+
+/* Ensure hero content sits above the ghost number */
+.event-page-hero > * {
+  position: relative;
+  z-index: 1;
+}

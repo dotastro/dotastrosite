@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 12, New York, 2023"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="12">
   <div class="event-page-kicker">.Astronomy 12</div>
   <h1 class="event-page-title">New York, NY, USA</h1>
   <div class="event-page-meta">

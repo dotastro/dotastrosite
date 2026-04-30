@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 13, Madrid, 2024"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="13">
   <div class="event-page-kicker">.Astronomy 13</div>
   <h1 class="event-page-title">Madrid, Spain</h1>
   <div class="event-page-meta">

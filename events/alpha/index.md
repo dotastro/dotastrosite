@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy Alpha, Online, 2020"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="α">
   <div class="event-page-kicker">.Astronomy alpha</div>
   <h1 class="event-page-title">Online</h1>
   <div class="event-page-meta">

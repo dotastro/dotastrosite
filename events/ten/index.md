@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy X, Baltimore, 2018"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="X">
   <div class="event-page-kicker">.Astronomy X</div>
   <h1 class="event-page-title">Baltimore, MD, USA</h1>
   <div class="event-page-meta">

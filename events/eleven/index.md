@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 11, Toronto, 2019"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="11">
   <div class="event-page-kicker">.Astronomy 11</div>
   <h1 class="event-page-title">Toronto, Canada</h1>
   <div class="event-page-meta">

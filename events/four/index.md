@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 4, Heidelberg, 2012"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="4">
   <div class="event-page-kicker">.Astronomy 4</div>
   <h1 class="event-page-title">Heidelberg, Germany</h1>
   <div class="event-page-meta">

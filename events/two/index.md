@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 2, Leiden, 2009"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="2">
   <div class="event-page-kicker">.Astronomy 2</div>
   <h1 class="event-page-title">Leiden, Netherlands</h1>
   <div class="event-page-meta">

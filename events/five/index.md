@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 5, Cambridge MA, 2013"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="5">
   <div class="event-page-kicker">.Astronomy 5</div>
   <h1 class="event-page-title">Cambridge, MA, USA</h1>
   <div class="event-page-meta">

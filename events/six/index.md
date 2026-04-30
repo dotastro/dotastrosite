@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 6, Chicago, 2014"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="6">
   <div class="event-page-kicker">.Astronomy 6</div>
   <h1 class="event-page-title">Chicago, IL, USA</h1>
   <div class="event-page-meta">

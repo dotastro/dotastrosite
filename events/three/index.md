@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 3, Oxford, 2011"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="3">
   <div class="event-page-kicker">.Astronomy 3</div>
   <h1 class="event-page-title">Oxford, UK</h1>
   <div class="event-page-meta">

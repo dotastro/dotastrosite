@@ -3,7 +3,7 @@ layout: default
 title: ".Astronomy 7, Sydney, 2015"
 ---
 
-<div class="event-page-hero">
+<div class="event-page-hero" data-num="7">
   <div class="event-page-kicker">.Astronomy 7</div>
   <h1 class="event-page-title">Sydney, Australia</h1>
   <div class="event-page-meta">
