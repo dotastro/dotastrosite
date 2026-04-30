@@ -994,3 +994,98 @@ textarea {
   background: var(--blue) !important;
   color: #fff !important;
 }
+
+/* =====================================================
+   COMMUNITY PAGE
+   ===================================================== */
+.community-cta-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 1.5rem;
+  align-items: start;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 780px) {
+  .community-cta-grid { grid-template-columns: 1fr; }
+}
+
+.community-cta.slack {
+  background: var(--bg-1);
+  border: 1px solid var(--blue-border);
+  border-radius: var(--radius-lg);
+  padding: 2.5rem 2rem;
+}
+
+.community-cta-icon {
+  color: var(--blue);
+  margin-bottom: 1rem;
+}
+
+.community-cta h2 {
+  font-family: var(--font-head);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.community-cta p {
+  font-size: 0.975rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  max-width: 480px;
+  margin-bottom: 1.5rem;
+}
+
+.community-cta-note {
+  font-family: var(--font-mono);
+  font-size: 0.72rem !important;
+  color: var(--text-dim) !important;
+  margin-top: 0.75rem !important;
+  margin-bottom: 0 !important;
+}
+
+.community-cta-note a { color: var(--text-dim); }
+.community-cta-note a:hover { color: var(--blue); text-decoration: none; }
+
+.community-cta-side {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.community-link-card {
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: border-color 0.2s;
+}
+
+.community-link-card:hover { border-color: var(--blue-border); }
+
+.community-link-title {
+  font-family: var(--font-head);
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  margin-bottom: 0.35rem;
+}
+
+.community-link-desc {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-bottom: 0.75rem !important;
+}
+
+.community-link-desc a { color: var(--blue); }
+
+.btn-sm {
+  padding: 6px 14px;
+  font-size: 0.8rem;
+}
