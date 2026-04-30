@@ -1089,3 +1089,61 @@ textarea {
   padding: 6px 14px;
   font-size: 0.8rem;
 }
+
+/* =====================================================
+   CONTRIBUTE CARDS (about page)
+   ===================================================== */
+.contribute-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.contribute-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  text-decoration: none;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  color: inherit;
+}
+
+.contribute-card:hover {
+  border-color: var(--blue-border);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px var(--shadow);
+  text-decoration: none;
+  color: inherit;
+}
+
+.contribute-card-icon {
+  font-size: 1.75rem;
+  margin-bottom: 0.75rem;
+  line-height: 1;
+}
+
+.contribute-card-title {
+  font-family: var(--font-head);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  margin-bottom: 0.5rem;
+}
+
+.contribute-card-desc {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  flex: 1;
+  margin-bottom: 1rem !important;
+}
+
+.contribute-card:hover .btn-outline {
+  border-color: var(--blue);
+  color: var(--blue);
+  background: var(--blue-dim);
+}
