@@ -55,10 +55,4 @@ description: The .Astronomy community of astronomers, developers, educators and 
     <span class="clc-cta">See the directory &rarr;</span>
   </a>
 
-  <a href="https://bsky.app/search?q=%23dotastro" target="_blank" rel="noopener" class="community-link-card">
-    <div class="clc-title">#dotastro on Bluesky</div>
-    <p class="clc-desc">The .Astronomy community lives on Bluesky. Follow the #dotastro tag to see what people are sharing between events.</p>
-    <span class="clc-cta">Search #dotastro &rarr;</span>
-  </a>
-
 </div>
