@@ -40,15 +40,24 @@ title: ".Astronomy 8, Oxford, 2016"
 
 ### Invited Talks
 
-- **Sarah Kendrew** (ESA): *JWST and .Astronomy: How do we make JWST a 21st century telescope?*
-- **Bruno Merin** (ESA): *ESA Sky: an interactive all-sky viewer*
-- **Carl Ferkinhoff**: *Open Hardware in Astronomy*
-- **Ali Swanson** (University of Oxford / Zooniverse): *The Zooniverse Platform and Citizen Science*
-- **James Gilbert** (@labjg): *Instrumentation Hacking and Starbugs*
-- **Geert Barentsen** (@GeertHub): *Open Science and K2*
-- **Adam Miller**: (programme contributor)
-- **Daina Bouquin**: *Library Archives in Astronomy*
-- **Tom Robitaille**: (programme contributor)
+- **Sarah Kendrew** (ESA, STScI): *JWST and Astronomy -- bringing JWST into the 21st century with better community tools.* Discussed coordination with Astropy developers and the WebbCam live clean room feed. Science proposals opening November 2017.
+- **Bruno Merin** (ESA): *[ESASky](http://sky.esa.int/) -- a multi-mission interface.* Demonstrated the whole-sky viewer serving data from GALEX, 2MASS, WISE, Herschel, Planck and more.
+- **Carl Ferkinhoff** (Winona State University): *Open Source Hardware in Astronomy.* The [hardware.astronomy](http://hardwaredotastro.github.io/) project: developing lower-cost instruments, involving undergrads, and creating open standards for astronomical hardware.
+- **Ali Swanson** (Oxford / Zooniverse): *Citizen Science with the Zooniverse.* Amateur consensus agrees with experts 97% of the time. Create your own project at zooniverse.org.
+- **James Gilbert** (Oxford): *Gaffa tape and string: professional hardware hacking.* How he prototyped a vacuum-based "Starbugs" fibre positioning system in days, proving the concept when the formal process had stalled. Lean prototypes win faith.
+- **Geert Barentsen** (NASA Ames): *Open Science with K2.* Argued for radical openness: no proprietary data, no walls around large missions. K2's open approach produced more authors, more early-career researchers, and more publications than the closed Kepler mission with a 5x larger budget.
+
+### Lightning Talks
+
+- **Aleks Scholz** (University of St Andrews): *[#foundthem](https://arxiv.org/abs/1605.02947)* -- SETI, open vs closed science, and communicating with the public
+- **Ashley Villar** (Harvard): *[astrobites.org](https://astrobites.org/)* -- send your undergrads to Astrobites for advice, articles, and tutorials
+- **Edward Gomez** (Las Cumbres Observatory): *[There is no such thing as a stupid question](http://lcogt.net/education/resources/print/)* -- comic book for young astronomers
+- **Coleman Krawczyk** (University of Portsmouth): *Astronomy projects for the blind and visually impaired* -- 3D printing galaxies as a tactile tool
+- **Matthew Graham** (Caltech/NOAO): *[NOAO Data Lab](http://datalab.noao.edu/)*
+- **Justyn Campbell-White** (University of Kent): *Classifying Stellar Bubbles* -- citizen science data in a PhD project
+- **Adam Avison** (ALMA): *[The Pynterferometer](http://www.jb.man.ac.uk/pynterferometer/)*
+- **William Roby** (Caltech): *A short history of JavaScript* -- ES6 and functional principles
+- **Edward Gomez** (Las Cumbres Observatory): *[Asteroid Day -- June 30th, 2016](http://asteroidday.lcogt.net)* -- international NEA observation effort
 
 ### Day Zero Tutorials
 
@@ -57,16 +66,6 @@ Contributors: Sarah Kendrew, Arna Karick, Demitri Muna, Scott Thomas, Lisa Balla
 ### Pre-Dinner Talk
 
 - **Aleks Scholz**: *WETI: The Wait for Extraterrestrial Intelligence!*
-
-### Talk Highlights
-
-Sarah Kendrew discussed making JWST data and tools accessible to the community, including existing tools like WebbPSF for point spread function modelling.
-
-Bruno Merin demonstrated ESA Sky, serving whole-sky maps from multiple missions including GALEX, 2MASS, WISE, Herschel, and Planck, with in-app data plotting.
-
-James Gilbert made a compelling case for hardware hacking, describing how he proved that vacuum starbugs could work for fibre positioning in spectrographs in just a few days, when the formal process had stalled.
-
-Geert Barentsen argued for radical openness in data policy, using K2 as an example. K2's open data policy, with no proprietary period, had led to more unique authors and more early-career scientists engaging with the science.
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
@@ -275,6 +274,7 @@ See also the [.Astronomy 8 Hacks Collector page](https://dotastro.github.io/hack
 ## Links {#links}
 
 - [dotastronomy.com](https://www.dotastronomy.com/eight)
+- [Day 1 talk notes (rasmi.io)](https://rasmi.io/blog/dotastronomy-day-1/)
 - [.Astronomy 8 Hacks Collector](https://dotastro.github.io/hacks-collector/)
 - [barentsen/dotastro-argparse-tutorial](https://github.com/barentsen/dotastro-argparse-tutorial): argparse tutorial from Day 0
 - [dfm/ArXivMailer](https://github.com/dfm/ArXivMailer): hack to modernise the daily arXiv email formatting
