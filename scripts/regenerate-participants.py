@@ -59,7 +59,7 @@ for dirname in event_map:
     with open(fpath) as f:
         text = f.read()
 
-    # Participants
+    # Participants -- handle both markdown bullets and <li> tags
     in_sec = False
     for line in text.split('\n'):
         if '## Participants' in line or '// participants' in line:
@@ -67,8 +67,17 @@ for dirname in event_map:
             continue
         if in_sec and re.match(r'^## ', line) and 'participant' not in line.lower():
             in_sec = False
-        if in_sec and line.strip().startswith('- ') and '<' not in line:
+        if not in_sec:
+            continue
+        raw = None
+        # Markdown bullet
+        if line.strip().startswith('- ') and '<' not in line:
             raw = line.strip()[2:].strip()
+        # HTML <li> tag
+        li_m = re.match(r'\s*<li>([^<]+)</li>', line)
+        if li_m:
+            raw = li_m.group(1).strip()
+        if raw:
             name = re.split(r'\s*[\(\[]', raw)[0].strip()
             aff_m = re.search(r'\(([^)]+)\)', raw)
             aff = aff_m.group(1) if aff_m else ''
@@ -82,8 +91,15 @@ for dirname in event_map:
             continue
         if in_org and re.match(r'^## ', line) and 'organis' not in line.lower():
             in_org = False
-        if in_org and line.strip().startswith('- ') and '<' not in line:
+        if not in_org:
+            continue
+        raw = None
+        if line.strip().startswith('- ') and '<' not in line:
             raw = line.strip()[2:].strip()
+        li_m = re.match(r'\s*<li>([^<]+)</li>', line)
+        if li_m:
+            raw = li_m.group(1).strip()
+        if raw:
             name = re.split(r'\s*[\(\[]', raw)[0].strip()
             aff_m = re.search(r'\(([^)]+)\)', raw)
             aff = aff_m.group(1) if aff_m else ''
