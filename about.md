@@ -58,134 +58,134 @@ How the themes of .Astronomy have shifted across 14 events. Hover or tap a line 
     '#ec4899','#f472b6','#fb923c','#a3e635','#e879f9'
   ];
 
+  var canvas, ctx, data, W, H, PAD;
+  var highlighted = null;
+  var dpr = window.devicePixelRatio || 1;
+  PAD = { top: 16, right: 16, bottom: 36, left: 28 };
+
   fetch(BASE + '/assets/js/trends-data.json')
     .then(function(r) { return r.json(); })
-    .then(function(data) { drawChart(data); })
-    .catch(function(e) { console.error(e); });
+    .then(function(d) { data = d; init(); })
+    .catch(function(e) { console.error('trends:', e); });
 
-  function drawChart(data) {
-    var canvas = document.getElementById('trends-canvas');
-    var legend = document.getElementById('trends-legend');
+  function init() {
+    canvas = document.getElementById('trends-canvas');
     if (!canvas) return;
+    buildLegend();
+    resize();
+
+    // Theme change
+    new MutationObserver(function() { draw(); })
+      .observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
+    window.addEventListener('resize', function() { resize(); });
+    window.addEventListener('orientationchange', function() { setTimeout(resize, 150); });
+  }
+
+  function resize() {
+    if (!canvas) return;
+    var rect = canvas.parentElement.getBoundingClientRect();
+    W = Math.max(Math.floor(rect.width) - 4, 200);
+    H = window.innerWidth < 640 ? 180 : 280;
+    dpr = window.devicePixelRatio || 1;
+    canvas.width = Math.round(W * dpr);
+    canvas.height = Math.round(H * dpr);
+    canvas.style.width = W + 'px';
+    canvas.style.height = H + 'px';
+    draw();
+  }
+
+  function draw() {
+    if (!canvas || !data) return;
+    ctx = canvas.getContext('2d');
+    ctx.setTransform(1, 0, 0, 1, 0, 0);  // reset
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);  // apply dpr
 
     var events = data.events;
     var topics = data.topics;
-    var W, H, PAD = { top: 16, right: 20, bottom: 40, left: 32 };
+    var isDark = document.documentElement.getAttribute('data-theme') !== 'light';
+    var gridCol = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+    var labelCol = isDark ? 'rgba(200,200,220,0.5)' : 'rgba(60,60,90,0.55)';
 
-    var highlighted = null;
+    var chartW = W - PAD.left - PAD.right;
+    var chartH = H - PAD.top - PAD.bottom;
+    var xStep = chartW / (events.length - 1);
 
-    function resize() {
-      var rect = canvas.parentElement.getBoundingClientRect();
-      W = Math.floor(rect.width) - 4;  // subtract padding
-      if (W < 1) W = 300;
-      H = window.innerWidth < 640 ? 200 : 300;
-      var dpr = window.devicePixelRatio || 1;
-      canvas.width = Math.round(W * dpr);
-      canvas.height = Math.round(H * dpr);
-      canvas.style.width = W + 'px';
-      canvas.style.height = H + 'px';
-      draw();
+    // Find max
+    var maxVal = 0;
+    topics.forEach(function(t) { maxVal = Math.max(maxVal, Math.max.apply(null, t.data)); });
+    maxVal = Math.ceil(maxVal / 10) * 10 || 10;
+
+    // Grid
+    ctx.strokeStyle = gridCol;
+    ctx.lineWidth = 1;
+    for (var g = 0; g <= 4; g++) {
+      var gy = PAD.top + chartH - (g / 4) * chartH;
+      ctx.beginPath(); ctx.moveTo(PAD.left, gy); ctx.lineTo(PAD.left + chartW, gy); ctx.stroke();
     }
 
-    function draw() {
-      var ctx = canvas.getContext('2d');
-      var dpr = window.devicePixelRatio || 1;
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      ctx.clearRect(0, 0, W, H);
+    // X labels
+    ctx.fillStyle = labelCol;
+    ctx.font = (window.innerWidth < 640 ? '9' : '10') + 'px "JetBrains Mono", monospace';
+    ctx.textAlign = 'center';
+    events.forEach(function(ev, i) {
+      ctx.fillText("'" + String(ev.year).slice(2), PAD.left + i * xStep, H - PAD.bottom + 14);
+    });
 
-      var isDark = document.documentElement.getAttribute('data-theme') !== 'light';
-      var gridCol = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
-      var labelCol = isDark ? 'rgba(200,200,220,0.5)' : 'rgba(60,60,90,0.55)';
-
-      var chartW = W - PAD.left - PAD.right;
-      var chartH = H - PAD.top - PAD.bottom;
-
-      // Find max value
-      var maxVal = 0;
-      topics.forEach(function(t) { maxVal = Math.max(maxVal, Math.max.apply(null, t.data)); });
-      maxVal = Math.ceil(maxVal / 10) * 10;
-
-      var xStep = chartW / (events.length - 1);
-
-      // Grid lines
-      ctx.strokeStyle = gridCol;
-      ctx.lineWidth = 1;
-      for (var g = 0; g <= 4; g++) {
-        var gy = PAD.top + chartH - (g / 4) * chartH;
-        ctx.beginPath(); ctx.moveTo(PAD.left, gy); ctx.lineTo(PAD.left + chartW, gy); ctx.stroke();
-      }
-
-      // X axis labels (years)
-      ctx.fillStyle = labelCol;
-      ctx.font = '10px "JetBrains Mono", monospace';
-      ctx.textAlign = 'center';
-      events.forEach(function(ev, i) {
-        var x = PAD.left + i * xStep;
-        ctx.fillText(String(ev.year).slice(2), x, H - PAD.bottom + 14);
-      });
-
-      // Draw lines
-      topics.forEach(function(topic, ti) {
-        var col = COLORS[ti % COLORS.length];
-        var isHL = highlighted === ti;
-        var alpha = highlighted === null ? 0.7 : (isHL ? 1.0 : 0.1);
-
-        ctx.strokeStyle = col;
-        ctx.globalAlpha = alpha;
-        ctx.lineWidth = isHL ? 2.5 : 1.5;
-        ctx.lineJoin = 'round';
-        ctx.beginPath();
-
-        topic.data.forEach(function(val, i) {
-          var x = PAD.left + i * xStep;
-          var y = PAD.top + chartH - (val / maxVal) * chartH;
-          if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
-        });
-        ctx.stroke();
-
-        // Dots at data points when highlighted
-        if (isHL) {
-          topic.data.forEach(function(val, i) {
-            if (val === 0) return;
-            var x = PAD.left + i * xStep;
-            var y = PAD.top + chartH - (val / maxVal) * chartH;
-            ctx.beginPath();
-            ctx.arc(x, y, 3.5, 0, Math.PI * 2);
-            ctx.fillStyle = col;
-            ctx.fill();
-          });
-        }
-
-        ctx.globalAlpha = 1;
-      });
-    }
-
-    // Build legend
+    // Lines
     topics.forEach(function(topic, ti) {
+      var col = COLORS[ti % COLORS.length];
+      var isHL = highlighted === ti;
+      ctx.globalAlpha = highlighted === null ? 0.72 : (isHL ? 1.0 : 0.08);
+      ctx.strokeStyle = col;
+      ctx.lineWidth = isHL ? 2.5 : 1.5;
+      ctx.lineJoin = 'round';
+      ctx.beginPath();
+      topic.data.forEach(function(val, i) {
+        var x = PAD.left + i * xStep;
+        var y = PAD.top + chartH - (val / maxVal) * chartH;
+        i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+      });
+      ctx.stroke();
+
+      if (isHL) {
+        topic.data.forEach(function(val, i) {
+          if (val === 0) return;
+          ctx.globalAlpha = 1;
+          ctx.beginPath();
+          ctx.arc(PAD.left + i * xStep, PAD.top + chartH - (val / maxVal) * chartH, 3.5, 0, Math.PI * 2);
+          ctx.fillStyle = col;
+          ctx.fill();
+        });
+      }
+      ctx.globalAlpha = 1;
+    });
+  }
+
+  function buildLegend() {
+    var legend = document.getElementById('trends-legend');
+    if (!legend || !data) return;
+    data.topics.forEach(function(topic, ti) {
       var col = COLORS[ti % COLORS.length];
       var btn = document.createElement('button');
       btn.className = 'trend-leg-btn';
       btn.style.setProperty('--tc', col);
       btn.textContent = topic.name;
-      btn.addEventListener('mouseenter', function() { highlighted = ti; draw(); });
-      btn.addEventListener('mouseleave', function() { highlighted = null; draw(); });
-      btn.addEventListener('click', function() {
+
+      function activate() {
         highlighted = highlighted === ti ? null : ti;
         document.querySelectorAll('.trend-leg-btn').forEach(function(b, i) {
           b.classList.toggle('tl-active', highlighted === i);
         });
         draw();
-      });
+      }
+
+      btn.addEventListener('click', activate);
+      // Touch devices: use touchend so it fires reliably
+      btn.addEventListener('touchend', function(e) { e.preventDefault(); activate(); });
       legend.appendChild(btn);
     });
-
-    // Redraw on theme change
-    var themeObs = new MutationObserver(function() { draw(); });
-    themeObs.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
-
-    window.addEventListener('resize', function() { resize(); });
-    window.addEventListener('orientationchange', function() { setTimeout(resize, 100); });
-    resize();
   }
 })();
 </script>
