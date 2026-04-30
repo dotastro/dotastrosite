@@ -1,0 +1,6 @@
+title: .Astronomy
+description: Building community at the intersection of astronomy and the modern web
+url: "https://dotastro.github.io"
+baseurl: "/dotastrosite"
+theme: minima
+github_username: dotastro
