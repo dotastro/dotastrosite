@@ -168,7 +168,7 @@ Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Camb
 <div class="cp-meta"><span class="cp-author">.Astronomy</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
 </div>
 <div class="community-post">
-<div class="cp-text">Follow along with the tweets from @dotastronomy using #dotastro (there are usually lots of them!)</div>
+<div class="cp-text">Follow along on Bluesky at @dotastro.bsky.social and with the #dotastro tag.</div>
 <div class="cp-meta"><span class="cp-author">.Astronomy</span> <span class="cp-date">2013-09-15</span> <span class="cp-source">storify</span></div>
 </div>
 <div class="community-post">

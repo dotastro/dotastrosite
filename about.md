@@ -234,7 +234,7 @@ This site is an open archive of the .Astronomy conference series. If you were th
 
 - Community: [Join the .Astronomy Slack](https://dotastronomyteam.slack.com)
 - GitHub: [github.com/dotastro](https://github.com/dotastro)
-- Twitter: [@dotastronomy](https://twitter.com/dotastronomy)
+- Bluesky: [@dotastro.bsky.social](https://bsky.app/profile/dotastro.bsky.social)
 - Foundation: [foundation@dotastronomy.com](mailto:foundation@dotastronomy.com)
 - Brain Trust nominations: [braintrust@dotastronomy.com](mailto:braintrust@dotastronomy.com)
 

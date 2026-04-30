@@ -97,7 +97,7 @@ The people who have shaped and continue to guide the .Astronomy series.
 
 </div>
 
-<p class="archive-note" style="margin-top:2.5rem">The .Astronomy community moved from Twitter to <a href="https://bsky.app" target="_blank" rel="noopener">Bluesky</a>. Follow along at <a href="https://bsky.app/search?q=dotastro" target="_blank" rel="noopener">#dotastro on Bluesky</a>. Bios and avatars loaded from Bluesky profiles.</p>
+<p class="archive-note" style="margin-top:2.5rem">The .Astronomy community is on Bluesky. Follow <a href="https://bsky.app/profile/dotastro.bsky.social" target="_blank" rel="noopener">@dotastro.bsky.social</a> and the <a href="https://bsky.app/search?q=dotastro" target="_blank" rel="noopener">#dotastro tag</a>. Bios and avatars loaded live from Bluesky profiles.</p>
 
 <script>
 // Refresh bios and avatars from live Bluesky API
