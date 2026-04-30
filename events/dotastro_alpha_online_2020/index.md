@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ".Astronomy Alpha — Online, 2020"
+title: ".Astronomy Alpha, Online, 2020"
 ---
 
 <div class="event-page-hero">
   <div class="event-page-kicker">.Astronomy alpha</div>
   <h1 class="event-page-title">Online</h1>
   <div class="event-page-meta">
-    <span>📅 17, 19, and 26 August 2020</span>
-    <span>📍 Online (synchronous parts ran 14:00–21:00 UTC)</span>
+    <span> 17, 19, and 26 August 2020</span>
+    <span> Online (synchronous parts ran 14:00–21:00 UTC)</span>
   </div>
   <p class="event-page-desc">DotDotAstro (also known as .Astronomy alpha) was the first fully online edition of the .Astronomy conference. Amazingly, this had been planned before the COVID-19 pandemic as an experiment in what a truly online conference could be, though the pandemic made it all the more relevant. The conference ran over three non-consecutive days in August 2020 to reduce barriers to participation. It was open to a maximum of around 75 participants to preserve the small-group feel of a normal .Astronomy. The synchronous parts ran from 14:00–21:00 UTC to accommodate participants across time zones. The conference especially welcomed participation from those who had been unable to join in-person .Astronomy events in the past, whether due to family commitments, funding constraints, or reduced travel for environmental reasons.</p>
 </div>

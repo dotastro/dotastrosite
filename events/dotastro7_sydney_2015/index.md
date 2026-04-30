@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 7 — Sydney, 2015"
+title: ".Astronomy 7, Sydney, 2015"
 ---
 
 <div class="event-page-hero">

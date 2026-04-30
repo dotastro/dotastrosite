@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 8 — Oxford, 2016"
+title: ".Astronomy 8, Oxford, 2016"
 ---
 
 <div class="event-page-hero">

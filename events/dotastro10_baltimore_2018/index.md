@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ".Astronomy X — Baltimore, 2018"
+title: ".Astronomy X, Baltimore, 2018"
 ---
 
 <div class="event-page-hero">
   <div class="event-page-kicker">.Astronomy X</div>
   <h1 class="event-page-title">Baltimore, MD, USA</h1>
   <div class="event-page-meta">
-    <span>📅 24–27 September 2018</span>
-    <span>📍 Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
+    <span> 24–27 September 2018</span>
+    <span> Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
   </div>
   <p class="event-page-desc">The tenth .Astronomy conference, known as ".Astronomy X" (using the Roman numeral), was held at the Space Telescope Science Institute in Baltimore, Maryland. STScI is the science operations centre for the Hubble Space Telescope and the James Webb Space Telescope, making it a fitting venue for a conference at the intersection of astronomy and technology. Most talks were webcast live and recorded. Sarah Kendrew's talk, "Ten Years of .Astronomy", reflected on the conference series' decade-long journey from a small gathering of 30 people in Cardiff to a globally recognised community.</p>
 </div>

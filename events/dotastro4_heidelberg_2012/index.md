@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 4 — Heidelberg, 2012"
+title: ".Astronomy 4, Heidelberg, 2012"
 ---
 
 <div class="event-page-hero">

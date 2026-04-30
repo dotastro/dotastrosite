@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 5 — Cambridge MA, 2013"
+title: ".Astronomy 5, Cambridge MA, 2013"
 ---
 
 <div class="event-page-hero">

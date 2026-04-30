@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 6 — Chicago, 2014"
+title: ".Astronomy 6, Chicago, 2014"
 ---
 
 <div class="event-page-hero">

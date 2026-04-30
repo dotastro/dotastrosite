@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ".Astronomy 12 — New York, 2023"
+title: ".Astronomy 12, New York, 2023"
 ---
 
 <div class="event-page-hero">
   <div class="event-page-kicker">.Astronomy 12</div>
   <h1 class="event-page-title">New York, NY, USA</h1>
   <div class="event-page-meta">
-    <span>📅 3–5 October 2023 (Day 0: 2 October; optional hacking: 6 October)</span>
-    <span>📍 Center for Computational Astrophysics (CCA), Flatiron Institute, New York</span>
+    <span> 3–5 October 2023 (Day 0: 2 October; optional hacking: 6 October)</span>
+    <span> Center for Computational Astrophysics (CCA), Flatiron Institute, New York</span>
   </div>
   <p class="event-page-desc">.Astronomy 12 was held at the Center for Computational Astrophysics (CCA) at the Flatiron Institute in New York. The event ran from Tuesday to Thursday, with an optional Day 0 tutorial day on Monday and continued hacking on Friday. Plenary talks were live-broadcast and recorded. .Astronomy is not a traditional conference. It is a gathering of around 100 astronomy enthusiasts, passionate about how the web and technology can transform science.</p>
 </div>

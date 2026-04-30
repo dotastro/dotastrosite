@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ".Astronomy 11 — Toronto, 2019"
+title: ".Astronomy 11, Toronto, 2019"
 ---
 
 <div class="event-page-hero">
   <div class="event-page-kicker">.Astronomy 11</div>
   <h1 class="event-page-title">Toronto, Canada</h1>
   <div class="event-page-meta">
-    <span>📅 22–25 October 2019</span>
-    <span>📍 Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto, Ontario</span>
+    <span> 22–25 October 2019</span>
+    <span> Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto, Ontario</span>
   </div>
   <p class="event-page-desc">The 11th .Astronomy conference was hosted by the Dunlap Institute for Astronomy and Astrophysics at the University of Toronto. This was the first time .Astronomy came to Canada, a country with a rich heritage in astronomy, including the development of Very Long Baseline Interferometry (VLBI), the discovery of Supernova 1987A, and observations of the first known black hole, Cygnus X-1. Toronto has a large community of astronomers with interests across both astronomy and software/data issues, making it an ideal host.</p>
 </div>

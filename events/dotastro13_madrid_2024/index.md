@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ".Astronomy 13 — Madrid, 2024"
+title: ".Astronomy 13, Madrid, 2024"
 ---
 
 <div class="event-page-hero">
   <div class="event-page-kicker">.Astronomy 13</div>
   <h1 class="event-page-title">Madrid, Spain</h1>
   <div class="event-page-meta">
-    <span>📅 23–26 April 2024</span>
-    <span>📍 European Space Astronomy Centre (ESAC), near Madrid, Spain</span>
+    <span> 23–26 April 2024</span>
+    <span> European Space Astronomy Centre (ESAC), near Madrid, Spain</span>
   </div>
   <p class="event-page-desc">.Astronomy 13 was held at the European Space Astronomy Centre (ESAC) near Madrid, Spain. ESAC is ESA's centre for space science missions and data archives, making it a fitting host for a conference about astronomy, technology, and data. This was the first .Astronomy at a European Space Agency facility. .Astronomy is not a traditional conference. It is a gathering of around 100 astronomy enthusiasts, passionate about how the web and technology can transform science.</p>
 </div>

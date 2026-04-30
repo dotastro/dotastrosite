@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ".Astronomy 9 — Cape Town, 2017"
+title: ".Astronomy 9, Cape Town, 2017"
 ---
 
 <div class="event-page-hero">
   <div class="event-page-kicker">.Astronomy 9</div>
   <h1 class="event-page-title">Cape Town, South Africa</h1>
   <div class="event-page-meta">
-    <span>📅 14–17 November 2017</span>
-    <span>📍 South African Astronomical Observatory, Cape Town</span>
+    <span> 14–17 November 2017</span>
+    <span> South African Astronomical Observatory, Cape Town</span>
   </div>
   <p class="event-page-desc">The ninth .Astronomy conference was held at the South African Astronomical Observatory (SAAO) in Cape Town, bringing the conference to Africa for the first time. The rapid growth of astronomy in South Africa, with major projects like the SKA, SALT, and the Office of Astronomy for Development, made it an exciting backdrop. The conference focused on how new technologies (machine learning, web interfaces, software development) could help astronomical research, education, and outreach, and how diversity could help us better understand the Universe.</p>
 </div>

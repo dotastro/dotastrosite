@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 1 — Cardiff, 2008"
+title: ".Astronomy 1, Cardiff, 2008"
 ---
 
 <div class="event-page-hero">

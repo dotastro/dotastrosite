@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ".Astronomy 2 — Leiden, 2009"
+title: ".Astronomy 2, Leiden, 2009"
 ---
 
 <div class="event-page-hero">
