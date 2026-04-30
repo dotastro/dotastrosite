@@ -7,8 +7,8 @@ title: ".Astronomy 12 - New York, 2023"
 <div class="event-num">.Astronomy 12</div>
 <h1>New York, NY, USA, 2023</h1>
 <div class="event-meta">
-<span>📅 3–5 October 2023 (Day 0: 2 October; optional hacking: 6 October)</span>
-<span>📍 Center for Computational Astrophysics (CCA), Flatiron Institute, New York</span>
+<span>3–5 October 2023 (Day 0: 2 October; optional hacking: 6 October)</span>
+<span>Center for Computational Astrophysics (CCA), Flatiron Institute, New York</span>
 </div>
 </div>
 

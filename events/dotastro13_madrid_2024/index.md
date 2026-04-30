@@ -7,8 +7,8 @@ title: ".Astronomy 13 - Madrid, 2024"
 <div class="event-num">.Astronomy 13</div>
 <h1>Madrid, Spain, 2024</h1>
 <div class="event-meta">
-<span>📅 23–26 April 2024</span>
-<span>📍 European Space Astronomy Centre (ESAC), near Madrid, Spain</span>
+<span>23–26 April 2024</span>
+<span>European Space Astronomy Centre (ESAC), near Madrid, Spain</span>
 </div>
 </div>
 

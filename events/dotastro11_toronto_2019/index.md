@@ -7,8 +7,8 @@ title: ".Astronomy 11 - Toronto, 2019"
 <div class="event-num">.Astronomy 11</div>
 <h1>Toronto, Canada, 2019</h1>
 <div class="event-meta">
-<span>📅 22–25 October 2019</span>
-<span>📍 Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto, Ontario</span>
+<span>22–25 October 2019</span>
+<span>Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto, Ontario</span>
 </div>
 </div>
 

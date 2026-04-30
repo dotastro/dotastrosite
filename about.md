@@ -44,28 +44,28 @@ This site is an open archive of the .Astronomy conference series. If you were th
 <div class="contribute-grid">
 
 <a href="https://github.com/dotastro/dotastrosite/issues/new?template=missing_content.md&title=Missing+content:+[event+name]&labels=content" target="_blank" rel="noopener" class="contribute-card">
-<div class="contribute-card-icon">📝</div>
+<div class="contribute-card-label">01</div>
 <div class="contribute-card-title">Add missing content</div>
 <p class="contribute-card-desc">Missing talks, hacks, participants or agenda items from an event you attended? File an issue and we'll add them.</p>
 <span class="btn btn-outline btn-sm">Open an issue on GitHub</span>
 </a>
 
 <a href="https://github.com/dotastro/dotastrosite/issues/new?template=new_hack.md&title=Hack:+[hack+name]&labels=hack,content" target="_blank" rel="noopener" class="contribute-card">
-<div class="contribute-card-icon">🛠</div>
+<div class="contribute-card-label">02</div>
 <div class="contribute-card-title">Submit a hack</div>
 <p class="contribute-card-desc">Built something at a .Astronomy hack day that isn't in the archive? Tell us about it.</p>
 <span class="btn btn-outline btn-sm">Submit via GitHub</span>
 </a>
 
 <a href="https://github.com/dotastro/dotastrosite/issues/new?template=correction.md&title=Correction:+[brief+description]&labels=correction" target="_blank" rel="noopener" class="contribute-card">
-<div class="contribute-card-icon">✏️</div>
+<div class="contribute-card-label">03</div>
 <div class="contribute-card-title">Fix something</div>
 <p class="contribute-card-desc">Spotted a mistake, wrong date, misspelled name, or broken link? File a correction.</p>
 <span class="btn btn-outline btn-sm">File a correction</span>
 </a>
 
 <a href="https://github.com/dotastro/dotastrosite/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" class="contribute-card">
-<div class="contribute-card-icon">🔀</div>
+<div class="contribute-card-label">04</div>
 <div class="contribute-card-title">Submit a pull request</div>
 <p class="contribute-card-desc">Comfortable with GitHub? Edit the files directly and open a PR. See CONTRIBUTING.md for the repo structure.</p>
 <span class="btn btn-outline btn-sm">Read CONTRIBUTING.md</span>

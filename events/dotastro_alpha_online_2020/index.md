@@ -7,8 +7,8 @@ title: ".Astronomy Alpha - Online, 2020"
 <div class="event-num">.Astronomy alpha</div>
 <h1>Online, 2020</h1>
 <div class="event-meta">
-<span>📅 17, 19, and 26 August 2020</span>
-<span>📍 Online (synchronous parts ran 14:00–21:00 UTC)</span>
+<span>17, 19, and 26 August 2020</span>
+<span>Online (synchronous parts ran 14:00–21:00 UTC)</span>
 </div>
 </div>
 

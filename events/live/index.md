@@ -10,8 +10,8 @@ description: Live coverage of the current .Astronomy event.
   <div class="live-badge"><span class="live-dot"></span> Live now</div>
   <h1 class="live-title">EVENT NAME — City, Country</h1>
   <div class="event-meta">
-    <span>📅 DATES</span>
-    <span>📍 VENUE</span>
+    <span>DATES</span>
+    <span>VENUE</span>
   </div>
 </div>
 

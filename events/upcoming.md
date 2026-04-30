@@ -16,8 +16,8 @@ description: Future .Astronomy conferences.
   <div class="upcoming-num">.Astronomy 14</div>
   <h2 class="upcoming-title">London, UK</h2>
   <div class="upcoming-meta">
-    <span>📅 2027</span>
-    <span>📍 London, United Kingdom</span>
+    <span>2027</span>
+    <span>London, United Kingdom</span>
   </div>
   <p class="upcoming-desc">The fourteenth .Astronomy conference will be held in London. Dates and venue are yet to be confirmed. The event will be organised by Robert Simpson.</p>
   <p class="upcoming-desc">If you would like to help organise, suggest a venue, or get involved early, please get in touch.</p>

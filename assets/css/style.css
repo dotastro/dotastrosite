@@ -1024,10 +1024,18 @@ textarea {
   color: inherit;
 }
 
-.contribute-card-icon {
-  font-size: 1.75rem;
+.contribute-card-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--blue);
+  letter-spacing: 0.1em;
   margin-bottom: 0.75rem;
-  line-height: 1;
+  background: var(--blue-dim);
+  border: 1px solid var(--blue-border);
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
 }
 
 .contribute-card-title {
@@ -2031,7 +2039,8 @@ body.bg-transitioning .bg-layer {
 }
 
 .nav-search-icon {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 400;
 }
 
 .nav-search-kbd {

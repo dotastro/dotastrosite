@@ -7,8 +7,8 @@ title: ".Astronomy X - Baltimore, 2018"
 <div class="event-num">.Astronomy X</div>
 <h1>Baltimore, MD, USA, 2018</h1>
 <div class="event-meta">
-<span>📅 24–27 September 2018</span>
-<span>📍 Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
+<span>24–27 September 2018</span>
+<span>Space Telescope Science Institute (STScI), Baltimore, Maryland</span>
 </div>
 </div>
 

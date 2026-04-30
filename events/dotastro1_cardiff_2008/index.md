@@ -1,58 +1,98 @@
 ---
 layout: default
-title: ".Astronomy 1 - Cardiff, 2008"
+title: ".Astronomy 1 — Cardiff, 2008"
 ---
 
-<div class="event-hero">
-<div class="event-num">.Astronomy 1</div>
-<h1>Cardiff, UK, 2008</h1>
-<div class="event-meta">
-<span>📅 22–24 September 2008</span>
-<span>📍 Cardiff University Department of Physics and Astronomy</span>
+<div class="event-page-hero">
+  <div class="event-page-kicker">.Astronomy 1</div>
+  <h1 class="event-page-title">Cardiff, UK</h1>
+  <div class="event-page-meta">
+    <span>22–24 September 2008</span>
+    <span>Cardiff University Department of Physics and Astronomy</span>
+  </div>
+  <p class="event-page-desc">The first .Astronomy conference was held at Cardiff University in September 2008. Organised by Robert Simpson, then a Cardiff PhD student, with support from Prof. Derek Ward-Thompson. The original subtitle was "Networked Astronomy and the New Media". It brought together approximately 30 astronomers, educators, and technologists to explore how the web and new media could transform astronomical research and outreach. Many attendees were converted to Twitter during the event. Formal proceedings were published by Canopus Publishing, the only .Astronomy to use this format.</p>
 </div>
-</div>
 
-The first .Astronomy conference was held at Cardiff University in September 2008. It was organised solely by Robert Simpson, a Cardiff PhD student at the time, with support from Prof. Derek Ward-Thompson. The original subtitle was "Networked Astronomy and the New Media". It brought together approximately 30 astronomers, educators, and technologists to explore how the web and new media could transform astronomical research and outreach.
+<nav class="event-page-nav" aria-label="Jump to section">
+  <a href="#organisers">Organisers</a>
+  <a href="#talks">Talks</a>
+  <a href="#participants">Participants</a>
+  <a href="#links">Links</a>
+</nav>
 
-The event featured a mix of live and remote presentations. Many attendees were converted to Twitter during the event. There was much discussion of social media and its potential for science.
-
-Formal proceedings were published by Canopus Publishing (edited by Robin Rees). It was something the organisers later noted was far too complicated and went out of date quickly. All subsequent events used the more informal "Unproceedings" format.
-
-## Organisers
+<span class="section-label">// organisers</span>
+## Organisers {#organisers}
 
 - Robert Simpson (Cardiff University)
 - Derek Ward-Thompson (Cardiff University)
 
-## Programme
+<span class="section-label">// programme</span>
+## Programme {#programme}
 
-The event featured live talks on:
-- Blogging in astronomy
-- Hacking open data
-- Twitter for Telescopes
-- The Faulkes Telescope Project
-- WETI (The Wait for Extraterrestrial Intelligence)
-
-Remote Skype presentations were given by:
-- Phil Plait (Bad Astronomy blog), on blogging
-- Emily Lakdawalla (The Planetary Society), on public access to open imagery from the Solar System
-- Alberto Conti and Carol Christian (STScI), on Google Sky
-
-## Hacks
+The event featured a mix of live and remote presentations. Topics ranged across blogging, citizen science, open data, and the emerging social web in astronomy. Remote Skype presentations were a notable feature, bringing in speakers from across the Atlantic.
 
 There was no Hack Day at the first .Astronomy event.
 
-## GitHub Repos
+<span class="section-label">// talks</span>
+## Talks {#talks}
 
-_No GitHub repos linked to this event._
+### Live Talks
 
-## Venue
+- **Joshua Bloom** (UC Berkeley): PAIRITEL and robotic telescope networks
+- **Will Gater** (Sky at Night Magazine): Astronomy journalism and new media
+- **Pamela Gay** (Astronomy Cast / Star Stryder): Podcasting astronomy
+- **Edward Gomez** (Las Cumbres Observatory / Cardiff University)
+- **Andy Lawrence** (Royal Observatory Edinburgh / AstroGRID)
+- **Chris Lintott** (Galaxy Zoo / The Sky at Night): Galaxy Zoo and citizen science
+- **Stuart Lowe** (The Jodcast / Astronomy Blog)
+- **Nick Rattenbury** (The Jodcast)
+- **Ian Robson** (IYA 2009): The International Year of Astronomy
+- **Paul Roche** (Faulkes Telescope Project): The Faulkes Telescope Project
 
-Room WX3.09, Queen's Buildings, Cardiff School of Physics and Astronomy, Cardiff University, The Parade, Cardiff CF24 3AA, UK.
+### Remote / Skype Presentations
 
-## Links
+- **Phil Plait** (Bad Astronomy): Astronomy blogging
+- **Emily Lakdawalla** (The Planetary Society): Public access to open imagery from the Solar System
+- **Carol Christian** and **Alberto Conti** (STScI): Google Sky
+
+### Proceedings
+
+.Astronomy 1 had formal proceedings published by Canopus Publishing, edited by Robin Rees. This was the only .Astronomy to have traditional proceedings; the format was later replaced by the more informal "Unproceedings".
+
+<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20080602061742/http://dotastronomy.com:80/speakers/" target="_blank" rel="noopener">web.archive.org</a> snapshots, 2008. Some details may be incomplete.</p>
+
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+Approximately 30 people attended .Astronomy 1 in Cardiff, September 2008.
+
+- Carol Christian (STScI)
+- Alberto Conti (STScI)
+- Will Gater (Sky at Night Magazine)
+- Pamela Gay (Astronomy Cast)
+- Edward Gomez (Las Cumbres Observatory / Cardiff University)
+- Peter Hargrave (Cardiff University)
+- Emily Lakdawalla (The Planetary Society, remote)
+- Andy Lawrence (Royal Observatory Edinburgh)
+- Christopher Leigh (Liverpool John Moores University)
+- Chris Lintott (Galaxy Zoo / The Sky at Night)
+- Stuart Lowe (The Jodcast / Astronomy Blog)
+- Phil Plait (Bad Astronomy, remote)
+- Jan Pomierny (Astronomia: Polish Astronomy Portal)
+- Nick Rattenbury (The Jodcast)
+- Robin Rees (Canopus Publishing)
+- Ian Robson (IYA 2009)
+- Paul Roche (Faulkes Telescope)
+- Fiona Romeo (Royal Observatory, Greenwich)
+- Jenny Shipway (INTECH Science Centre and Planetarium)
+- Robert Simpson (Cardiff University)
+- Paul Tipper (Dublin Institute of Technology)
+- Derek Ward-Thompson (Cardiff University)
+
+<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20080602061742/http://dotastronomy.com:80/speakers/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2008. Some details may be incomplete.</p>
+
+<span class="section-label">// links</span>
+## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/one)
-- [Talks](talks.html)
-- [Participants](participants.html)
-
-<p class="archive-note">Content enriched from <a href="https://web.archive.org/web/20080602061747/http://dotastronomy.com:80/venue/" target="_blank" rel="noopener">web.archive.org</a> snapshots, 2008. Some details may be incomplete.</p>
+- [Wayback Machine snapshot](https://web.archive.org/web/20080602061747/http://dotastronomy.com:80/venue/)
