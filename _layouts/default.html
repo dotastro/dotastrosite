@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,6 +9,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <!-- Apply saved theme before paint to avoid flash -->
+  <script>
+    (function() {
+      var saved = localStorage.getItem('dotastro-theme');
+      var preferred = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', saved || preferred);
+    })();
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -16,17 +24,25 @@
       <a href="{{ site.baseurl }}/" class="site-logo">
         <img src="{{ site.baseurl }}/assets/dotlogo_white.png" alt=".Astronomy">
       </a>
-      <div class="nav-links">
-        <a href="{{ site.baseurl }}/events/">Events</a>
-        <a href="{{ site.baseurl }}/about">About</a>
-        <a href="{{ site.baseurl }}/community/">Community</a>
-        <a href="https://github.com/dotastro" class="nav-github" target="_blank" rel="noopener">github.com/dotastro</a>
+      <div class="nav-right">
+        <div class="nav-links">
+          <a href="{{ site.baseurl }}/events/">Events</a>
+          <a href="{{ site.baseurl }}/about">About</a>
+          <a href="{{ site.baseurl }}/community/">Community</a>
+          <a href="https://github.com/dotastro" class="nav-github" target="_blank" rel="noopener">github.com/dotastro</a>
+        </div>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode">
+          <span class="icon-dark">☀</span>
+          <span class="icon-light">☽</span>
+        </button>
       </div>
     </nav>
   </header>
+
   <main class="main-content">
     {{ content }}
   </main>
+
   <footer class="site-footer">
     <div class="footer-inner">
       <img src="{{ site.baseurl }}/assets/dotlogo_white.png" alt=".Astronomy">
@@ -35,5 +51,23 @@
       <a href="https://github.com/dotastro">github.com/dotastro</a>
     </div>
   </footer>
+
+  <script>
+    // Theme toggle
+    var btn = document.getElementById('theme-toggle');
+    btn.addEventListener('click', function() {
+      var html = document.documentElement;
+      var next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('dotastro-theme', next);
+    });
+
+    // Sync with system preference changes (if no manual override)
+    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function(e) {
+      if (!localStorage.getItem('dotastro-theme')) {
+        document.documentElement.setAttribute('data-theme', e.matches ? 'light' : 'dark');
+      }
+    });
+  </script>
 </body>
 </html>
