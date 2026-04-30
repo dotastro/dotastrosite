@@ -3,8 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}, .Astronomy</title>
+  <title>{{ page.title }} — .Astronomy</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="site-baseurl" content="{{ site.baseurl }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -19,6 +20,10 @@
   </script>
 </head>
 <body>
+
+  <!-- Fixed background layer -->
+  <div class="bg-layer" aria-hidden="true"></div>
+
   <header class="site-header">
     <nav class="nav-inner">
       <a href="{{ site.baseurl }}/" class="site-logo">
@@ -30,6 +35,7 @@
           <a href="{{ site.baseurl }}/events/upcoming">Upcoming</a>
           <a href="{{ site.baseurl }}/brain-trust">Brain Trust</a>
           <a href="{{ site.baseurl }}/foundation/">Foundation</a>
+          <a href="{{ site.baseurl }}/community/">Community</a>
           <a href="{{ site.baseurl }}/nominate" class="nav-nominate">Nominate</a>
           <a href="https://github.com/dotastro" class="nav-github" target="_blank" rel="noopener">github.com/dotastro</a>
         </div>
@@ -54,6 +60,13 @@
     </div>
   </footer>
 
+  <!-- Corner image credit -->
+  <div class="bg-corner-credit" id="bg-corner-credit">
+    <span class="bg-corner-label">Image:</span>
+    <a href="#" target="_blank" rel="noopener"></a>
+  </div>
+
+  <script src="{{ site.baseurl }}/assets/js/background.js"></script>
   <script>
     // Theme toggle
     var btn = document.getElementById('theme-toggle');
@@ -64,7 +77,6 @@
       localStorage.setItem('dotastro-theme', next);
     });
 
-    // Sync with system preference changes (if no manual override)
     window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function(e) {
       if (!localStorage.getItem('dotastro-theme')) {
         document.documentElement.setAttribute('data-theme', e.matches ? 'light' : 'dark');

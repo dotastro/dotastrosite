@@ -82,3 +82,25 @@ This site is an open archive of the .Astronomy conference series. If you were th
 - Twitter: [@dotastronomy](https://twitter.com/dotastronomy)
 - Foundation: [foundation@dotastronomy.com](mailto:foundation@dotastronomy.com)
 - Brain Trust nominations: [braintrust@dotastronomy.com](mailto:braintrust@dotastronomy.com)
+
+---
+
+## Background images
+
+This site uses images from space telescopes as background images, changing each visit.
+
+<div class="bg-credit-widget">
+  <div class="bg-credit-preview">
+    <div class="bg-credit-preview-img"></div>
+  </div>
+  <div class="bg-credit-info">
+    <div class="bg-credit-info-title" id="bg-credit-title">Cosmic Cliffs, Carina Nebula</div>
+    <div class="bg-credit-info-instrument" id="bg-credit-instrument">James Webb Space Telescope (NIRCam)</div>
+    <p class="bg-credit-info-credit">Credits: <span id="bg-credit-text">NASA, ESA, CSA, and STScI</span></p>
+    <div class="bg-credit-actions">
+      <a href="https://science.nasa.gov/mission/webb/multimedia/images/" id="bg-credit-link" target="_blank" rel="noopener" class="btn btn-outline btn-sm">View image source</a>
+      <button id="bg-rotate-btn" class="btn btn-outline btn-sm">Next image</button>
+      <span class="bg-count-label" id="bg-count"></span>
+    </div>
+  </div>
+</div>
