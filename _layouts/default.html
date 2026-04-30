@@ -30,6 +30,11 @@
       </a>
 
       <div class="nav-right">
+        <button class="nav-search-btn" data-search-open aria-label="Search site">
+          <span class="nav-search-icon">⌕</span>
+          Search
+          <span class="nav-search-kbd">⌘K</span>
+        </button>
         <div class="nav-links">
           <a href="{{ site.baseurl }}/events/">Events</a>
           <a href="{{ site.baseurl }}/events/upcoming">Upcoming</a>
@@ -73,12 +78,27 @@
     </div>
   </footer>
 
+  <!-- Search overlay -->
+  <div class="search-overlay" id="search-overlay" role="dialog" aria-modal="true" aria-label="Site search">
+    <div class="search-box">
+      <div class="search-input-wrap">
+        <input class="search-input" id="search-input" type="search" placeholder="Search talks, hacks, people, events..." autocomplete="off" spellcheck="false">
+        <button class="search-close" id="search-close" aria-label="Close search">✕</button>
+      </div>
+      <div class="search-results" id="search-results">
+        <div class="search-empty">Type to search talks, hacks, people, events...</div>
+      </div>
+      <p class="search-hint">Press <kbd style="font-family:var(--font-mono);font-size:0.7rem;background:var(--bg-3);border:1px solid var(--border-hi);border-radius:4px;padding:1px 5px">/</kbd> or <kbd style="font-family:var(--font-mono);font-size:0.7rem;background:var(--bg-3);border:1px solid var(--border-hi);border-radius:4px;padding:1px 5px">⌘K</kbd> to open &nbsp;·&nbsp; <kbd style="font-family:var(--font-mono);font-size:0.7rem;background:var(--bg-3);border:1px solid var(--border-hi);border-radius:4px;padding:1px 5px">Esc</kbd> to close</p>
+    </div>
+  </div>
+
   <div class="bg-corner-credit" id="bg-corner-credit">
     <span class="bg-corner-label">Image:</span>
     <a href="#" target="_blank" rel="noopener"></a>
   </div>
 
   <script src="{{ site.baseurl }}/assets/js/background.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/search.js"></script>
   <script>
     // Theme toggle
     document.getElementById('theme-toggle').addEventListener('click', function () {
