@@ -54,7 +54,7 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <img class="person-avatar" src="https://cdn.bsky.app/img/avatar/plain/did:plc:az2aiwjbntp35xgkwtthznsm/bafkreihsqf7ajl3hnvfxalobyt6fd3fvwb5fu4453xgusmon5624jgnpla@jpeg" alt="Robert Simpson" loading="lazy">
 <div>
 <div class="person-name">Robert Simpson</div>
-<div class="person-role">Chairperson</div>
+
 <div class="person-handle"><a href="https://bsky.app/profile/orbitingfrog.bsky.social" target="_blank" rel="noopener">orbitingfrog.bsky.social</a></div>
 </div>
 </div>
@@ -66,7 +66,7 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <img class="person-avatar" src="https://cdn.bsky.app/img/avatar/plain/did:plc:tdhfbju5nml6p7goaye5iiqj/bafkreiaxo2xfee4vutmp7tkp67p4rnpuv3oe73npihpg4gtqoodfhnflfy@jpeg" alt="Sarah Kendrew" loading="lazy">
 <div>
 <div class="person-name">Sarah Kendrew</div>
-<div class="person-role">Secretary</div>
+
 <div class="person-handle"><a href="https://bsky.app/profile/sarahkendrew.bsky.social" target="_blank" rel="noopener">sarahkendrew.bsky.social</a></div>
 </div>
 </div>
@@ -78,11 +78,11 @@ The Foundation is governed by three trustees, each bringing a distinct perspecti
 <img class="person-avatar" src="https://cdn.bsky.app/img/avatar/plain/did:plc:67bgg4j34njbopitm62cvddy/bafkreibbr2bl7ekp3ngvsko4khxyu73dcda2mfjobui35eu5ky57t5ljjq@jpeg" alt="Chris Lintott" loading="lazy">
 <div>
 <div class="person-name">Chris Lintott</div>
-<div class="person-role">Treasurer</div>
+
 <div class="person-handle"><a href="https://bsky.app/profile/chrislintott.bsky.social" target="_blank" rel="noopener">chrislintott.bsky.social</a></div>
 </div>
 </div>
-<p class="person-bio">Professor of Astrophysics at Oxford University and lead of the Zooniverse citizen science group, Chris has been part of .Astronomy from the very beginning. His research on galaxy formation and his work building the world's largest citizen science platform make him a natural fit for the Foundation's mission. He serves as Treasurer.</p>
+<p class="person-bio">Professor of Astrophysics at Oxford University, Chris has been part of .Astronomy from the very beginning. As lead of the Zooniverse, the world's largest citizen science platform, he brings both enormous scientific credibility and a network that spans research, outreach, and the institutions that matter. His presence gives the Foundation authority and opens doors.</p>
 </div>
 
 </div>
