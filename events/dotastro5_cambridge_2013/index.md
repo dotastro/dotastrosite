@@ -68,8 +68,6 @@ Alberto Accomazzi announced the launch of ADS 2.0, featuring a new search engine
 - Transitioning into industry from the ivory tower
 - Indexing all the measurements in the literature
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20131003151124/http://dotastronomy.com:80/blog/2013/09/liveblog-day-one/" target="_blank" rel="noopener">web.archive.org liveblog</a> snapshots, 2013. Some details may be incomplete.</p>
-
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
 
@@ -114,10 +112,7 @@ Approximately 50 people attended .Astronomy 5 at the Microsoft NERD Center, Camb
 - Robert Simpson (Oxford University, @orbitingfrog)
 - Stuart Lynn (Zooniverse / Adler Planetarium, @stuart_lynn)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20131003151124/http://dotastronomy.com:80/blog/2013/09/liveblog-day-one/" target="_blank" rel="noopener">web.archive.org liveblog</a> snapshots, 2013. Some details may be incomplete. If you attended this event, please <a href="https://github.com/dotastro/dotastrosite/issues/new?template=missing_content.md">file an issue</a> to have your name added.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/five)
-- [Wayback Machine liveblog](https://web.archive.org/web/20131003151124/http://dotastronomy.com:80/blog/2013/09/liveblog-day-one/)

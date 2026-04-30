@@ -56,8 +56,6 @@ Michelle Borkin demonstrated how Amazon's Mechanical Turk could be used for astr
 
 Alyssa Goodman's Seamless Astronomy talk discussed linking data, literature, and visualisation tools, with live demonstrations of how different software could communicate via SAMP.
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20120830115049/http://dotastronomy.com/events/four/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2012. Some details may be incomplete.</p>
-
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
 
@@ -171,10 +169,7 @@ Approximately 50 people attended .Astronomy 4 in Heidelberg, July 2012.
 - Adam Tarnoff (Adler Planetarium)
 - Laura Whyte (Adler Planetarium, @whytewithawhy)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20120830115049/http://dotastronomy.com/events/four/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2012. Some details may be incomplete.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/four)
-- [Wayback Machine snapshot](https://web.archive.org/web/20120830115049/http://dotastronomy.com/events/four/)

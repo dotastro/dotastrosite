@@ -52,8 +52,6 @@ Organising committee also included Alasdair Allan, Chris Lintott, Stuart Lowe, a
 
 This was the first .Astronomy to introduce unconference sessions and a Hack Day, both of which became defining features of the series. The Chromoscope web-based sky visualisation service was launched during the event.
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20121213210952/http://dotastronomy.com:80/events/two/" target="_blank" rel="noopener">web.archive.org</a> and <a href="https://web.archive.org/web/20190220180048/https://www.dotastronomy.com/two/" target="_blank" rel="noopener">dotastronomy.com archive</a> snapshots, 2009-2019. Some details may be incomplete.</p>
-
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
@@ -111,13 +109,10 @@ Approximately 50 people attended .Astronomy 2 in Leiden, November–December 200
 - Roy Williams (Pasadena, United States)
 - Michael Wise (Dwingeloo, Netherlands)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20091121063950/http://dotastronomy.com:80/participants/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2009. Some details may be incomplete.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/two)
-- [Wayback Machine snapshot](https://web.archive.org/web/20121213210952/http://dotastronomy.com:80/events/two/)
 
 ### Sponsors
 

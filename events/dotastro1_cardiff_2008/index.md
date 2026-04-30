@@ -59,8 +59,6 @@ There was no Hack Day at the first .Astronomy event.
 
 .Astronomy 1 had formal proceedings published by Canopus Publishing, edited by Robin Rees. This was the only .Astronomy to have traditional proceedings; the format was later replaced by the more informal "Unproceedings".
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20080602061742/http://dotastronomy.com:80/speakers/" target="_blank" rel="noopener">web.archive.org</a> snapshots, 2008. Some details may be incomplete.</p>
-
 <span class="section-label">// participants</span>
 ## Participants {#participants}
 
@@ -89,10 +87,7 @@ Approximately 30 people attended .Astronomy 1 in Cardiff, September 2008.
 - Paul Tipper (Dublin Institute of Technology)
 - Derek Ward-Thompson (Cardiff University)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20080602061742/http://dotastronomy.com:80/speakers/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2008. Some details may be incomplete.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/one)
-- [Wayback Machine snapshot](https://web.archive.org/web/20080602061747/http://dotastronomy.com:80/venue/)

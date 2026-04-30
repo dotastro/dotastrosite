@@ -67,8 +67,6 @@ James Gilbert made a compelling case for hardware hacking, describing how he pro
 
 Geert Barentsen argued for radical openness in data policy, using K2 as an example. K2's open data policy, with no proprietary period, had led to more unique authors and more early-career scientists engaging with the science.
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20160628190858/http://dotastronomy.com:80/blog/2016/06/live-blog-astro-8-day-1/" target="_blank" rel="noopener">web.archive.org liveblog</a> and <a href="https://web.archive.org/web/20180902110528/https://www.dotastronomy.com/eight" target="_blank" rel="noopener">archive page</a> snapshots, 2016-2018. Some details may be incomplete.</p>
-
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
 

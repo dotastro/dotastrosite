@@ -33,15 +33,13 @@ title: ".Astronomy 3, Oxford, 2011"
 
 Trending topics: Amazon AWS, Crowdsourcing, Twitter, SETI.
 
-The full talk list for .Astronomy 3 is still being reconstructed. From the liveblog and conference reports, the event included discussions of:
+Topics discussed at .Astronomy 3 included:
 
 - Citizen science platforms and the Zooniverse
 - Amazon Web Services for astronomy
 - Chromoscope and browser-based visualisation
 - REF impact evaluation for astronomy tools
 - Career paths for astronomers leaving academia
-
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20121213211820/http://dotastronomy.com:80/events/three/" target="_blank" rel="noopener">web.archive.org</a> and <a href="https://web.archive.org/web/20110504041216/http://dotastronomy.com:80/2011-conference/" target="_blank" rel="noopener">conference page</a> snapshots, 2011-2012. Some details may be incomplete.</p>
 
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
@@ -69,10 +67,7 @@ Approximately 50 people attended .Astronomy 3 at New College, Oxford, April 2011
 - Arfon Smith (University of Oxford)
 - Stuart Lynn (@stuart_lynn)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20121213211820/http://dotastronomy.com:80/events/three/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2012. Some details may be incomplete. If you attended this event, please <a href="https://github.com/dotastro/dotastrosite/issues/new?template=missing_content.md">file an issue</a> to have your name added.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/three)
-- [Wayback Machine snapshot](https://web.archive.org/web/20121213211820/http://dotastronomy.com:80/events/three/)

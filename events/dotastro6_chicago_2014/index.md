@@ -78,8 +78,6 @@ Monday: Hacking the Journal, .Astronomy Culture, Open Source WWT, Improving Cred
 
 Wednesday: JavaScript 101, Phones as Sensors, Alternative Discussion Formats, Improving Software Citation, The Journal of Brief Ideas, Communicating .Astronomy, Software Training, ASCL, Lion Data Viz for Astronomy, Peer Review, Engaging New Groups, Open Source Sky Survey, Hubot 101, Libraries are Friends, Making Astro Memes, STARchive.
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20150405064657/http://dotastronomy.com/events/six/" target="_blank" rel="noopener">web.archive.org</a> and <a href="https://web.archive.org/web/20150204233059/http://dotastronomy.com/blog/2014/12/astro-6-live-blog-day-1/" target="_blank" rel="noopener">liveblog</a> snapshots, 2014-2015. Some details may be incomplete.</p>
-
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
 
@@ -213,10 +211,7 @@ Approximately 60 people attended .Astronomy 6 in Chicago, December 2014.
 - Vanessa Moss (University of Sydney, @cosmicpudding)
 - Vladimir Sudilovsky (NASA/ADS)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20150405064657/http://dotastronomy.com/events/six/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2015. Some details may be incomplete.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/six)
-- [Wayback Machine snapshot](https://web.archive.org/web/20150405064657/http://dotastronomy.com/events/six/)

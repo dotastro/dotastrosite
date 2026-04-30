@@ -86,4 +86,3 @@ description: Live coverage of the current .Astronomy event.
 
 ---
 
-<p class="archive-note">This is the live event page for BotAstro to manage during an active .Astronomy event. To activate: update the title, dates and venue above, add the correct event directory link in the sidebar, then add a link to this page from the nav in <code>_layouts/default.html</code>. Remove the nav link when the event ends and move content to the event archive page.</p>

@@ -73,8 +73,6 @@ Tom Robitaille discussed astropy's open development model, noting the gender div
 
 Alice Williamson, a non-astronomer, gave a cross-disciplinary talk about Open Source Malaria, demonstrating how open collaborative research could reduce drug discovery costs.
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20151205050021/http://dotastronomy.com:80/blog/2015/11/live-blog-astro-7-day-1/" target="_blank" rel="noopener">web.archive.org liveblog</a> snapshots, 2015. Some details may be incomplete.</p>
-
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
 
@@ -184,11 +182,8 @@ The following names appear in the liveblogs and conference reports. Full list no
 - Vanessa Moss (@cosmicpudding)
 - Yeshe Fenner (@AstroAustralia)
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20151205050021/http://dotastronomy.com:80/blog/2015/11/live-blog-astro-7-day-1/" target="_blank" rel="noopener">web.archive.org liveblog</a> snapshots, 2015. If you attended .Astronomy 7, please <a href="https://github.com/dotastro/dotastrosite/issues/new?template=missing_content.md">file an issue</a> to have your name added.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
 - [Official website archive](https://www.dotastronomy.com/seven)
 - [demitri/dotastro7dayzero](https://github.com/demitri/dotastro7dayzero): Day Zero tutorial materials
-- [Wayback Machine liveblog](https://web.archive.org/web/20151205050021/http://dotastronomy.com:80/blog/2015/11/live-blog-astro-7-day-1/)

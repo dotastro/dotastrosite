@@ -64,7 +64,6 @@ Do you have a friend or colleague who would benefit from attending .Astronomy? S
     <input type="text" id="nom-event" name="event" placeholder="e.g. .Astronomy 14, or any future event">
   </div>
 
-
   <div class="form-actions">
     <button type="submit" class="btn btn-primary">Submit nomination</button>
     <span class="form-note">Submissions go to the .Astronomy Brain Trust at braintrust@dotastronomy.com</span>

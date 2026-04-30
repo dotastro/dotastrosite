@@ -36,4 +36,3 @@ title: ".Astronomy 11, Toronto, 2019"
 - [Official website archive](https://www.dotastronomy.com/eleven)
 - [mubdi/dotastroto_gaussianprocesses](https://github.com/mubdi/dotastroto_gaussianprocesses): Gaussian Processes tutorial from .Astronomy 11 Toronto
 - [nstarman/2019-10-22-dotAstronomy-Plotting-Workshop](https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop): Plotting workshop materials from .Astronomy 11
-- [Wayback Machine snapshot](https://web.archive.org/web/20190719151009/https://www.dotastronomy.com/eleven)

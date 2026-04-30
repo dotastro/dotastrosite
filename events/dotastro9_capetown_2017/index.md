@@ -99,4 +99,3 @@ Themes included machine learning, web interfaces, software development, educatio
 - [Official website archive](https://www.dotastronomy.com/nine)
 - [bmorris3/dotastro9_astroplan_astroquery](https://github.com/bmorris3/dotastro9_astroplan_astroquery): tutorial materials for astroplan and astroquery
 - [drarnakarick/dotastro9_we_are_science](https://github.com/drarnakarick/dotastro9_we_are_science): "We Are Science" project materials from .Astronomy 9
-- [Wayback Machine snapshot](https://web.archive.org/web/20190220163402/https://www.dotastronomy.com/nine/)

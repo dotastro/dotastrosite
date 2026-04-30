@@ -62,8 +62,6 @@ Supported by the American Astronomical Society.
 - **Dara Norman** (NOAO): *Can Big Data Lead an Inclusion Revolution?*
 - **Craig Jones** (STScI): *Hubble Image Discovery using Transfer Learning*
 
-<p class="archive-note">Content reconstructed from <a href="https://web.archive.org/web/20190719141329/https://www.dotastronomy.com/astronomy-x/" target="_blank" rel="noopener">web.archive.org</a> snapshot, 2019. Some details may be incomplete.</p>
-
 <span class="section-label">// hacks</span>
 ## Hacks {#hacks}
 
@@ -151,8 +149,6 @@ Supported by the American Astronomical Society.
 - Josh Peek (STScI)
 - Erik Tollerud (STScI)
 
-<p class="archive-note">Full participant list to be added. If you attended this event, please <a href="https://github.com/dotastro/dotastrosite/issues/new?template=missing_content.md">file an issue</a> to have your name added.</p>
-
 <span class="section-label">// links</span>
 ## Links {#links}
 
@@ -160,4 +156,3 @@ Supported by the American Astronomical Society.
 - [vcalderon2009/dotAstronomy_X](https://github.com/vcalderon2009/dotAstronomy_X): materials from .Astronomy X
 - [cmurray-astro/dotastro_hack](https://github.com/cmurray-astro/dotastro_hack): public outreach tool hack
 - [dr-rodriguez/dotAstroX_scripts](https://github.com/dr-rodriguez/dotAstroX_scripts): scripts from .Astronomy X
-- [Wayback Machine snapshot](https://web.archive.org/web/20190719141329/https://www.dotastronomy.com/astronomy-x/)
