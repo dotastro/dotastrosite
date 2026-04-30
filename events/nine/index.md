@@ -17,6 +17,7 @@ title: ".Astronomy 9, Cape Town, 2017"
   <a href="#organisers">Organisers</a>
   <a href="#hacks">Hacks</a>
   <a href="#links">Links</a>
+  <a href="#participants">Participants</a>
 </nav>
 
 
@@ -101,6 +102,38 @@ Themes included machine learning, web interfaces, software development, educatio
 - [bmorris3/dotastro9_astroplan_astroquery](https://github.com/bmorris3/dotastro9_astroplan_astroquery): tutorial materials for astroplan and astroquery
 - [drarnakarick/dotastro9_we_are_science](https://github.com/drarnakarick/dotastro9_we_are_science): "We Are Science" project materials from .Astronomy 9
 
+
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+Known attendees at .Astronomy 9 in Cape Town, 2017 (from hack contributors and organisers).
+
+<ul class="participants-list">
+<li>Adrianna Pinska</li>
+<li>Arna Karick</li>
+<li>Becky Smethurst</li>
+<li>Ben Cook</li>
+<li>Brian Nord</li>
+<li>Brett Morris</li>
+<li>Carolina Odman-Govender</li>
+<li>Charl Cater</li>
+<li>Chris Lintott</li>
+<li>Daina Bouquin</li>
+<li>Demitri Muna</li>
+<li>Fernando Becerra</li>
+<li>Brigitta Sipocz</li>
+<li>Joshua Peek</li>
+<li>Kevin Govender</li>
+<li>Lisa Ballard</li>
+<li>Mike Walmsley</li>
+<li>Nick Earl</li>
+<li>Orapeleng Mogawana</li>
+<li>Steve Crawford</li>
+<li>Teresa de Young</li>
+<li>Will Armentrout</li>
+</ul>
+
+_Participant list to be compiled. If you attended, [add yourself](https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml)._
 
 <div class="contribute-section" data-event=".Astronomy 9">
 <span class="section-label">// want to add something?</span>

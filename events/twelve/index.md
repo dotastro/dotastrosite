@@ -18,6 +18,7 @@ title: ".Astronomy 12, New York, 2023"
   <a href="#talks">Talks</a>
   <a href="#hacks">Hacks</a>
   <a href="#links">Links</a>
+  <a href="#participants">Participants</a>
 </nav>
 
 <span class="section-label">// organisers</span>
@@ -112,6 +113,47 @@ title: ".Astronomy 12, New York, 2023"
 ## Links {#links}
 
 - [dotastronomy.com](https://www.dotastronomy.com/twelve)
+
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+Known attendees at .Astronomy 12 in New York, 2023.
+
+<ul class="participants-list">
+<li>Alyssa</li>
+<li>Ana Foj (CCA)</li>
+<li>Andy Tzanidakis</li>
+<li>Ashley</li>
+<li>Benjamin</li>
+<li>Becky Smethurst (Oxford)</li>
+<li>Brett Morris</li>
+<li>Caprice Phillips</li>
+<li>Charlotte</li>
+<li>Dan Foreman-Mackey</li>
+<li>David Rodriguez</li>
+<li>Elliott Molter</li>
+<li>Emily Hunt (Heidelberg)</li>
+<li>Fatima Abdurrahman (CCA)</li>
+<li>Jackie Faherty</li>
+<li>Kelle Cruz (CUNY Hunter College and Flatiron Institute)</li>
+<li>Lauren</li>
+<li>Laurence</li>
+<li>Lia Corrales</li>
+<li>Lindsay G</li>
+<li>Luciano</li>
+<li>Manodeep Sinha (Swinburne)</li>
+<li>Mark</li>
+<li>Micah</li>
+<li>Natalie Gosnell</li>
+<li>Ned Molter</li>
+<li>Robert Simpson</li>
+<li>Robin</li>
+<li>Sam Vaughan</li>
+<li>Sarah Kendrew (ESA, STScI)</li>
+<li>Stephanie</li>
+<li>Steven Crawford (NASA)</li>
+<li>Theo</li>
+</ul>
 
 <div class="contribute-section" data-event=".Astronomy 12">
 <span class="section-label">// want to add something?</span>

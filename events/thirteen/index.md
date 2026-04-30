@@ -17,6 +17,7 @@ title: ".Astronomy 13, Madrid, 2024"
   <a href="#organisers">Organisers</a>
   <a href="#hacks">Hacks</a>
   <a href="#links">Links</a>
+  <a href="#participants">Participants</a>
 </nav>
 
 
@@ -152,6 +153,35 @@ title: ".Astronomy 13, Madrid, 2024"
 - [dotAstronomy Slack](https://join.slack.com/t/dotastronomyteam/shared_invite/zt-2eo300ols-PQyNcxo4llv7ijVXgiSEfA)
 - [ESAC accommodation information](https://www.esa.int/About_Us/ESAC/Accommodation_near_ESAC)
 
+
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+Known attendees at .Astronomy 13 in Madrid, 2024.
+
+<ul class="participants-list">
+<li>Agni Banerjee</li>
+<li>Becky Smethurst (Oxford)</li>
+<li>Bruno Merin Martin (ESAC/ESA)</li>
+<li>Chris Lintott (Oxford)</li>
+<li>Clare Shanahan</li>
+<li>Coleman Krawczyk</li>
+<li>David Hendriks</li>
+<li>Debbie Baines</li>
+<li>Emily Hunt (Heidelberg University)</li>
+<li>Iva Momcheva</li>
+<li>Jan Reerink (ESAC/ESA)</li>
+<li>James Trayford</li>
+<li>Jose A. Caballero</li>
+<li>Mike Walmsley</li>
+<li>Robert Simpson (Google)</li>
+<li>Sandor Kruk (ESAC/ESA)</li>
+<li>Sarah Kendrew (ESA, Baltimore)</li>
+<li>Shahrzad Mirsoltani</li>
+<li>Thendy Nomthendeleko Motha</li>
+<li>Yago Ascasibar</li>
+<li>Zoe Faes</li>
+</ul>
 
 <div class="contribute-section" data-event=".Astronomy 13">
 <span class="section-label">// want to add something?</span>

@@ -16,6 +16,7 @@ title: ".Astronomy 11, Toronto, 2019"
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
   <a href="#talks">Talks</a>
+  <a href="#hacks">Hacks</a>
   <a href="#participants">Participants</a>
   <a href="#links">Links</a>
 </nav>
@@ -77,6 +78,25 @@ title: ".Astronomy 11, Toronto, 2019"
 - **Lauren Corlies:** Outreach to Non-Astronomers &nbsp; <a href="{{ site.baseurl }}/assets/talks/eleven/Corlies_OutreachToNonAstronomers.pdf" class="hack-link" target="_blank" rel="noopener">PDF</a>
 - Unconference sessions
 - Hack presentations
+
+<span class="section-label">// hacks</span>
+## Hacks {#hacks}
+
+<div class="hacks-grid">
+
+<div class="hack-card">
+<div class="hack-title">Ru-stronomy</div>
+<div class="hack-creators">Becky Smethurst</div>
+<p class="hack-desc">A Markov chain generator trained on drag queen names, astronomical acronyms, RuPaul lyrics, and clickbait science headlines. Generates new astronomical mission names that sound like drag queens -- and vice versa. Created as part of the "Engaging astronomers in the era of clickbait" talk.</p>
+<div class="hack-links">
+<a href="{{ site.baseurl }}/assets/talks/eleven/Smethurst_generate.py" class="hack-link" target="_blank" rel="noopener">generate.py</a>
+<a href="{{ site.baseurl }}/assets/talks/eleven/Smethurst_makeclickbait.py" class="hack-link" target="_blank" rel="noopener">makeclickbait.py</a>
+<a href="{{ site.baseurl }}/assets/talks/eleven/7min_dwd.pptx" class="hack-link" target="_blank" rel="noopener">Slides (PPTX)</a>
+<a href="{{ site.baseurl }}/assets/talks/eleven/Smethurst_Rustronomy_drag_queen_names.docx" class="hack-link" target="_blank" rel="noopener">Source data</a>
+</div>
+</div>
+
+</div>
 
 <span class="section-label">// participants</span>
 ## Participants {#participants}
