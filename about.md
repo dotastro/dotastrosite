@@ -35,6 +35,156 @@ A typical .Astronomy event runs for 3-4 days:
 
 The conference has been held across the globe: Cardiff, Leiden, Oxford, Heidelberg, Cambridge MA, Chicago, Sydney, Cape Town, Baltimore, Toronto, New York, and Madrid.
 
+In 2017 we surveyed over 300 past participants: 90% came away with new ideas and inspiration, 67% said it impacted their day-to-day work. See the [Research page]({{ site.baseurl }}/research) for the full paper.
+
+### Topics over time
+
+How the themes of .Astronomy have shifted across 14 events. Hover or tap a line to highlight it.
+
+<div class="trends-wrap">
+  <div class="trends-legend" id="trends-legend"></div>
+  <div class="trends-chart-outer">
+    <canvas id="trends-canvas" height="300"></canvas>
+  </div>
+  <p class="trends-note">Scores derived from talk titles, speaker bios and hack descriptions across all event pages. Higher score = more prominent theme at that event.</p>
+</div>
+
+<script>
+(function () {
+  var BASE = document.querySelector('meta[name="site-baseurl"]').content;
+  var COLORS = [
+    '#ef4444','#f97316','#eab308','#84cc16','#22c55e',
+    '#14b8a6','#06b6d4','#3b82f6','#6366f1','#a855f7',
+    '#ec4899','#f472b6','#fb923c','#a3e635','#e879f9'
+  ];
+
+  fetch(BASE + '/assets/js/trends-data.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) { drawChart(data); })
+    .catch(function(e) { console.error(e); });
+
+  function drawChart(data) {
+    var canvas = document.getElementById('trends-canvas');
+    var legend = document.getElementById('trends-legend');
+    if (!canvas) return;
+
+    var events = data.events;
+    var topics = data.topics;
+    var W, H, PAD = { top: 16, right: 20, bottom: 40, left: 32 };
+
+    var highlighted = null;
+
+    function resize() {
+      W = canvas.parentElement.clientWidth;
+      H = 300;
+      canvas.width = W * window.devicePixelRatio;
+      canvas.height = H * window.devicePixelRatio;
+      canvas.style.width = W + 'px';
+      canvas.style.height = H + 'px';
+      draw();
+    }
+
+    function draw() {
+      var ctx = canvas.getContext('2d');
+      ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+      ctx.clearRect(0, 0, W, H);
+
+      var isDark = document.documentElement.getAttribute('data-theme') !== 'light';
+      var gridCol = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+      var labelCol = isDark ? 'rgba(200,200,220,0.5)' : 'rgba(60,60,90,0.55)';
+
+      var chartW = W - PAD.left - PAD.right;
+      var chartH = H - PAD.top - PAD.bottom;
+
+      // Find max value
+      var maxVal = 0;
+      topics.forEach(function(t) { maxVal = Math.max(maxVal, Math.max.apply(null, t.data)); });
+      maxVal = Math.ceil(maxVal / 10) * 10;
+
+      var xStep = chartW / (events.length - 1);
+
+      // Grid lines
+      ctx.strokeStyle = gridCol;
+      ctx.lineWidth = 1;
+      for (var g = 0; g <= 4; g++) {
+        var gy = PAD.top + chartH - (g / 4) * chartH;
+        ctx.beginPath(); ctx.moveTo(PAD.left, gy); ctx.lineTo(PAD.left + chartW, gy); ctx.stroke();
+      }
+
+      // X axis labels (years)
+      ctx.fillStyle = labelCol;
+      ctx.font = '10px "JetBrains Mono", monospace';
+      ctx.textAlign = 'center';
+      events.forEach(function(ev, i) {
+        var x = PAD.left + i * xStep;
+        ctx.fillText(String(ev.year).slice(2), x, H - PAD.bottom + 14);
+      });
+
+      // Draw lines
+      topics.forEach(function(topic, ti) {
+        var col = COLORS[ti % COLORS.length];
+        var isHL = highlighted === ti;
+        var alpha = highlighted === null ? 0.7 : (isHL ? 1.0 : 0.1);
+
+        ctx.strokeStyle = col;
+        ctx.globalAlpha = alpha;
+        ctx.lineWidth = isHL ? 2.5 : 1.5;
+        ctx.lineJoin = 'round';
+        ctx.beginPath();
+
+        topic.data.forEach(function(val, i) {
+          var x = PAD.left + i * xStep;
+          var y = PAD.top + chartH - (val / maxVal) * chartH;
+          if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+        });
+        ctx.stroke();
+
+        // Dots at data points when highlighted
+        if (isHL) {
+          topic.data.forEach(function(val, i) {
+            if (val === 0) return;
+            var x = PAD.left + i * xStep;
+            var y = PAD.top + chartH - (val / maxVal) * chartH;
+            ctx.beginPath();
+            ctx.arc(x, y, 3.5, 0, Math.PI * 2);
+            ctx.fillStyle = col;
+            ctx.fill();
+          });
+        }
+
+        ctx.globalAlpha = 1;
+      });
+    }
+
+    // Build legend
+    topics.forEach(function(topic, ti) {
+      var col = COLORS[ti % COLORS.length];
+      var btn = document.createElement('button');
+      btn.className = 'trend-leg-btn';
+      btn.style.setProperty('--tc', col);
+      btn.textContent = topic.name;
+      btn.addEventListener('mouseenter', function() { highlighted = ti; draw(); });
+      btn.addEventListener('mouseleave', function() { highlighted = null; draw(); });
+      btn.addEventListener('click', function() {
+        highlighted = highlighted === ti ? null : ti;
+        document.querySelectorAll('.trend-leg-btn').forEach(function(b, i) {
+          b.classList.toggle('tl-active', highlighted === i);
+        });
+        draw();
+      });
+      legend.appendChild(btn);
+    });
+
+    // Redraw on theme change
+    var themeObs = new MutationObserver(function() { draw(); });
+    themeObs.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
+    window.addEventListener('resize', function() { ctx = null; resize(); });
+    resize();
+  }
+})();
+</script>
+
 ---
 
 ## Help build this archive
