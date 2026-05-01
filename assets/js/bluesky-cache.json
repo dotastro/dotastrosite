@@ -432,7 +432,14 @@
     "will silversmith": true,
     "anca anghelea": true,
     "peter coles": true,
-    "alexander nolte": true
+    "alexander nolte": true,
+    "ed gomez": true,
+    "matt wood": true,
+    "francisco sanchez-moreno": true,
+    "platform is open source": true,
+    "separate components that anyone can/will host": true,
+    "will eventually be federated": true,
+    "posts are called \"skeets\" this is non-negotiable": true
   },
   "found": {
     "will gater": "willgater.bsky.social",
@@ -560,6 +567,7 @@
     "michael williams": "michaeljwilliams.bsky.social",
     "phil bull": "philbull.bsky.social",
     "amy robinson": "amy-robinson.bsky.social",
-    "peter coles": "telescoper.bsky.social"
+    "peter coles": "telescoper.bsky.social",
+    "matt wood": "woodmj.bsky.social"
   }
 }
