@@ -123,12 +123,25 @@ permalink: /hacks/
       if (h.source_url) links += '<a href="' + esc(h.source_url) + '" class="hack-link" target="_blank" rel="noopener">Source</a>';
       if (h.live_url) links += '<a href="' + esc(h.live_url) + '" class="hack-link" target="_blank" rel="noopener">Live</a>';
 
+      // Primary link: source > live > event page
+      var primaryUrl = h.source_url || h.live_url || (BASE + '/events/' + h.event + '/#hacks');
+      var primaryLabel = h.source_url ? 'View source' : h.live_url ? 'View live' : null;
+
       html += '<div class="hack-card">';
       html += '<a href="' + BASE + '/events/' + esc(h.event) + '/#hacks" class="hack-event-badge event-badge-xs eb-' + esc(h.event) + '" title=".Astronomy ' + label + ', ' + city + ' ' + year + '">' + label + '</a>';
-      html += '<div class="hack-title">' + esc(h.title) + '</div>';
+      // Title links to source/live if available
+      if (h.source_url || h.live_url) {
+        html += '<div class="hack-title"><a href="' + esc(primaryUrl) + '" target="_blank" rel="noopener">' + esc(h.title) + '</a></div>';
+      } else {
+        html += '<div class="hack-title">' + esc(h.title) + '</div>';
+      }
       if (creators) html += '<div class="hack-creators">' + esc(creators) + '</div>';
       if (h.description) html += '<p class="hack-desc">' + esc(h.description) + '</p>';
-      if (links) html += '<div class="hack-links">' + links + '</div>';
+      // Show secondary links (both if different)
+      var extraLinks = '';
+      if (h.source_url) extraLinks += '<a href="' + esc(h.source_url) + '" class="hack-link" target="_blank" rel="noopener">Source</a>';
+      if (h.live_url && h.live_url !== h.source_url) extraLinks += '<a href="' + esc(h.live_url) + '" class="hack-link" target="_blank" rel="noopener">Live</a>';
+      if (extraLinks) html += '<div class="hack-links">' + extraLinks + '</div>';
       html += '</div>';
     });
     html += '</div>';
