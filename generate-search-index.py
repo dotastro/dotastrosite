@@ -5,7 +5,7 @@ Run from the repo root: python3 generate-search-index.py
 import os, re, json, glob
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-BASEURL = '/dotastrosite'
+BASEURL = ''  # empty -- custom domain dotastronomy.com
 
 def strip_md(text):
     text = re.sub(r'---.*?---', '', text, flags=re.DOTALL)  # frontmatter
