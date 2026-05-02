@@ -15,6 +15,18 @@
       "live_url": null
     },
     {
+      "title": "Pluto the Previous Planet",
+      "event": "three",
+      "year": 2011,
+      "creators": [
+        "Amanda Bauer"
+      ],
+      "description": "A song about Pluto's demotion from planetary status, performed by Amanda Bauer and collaborators at the .Astronomy 3 hack day. Covered by Universe Today.",
+      "source_url": "",
+      "live_url": "https://www.universetoday.com/articles/new-hit-single-pluto-the-previous-planet",
+      "doi": ""
+    },
+    {
       "title": "AstroScanr",
       "event": "four",
       "year": 2012,
@@ -964,6 +976,6 @@
       "live_url": null
     }
   ],
-  "total": 80,
+  "total": 81,
   "generated_at": "2026-04-30T19:53:57.014012+00:00"
 }

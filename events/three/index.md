@@ -11,6 +11,13 @@ title: ".Astronomy 3, Oxford, 2011"
     <span>New College, Oxford University</span>
   </div>
   <p class="event-page-desc">The third .Astronomy conference was held at New College, Oxford. It brought together the growing community of astronomers, developers, educators, and communicators interested in using the web and new technology to advance astronomy. Topics ranged from citizen science and Amazon Web Services to browser-based visualisation and careers for astronomers leaving academia. A .Astronomy 3 trailer was produced by Markus Poessel. Amanda Bauer and the TNOs performed "Pluto, the Previous Planet" during the conference.</p>
+<div class="hack-card">
+<div class="hack-title"><a href="https://www.universetoday.com/articles/new-hit-single-pluto-the-previous-planet" target="_blank" rel="noopener">Pluto the Previous Planet</a></div>
+<div class="hack-creators">Amanda Bauer</div>
+<p class="hack-desc">A song about Pluto's demotion from planetary status, performed by Amanda Bauer and collaborators at the hack day. Covered by Universe Today.</p>
+<div class="hack-links"><a href="https://www.universetoday.com/articles/new-hit-single-pluto-the-previous-planet" class="hack-link" target="_blank" rel="noopener">Universe Today</a></div>
+</div>
+
 </div>
 
 <nav class="event-page-nav" aria-label="Jump to section">
