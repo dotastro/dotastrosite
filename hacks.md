@@ -8,7 +8,7 @@ permalink: /hacks/
 <span class="section-label">// hacks</span>
 <h1>All Hacks</h1>
 
-<p class="page-lead">Every hack built at a .Astronomy conference since the first hack day in Leiden in 2009. 80 projects and counting: websites, apps, tools, songs, bots, games, and more. This list is incomplete. If you built something at a .Astronomy hack day that isn't here, please add it.</p>
+<p class="page-lead">Every hack built at a .Astronomy conference since the first hack day in Leiden in 2009. <span id="hacks-total-count">...</span> projects and counting: websites, apps, tools, songs, bots, games, and more. This list is incomplete. If you built something at a .Astronomy hack day that isn't here, please add it.</p>
 
 <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A+%5Bevent%5D+%5Btitle%5D" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="margin-bottom:1.5rem">Add a hack via GitHub</a>
 
@@ -109,6 +109,8 @@ permalink: /hacks/
 
   function render(hacks) {
     document.getElementById('hacks-stats').textContent = hacks.length + ' of ' + allHacks.length + ' hacks';
+    var totalEl = document.getElementById('hacks-total-count');
+    if (totalEl) totalEl.textContent = allHacks.length;
 
     if (!hacks.length) {
       document.getElementById('hacks-grid-wrap').innerHTML = '<p style="color:var(--text-muted); font-family:var(--font-mono); font-size:0.85rem; margin-top:1rem">No hacks match.</p>';
