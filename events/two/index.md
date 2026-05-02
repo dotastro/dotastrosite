@@ -16,6 +16,7 @@ title: ".Astronomy 2, Leiden, 2009"
 <nav class="event-page-nav" aria-label="Jump to section">
   <a href="#organisers">Organisers</a>
   <a href="#talks">Talks</a>
+  <a href="#hacks">Hacks</a>
   <a href="#participants">Participants</a>
   <a href="#links">Links</a>
 </nav>
@@ -38,6 +39,7 @@ Organising committee also included Alasdair Allan, Chris Lintott, Stuart Lowe, a
 - **Dr. Arfon Smith** (Oxford University)
 - **Dr. John Taylor** (Google)
 - **Prof. Andy Lawrence** (Edinburgh University)
+- **Nancy Atkinson** (Universe Today / 365 Days of Astronomy): The 365 Days of Astronomy podcast
 
 ### Themes and Topics
 
@@ -109,6 +111,29 @@ Approximately 50 people attended .Astronomy 2 in Leiden, November–December 200
 - Natasha Waterson (London, United Kingdom)
 - Roy Williams (Pasadena, United States)
 - Michael Wise (Dwingeloo, Netherlands)
+
+<span class="section-label">// hacks</span>
+## Hacks {#hacks}
+
+<div class="hacks-grid">
+
+<div class="hack-card">
+<div class="hack-title"><a href="https://www.chromoscope.net" target="_blank" rel="noopener">Chromoscope</a></div>
+<div class="hack-creators">Stuart Lowe, Robert Simpson, Chris North</div>
+<p class="hack-desc">A web-based tool to explore the sky across the electromagnetic spectrum, from gamma rays to radio waves. Runs in any browser with no plugins. Could also run offline from a USB stick. Launched at .Astronomy 2 and covered by Universe Today.</p>
+<div class="hack-links">
+<a href="https://www.chromoscope.net" class="hack-link" target="_blank" rel="noopener">Live</a>
+<a href="https://www.universetoday.com/articles/see-the-invisible-sky-with-chromoscope" class="hack-link" target="_blank" rel="noopener">Universe Today</a>
+</div>
+</div>
+
+<div class="hack-card">
+<div class="hack-title">GLIMPSE Viewer</div>
+<div class="hack-creators">Eli Bressert</div>
+<p class="hack-desc">A viewer for the Spitzer GLIMPSE survey, showing the Milky Way in infrared. Demonstrated at .Astronomy 2 alongside the Adler Planetarium's world's largest Milky Way image.</p>
+</div>
+
+</div>
 
 <span class="section-label">// links</span>
 ## Links {#links}

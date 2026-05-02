@@ -1,6 +1,32 @@
 {
   "hacks": [
     {
+      "title": "Chromoscope",
+      "event": "two",
+      "year": 2009,
+      "creators": [
+        "Stuart Lowe",
+        "Robert Simpson",
+        "Chris North"
+      ],
+      "description": "A web-based tool to explore the sky across the electromagnetic spectrum, from gamma rays to radio waves. Runs in any browser without plugins and could also be run offline from a USB stick.",
+      "source_url": "",
+      "live_url": "https://www.chromoscope.net",
+      "doi": ""
+    },
+    {
+      "title": "GLIMPSE Viewer",
+      "event": "two",
+      "year": 2009,
+      "creators": [
+        "Eli Bressert"
+      ],
+      "description": "A viewer for the Spitzer GLIMPSE infrared survey of the Milky Way, demonstrated at .Astronomy 2.",
+      "source_url": "",
+      "live_url": "",
+      "doi": ""
+    },
+    {
       "title": "Chromotone",
       "event": "three",
       "year": 2011,
@@ -976,6 +1002,6 @@
       "live_url": null
     }
   ],
-  "total": 81,
+  "total": 83,
   "generated_at": "2026-04-30T19:53:57.014012+00:00"
 }
