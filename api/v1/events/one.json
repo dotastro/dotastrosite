@@ -7,7 +7,7 @@
   "country": "United Kingdom",
   "venue": "Cardiff University Department of Physics and Astronomy",
   "dates": "22–24 September 2008",
-  "url": "https://dotastronomy.com/events/one/",
+  "description": "The first .Astronomy conference was held at Cardiff University in September 2008. Organised by Robert Simpson, then a Cardiff PhD student, with support from Prof. Derek Ward-Thompson. The original subtitle was \"Networked Astronomy and the New Media\". It brought together approximately 30 astronomers, educators, and technologists to explore how the web and new media could transform astronomical research and outreach. Many attendees were converted to Twitter during the event. Formal proceedings were published by Canopus Publishing, the only .Astronomy to use this format.",
   "organisers": [
     {
       "name": "Robert Simpson",
@@ -21,136 +21,80 @@
   ],
   "talks": [
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Joshua Bloom",
+      "type": "talk",
       "affiliation": "UC Berkeley",
-      "title": "PAIRITEL and robotic telescope networks",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "PAIRITEL and robotic telescope networks"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Will Gater",
+      "type": "talk",
       "affiliation": "Sky at Night Magazine",
-      "title": "Astronomy journalism and new media",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Astronomy journalism and new media"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Pamela Gay",
+      "type": "talk",
       "affiliation": "Astronomy Cast / Star Stryder",
-      "title": "Podcasting astronomy",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Podcasting astronomy"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Edward Gomez",
-      "affiliation": "Las Cumbres Observatory / Cardiff University",
-      "title": null,
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Las Cumbres Observatory / Cardiff University"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Andy Lawrence",
-      "affiliation": "Royal Observatory Edinburgh / AstroGRID",
-      "title": null,
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Royal Observatory Edinburgh / AstroGRID"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Chris Lintott",
+      "type": "talk",
       "affiliation": "Galaxy Zoo / The Sky at Night",
-      "title": "Galaxy Zoo and citizen science",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Galaxy Zoo and citizen science"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Stuart Lowe",
-      "affiliation": "The Jodcast / Astronomy Blog",
-      "title": null,
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "The Jodcast / Astronomy Blog"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Nick Rattenbury",
-      "affiliation": "The Jodcast",
-      "title": null,
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "The Jodcast"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Ian Robson",
+      "type": "talk",
       "affiliation": "IYA 2009",
-      "title": "The International Year of Astronomy",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "The International Year of Astronomy"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Paul Roche",
+      "type": "talk",
       "affiliation": "Faulkes Telescope Project",
-      "title": "The Faulkes Telescope Project",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "The Faulkes Telescope Project"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Phil Plait",
+      "type": "remote",
       "affiliation": "Bad Astronomy",
-      "title": "Astronomy blogging",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Astronomy blogging"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Emily Lakdawalla",
+      "type": "remote",
       "affiliation": "The Planetary Society",
-      "title": "Public access to open imagery from the Solar System",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Public access to open imagery from the Solar System"
     },
     {
-      "event": "one",
-      "year": 2008,
       "speaker": "Carol Christian",
-      "affiliation": null,
-      "title": "and **Alberto Conti** (STScI): Google Sky",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "remote",
+      "title": "and **Alberto Conti** (STScI): Google Sky"
     }
   ],
+  "talks_narrative": ".Astronomy 1 had formal proceedings published by Canopus Publishing, edited by Robin Rees. This was the only .Astronomy to have traditional proceedings; the format was later replaced by the more informal \"Unproceedings\".",
   "hacks": [],
   "participants": [
     {
@@ -166,11 +110,13 @@
     },
     {
       "name": "Will Gater",
-      "affiliation": "Sky at Night Magazine"
+      "affiliation": "Sky at Night Magazine",
+      "bluesky": "willgater.bsky.social"
     },
     {
       "name": "Pamela Gay",
-      "affiliation": "Astronomy Cast"
+      "affiliation": "Astronomy Cast",
+      "bluesky": "starstryder.space"
     },
     {
       "name": "Edward Gomez",
@@ -181,18 +127,22 @@
       "affiliation": "Cardiff University"
     },
     {
-      "name": "Mark Jones"
+      "name": "Mark Jones",
+      "bluesky": "marktewdwr-jones.bsky.social"
     },
     {
-      "name": "Jason Kirk"
+      "name": "Jason Kirk",
+      "bluesky": "tag-coo.bsky.social"
     },
     {
       "name": "Emily Lakdawalla",
-      "affiliation": "The Planetary Society, remote"
+      "affiliation": "The Planetary Society, remote",
+      "bluesky": "elakdawalla.bsky.social"
     },
     {
       "name": "Andy Lawrence",
-      "affiliation": "Royal Observatory Edinburgh"
+      "affiliation": "Royal Observatory Edinburgh",
+      "bluesky": "e-astronomer.bsky.social"
     },
     {
       "name": "Christopher Leigh",
@@ -203,7 +153,8 @@
     },
     {
       "name": "Chris Lintott",
-      "affiliation": "Galaxy Zoo / The Sky at Night"
+      "affiliation": "Galaxy Zoo / The Sky at Night",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
       "name": "Stuart Lowe",
@@ -217,7 +168,8 @@
     },
     {
       "name": "Phil Plait",
-      "affiliation": "Bad Astronomy, remote"
+      "affiliation": "Bad Astronomy, remote",
+      "bluesky": "philplait.bsky.social"
     },
     {
       "name": "Jan Pomierny",
@@ -236,7 +188,8 @@
     },
     {
       "name": "Ian Robson",
-      "affiliation": "IYA 2009"
+      "affiliation": "IYA 2009",
+      "bluesky": "ianrobsons.bsky.social"
     },
     {
       "name": "Paul Roche",
@@ -247,15 +200,18 @@
       "affiliation": "Royal Observatory, Greenwich"
     },
     {
-      "name": "Sarah Roberts"
+      "name": "Sarah Roberts",
+      "bluesky": "ubiquity75.xyz"
     },
     {
       "name": "Jenny Shipway",
-      "affiliation": "INTECH Science Centre and Planetarium"
+      "affiliation": "INTECH Science Centre and Planetarium",
+      "bluesky": "jennyshipway.bsky.social"
     },
     {
       "name": "Robert Simpson",
-      "affiliation": "Cardiff University"
+      "affiliation": "Cardiff University",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
       "name": "Vanessa Stroud"
@@ -269,7 +225,8 @@
       "affiliation": "Cardiff University"
     },
     {
-      "name": "Nicholas Wright"
+      "name": "Nicholas Wright",
+      "bluesky": "nicwright15.bsky.social"
     }
   ],
   "links": [
@@ -278,6 +235,8 @@
       "url": "https://www.dotastronomy.com/one"
     }
   ],
+  "programme_notes": "The event featured a mix of live and remote presentations. Topics ranged across blogging, citizen science, open data, and the emerging social web in astronomy. Remote Skype presentations were a notable feature, bringing in speakers from across the Atlantic.\n\nThere was no Hack Day at the first .Astronomy event.",
+  "url": "https://dotastro.github.io/dotastrosite/events/one/",
   "participant_count": 32,
   "hack_count": 0,
   "talk_count": 13

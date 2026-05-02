@@ -9,7 +9,7 @@
       "country": "United Kingdom",
       "venue": "Cardiff University Department of Physics and Astronomy",
       "dates": "22–24 September 2008",
-      "url": "https://dotastronomy.com/events/one/",
+      "url": "https://dotastro.github.io/dotastrosite/events/one/",
       "participant_count": 32,
       "hack_count": 0,
       "talk_count": 13
@@ -23,10 +23,10 @@
       "country": "Netherlands",
       "venue": "Lorentz Centre, Leiden University",
       "dates": "30 November – 4 December 2009",
-      "url": "https://dotastronomy.com/events/two/",
+      "url": "https://dotastro.github.io/dotastrosite/events/two/",
       "participant_count": 51,
-      "hack_count": 0,
-      "talk_count": 4
+      "hack_count": 2,
+      "talk_count": 5
     },
     {
       "slug": "three",
@@ -37,9 +37,9 @@
       "country": "United Kingdom",
       "venue": "New College, Oxford University",
       "dates": "4–8 April 2011",
-      "url": "https://dotastronomy.com/events/three/",
+      "url": "https://dotastro.github.io/dotastrosite/events/three/",
       "participant_count": 47,
-      "hack_count": 1,
+      "hack_count": 2,
       "talk_count": 15
     },
     {
@@ -51,7 +51,7 @@
       "country": "Germany",
       "venue": "Haus der Astronomie and Internationales Wissenschaftsforum Heidelberg (IWH)",
       "dates": "9–11 July 2012",
-      "url": "https://dotastronomy.com/events/four/",
+      "url": "https://dotastro.github.io/dotastrosite/events/four/",
       "participant_count": 51,
       "hack_count": 7,
       "talk_count": 12
@@ -65,10 +65,10 @@
       "country": "United States",
       "venue": "New England Research and Development Center (NERD), Cambridge, Massachusetts",
       "dates": "16–18 September 2013",
-      "url": "https://dotastronomy.com/events/five/",
+      "url": "https://dotastro.github.io/dotastrosite/events/five/",
       "participant_count": 36,
       "hack_count": 3,
-      "talk_count": 9
+      "talk_count": 19
     },
     {
       "slug": "six",
@@ -79,7 +79,7 @@
       "country": "United States",
       "venue": "Adler Planetarium, Chicago, Illinois",
       "dates": "8–10 December 2014",
-      "url": "https://dotastronomy.com/events/six/",
+      "url": "https://dotastro.github.io/dotastrosite/events/six/",
       "participant_count": 61,
       "hack_count": 9,
       "talk_count": 27
@@ -93,10 +93,10 @@
       "country": "Australia",
       "venue": "Justice and Police Museum, Sydney CBD",
       "dates": "3–6 November 2015",
-      "url": "https://dotastronomy.com/events/seven/",
+      "url": "https://dotastro.github.io/dotastrosite/events/seven/",
       "participant_count": 35,
       "hack_count": 9,
-      "talk_count": 12
+      "talk_count": 13
     },
     {
       "slug": "eight",
@@ -107,7 +107,7 @@
       "country": "United Kingdom",
       "venue": "Pembroke College, Oxford University",
       "dates": "20–23 June 2016",
-      "url": "https://dotastronomy.com/events/eight/",
+      "url": "https://dotastro.github.io/dotastrosite/events/eight/",
       "participant_count": 64,
       "hack_count": 18,
       "talk_count": 16
@@ -121,7 +121,7 @@
       "country": "South Africa",
       "venue": "South African Astronomical Observatory, Cape Town",
       "dates": "14–17 November 2017",
-      "url": "https://dotastronomy.com/events/nine/",
+      "url": "https://dotastro.github.io/dotastrosite/events/nine/",
       "participant_count": 31,
       "hack_count": 8,
       "talk_count": 20
@@ -135,9 +135,9 @@
       "country": "United States",
       "venue": "Space Telescope Science Institute (STScI), Baltimore, Maryland",
       "dates": "24–27 September 2018",
-      "url": "https://dotastronomy.com/events/ten/",
+      "url": "https://dotastro.github.io/dotastrosite/events/ten/",
       "participant_count": 36,
-      "hack_count": 3,
+      "hack_count": 7,
       "talk_count": 27
     },
     {
@@ -149,7 +149,7 @@
       "country": "Canada",
       "venue": "Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto",
       "dates": "22–25 October 2019",
-      "url": "https://dotastronomy.com/events/eleven/",
+      "url": "https://dotastro.github.io/dotastrosite/events/eleven/",
       "participant_count": 33,
       "hack_count": 1,
       "talk_count": 26
@@ -163,7 +163,7 @@
       "country": "Online",
       "venue": "Online (synchronous parts ran 14:00–21:00 UTC)",
       "dates": "17, 19, and 26 August 2020",
-      "url": "https://dotastronomy.com/events/alpha/",
+      "url": "https://dotastro.github.io/dotastrosite/events/alpha/",
       "participant_count": 31,
       "hack_count": 0,
       "talk_count": 3
@@ -177,10 +177,10 @@
       "country": "United States",
       "venue": "Flatiron Institute CCA, IDA and Math for America, New York",
       "dates": "2–6 October 2023",
-      "url": "https://dotastronomy.com/events/twelve/",
+      "url": "https://dotastro.github.io/dotastrosite/events/twelve/",
       "participant_count": 32,
       "hack_count": 4,
-      "talk_count": 14
+      "talk_count": 15
     },
     {
       "slug": "thirteen",
@@ -191,12 +191,12 @@
       "country": "Spain",
       "venue": "European Space Astronomy Centre (ESAC), near Madrid, Spain",
       "dates": "23–26 April 2024",
-      "url": "https://dotastronomy.com/events/thirteen/",
+      "url": "https://dotastro.github.io/dotastrosite/events/thirteen/",
       "participant_count": 20,
       "hack_count": 17,
-      "talk_count": 4
+      "talk_count": 12
     }
   ],
   "total": 14,
-  "generated_at": "2026-04-30T19:53:57.014012+00:00"
+  "generated_at": "2026-05-02T05:55:00.976310+00:00"
 }

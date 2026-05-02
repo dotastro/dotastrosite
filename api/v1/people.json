@@ -70,7 +70,8 @@
           "organiser"
         ],
         "three": [
-          "organiser"
+          "organiser",
+          "speaker"
         ],
         "alpha": [
           "organiser"
@@ -108,7 +109,8 @@
           "speaker"
         ],
         "three": [
-          "organiser"
+          "organiser",
+          "speaker"
         ],
         "six": [
           "speaker"
@@ -147,7 +149,8 @@
           "speaker"
         ]
       },
-      "bluesky": "pentingmode.bsky.social"
+      "bluesky": "pentingmode.bsky.social",
+      "current_affiliation": ""
     },
     {
       "name": "Alasdair Allan",
@@ -243,7 +246,8 @@
           "organiser",
           "speaker"
         ]
-      }
+      },
+      "current_affiliation": ""
     },
     {
       "name": "Geert Barentsen",
@@ -257,6 +261,9 @@
       ],
       "event_count": 6,
       "roles": {
+        "three": [
+          "speaker"
+        ],
         "six": [
           "speaker"
         ],
@@ -278,6 +285,11 @@
         "eight"
       ],
       "event_count": 6,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      },
       "current_affiliation": "Microsoft Research"
     },
     {
@@ -691,6 +703,9 @@
       ],
       "event_count": 3,
       "roles": {
+        "three": [
+          "speaker"
+        ],
         "eight": [
           "speaker"
         ]
@@ -729,6 +744,9 @@
       "event_count": 3,
       "roles": {
         "one": [
+          "speaker"
+        ],
+        "three": [
           "speaker"
         ]
       },
@@ -783,6 +801,27 @@
       "current_affiliation": "MPIA"
     },
     {
+      "name": "Tom Robitaille",
+      "events": [
+        "three",
+        "four",
+        "seven"
+      ],
+      "event_count": 3,
+      "roles": {
+        "three": [
+          "speaker"
+        ],
+        "four": [
+          "organiser"
+        ],
+        "seven": [
+          "speaker"
+        ]
+      },
+      "current_affiliation": ""
+    },
+    {
       "name": "Vanessa Moss",
       "events": [
         "five",
@@ -795,7 +834,8 @@
           "organiser"
         ]
       },
-      "bluesky": "cosmicpudding.bsky.social"
+      "bluesky": "cosmicpudding.bsky.social",
+      "current_affiliation": ""
     },
     {
       "name": "Adam Becker",
@@ -918,6 +958,9 @@
       ],
       "event_count": 2,
       "roles": {
+        "three": [
+          "speaker"
+        ],
         "five": [
           "speaker"
         ]
@@ -1035,7 +1078,8 @@
           "speaker"
         ]
       },
-      "bluesky": "astrosurf.bsky.social"
+      "bluesky": "astrosurf.bsky.social",
+      "current_affiliation": ""
     },
     {
       "name": "Jan Pomierny",
@@ -1254,22 +1298,6 @@
       },
       "bluesky": "astrocrawford.bsky.social",
       "current_affiliation": "SAAO"
-    },
-    {
-      "name": "Tom Robitaille",
-      "events": [
-        "four",
-        "seven"
-      ],
-      "event_count": 2,
-      "roles": {
-        "four": [
-          "organiser"
-        ],
-        "seven": [
-          "speaker"
-        ]
-      }
     },
     {
       "name": "Aaron Robotham",
@@ -1872,6 +1900,11 @@
         "three"
       ],
       "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      },
       "current_affiliation": "STFC"
     },
     {
@@ -2151,7 +2184,8 @@
       "events": [
         "seven"
       ],
-      "event_count": 1
+      "event_count": 1,
+      "current_affiliation": ""
     },
     {
       "name": "David Hendriks",
@@ -2279,6 +2313,18 @@
       "current_affiliation": "Carnegie Mellon University"
     },
     {
+      "name": "Ed Gomez",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      }
+    },
+    {
       "name": "Edwin Valentijn",
       "events": [
         "two"
@@ -2403,6 +2449,18 @@
       ],
       "event_count": 1,
       "current_affiliation": "Universidad Politécnica de Madrid"
+    },
+    {
+      "name": "Francisco Sanchez-Moreno",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      }
     },
     {
       "name": "Frank Summers",
@@ -2763,7 +2821,8 @@
       "events": [
         "seven"
       ],
-      "event_count": 1
+      "event_count": 1,
+      "current_affiliation": ""
     },
     {
       "name": "Jenine Humber",
@@ -2841,6 +2900,11 @@
         "three"
       ],
       "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      },
       "current_affiliation": "SETI Institute"
     },
     {
@@ -3075,7 +3139,8 @@
           "speaker"
         ]
       },
-      "bluesky": "astrokatie.com"
+      "bluesky": "astrokatie.com",
+      "current_affiliation": ""
     },
     {
       "name": "Kelly Lepo",
@@ -3252,7 +3317,8 @@
       "events": [
         "seven"
       ],
-      "event_count": 1
+      "event_count": 1,
+      "current_affiliation": ""
     },
     {
       "name": "Manodeep Sinha",
@@ -3336,6 +3402,19 @@
       ],
       "event_count": 1,
       "current_affiliation": "Developer"
+    },
+    {
+      "name": "Matt Wood",
+      "events": [
+        "three"
+      ],
+      "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      },
+      "bluesky": "woodmj.bsky.social"
     },
     {
       "name": "Matthew Bourque",
@@ -3472,6 +3551,11 @@
         "three"
       ],
       "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      },
       "current_affiliation": "Jodrell Bank / Wikimedia UK"
     },
     {
@@ -3673,7 +3757,8 @@
         "seven": [
           "speaker"
         ]
-      }
+      },
+      "current_affiliation": ""
     },
     {
       "name": "Nuwanthika Fernando",
@@ -4183,7 +4268,8 @@
           "speaker"
         ]
       },
-      "bluesky": "tamarastro.bsky.social"
+      "bluesky": "tamarastro.bsky.social",
+      "current_affiliation": ""
     },
     {
       "name": "Temba Matomela",
@@ -4226,6 +4312,11 @@
         "three"
       ],
       "event_count": 1,
+      "roles": {
+        "three": [
+          "speaker"
+        ]
+      },
       "current_affiliation": "CDS, Observatoire de Strasbourg"
     },
     {
@@ -4433,7 +4524,8 @@
         "seven": [
           "speaker"
         ]
-      }
+      },
+      "current_affiliation": ""
     },
     {
       "name": "Zoe Faes",
@@ -4453,8 +4545,36 @@
           "organiser"
         ]
       }
+    },
+    {
+      "name": "platform is open source",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "posts are called \"skeets\" this is non-negotiable",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "separate components that anyone can/will host",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
+    },
+    {
+      "name": "will eventually be federated",
+      "events": [
+        "twelve"
+      ],
+      "event_count": 1
     }
   ],
-  "total": 404,
-  "generated_at": "2026-04-30T19:53:57.014012+00:00"
+  "total": 411,
+  "generated_at": "2026-05-02T05:55:00.976310+00:00"
 }

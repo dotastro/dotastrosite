@@ -1,0 +1,145 @@
+slug: one
+number: "1"
+name: .Astronomy 1
+year: 2008
+city: Cardiff
+country: United Kingdom
+venue: Cardiff University Department of Physics and Astronomy
+dates: 22–24 September 2008
+description: "The first .Astronomy conference was held at Cardiff University in September 2008. Organised by Robert Simpson,\
+  \ then a Cardiff PhD student, with support from Prof. Derek Ward-Thompson. The original subtitle was \"Networked Astronomy\
+  \ and the New Media\". It brought together approximately 30 astronomers, educators, and technologists to explore how the\
+  \ web and new media could transform astronomical research and outreach. Many attendees were converted to Twitter during\
+  \ the event. Formal proceedings were published by Canopus Publishing, the only .Astronomy to use this format."
+organisers:
+- name: Robert Simpson
+  affiliation: Cardiff University
+  bluesky: orbitingfrog.bsky.social
+- name: "Derek Ward-Thompson"
+  affiliation: Cardiff University
+talks:
+- speaker: Joshua Bloom
+  type: talk
+  affiliation: UC Berkeley
+  title: PAIRITEL and robotic telescope networks
+- speaker: Will Gater
+  type: talk
+  affiliation: Sky at Night Magazine
+  title: Astronomy journalism and new media
+- speaker: Pamela Gay
+  type: talk
+  affiliation: Astronomy Cast / Star Stryder
+  title: Podcasting astronomy
+- speaker: Edward Gomez
+  type: talk
+  affiliation: Las Cumbres Observatory / Cardiff University
+- speaker: Andy Lawrence
+  type: talk
+  affiliation: Royal Observatory Edinburgh / AstroGRID
+- speaker: Chris Lintott
+  type: talk
+  affiliation: Galaxy Zoo / The Sky at Night
+  title: Galaxy Zoo and citizen science
+- speaker: Stuart Lowe
+  type: talk
+  affiliation: The Jodcast / Astronomy Blog
+- speaker: Nick Rattenbury
+  type: talk
+  affiliation: The Jodcast
+- speaker: Ian Robson
+  type: talk
+  affiliation: IYA 2009
+  title: The International Year of Astronomy
+- speaker: Paul Roche
+  type: talk
+  affiliation: Faulkes Telescope Project
+  title: The Faulkes Telescope Project
+- speaker: Phil Plait
+  type: remote
+  affiliation: Bad Astronomy
+  title: Astronomy blogging
+- speaker: Emily Lakdawalla
+  type: remote
+  affiliation: The Planetary Society
+  title: Public access to open imagery from the Solar System
+- speaker: Carol Christian
+  type: remote
+  title: "and **Alberto Conti** (STScI): Google Sky"
+talks_narrative: ".Astronomy 1 had formal proceedings published by Canopus Publishing, edited by Robin Rees. This was the\
+  \ only .Astronomy to have traditional proceedings; the format was later replaced by the more informal \"Unproceedings\"."
+hacks: []
+participants:
+- name: Carol Christian
+  affiliation: STScI
+- name: Alberto Conti
+  affiliation: STScI
+- name: Rosa Doran
+- name: Will Gater
+  affiliation: Sky at Night Magazine
+  bluesky: willgater.bsky.social
+- name: Pamela Gay
+  affiliation: Astronomy Cast
+  bluesky: starstryder.space
+- name: Edward Gomez
+  affiliation: Las Cumbres Observatory / Cardiff University
+- name: Peter Hargrave
+  affiliation: Cardiff University
+- name: Mark Jones
+  bluesky: "marktewdwr-jones.bsky.social"
+- name: Jason Kirk
+  bluesky: "tag-coo.bsky.social"
+- name: Emily Lakdawalla
+  affiliation: "The Planetary Society, remote"
+  bluesky: elakdawalla.bsky.social
+- name: Andy Lawrence
+  affiliation: Royal Observatory Edinburgh
+  bluesky: "e-astronomer.bsky.social"
+- name: Christopher Leigh
+  affiliation: Liverpool John Moores University
+- name: Fraser Lewis
+- name: Chris Lintott
+  affiliation: Galaxy Zoo / The Sky at Night
+  bluesky: chrislintott.bsky.social
+- name: Stuart Lowe
+  affiliation: The Jodcast / Astronomy Blog
+- name: Huw Lynes
+- name: Ben Maughan
+- name: Phil Plait
+  affiliation: "Bad Astronomy, remote"
+  bluesky: philplait.bsky.social
+- name: Jan Pomierny
+  affiliation: "Astronomia: Polish Astronomy Portal"
+- name: David Nutter
+- name: Nick Rattenbury
+  affiliation: The Jodcast
+- name: Robin Rees
+  affiliation: Canopus Publishing
+- name: Ian Robson
+  affiliation: IYA 2009
+  bluesky: ianrobsons.bsky.social
+- name: Paul Roche
+  affiliation: Faulkes Telescope
+- name: Fiona Romeo
+  affiliation: "Royal Observatory, Greenwich"
+- name: Sarah Roberts
+  bluesky: ubiquity75.xyz
+- name: Jenny Shipway
+  affiliation: INTECH Science Centre and Planetarium
+  bluesky: jennyshipway.bsky.social
+- name: Robert Simpson
+  affiliation: Cardiff University
+  bluesky: orbitingfrog.bsky.social
+- name: Vanessa Stroud
+- name: Paul Tipper
+  affiliation: Dublin Institute of Technology
+- name: "Derek Ward-Thompson"
+  affiliation: Cardiff University
+- name: Nicholas Wright
+  bluesky: nicwright15.bsky.social
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/one"
+programme_notes: |-
+  The event featured a mix of live and remote presentations. Topics ranged across blogging, citizen science, open data, and the emerging social web in astronomy. Remote Skype presentations were a notable feature, bringing in speakers from across the Atlantic.
+
+  There was no Hack Day at the first .Astronomy event.

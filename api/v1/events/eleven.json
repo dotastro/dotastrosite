@@ -7,7 +7,13 @@
   "country": "Canada",
   "venue": "Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto",
   "dates": "22–25 October 2019",
-  "url": "https://dotastronomy.com/events/eleven/",
+  "description": "The first .Astronomy in Canada, hosted by the Dunlap Institute for Astronomy and Astrophysics at the University of Toronto. The conference acknowledged the traditional lands of the Huron-Wendat, the Seneca, and the Mississaugas of the Credit River.",
+  "schedule": [
+    {
+      "url": "/assets/talks/eleven/dotAstronomy11_schedule.pdf",
+      "format": "PDF"
+    }
+  ],
   "organisers": [
     {
       "name": "Renée Hložek",
@@ -15,10 +21,12 @@
     },
     {
       "name": "Bryan Gaensler",
-      "affiliation": "Dunlap Institute"
+      "affiliation": "Dunlap Institute",
+      "bluesky": "scibry.bsky.social"
     },
     {
-      "name": "Katie Breivik"
+      "name": "Katie Breivik",
+      "bluesky": "katiebreivik.bsky.social"
     },
     {
       "name": "Kartheik Iyer"
@@ -33,10 +41,12 @@
       "name": "Tina Peters"
     },
     {
-      "name": "Mubdi Rahman"
+      "name": "Mubdi Rahman",
+      "bluesky": "mubdi.bsky.social"
     },
     {
-      "name": "Mike Reid"
+      "name": "Mike Reid",
+      "bluesky": "rationalremise.bsky.social"
     },
     {
       "name": "Ingrid Small"
@@ -56,277 +66,151 @@
   ],
   "talks": [
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Rob Simpson:",
-      "affiliation": null,
-      "title": "How to get the most from .Astronomy",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "How to get the most from .Astronomy"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Suresh Sivanandam",
+      "type": "day_zero",
       "affiliation": "invited",
-      "title": "Data-Driven Approaches for Astronomical Adaptive Optics",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Data-Driven Approaches for Astronomical Adaptive Optics"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Alyssa Goodman:",
-      "affiliation": null,
-      "title": "Enhancing our appreciation for high-dimensional data",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Enhancing our appreciation for high-dimensional data"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Nathaniel Starkman:",
-      "affiliation": null,
-      "title": "Plot all the things",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Plot all the things"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Mike Reid:",
-      "affiliation": null,
-      "title": "Astronomy outreach at scale",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Astronomy outreach at scale"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "David Neto:",
-      "affiliation": null,
-      "title": "Astronomy tricks of a magician &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Astronomy tricks of a magician &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Tina Peters:",
-      "affiliation": null,
-      "title": "Learn from machine learning: PLAsTiCC",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Learn from machine learning: PLAsTiCC"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Demitri Muna:",
-      "affiliation": null,
-      "title": "Accessing Heterogeneous Data &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Accessing Heterogeneous Data &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Kartheik Iyer:",
-      "affiliation": null,
-      "title": "What can we learn from the SEDs of galaxies? &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "What can we learn from the SEDs of galaxies? &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Katharina Lutz:",
-      "affiliation": null,
-      "title": "Write a paper in one Jupyter notebook &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Write a paper in one Jupyter notebook &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Becky Smethurst:",
-      "affiliation": null,
-      "title": "Engaging astronomers in the era of clickbait",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Engaging astronomers in the era of clickbait"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Erik Tollerud:",
-      "affiliation": null,
-      "title": "The Astropy community &nbsp; Files",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "The Astropy community &nbsp; Files"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Tina Peters:",
-      "affiliation": null,
-      "title": "Learn from machine learning: PLAsTiCC &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Learn from machine learning: PLAsTiCC &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Coleman Krawczyk:",
-      "affiliation": null,
-      "title": "Zooniverse overview &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Zooniverse overview &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Coleman Krawczyk:",
-      "affiliation": null,
-      "title": "Workshop: Building a Zooniverse Project &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Workshop: Building a Zooniverse Project &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Kelly Lepo:",
-      "affiliation": null,
-      "title": "Editing Wikipedia &nbsp; PPTX",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Editing Wikipedia &nbsp; PPTX"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Mike Reid:",
-      "affiliation": null,
-      "title": "Astronomy outreach at scale &nbsp; PDF",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Astronomy outreach at scale &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Brittany Kamai",
-      "affiliation": "invited",
-      "title": "Designing the Future of Gravitational Wave Detectors",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "invited",
+      "title": "Designing the Future of Gravitational Wave Detectors"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Nicole Cabrera Salazar",
-      "affiliation": "invited",
-      "title": "The Incredible Wholeness of Being",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "invited",
+      "title": "The Incredible Wholeness of Being"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Cassandra Mangroo",
-      "affiliation": "invited",
-      "title": "BenchSci",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "invited",
+      "title": "BenchSci"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Hilding Neilson:",
-      "affiliation": null,
-      "title": "Integrating Indigenous Knowledge and Astronomy &nbsp; PDF",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Integrating Indigenous Knowledge and Astronomy &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Mubdi Rahman:",
-      "affiliation": null,
-      "title": "Gaussian Process Regression",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Gaussian Process Regression"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Bridget Falck:",
-      "affiliation": null,
-      "title": "A crash course in philosophy of science for astrophysicists &nbsp; PDF",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "A crash course in philosophy of science for astrophysicists &nbsp; PDF"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Jessie Christiansen",
+      "type": "talk",
       "affiliation": "invited",
-      "title": "Inreach vs Outreach",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Inreach vs Outreach"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Leah Fulmer:",
-      "affiliation": null,
-      "title": "Networking in astronomy",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Networking in astronomy"
     },
     {
-      "event": "eleven",
-      "year": 2019,
       "speaker": "Lauren Corlies:",
-      "affiliation": null,
-      "title": "Outreach to Non-Astronomers &nbsp; PDF",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Outreach to Non-Astronomers &nbsp; PDF"
     }
   ],
+  "talks_narrative": "- Unconference sessions\n- Unconference sessions\n- Hack presentations",
   "hacks": [
     {
       "title": "Ru-stronomy",
-      "event": "eleven",
-      "year": 2019,
       "creators": [
         "Becky Smethurst"
       ],
       "description": "A Markov chain generator trained on drag queen names, astronomical acronyms, RuPaul lyrics, and clickbait science headlines. Generates new astronomical mission names that sound like drag queens -- and vice versa. Created as part of the \"Engaging astronomers in the era of clickbait\" talk.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "{{ site.baseurl }}/assets/talks/eleven/Smethurst_Rustronomy_drag_queen_names.docx",
+      "live_url": "{{ site.baseurl }}/assets/talks/eleven/Smethurst_generate.py"
     }
   ],
   "participants": [
@@ -334,10 +218,12 @@
       "name": "Renée Hložek"
     },
     {
-      "name": "Bryan Gaensler"
+      "name": "Bryan Gaensler",
+      "bluesky": "scibry.bsky.social"
     },
     {
-      "name": "Katie Breivik"
+      "name": "Katie Breivik",
+      "bluesky": "katiebreivik.bsky.social"
     },
     {
       "name": "Kartheik Iyer"
@@ -352,10 +238,12 @@
       "name": "Tina Peters"
     },
     {
-      "name": "Mubdi Rahman"
+      "name": "Mubdi Rahman",
+      "bluesky": "mubdi.bsky.social"
     },
     {
-      "name": "Mike Reid"
+      "name": "Mike Reid",
+      "bluesky": "rationalremise.bsky.social"
     },
     {
       "name": "Ingrid Small"
@@ -373,37 +261,44 @@
       "name": "Zoe Jaremus"
     },
     {
-      "name": "Rob Simpson"
+      "name": "Rob Simpson",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
       "name": "Suresh Sivanandam"
     },
     {
-      "name": "Alyssa Goodman"
+      "name": "Alyssa Goodman",
+      "bluesky": "alyssagoodman.bsky.social"
     },
     {
-      "name": "David Neto"
+      "name": "David Neto",
+      "bluesky": "stellar-forge.bsky.social"
     },
     {
       "name": "Tina Peters"
     },
     {
-      "name": "Demitri Muna"
+      "name": "Demitri Muna",
+      "bluesky": "pentingmode.bsky.social"
     },
     {
       "name": "Katharina Lutz"
     },
     {
-      "name": "Becky Smethurst"
+      "name": "Becky Smethurst",
+      "bluesky": "drbecky.bsky.social"
     },
     {
-      "name": "Erik Tollerud"
+      "name": "Erik Tollerud",
+      "bluesky": "eteq.bsky.social"
     },
     {
       "name": "Coleman Krawczyk"
     },
     {
-      "name": "Kelly Lepo"
+      "name": "Kelly Lepo",
+      "bluesky": "kellylepo.bsky.social"
     },
     {
       "name": "Brittany Kamai"
@@ -415,10 +310,12 @@
       "name": "Cassandra Mangroo"
     },
     {
-      "name": "Hilding Neilson"
+      "name": "Hilding Neilson",
+      "bluesky": "astrojipjawej.bsky.social"
     },
     {
-      "name": "Jessie Christiansen"
+      "name": "Jessie Christiansen",
+      "bluesky": "aussiastronomer.bsky.social"
     },
     {
       "name": "Leah Fulmer"
@@ -436,14 +333,22 @@
       "url": "https://www.dotastronomy.com/eleven"
     },
     {
+      "label": "Full schedule PDF",
+      "url": "/assets/talks/eleven/dotAstronomy11_schedule.pdf",
+      "internal": true
+    },
+    {
       "label": "mubdi/dotastroto_gaussianprocesses",
-      "url": "https://github.com/mubdi/dotastroto_gaussianprocesses"
+      "url": "https://github.com/mubdi/dotastroto_gaussianprocesses",
+      "description": "Gaussian Processes tutorial"
     },
     {
       "label": "nstarman/2019-10-22-dotAstronomy-Plotting-Workshop",
-      "url": "https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop"
+      "url": "https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop",
+      "description": "Plotting workshop"
     }
   ],
+  "url": "https://dotastro.github.io/dotastrosite/events/eleven/",
   "participant_count": 33,
   "hack_count": 1,
   "talk_count": 26

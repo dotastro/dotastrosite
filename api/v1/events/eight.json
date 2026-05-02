@@ -7,7 +7,7 @@
   "country": "United Kingdom",
   "venue": "Pembroke College, Oxford University",
   "dates": "20–23 June 2016",
-  "url": "https://dotastronomy.com/events/eight/",
+  "description": "The eighth .Astronomy conference was held at Pembroke College, Oxford. Organised by Becky Smethurst, an Oxford PhD student at the time, supported by Chris Lintott and Sarah Kendrew. This edition featured a Day 0 tutorials day following the success of its introduction at .Astronomy 7 in Sydney. The Hack Day took place on Wednesday 22nd June 2016. Topics covered open science in the Kepler missions, hardware hacking, citizen science, LSST data schools, the use of library archives in astronomy, and ESA Sky.",
   "organisers": [
     {
       "name": "Becky Smethurst",
@@ -27,7 +27,8 @@
       "name": "Edward Gomez"
     },
     {
-      "name": "Ruth Angus"
+      "name": "Ruth Angus",
+      "bluesky": "ruthangus.bsky.social"
     },
     {
       "name": "Mark Richardson"
@@ -39,256 +40,187 @@
       "name": "Ellen Schallig"
     },
     {
-      "name": "Sam Vaughan"
+      "name": "Sam Vaughan",
+      "bluesky": "samvaughan.bsky.social"
     }
   ],
   "talks": [
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Sarah Kendrew",
+      "type": "invited",
       "affiliation": "ESA, STScI",
       "title": "JWST and Astronomy -- bringing JWST into the 21st century with better community tools",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Discussed coordination with Astropy developers and the WebbCam live clean room feed. Science proposals opening November 2017."
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Bruno Merin",
+      "type": "invited",
       "affiliation": "ESA",
       "title": "ESASky -- a multi-mission interface",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Demonstrated the whole-sky viewer serving data from GALEX, 2MASS, WISE, Herschel, Planck and more."
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Carl Ferkinhoff",
+      "type": "invited",
       "affiliation": "Winona State University",
       "title": "Open Source Hardware in Astronomy",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "The hardware.astronomy project: developing lower-cost instruments, involving undergrads, and creating open standards for astronomical hardware."
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Ali Swanson",
+      "type": "invited",
       "affiliation": "Oxford / Zooniverse",
       "title": "Citizen Science with the Zooniverse",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Amateur consensus agrees with experts 97% of the time. Create your own project at zooniverse.org."
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "James Gilbert",
+      "type": "invited",
       "affiliation": "Oxford",
       "title": "Gaffa tape and string: professional hardware hacking",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "How he prototyped a vacuum-based \"Starbugs\" fibre positioning system in days, proving the concept when the formal process had stalled. Lean prototypes win faith."
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Geert Barentsen",
+      "type": "invited",
       "affiliation": "NASA Ames",
       "title": "Open Science with K2",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Argued for radical openness: no proprietary data, no walls around large missions. K2's open approach produced more authors, more early-career researchers, and more publications than the closed Kepler mission with a 5x larger budget."
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Aleks Scholz",
+      "type": "lightning",
       "affiliation": "University of St Andrews",
       "title": "#foundthem",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "SETI, open vs closed science, and communicating with the public"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Ashley Villar",
+      "type": "lightning",
       "affiliation": "Harvard",
       "title": "astrobites.org",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "send your undergrads to Astrobites for advice, articles, and tutorials"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Edward Gomez",
+      "type": "lightning",
       "affiliation": "Las Cumbres Observatory",
       "title": "There is no such thing as a stupid question",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "comic book for young astronomers"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Coleman Krawczyk",
+      "type": "lightning",
       "affiliation": "University of Portsmouth",
       "title": "Astronomy projects for the blind and visually impaired",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "3D printing galaxies as a tactile tool"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Matthew Graham",
-      "affiliation": "Caltech/NOAO",
-      "title": "NOAO Data Lab",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Caltech/NOAO",
+      "title": "NOAO Data Lab"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Justyn Campbell-White",
+      "type": "lightning",
       "affiliation": "University of Kent",
       "title": "Classifying Stellar Bubbles",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "citizen science data in a PhD project"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Adam Avison",
-      "affiliation": "ALMA",
-      "title": "The Pynterferometer",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "ALMA",
+      "title": "The Pynterferometer"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "William Roby",
+      "type": "lightning",
       "affiliation": "Caltech",
       "title": "A short history of JavaScript",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "ES6 and functional principles"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Edward Gomez",
+      "type": "lightning",
       "affiliation": "Las Cumbres Observatory",
       "title": "Asteroid Day -- June 30th, 2016",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "notes": "international NEA observation effort"
     },
     {
-      "event": "eight",
-      "year": 2016,
       "speaker": "Aleks Scholz",
-      "affiliation": null,
-      "title": "WETI: The Wait for Extraterrestrial Intelligence!",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "WETI: The Wait for Extraterrestrial Intelligence!"
     }
   ],
+  "talks_narrative": "Contributors: Sarah Kendrew, Arna Karick, Demitri Muna, Scott Thomas, Lisa Ballard, Brian Cherinka, Philipp Plewa, Thomas Robitaille, Edward Gomez, Geert Barentsen. Topics: programming languages and tools, GitHub, web hosting, Flask, D3, web scraping, Django, argparse.",
   "hacks": [
     {
       "title": ".draft",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Andy Casey"
       ],
       "description": "Automagically highlight LaTeX differences between GitHub drafts.",
-      "source_url": null,
-      "live_url": null
+      "live_url": "https://gentle-cove-44775.herokuapp.com/"
     },
     {
       "title": "StingRA: Simbad Quick-Look Chrome Extension",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Hugh Osborn",
         "Jonathan Fay"
       ],
       "description": "A Chrome extension that lets astronomers highlight an astronomical object and open a quick-look pop-up of magnitudes, images, sky position, and links to SIMBAD and WorldWide Telescope.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "http://github.com/astrojonathan/StingRA",
+      "live_url": "https://chrome.google.com/webstore/detail/stingra/jopoiaekgcofgjjlmcckfnafbjpedeim"
     },
     {
       "title": "Are You Still Talking?",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Edward Gomez"
       ],
       "description": "Use a blink(1) light to control your speakers when chairing a session. A Python package that installs a command-line talk timer, green while talking, orange in the warning period, red when time's up.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "http://github.com/zemogle/session_chair"
     },
     {
       "title": "arxiv59",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Andy Casey"
       ],
       "description": "Twitter bot that posts papers which missed the top-of-the-arXiv deadline by about a second.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/andycasey/arxiv59",
+      "live_url": "https://twitter.com/arxiv59"
     },
     {
       "title": "The ArXiv Mailer",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Dan Foreman-Mackey"
       ],
       "description": "An app to modernise the formatting of the daily arXiv email.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/dfm/ArXivMailer",
+      "live_url": "http://arxiv.dfm.io"
     },
     {
       "title": "AstroBadger",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Matthew Kenworthy",
         "Lisa Ballard"
       ],
       "description": "Getting you in the habit of writing 200 academic words per day, every day. Gamified writing! Chrome plugin plus Flask app.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/basilleaf/astrobadger"
     },
     {
       "title": "AstroGoldStars",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Geert Barentsen",
         "Kelle Cruz"
       ],
       "description": "Give a Gold Star to a fellow scientist by tweeting @username++ at @AstroGoldStars on Twitter. Solves credit sharing in science.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "http://github.com/barentsen/AstroGoldStars",
+      "live_url": "https://twitter.com/AstroGoldStars"
     },
     {
       "title": "bvi-sonification",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Coleman Krawczyk",
         "Jamie Ferguson",
@@ -297,25 +229,19 @@
         "Philipp Plewa"
       ],
       "description": "Uses a Leap Motion device to allow a user to listen to a galaxy's spectra based on hand position.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/jamieferguson94/bvi-sonification/tree/master"
     },
     {
       "title": "Fakespeare",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Ruth Angus",
         "Dan Foreman-Mackey"
       ],
       "description": "A LSTM neural network trained on the corpus of all Shakespeare plays that can generate hilarious and nonsensical plays.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/RuthAngus/Fakespeare"
     },
     {
       "title": "Galaxy Zoo Maze",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "James Gilbert",
         "Ricarda Beckman",
@@ -324,26 +250,21 @@
         "Marten Veldthuis"
       ],
       "description": "Creates a responsive view of a Zooniverse subject and a QR code, then supports scanning and reacting to results.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/chrislintott/GZMaze",
+      "live_url": "http://gzmaze.herokuapp.com"
     },
     {
       "title": "GitNL",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Brett Andrews",
         "Brian Cherinka",
         "Erik Tollerud"
       ],
       "description": "Run Git commands using normal English sentences parsed with Google's natural language processor.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "http://github.com/eteq/gitnl"
     },
     {
       "title": "Hacks Collector",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Erik Tollerud",
         "Daina Bouquin",
@@ -353,84 +274,72 @@
         "Arna Karick"
       ],
       "description": "A way to archive all hacks made at .Astronomy conferences. Each hack has a separate YAML file containing all metadata.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "http://github.com/dotastro/hacks-collector",
+      "live_url": "https://dotastro.github.io/hacks-collector/"
     },
     {
       "title": "Markov Papers",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Benjamin Pope"
       ],
       "description": "Generates paper titles/abstracts with a Markov chain trained on real papers returned by any ADS search keywords.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/benjaminpope/markovpapers"
     },
     {
       "title": "Meta^4hack",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Erik Tollerud",
         "Daina Bouquin",
         "Tom Robitaille"
       ],
       "description": "Metadata on a hack about metadata on hacks, the submission form for this hack list.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/dotastro/hack-list-submission-app",
+      "live_url": "https://dotastronomy-hack-submitter.herokuapp.com"
     },
     {
       "title": "Project Apollo Stories",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Arna Karick",
         "Sam Vaughan"
       ],
       "description": "A Zooniverse Project to re-create incredible stories from the Apollo missions using selected images from the Apollo Project Flickr gallery and Timeline JS.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/samvaughan/ApolloProject",
+      "live_url": "https://www.zooniverse.org/projects/projectapollo-dotastro8/project-apollo-stories"
     },
     {
       "title": "SIMBAD the Bot",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Simon Murphy"
       ],
       "description": "Twitter bot that tweets a multi-wavelength animated GIF of a random SIMBAD object a few times a day.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/simonmurphy/simbad-the-bot",
+      "live_url": "https://twitter.com/simbad_the_bot"
     },
     {
       "title": "Spacebar",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Scott Thomas"
       ],
       "description": "Astronomy-themed mini-games where you only need the spacebar. Keep rain out of the dome while observing, find the galaxies, and more.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "http://github.com/swt30/spacebar",
+      "live_url": "http://ast.rono.me/files/spacebar"
     },
     {
       "title": "Stellar Autopsies Zooniverse",
-      "event": "eight",
-      "year": 2016,
       "creators": [
         "Adam A. Miller",
         "Brigitta Sipocz",
         "Ashley Villar"
       ],
       "description": "A Zooniverse Project to classify the light curves of dying stars.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/bsipocz/stellar-autopsies",
+      "live_url": "https://www.zooniverse.org/projects/adamamiller/stellar-autopsies"
     }
   ],
   "participants": [
     {
-      "name": "Alasdair Allan"
+      "name": "Alasdair Allan",
+      "bluesky": "alasdairallan.com"
     },
     {
       "name": "Adam Avison"
@@ -442,16 +351,19 @@
       "name": "Summer Ash"
     },
     {
-      "name": "Geert Barentsen"
+      "name": "Geert Barentsen",
+      "bluesky": "geert.bsky.social"
     },
     {
-      "name": "Lisa Ballard"
+      "name": "Lisa Ballard",
+      "bluesky": "drlmhb.bsky.social"
     },
     {
       "name": "Melanie Beck"
     },
     {
-      "name": "Adam Becker"
+      "name": "Adam Becker",
+      "bluesky": "adambecker.bsky.social"
     },
     {
       "name": "Ricarda Beckmann"
@@ -475,10 +387,12 @@
       "name": "Kelle Cruz"
     },
     {
-      "name": "James Davenport"
+      "name": "James Davenport",
+      "bluesky": "jradavenport.com"
     },
     {
-      "name": "Niall Deacon"
+      "name": "Niall Deacon",
+      "bluesky": "nialldeacon.com"
     },
     {
       "name": "Meredith Durbin"
@@ -499,13 +413,15 @@
       "name": "Dan Foreman-Mackey"
     },
     {
-      "name": "James Gilbert"
+      "name": "James Gilbert",
+      "bluesky": "astrosurf.bsky.social"
     },
     {
       "name": "Edward Gomez"
     },
     {
-      "name": "Alyssa Goodman"
+      "name": "Alyssa Goodman",
+      "bluesky": "alyssagoodman.bsky.social"
     },
     {
       "name": "Matthew Graham"
@@ -514,10 +430,12 @@
       "name": "Patrick Hall"
     },
     {
-      "name": "Matthew Kenworthy"
+      "name": "Matthew Kenworthy",
+      "bluesky": "mattkenworthy.bsky.social"
     },
     {
-      "name": "Sarah Kendrew"
+      "name": "Sarah Kendrew",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
       "name": "Coleman Krawczyk"
@@ -526,22 +444,27 @@
       "name": "Sandor Kruk"
     },
     {
-      "name": "Andy Lawrence"
+      "name": "Andy Lawrence",
+      "bluesky": "e-astronomer.bsky.social"
     },
     {
-      "name": "Chris Lintott"
+      "name": "Chris Lintott",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
-      "name": "Jordan Martin"
+      "name": "Jordan Martin",
+      "bluesky": "jsmartin.bsky.social"
     },
     {
       "name": "Bruno Merin"
     },
     {
-      "name": "August Muench"
+      "name": "August Muench",
+      "bluesky": "augustfly.bsky.social"
     },
     {
-      "name": "Demitri Muna"
+      "name": "Demitri Muna",
+      "bluesky": "pentingmode.bsky.social"
     },
     {
       "name": "Simon Murphy"
@@ -553,16 +476,19 @@
       "name": "Chris North"
     },
     {
-      "name": "Hugh Osborn"
+      "name": "Hugh Osborn",
+      "bluesky": "exohugh.bsky.social"
     },
     {
       "name": "Philipp Plewa"
     },
     {
-      "name": "Benjamin Pope"
+      "name": "Benjamin Pope",
+      "bluesky": "benjaminpope.bsky.social"
     },
     {
-      "name": "Meredith Rawls"
+      "name": "Meredith Rawls",
+      "bluesky": "merrdiff.bsky.social"
     },
     {
       "name": "Mark Richardson"
@@ -571,37 +497,44 @@
       "name": "William Roby"
     },
     {
-      "name": "Thomas Robitaille"
+      "name": "Thomas Robitaille",
+      "bluesky": "astrofrog.trobitaille.dev"
     },
     {
       "name": "Lia Sartori"
     },
     {
-      "name": "Aleks Scholz"
+      "name": "Aleks Scholz",
+      "bluesky": "aleks.mastodon.scot.ap.brid.gy"
     },
     {
       "name": "Greg Schwarz"
     },
     {
-      "name": "Stephen Serjeant"
+      "name": "Stephen Serjeant",
+      "bluesky": "stephenserjeant.bsky.social"
     },
     {
       "name": "Jesse Shanahan"
     },
     {
-      "name": "Scott Thomas"
+      "name": "Scott Thomas",
+      "bluesky": "scottathomas.bsky.social"
     },
     {
-      "name": "Erik Tollerud"
+      "name": "Erik Tollerud",
+      "bluesky": "eteq.bsky.social"
     },
     {
-      "name": "Sam Vaughan"
+      "name": "Sam Vaughan",
+      "bluesky": "samvaughan.bsky.social"
     },
     {
       "name": "Ashley Villar"
     },
     {
-      "name": "Joshua Warren"
+      "name": "Joshua Warren",
+      "bluesky": "nebraskawomble.bsky.social"
     },
     {
       "name": "Anna K. Weigel"
@@ -610,13 +543,16 @@
       "name": "Justyn Campbell-White"
     },
     {
-      "name": "James Allen"
+      "name": "James Allen",
+      "bluesky": "tljamesa.com"
     },
     {
-      "name": "Ruth Angus"
+      "name": "Ruth Angus",
+      "bluesky": "ruthangus.bsky.social"
     },
     {
-      "name": "Becky Smethurst"
+      "name": "Becky Smethurst",
+      "bluesky": "drbecky.bsky.social"
     },
     {
       "name": "Ellen Schallig"
@@ -637,17 +573,21 @@
     },
     {
       "label": "barentsen/dotastro-argparse-tutorial",
-      "url": "https://github.com/barentsen/dotastro-argparse-tutorial"
+      "url": "https://github.com/barentsen/dotastro-argparse-tutorial",
+      "description": "argparse tutorial from Day 0"
     },
     {
       "label": "dfm/ArXivMailer",
-      "url": "https://github.com/dfm/ArXivMailer"
+      "url": "https://github.com/dfm/ArXivMailer",
+      "description": "hack to modernise the daily arXiv email formatting"
     },
     {
       "label": "WillArmentrout/dotAstroGraveyard",
-      "url": "https://github.com/WillArmentrout/dotAstroGraveyard"
+      "url": "https://github.com/WillArmentrout/dotAstroGraveyard",
+      "description": "tracking forgotten or failed hacks for future revival"
     }
   ],
+  "url": "https://dotastro.github.io/dotastrosite/events/eight/",
   "participant_count": 64,
   "hack_count": 18,
   "talk_count": 16

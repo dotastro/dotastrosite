@@ -1,0 +1,270 @@
+slug: four
+number: "4"
+name: .Astronomy 4
+year: 2012
+city: Heidelberg
+country: Germany
+venue: Haus der Astronomie and Internationales Wissenschaftsforum Heidelberg (IWH)
+dates: 9–11 July 2012
+description: "The fourth edition of .Astronomy was hosted by the Max Planck Institute for Astronomy (MPIA) in Heidelberg,\
+  \ Germany. The conference used two fantastic venues: the recently completed Haus der Astronomie (HdA), a centre for public\
+  \ engagement and education in astronomy, and the Internationales Wissenschaftsforum Heidelberg in the heart of Heidelberg's\
+  \ historic centre. Major themes included visualisation in JavaScript and Python, crowdsourcing, career structure and development,\
+  \ hacking the literature, and education for a global audience. The conference was summarised in an \"Unproceedings\" paper\
+  \ posted to the arXiv."
+organisers:
+- name: Sarah Kendrew
+  affiliation: MPIA
+  bluesky: sarahkendrew.bsky.social
+- name: Tom Robitaille
+  affiliation: MPIA
+- name: Markus Poessel
+  affiliation: "Director, Haus der Astronomie"
+talks:
+- speaker: Kevin Govender
+  type: invited
+  affiliation: IAU Office for Astronomy Development
+  title: Astronomy for a Better World
+- speaker: Markus Poessel
+  type: invited
+  affiliation: Haus der Astronomie
+  title: Haus der Astronomie
+- speaker: Amit Kapadia
+  type: invited
+  affiliation: Adler Planetarium
+  title: "AstroJS: Javascript for Astronomy"
+- speaker: August Muench
+  type: invited
+  affiliation: Harvard CfA
+  title: Astronomy Dataverse
+- speaker: Thomas Robitaille
+  type: invited
+  affiliation: MPIA Heidelberg
+  title: Astro Python
+- speaker: Bruce Berriman
+  type: invited
+  affiliation: IPAC / Caltech
+  title: Astronomy in the Cloud
+- speaker: Thomas Kitching
+  type: invited
+  affiliation: University of Edinburgh
+  title: Astronomy Crowdsourcing
+- speaker: Michelle Borkin
+  type: invited
+  affiliation: Harvard
+  title: "Mechanical Turk, Visualisation and 'Glue'"
+- speaker: Julie Steele
+  type: invited
+  affiliation: O'Reilly Media
+  title: "and **Noah Iliinsky** (Consultant/Author): *How to be a Data Visualisation Star*"
+- speaker: Kelle Cruz
+  type: invited
+  affiliation: CUNY
+  title: AstroBetter
+- speaker: Alberto Pepe
+  type: invited
+  affiliation: Harvard CfA
+  title: Data Mining and ADS
+- speaker: Alyssa Goodman
+  type: invited
+  affiliation: Harvard CfA
+  title: Seamless Astronomy
+talks_narrative: |-
+  Kevin Govender's talk on using astronomy for development was particularly well-received, covering the IAU Office for Astronomy Development's mission to use astronomy as a tool for development, particularly in Africa and the developing world.
+  Michelle Borkin demonstrated how Amazon's Mechanical Turk could be used for astronomical classification tasks, and showed the Glue visualisation tool for multi-dimensional data exploration.
+  Alyssa Goodman's Seamless Astronomy talk discussed linking data, literature, and visualisation tools, with live demonstrations of how different software could communicate via SAMP.
+hacks:
+- title: AstroScanr
+  creators:
+  - Rob Simpson
+  - Sarah Kendrew
+  - Karen Masters
+  description: A visualisation of astronomy journal titles and abstracts using natural language processing techniques.
+  live_url: "https://orbitingfrog.com/2012/08/04/authorship-in-astronomy/"
+- title: Astroworld
+  creators:
+  - "Carolina Odman-Govender"
+  description: "Collect information about astronomical facilities around the world, including old, abandoned observatories,\
+    \ flashy new ones, future ones, and archeo-astronomical sites, using EpiCollect."
+  live_url: "http://dotastronomy.com/blog/2012/08/astroworld-mapping-astronomical-facilities-worldwide/"
+- title: Cosmology Calculator OS X Widget
+  creators:
+  - Brooke Simmons
+  - Stuart Lowe
+  - Kevin Schawinski
+  - Julie Steele
+  description: A port of Ned Wright's Cosmology Calculator to an OS X widget.
+  live_url: "https://s3-eu-west-1.amazonaws.com/dotastro/cosmocalc.zip"
+- title: Flora
+  creators:
+  - Amit Kapadia
+  - Phil Marshall
+  - Laura Whyte
+  description: "An attempt to enable quantitative measurements on images in a browser, measuring the position, size, and brightness\
+    \ of objects in astronomy images. Uses the astrojs library for FITS images and coordinate transformations."
+  live_url: "http://ubret.s3.amazonaws.com/dotastro4/index.html#/examine/m101"
+- title: "Science: It's Universal"
+  creators:
+  - Amanda Bauer
+  - Nicole Gugliucci
+  description: An outreach video about what science is and what it is like to be a scientist.
+  live_url: "https://vimeo.com/45711303"
+- title: "Sh*t Scientists Say"
+  creators:
+  - Niall Deacon
+  - Emily Rice
+  - Kelle Cruz
+  description: "A collection of what astronomers love, hate, and repeat."
+  live_url: "https://www.youtube.com/watch?v=M-AzxQeTaw4"
+- title: Zoonibot
+  creators:
+  - "Adrian Price-Whelan"
+  - Chris Beaumont
+  - "Gabe Perez-Giz"
+  - Chris Lintott
+  - David Hogg
+  - Meg Schwamb
+  description: "A \"Planet Hunters butler\" for the Zooniverse Talk platform, ready to automatically answer questions and\
+    \ provide detail when users request information."
+  live_url: "https://twitter.com/zoonibot/"
+participants:
+- name: Alasdair Allan
+  affiliation: Many
+  bluesky: alasdairallan.com
+- name: Geert Barentsen
+  affiliation: Armagh Observatory
+  bluesky: geert.bsky.social
+- name: Amanda Bauer
+  affiliation: Australian Astronomical Observatory
+  bluesky: amandabauer.bsky.social
+- name: Christopher Beaumont
+  affiliation: Harvard CfA
+- name: Bruce Berriman
+  affiliation: Virtual Astronomical Observatory
+  bluesky: gbruce.bsky.social
+- name: Michelle Borkin
+  affiliation: Harvard University
+- name: Eli Bressert
+  affiliation: ESO / University of Exeter
+- name: Christopher Clark
+  affiliation: Cardiff University
+  bluesky: alaskanewsguy.bsky.social
+- name: Kelle Cruz
+  affiliation: Hunter College / CUNY / AMNH
+- name: Niall Deacon
+  affiliation: MPIA Heidelberg
+  bluesky: nialldeacon.com
+- name: Jonathan Fay
+  affiliation: Microsoft Research
+- name: Janine Fohlmeister
+  affiliation: Zentrum fur Astronomie Heidelberg
+- name: "Daniel Foreman-Mackey"
+  affiliation: NYU
+- name: Haley Gomez
+  affiliation: Cardiff University
+- name: Edward Gomez
+  affiliation: Las Cumbres Observatory
+- name: Alyssa Goodman
+  affiliation: Harvard CfA
+  bluesky: alyssagoodman.bsky.social
+- name: Kevin Govender
+  affiliation: IAU Office of Astronomy for Development
+  bluesky: govender.bsky.social
+- name: Nicole Gugliucci
+  affiliation: CosmoQuest
+  bluesky: noisyastronomer.com
+- name: Boris Haeussler
+  affiliation: University of Nottingham
+- name: David W. Hogg
+  affiliation: New York University
+  bluesky: hogg.bsky.social
+- name: Noah Iliinsky
+  affiliation: Author
+- name: Amit Kapadia
+  affiliation: Adler Planetarium
+- name: Sarah Kendrew
+  affiliation: MPIA Heidelberg
+  bluesky: sarahkendrew.bsky.social
+- name: Tom Kitching
+  affiliation: University of Edinburgh
+- name: Chris Lintott
+  affiliation: University of Oxford
+  bluesky: chrislintott.bsky.social
+- name: Stuart Lowe
+  affiliation: LCOGT
+- name: Phil Marshall
+  affiliation: Oxford University
+- name: Karen Masters
+  affiliation: ICG Portsmouth
+  bluesky: karenlmasters.bsky.social
+- name: Peter Melchior
+  affiliation: The Ohio State University
+- name: August Muench
+  affiliation: "Harvard-Smithsonian CfA"
+  bluesky: augustfly.bsky.social
+- name: Demitri Muna
+  affiliation: New York University
+  bluesky: pentingmode.bsky.social
+- name: "Carolina Odman-Govender"
+  affiliation: Freelance
+- name: Alberto Pepe
+  affiliation: Harvard University
+- name: "Gabe Perez-Giz"
+  affiliation: NYU Center for Cosmology and Particle Physics
+- name: "David Perez-Suarez"
+  affiliation: Trinity College University
+- name: Jan Pomierny
+  affiliation: Astronomia.pl / UNAWE / Zooniverse Poland
+- name: Markus Poessel
+  affiliation: Haus der Astronomie
+- name: "Adrian Price-Whelan"
+  affiliation: Columbia University
+  bluesky: adrian.pw
+- name: Emily Rice
+  affiliation: CUNY / American Museum of Natural History
+  bluesky: emilylrice.me
+- name: "Hans-Walter Rix"
+  affiliation: MPIA Heidelberg
+- name: Thomas Robitaille
+  affiliation: MPIA
+  bluesky: astrofrog.trobitaille.dev
+- name: Pedro Russo
+  affiliation: Leiden University / EU Universe Awareness
+- name: Kevin Schawinski
+  affiliation: Yale University
+  bluesky: kevinschawinski.bsky.social
+- name: Sergei Schmalz
+  affiliation: International Meteor Organization
+- name: Aleks Scholz
+  affiliation: Dublin Institute for Advanced Studies
+  bluesky: aleks.mastodon.scot.ap.brid.gy
+- name: Meg Schwamb
+  affiliation: Yale University
+  bluesky: megschwamb.bsky.social
+- name: Brooke Simmons
+  affiliation: Yale University
+  bluesky: vrooje.net
+- name: Robert Simpson
+  affiliation: Oxford University
+  bluesky: orbitingfrog.bsky.social
+- name: Julie Steele
+  affiliation: O'Reilly
+- name: Adam Tarnoff
+  affiliation: Adler Planetarium
+- name: Laura Whyte
+  affiliation: Adler Planetarium
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/four"
+- label: ".Astronomy 4 Unproceedings -- arXiv:1301.5193"
+  url: "https://arxiv.org/abs/1301.5193"
+unproceedings: |-
+  .Astronomy 4 produced a collaborative "Unproceedings" document: a written record edited by attendees covering the key themes and ideas from the conference. This was an experiment in documenting an informal conference in the spirit of .Astronomy itself.
+
+  The document covers: visualisation, JavaScript and Python in the browser, crowdsourcing, career development and hack culture, hacking the literature, education for a global audience, and a summary of hacks. It includes the observation that 48 of 51 attendees had Twitter accounts and generated over 1,200 #dotastro tweets during the three-day meeting.
+
+  **Authors:** Robert Simpson, Chris Lintott, Amanda Bauer, Bruce Berriman, Edward Gomez, Sarah Kendrew, Thomas Kitching, August Muench, Demitri Muna, Thomas Robitaille, Megan E. Schwamb, Brooke Simmons
+unproceedings_authors: "Robert Simpson, Chris Lintott, Amanda Bauer, Bruce Berriman, Edward Gomez, Sarah Kendrew, Thomas Kitching,\
+  \ August Muench, Demitri Muna, Thomas Robitaille, Megan E. Schwamb, Brooke Simmons"
+unproceedings_arxiv: "https://arxiv.org/abs/1301.5193"
+organisers_notes: "Supported by MPIA, the Deutsche Forschungsgemeinschaft (DFG), and the Haus der Astronomie."

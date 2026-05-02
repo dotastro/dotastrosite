@@ -1,0 +1,184 @@
+slug: two
+number: "2"
+name: .Astronomy 2
+year: 2009
+city: Leiden
+country: Netherlands
+venue: "Lorentz Centre, Leiden University"
+dates: 30 November – 4 December 2009
+description: "The second .Astronomy conference was hosted at the Lorentz Center, Leiden University. It was the first to follow\
+  \ the full \".Astronomy format\", introducing both a Hack Day and unconference sessions, which became defining features\
+  \ of the series. The conference brought together researchers, educators, and technologists to discuss how a new era of surveys,\
+  \ web technologies, and citizen science was transforming astronomy. The Lorentz Centre's offices-and-desks setup, and its\
+  \ supply of bicycles, were a big hit with attendees. The five-day marathon was the longest .Astronomy ever held. Chromoscope,\
+  \ a web-based sky visualisation service, was launched during the event and received significant press coverage."
+organisers:
+- name: Sarah Kendrew
+  affiliation: Leiden University
+  bluesky: sarahkendrew.bsky.social
+- name: Carolina Odman
+  affiliation: Leiden University
+talks:
+- speaker: Dr. Michael Nielsen
+  type: invited
+  affiliation: "author of *Reinventing Discovery*"
+  title: Open science and networked collaboration
+- speaker: Dr. Arfon Smith
+  type: invited
+  affiliation: Oxford University
+- speaker: Dr. John Taylor
+  type: invited
+  affiliation: Google
+- speaker: Prof. Andy Lawrence
+  type: invited
+  affiliation: Edinburgh University
+- speaker: Nancy Atkinson
+  type: invited
+  affiliation: Universe Today / 365 Days of Astronomy
+  title: The 365 Days of Astronomy podcast
+talks_narrative: |-
+  **Citizen Science:** Galaxy Zoo, web-based platforms for citizen science, future citizen science projects.
+  **New Media for Outreach and Communication:** IYA 2009 and the web including 100 Hours of Astronomy, The World at Night, Cosmic Diary, UNAWE, and Portal to the Universe. Podcasting and blogging. Microblogging.
+  **Networked Technologies for Research:** Virtual observatory, literature tools, data mining.
+  **Visualisation:** Google Sky, Microsoft Worldwide Telescope, visualisation as a research aid.
+  This was the first .Astronomy to introduce unconference sessions and a Hack Day, both of which became defining features of the series. The Chromoscope web-based sky visualisation service was launched during the event.
+hacks:
+- title: Chromoscope
+  creators:
+  - Stuart Lowe
+  - Robert Simpson
+  - Chris North
+  description: "A web-based tool to explore the sky across the electromagnetic spectrum, from gamma rays to radio waves. Runs\
+    \ in any browser with no plugins. Could also run offline from a USB stick. Launched at .Astronomy 2 and covered by Universe\
+    \ Today."
+  live_url: "https://www.chromoscope.net"
+- title: GLIMPSE Viewer
+  creators:
+  - Eli Bressert
+  description: "A viewer for the Spitzer GLIMPSE survey, showing the Milky Way in infrared. Demonstrated at .Astronomy 2 alongside\
+    \ the Adler Planetarium's world's largest Milky Way image."
+participants:
+- name: Alasdair Allan
+  affiliation: University of Exeter
+  bluesky: alasdairallan.com
+- name: Salim Ansari
+  affiliation: "Noordwijk, Netherlands"
+- name: Nancy Atkinson
+  affiliation: "Rochester, United States"
+  bluesky: nancyatkinson.bsky.social
+- name: Amanda Bauer
+  affiliation: "Nottingham, United Kingdom"
+  bluesky: amandabauer.bsky.social
+- name: Eli Bressert
+  affiliation: "Exeter, United Kingdom"
+- name: Marjolein Cuppen
+  affiliation: "Groningen, Netherlands"
+- name: Erik Deul
+  affiliation: "Leiden, Netherlands"
+- name: George Djorgovski
+  affiliation: "Pasadena, United States"
+- name: Carlo Fabricatore
+  affiliation: "Rome, Italy"
+- name: Jonathan Fay
+  affiliation: "Redmond, WA, United States"
+- name: Michael Garrett
+  affiliation: "Dwingeloo, Netherlands"
+  bluesky: profterencegarrett.bsky.social
+- name: Pamela Gay
+  affiliation: "Edwardsville, United States"
+  bluesky: starstryder.space
+- name: Edward Gomez
+  affiliation: "Cardiff, United Kingdom"
+- name: Matthew Graham
+  affiliation: "Pasadena, United States"
+- name: Peter Hargrave
+  affiliation: "Cardiff, United Kingdom"
+- name: Robert Hollow
+  affiliation: "Epping, Australia"
+- name: Nina Jansen
+  affiliation: "Niva, Denmark"
+- name: Tim Jenness
+  affiliation: "Hilo, United States"
+- name: Nicholas Johnson
+  affiliation: "Dublin, Ireland"
+- name: Sarah Kendrew
+  affiliation: Leiden University
+  bluesky: sarahkendrew.bsky.social
+- name: Maurits Kreijveld
+  affiliation: "Den Haag, Netherlands"
+- name: Andy Lawrence
+  affiliation: "Edinburgh, United Kingdom"
+  bluesky: "e-astronomer.bsky.social"
+- name: Chris Lawton
+  affiliation: "Voorhout, Netherlands"
+- name: Cory Lehan
+  affiliation: "Cahokia, United States"
+- name: Chris Lintott
+  affiliation: Oxford University
+  bluesky: chrislintott.bsky.social
+- name: Stuart Lowe
+  affiliation: University of Manchester
+- name: Amruta Mehta
+  affiliation: "Noordwijk, Netherlands"
+- name: Jaap Meijers
+  affiliation: "Nijmegen, Netherlands"
+- name: August Muench
+  affiliation: "Cambridge, United States"
+  bluesky: augustfly.bsky.social
+- name: Michael Nielsen
+  affiliation: "Waterloo, Canada"
+- name: Carolina Odman
+  affiliation: Leiden University
+- name: Karen O'Flaherty
+  affiliation: "Noordwijk, Netherlands"
+- name: "Douglas Pierce-Price"
+  affiliation: "Garching bei Munchen, Germany"
+- name: Markus Poessel
+  affiliation: "Heidelberg, Germany"
+- name: Jose Enrique Ruiz del Mazo
+  affiliation: "Granada, Spain"
+- name: "Francisco Manuel Sanchez-Moreno"
+  affiliation: "Madrid, Spain"
+- name: Mark Sands
+  affiliation: "Hillsboro, United States"
+- name: Daniel Scuka
+  affiliation: "Darmstadt, Germany"
+- name: Rob Seaman
+  affiliation: "Tucson, AZ, United States"
+  bluesky: robseaman.bsky.social
+- name: Robert Simpson
+  affiliation: Cardiff University
+  bluesky: orbitingfrog.bsky.social
+- name: Arfon Smith
+  affiliation: "Oxford, United Kingdom"
+  bluesky: arfon.bsky.social
+- name: Babak Tafreshi
+  affiliation: "Tehran, Iran"
+  bluesky: babaktafreshi.bsky.social
+- name: John Taylor
+  affiliation: "Pittsburgh, United States"
+  bluesky: johnallentaylor.bsky.social
+- name: Edwin Valentijn
+  affiliation: "Groningen, Netherlands"
+- name: Jatila Van der Veen
+  affiliation: "Santa Barbara, California, United States"
+- name: Huib Van Langevelde
+  affiliation: "Dwingeloo, Netherlands"
+  bluesky: huibjan.bsky.social
+- name: Gijs Verdoes Kleijn
+  affiliation: "Groningen, Netherlands"
+- name: "Derek Ward-Thompson"
+  affiliation: "Cardiff, United Kingdom"
+- name: Natasha Waterson
+  affiliation: "London, United Kingdom"
+- name: Roy Williams
+  affiliation: "Pasadena, United States"
+- name: Michael Wise
+  affiliation: "Dwingeloo, Netherlands"
+  bluesky: wisespace.bsky.social
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/two"
+sponsors: ".Astronomy 2 was generously supported by the Lorentz Center, Astron, the Royal Astronomical Society (RAS), the\
+  \ British Council, NWO, RadioNet, and the Platform Beta Techniek."
+organisers_notes: "Organising committee also included Alasdair Allan, Chris Lintott, Stuart Lowe, and Robert Simpson."

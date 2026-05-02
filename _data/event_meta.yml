@@ -1,0 +1,113 @@
+events:
+- slug: one
+  number: "1"
+  name: .Astronomy 1
+  year: 2008
+  city: Cardiff
+  country: United Kingdom
+  venue: Cardiff University Department of Physics and Astronomy
+  dates: 22–24 September 2008
+- slug: two
+  number: "2"
+  name: .Astronomy 2
+  year: 2009
+  city: Leiden
+  country: Netherlands
+  venue: "Lorentz Centre, Leiden University"
+  dates: 30 November – 4 December 2009
+- slug: three
+  number: "3"
+  name: .Astronomy 3
+  year: 2011
+  city: Oxford
+  country: United Kingdom
+  venue: "New College, Oxford University"
+  dates: 4–8 April 2011
+- slug: four
+  number: "4"
+  name: .Astronomy 4
+  year: 2012
+  city: Heidelberg
+  country: Germany
+  venue: Haus der Astronomie and Internationales Wissenschaftsforum Heidelberg (IWH)
+  dates: 9–11 July 2012
+- slug: five
+  number: "5"
+  name: .Astronomy 5
+  year: 2013
+  city: "Cambridge, MA"
+  country: United States
+  venue: "New England Research and Development Center (NERD), Cambridge, Massachusetts"
+  dates: 16–18 September 2013
+- slug: six
+  number: "6"
+  name: .Astronomy 6
+  year: 2014
+  city: Chicago
+  country: United States
+  venue: "Adler Planetarium, Chicago, Illinois"
+  dates: 8–10 December 2014
+- slug: seven
+  number: "7"
+  name: .Astronomy 7
+  year: 2015
+  city: Sydney
+  country: Australia
+  venue: "Justice and Police Museum, Sydney CBD"
+  dates: 3–6 November 2015
+- slug: eight
+  number: "8"
+  name: .Astronomy 8
+  year: 2016
+  city: Oxford
+  country: United Kingdom
+  venue: "Pembroke College, Oxford University"
+  dates: 20–23 June 2016
+- slug: nine
+  number: "9"
+  name: .Astronomy 9
+  year: 2017
+  city: Cape Town
+  country: South Africa
+  venue: "South African Astronomical Observatory, Cape Town"
+  dates: 14–17 November 2017
+- slug: ten
+  number: X
+  name: .Astronomy X
+  year: 2018
+  city: Baltimore
+  country: United States
+  venue: "Space Telescope Science Institute (STScI), Baltimore, Maryland"
+  dates: 24–27 September 2018
+- slug: eleven
+  number: "11"
+  name: .Astronomy 11
+  year: 2019
+  city: Toronto
+  country: Canada
+  venue: "Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto"
+  dates: 22–25 October 2019
+- slug: alpha
+  number: α
+  name: .Astronomy α
+  year: 2020
+  city: Online
+  country: Online
+  venue: "Online (synchronous parts ran 14:00–21:00 UTC)"
+  dates: "17, 19, and 26 August 2020"
+- slug: twelve
+  number: "12"
+  name: .Astronomy 12
+  year: 2023
+  city: New York
+  country: United States
+  venue: "Flatiron Institute CCA, IDA and Math for America, New York"
+  dates: 2–6 October 2023
+- slug: thirteen
+  number: "13"
+  name: .Astronomy 13
+  year: 2024
+  city: Madrid
+  country: Spain
+  venue: "European Space Astronomy Centre (ESAC), near Madrid, Spain"
+  dates: 23–26 April 2024

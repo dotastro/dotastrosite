@@ -1,0 +1,248 @@
+slug: ten
+number: X
+name: .Astronomy X
+year: 2018
+city: Baltimore
+country: United States
+venue: "Space Telescope Science Institute (STScI), Baltimore, Maryland"
+dates: 24–27 September 2018
+description: "The tenth edition of .Astronomy, held at the Space Telescope Science Institute in Baltimore -- science operations\
+  \ centre for the Hubble Space Telescope and James Webb Space Telescope. The Roman numeral X made for a fittingly memorable\
+  \ name. Organised jointly by STScI staff and the .Astronomy Brain Trust."
+schedule:
+- url: /assets/talks/ten/AstronomyX_Schedule.xlsx
+  format: XLSX
+organisers:
+- name: Sarah Kendrew
+  affiliation: ESA
+  bluesky: sarahkendrew.bsky.social
+- name: Arfon Smith
+  affiliation: STScI
+  bluesky: arfon.bsky.social
+- name: Erik Tollerud
+  affiliation: STScI
+  bluesky: eteq.bsky.social
+- name: Joshua Peek
+  affiliation: STScI
+- name: Ivelina Momcheva
+  affiliation: STScI
+- name: Tom Donaldson
+  affiliation: STScI
+- name: Susan Kassin
+  affiliation: STScI
+talks:
+- speaker: "Sarah Kendrew:"
+  type: day_zero
+  title: Ten Years of .Astronomy (plenary)
+- speaker: "Jane Rigby:"
+  type: day_zero
+  title: The Future of NASA Astrophysics Missions (plenary)
+- speaker: "Erik Tollerud:"
+  type: day_zero
+  title: "Intro to open source, Astropy, and open development; Python packaging"
+- speaker: "Clara Brasseur and Tom Donaldson:"
+  type: day_zero
+  title: Making use of MAST (Mikulski Archive for Space Telescopes)
+- speaker: "Matthew Bourque and Jules Fowler:"
+  type: day_zero
+  title: Git(Hub) 401
+- speaker: "Azalee Bostroem and Lauren Chambers:"
+  type: day_zero
+  title: Git(Hub) 101
+- speaker: "Clara Brasseur and Steve Crawford:"
+  type: day_zero
+  title: "Kicking the tires: Astropy and Astroquery"
+- speaker: "Jamie Kinney:"
+  type: day_zero
+  title: Introduction to Google Cloud
+- speaker: "Jules Fowler and Matthew Bourque:"
+  type: day_zero
+  title: Flask
+- speaker: "Frank Summers:"
+  type: day_zero
+  title: Cinematic Astronomy (plenary close)
+- speaker: "Invited talks:"
+  type: talk
+- speaker: James Howison
+  type: talk
+  affiliation: invited
+  title: "Software makes science better, but is it research? Arguments for a research agenda in scientific software work"
+- speaker: Alcione Mora
+  type: talk
+  affiliation: invited
+  title: "Gaia: science, data and challenges"
+- speaker: "Contributed talks:"
+  type: talk
+- speaker: "Stephanie Juneau:"
+  type: talk
+  title: Galaxy Evolution at the crossroad of Astronomy and Data Science
+- speaker: "Ayat Mohammed:"
+  type: talk
+  title: "Visualize This: Lessons from the front-lines of high-performance visualisation"
+- speaker: "Lauren Chambers:"
+  type: talk
+  title: "A Different Kind of Dark Energy: Placing Race and Gender in Physics"
+- speaker: "Brian Nord:"
+  type: talk
+  title: "Ethics in AI: What does the future hold for science, work, privacy, justice?"
+- speaker: "Unconference sessions (3 parallel tracks):"
+  type: talk
+- speaker: "Invited talks:"
+  type: talk
+- speaker: Andrew Connolly
+  type: talk
+  affiliation: invited
+  title: "Back to the Future: a decade of LSST development and the growth in machine learning"
+- speaker: Jarita Holbrook
+  type: talk
+  affiliation: invited
+  title: Educating Astrophysicists in South Africa
+- speaker: Sarah Hörst
+  type: talk
+  affiliation: invited
+  title: The Role of Laboratory Work in Space Science
+- speaker: "Contributed talks:"
+  type: talk
+- speaker: "Dara Norman:"
+  type: talk
+  title: "Can Big Data Lead an Inclusion Revolution?"
+- speaker: "Craig Jones:"
+  type: talk
+  title: Hubble Image Discovery using Transfer Learning
+- speaker: "Unconference sessions:"
+  type: talk
+talks_narrative: |-
+  Tutorials and workshops running in parallel across three rooms:
+  Session 1:
+  - Bokeh 101 [David R] -- <a href="https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - Make Astro People Believe Social Scientists [Azalee] -- <a href="https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - What Can Google Do for Astronomers [Rob S] -- <a href="https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  Session 2:
+  - Deep Learning with Kepler [Jonathan F] -- <a href="https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - NOAO Data Lab: Tutorials and Demos [S. Juneau] -- <a href="https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - More Discussion about Credit for Software [Chris L] -- <a href="https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  Session 3:
+  - Cloud Compute 101 [Iva M] -- <a href="https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - Multi-Dimensional Data-Viz with Glue [Catherine Z] -- <a href="https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - Thinking More About Race/Gender in Physics [Lauren C] -- <a href="https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
+  - Techniques and Tools for Maintaining Mental Health [Bridget]
+  - What Should Journals do with Jupyter Notebooks? [Chris L]
+  - Inclusiveness Statistics [Geert]
+  - How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]
+  - Q&A on Astro to Tech Careers
+  - Reproducibility in Astronomy: How are we Doing? [Erik]
+  - Auto ML 101 [Iva]
+  - Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]
+  - What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]
+hacks:
+- title: "Contributor Plots for Astropy-Affiliated Packages"
+  creators:
+  - Matthew Bourque
+  - Erik Tollerud
+  description: Visualisation tools showing contribution activity across the Astropy ecosystem of affiliated packages.
+  source_url: "https://github.com/astropy/astropy-procedures/pull/96"
+- title: Data Sonification
+  creators:
+  - Clara Brasseur
+  - Nuwanthika Fernando
+  description: Tools and techniques for converting astronomical data into sound.
+- title: Specreduce
+  creators:
+  - Erik Tollerud
+  - collaborators
+  description: A spectral data reduction package for Astropy.
+- title: Social Justice Reading Group Resource
+  creators:
+  - Lauren Chambers
+  - Brian Nord
+  - collaborators
+  description: A curated resource to support astronomy departments running social justice and equity reading groups.
+- title: Interactive Research Explorer
+  creators:
+  - C. Murray
+  - collaborators
+  description: A public outreach tool for exploring research interactively.
+  source_url: "https://github.com/cmurray-astro/dotastro_hack"
+- title: .Astronomy X Scripts
+  creators:
+  - David Rodriguez
+  description: Scripts and code developed at .Astronomy X.
+  source_url: "https://github.com/dr-rodriguez/dotAstroX_scripts"
+- title: .Astronomy X Resources
+  creators:
+  - Victor Calderon
+  description: Repository for information and materials from .Astronomy X.
+  source_url: "https://github.com/vcalderon2009/dotAstronomy_X"
+participants:
+- name: Sarah Kendrew
+  bluesky: sarahkendrew.bsky.social
+- name: Arfon Smith
+  bluesky: arfon.bsky.social
+- name: Erik Tollerud
+  bluesky: eteq.bsky.social
+- name: Joshua Peek
+- name: Ivelina Momcheva
+- name: Tom Donaldson
+- name: Susan Kassin
+- name: Jane Rigby
+  bluesky: janerigby.bsky.social
+- name: Frank Summers
+  bluesky: drfranksummers.bsky.social
+- name: Clara Brasseur
+- name: Steve Crawford
+  bluesky: astrocrawford.bsky.social
+- name: Matthew Bourque
+- name: Jules Fowler
+- name: Azalee Bostroem
+  bluesky: supernovazzie.bsky.social
+- name: Lauren Chambers
+  bluesky: laurenmarietta.bsky.social
+- name: Jamie Kinney
+- name: James Howison
+- name: Stephanie Juneau
+- name: Ayat Mohammed
+- name: Brian Nord
+- name: Alcione Mora
+- name: Rob Simpson
+  affiliation: Google
+  bluesky: orbitingfrog.bsky.social
+- name: Alasdair Allan
+  bluesky: alasdairallan.com
+- name: "Carolina Odman-Govender"
+- name: Chris Lintott
+  affiliation: Oxford University
+  bluesky: chrislintott.bsky.social
+- name: Demitri Muna
+  bluesky: pentingmode.bsky.social
+- name: Nuwanthika Fernando
+- name: Andrew Connolly
+  bluesky: andrewconnolly.bsky.social
+- name: Dara Norman
+- name: Craig Jones
+  bluesky: tobycjones.bsky.social
+- name: Jarita Holbrook
+  bluesky: astroholbrook.bsky.social
+- name: Sarah Hörst
+  bluesky: planetdr.bsky.social
+- name: David Rodriguez
+  bluesky: strakul.bsky.social
+- name: Victor Calderon
+- name: Geert Barentsen
+  bluesky: geert.bsky.social
+- name: Catherine Zucker
+  bluesky: catherinezucker.bsky.social
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/ten"
+- label: Full schedule (XLSX)
+  url: /assets/talks/ten/AstronomyX_Schedule.xlsx
+  internal: true
+- label: vcalderon2009/dotAstronomy_X
+  url: "https://github.com/vcalderon2009/dotAstronomy_X"
+  description: .Astronomy X resources repository
+- label: "cmurray-astro/dotastro_hack"
+  url: "https://github.com/cmurray-astro/dotastro_hack"
+  description: outreach hack
+- label: "dr-rodriguez/dotAstroX_scripts"
+  url: "https://github.com/dr-rodriguez/dotAstroX_scripts"
+  description: scripts from .Astronomy X

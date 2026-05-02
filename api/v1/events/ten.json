@@ -7,7 +7,13 @@
   "country": "United States",
   "venue": "Space Telescope Science Institute (STScI), Baltimore, Maryland",
   "dates": "24–27 September 2018",
-  "url": "https://dotastronomy.com/events/ten/",
+  "description": "The tenth edition of .Astronomy, held at the Space Telescope Science Institute in Baltimore -- science operations centre for the Hubble Space Telescope and James Webb Space Telescope. The Roman numeral X made for a fittingly memorable name. Organised jointly by STScI staff and the .Astronomy Brain Trust.",
+  "schedule": [
+    {
+      "url": "/assets/talks/ten/AstronomyX_Schedule.xlsx",
+      "format": "XLSX"
+    }
+  ],
   "organisers": [
     {
       "name": "Sarah Kendrew",
@@ -21,7 +27,8 @@
     },
     {
       "name": "Erik Tollerud",
-      "affiliation": "STScI"
+      "affiliation": "STScI",
+      "bluesky": "eteq.bsky.social"
     },
     {
       "name": "Joshua Peek",
@@ -42,321 +49,214 @@
   ],
   "talks": [
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Sarah Kendrew:",
-      "affiliation": null,
-      "title": "Ten Years of .Astronomy (plenary)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Ten Years of .Astronomy (plenary)"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Jane Rigby:",
-      "affiliation": null,
-      "title": "The Future of NASA Astrophysics Missions (plenary)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "The Future of NASA Astrophysics Missions (plenary)"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Erik Tollerud:",
-      "affiliation": null,
-      "title": "Intro to open source, Astropy, and open development; Python packaging",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Intro to open source, Astropy, and open development; Python packaging"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Clara Brasseur and Tom Donaldson:",
-      "affiliation": null,
-      "title": "Making use of MAST (Mikulski Archive for Space Telescopes)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Making use of MAST (Mikulski Archive for Space Telescopes)"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Matthew Bourque and Jules Fowler:",
-      "affiliation": null,
-      "title": "Git(Hub) 401",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Git(Hub) 401"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Azalee Bostroem and Lauren Chambers:",
-      "affiliation": null,
-      "title": "Git(Hub) 101",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Git(Hub) 101"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Clara Brasseur and Steve Crawford:",
-      "affiliation": null,
-      "title": "Kicking the tires: Astropy and Astroquery",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Kicking the tires: Astropy and Astroquery"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Jamie Kinney:",
-      "affiliation": null,
-      "title": "Introduction to Google Cloud",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Introduction to Google Cloud"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Jules Fowler and Matthew Bourque:",
-      "affiliation": null,
-      "title": "Flask",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Flask"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Frank Summers:",
-      "affiliation": null,
-      "title": "Cinematic Astronomy (plenary close)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Cinematic Astronomy (plenary close)"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Invited talks:",
-      "affiliation": null,
-      "title": null,
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "talk"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "James Howison",
-      "affiliation": "invited",
-      "title": "Software makes science better, but is it research? Arguments for a research agenda in scientific software work",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "invited",
+      "title": "Software makes science better, but is it research? Arguments for a research agenda in scientific software work"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Alcione Mora",
+      "type": "talk",
       "affiliation": "invited",
-      "title": "Gaia: science, data and challenges",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Gaia: science, data and challenges"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Contributed talks:",
-      "affiliation": null,
-      "title": null,
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "talk"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Stephanie Juneau:",
-      "affiliation": null,
-      "title": "Galaxy Evolution at the crossroad of Astronomy and Data Science",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Galaxy Evolution at the crossroad of Astronomy and Data Science"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Ayat Mohammed:",
-      "affiliation": null,
-      "title": "Visualize This: Lessons from the front-lines of high-performance visualisation",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Visualize This: Lessons from the front-lines of high-performance visualisation"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Lauren Chambers:",
-      "affiliation": null,
-      "title": "A Different Kind of Dark Energy: Placing Race and Gender in Physics",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "A Different Kind of Dark Energy: Placing Race and Gender in Physics"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Brian Nord:",
-      "affiliation": null,
-      "title": "Ethics in AI: What does the future hold for science, work, privacy, justice?",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Ethics in AI: What does the future hold for science, work, privacy, justice?"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Unconference sessions (3 parallel tracks):",
-      "affiliation": null,
-      "title": null,
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "talk"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Invited talks:",
-      "affiliation": null,
-      "title": null,
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "talk"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Andrew Connolly",
-      "affiliation": "invited",
-      "title": "Back to the Future: a decade of LSST development and the growth in machine learning",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "invited",
+      "title": "Back to the Future: a decade of LSST development and the growth in machine learning"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Jarita Holbrook",
-      "affiliation": "invited",
-      "title": "Educating Astrophysicists in South Africa",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "invited",
+      "title": "Educating Astrophysicists in South Africa"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Sarah Hörst",
+      "type": "talk",
       "affiliation": "invited",
-      "title": "The Role of Laboratory Work in Space Science",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "The Role of Laboratory Work in Space Science"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Contributed talks:",
-      "affiliation": null,
-      "title": null,
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "talk"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Dara Norman:",
-      "affiliation": null,
-      "title": "Can Big Data Lead an Inclusion Revolution?",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Can Big Data Lead an Inclusion Revolution?"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Craig Jones:",
-      "affiliation": null,
-      "title": "Hubble Image Discovery using Transfer Learning",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Hubble Image Discovery using Transfer Learning"
     },
     {
-      "event": "ten",
-      "year": 2018,
       "speaker": "Unconference sessions:",
-      "affiliation": null,
-      "title": null,
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "talk"
     }
   ],
+  "talks_narrative": "Tutorials and workshops running in parallel across three rooms:\nSession 1:\n- Bokeh 101 [David R] -- <a href=\"https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- Make Astro People Believe Social Scientists [Azalee] -- <a href=\"https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- What Can Google Do for Astronomers [Rob S] -- <a href=\"https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\nSession 2:\n- Deep Learning with Kepler [Jonathan F] -- <a href=\"https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- NOAO Data Lab: Tutorials and Demos [S. Juneau] -- <a href=\"https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- More Discussion about Credit for Software [Chris L] -- <a href=\"https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\nSession 3:\n- Cloud Compute 101 [Iva M] -- <a href=\"https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- Multi-Dimensional Data-Viz with Glue [Catherine Z] -- <a href=\"https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- Thinking More About Race/Gender in Physics [Lauren C] -- <a href=\"https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit\" class=\"hack-link\" target=\"_blank\" rel=\"noopener\">notes</a>\n- Techniques and Tools for Maintaining Mental Health [Bridget]\n- What Should Journals do with Jupyter Notebooks? [Chris L]\n- Inclusiveness Statistics [Geert]\n- How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]\n- Q&A on Astro to Tech Careers\n- Reproducibility in Astronomy: How are we Doing? [Erik]\n- Auto ML 101 [Iva]\n- Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]\n- What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]",
   "hacks": [
     {
       "title": "Contributor Plots for Astropy-Affiliated Packages",
-      "event": "ten",
-      "year": 2018,
       "creators": [
         "Matthew Bourque",
         "Erik Tollerud"
       ],
       "description": "Visualisation tools showing contribution activity across the Astropy ecosystem of affiliated packages.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/astropy/astropy-procedures/pull/96"
+    },
+    {
+      "title": "Data Sonification",
+      "creators": [
+        "Clara Brasseur",
+        "Nuwanthika Fernando"
+      ],
+      "description": "Tools and techniques for converting astronomical data into sound."
+    },
+    {
+      "title": "Specreduce",
+      "creators": [
+        "Erik Tollerud",
+        "collaborators"
+      ],
+      "description": "A spectral data reduction package for Astropy."
+    },
+    {
+      "title": "Social Justice Reading Group Resource",
+      "creators": [
+        "Lauren Chambers",
+        "Brian Nord",
+        "collaborators"
+      ],
+      "description": "A curated resource to support astronomy departments running social justice and equity reading groups."
+    },
+    {
+      "title": "Interactive Research Explorer",
+      "creators": [
+        "C. Murray",
+        "collaborators"
+      ],
+      "description": "A public outreach tool for exploring research interactively.",
+      "source_url": "https://github.com/cmurray-astro/dotastro_hack"
     },
     {
       "title": ".Astronomy X Scripts",
-      "event": "ten",
-      "year": 2018,
       "creators": [
         "David Rodriguez"
       ],
       "description": "Scripts and code developed at .Astronomy X.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/dr-rodriguez/dotAstroX_scripts"
     },
     {
       "title": ".Astronomy X Resources",
-      "event": "ten",
-      "year": 2018,
       "creators": [
         "Victor Calderon"
       ],
       "description": "Repository for information and materials from .Astronomy X.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/vcalderon2009/dotAstronomy_X"
     }
   ],
   "participants": [
     {
-      "name": "Sarah Kendrew"
+      "name": "Sarah Kendrew",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
-      "name": "Arfon Smith"
+      "name": "Arfon Smith",
+      "bluesky": "arfon.bsky.social"
     },
     {
-      "name": "Erik Tollerud"
+      "name": "Erik Tollerud",
+      "bluesky": "eteq.bsky.social"
     },
     {
       "name": "Joshua Peek"
@@ -371,16 +271,19 @@
       "name": "Susan Kassin"
     },
     {
-      "name": "Jane Rigby"
+      "name": "Jane Rigby",
+      "bluesky": "janerigby.bsky.social"
     },
     {
-      "name": "Frank Summers"
+      "name": "Frank Summers",
+      "bluesky": "drfranksummers.bsky.social"
     },
     {
       "name": "Clara Brasseur"
     },
     {
-      "name": "Steve Crawford"
+      "name": "Steve Crawford",
+      "bluesky": "astrocrawford.bsky.social"
     },
     {
       "name": "Matthew Bourque"
@@ -389,10 +292,12 @@
       "name": "Jules Fowler"
     },
     {
-      "name": "Azalee Bostroem"
+      "name": "Azalee Bostroem",
+      "bluesky": "supernovazzie.bsky.social"
     },
     {
-      "name": "Lauren Chambers"
+      "name": "Lauren Chambers",
+      "bluesky": "laurenmarietta.bsky.social"
     },
     {
       "name": "Jamie Kinney"
@@ -414,50 +319,61 @@
     },
     {
       "name": "Rob Simpson",
-      "affiliation": "Google"
+      "affiliation": "Google",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
-      "name": "Alasdair Allan"
+      "name": "Alasdair Allan",
+      "bluesky": "alasdairallan.com"
     },
     {
       "name": "Carolina Odman-Govender"
     },
     {
       "name": "Chris Lintott",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
-      "name": "Demitri Muna"
+      "name": "Demitri Muna",
+      "bluesky": "pentingmode.bsky.social"
     },
     {
       "name": "Nuwanthika Fernando"
     },
     {
-      "name": "Andrew Connolly"
+      "name": "Andrew Connolly",
+      "bluesky": "andrewconnolly.bsky.social"
     },
     {
       "name": "Dara Norman"
     },
     {
-      "name": "Craig Jones"
+      "name": "Craig Jones",
+      "bluesky": "tobycjones.bsky.social"
     },
     {
-      "name": "Jarita Holbrook"
+      "name": "Jarita Holbrook",
+      "bluesky": "astroholbrook.bsky.social"
     },
     {
-      "name": "Sarah Hörst"
+      "name": "Sarah Hörst",
+      "bluesky": "planetdr.bsky.social"
     },
     {
-      "name": "David Rodriguez"
+      "name": "David Rodriguez",
+      "bluesky": "strakul.bsky.social"
     },
     {
       "name": "Victor Calderon"
     },
     {
-      "name": "Geert Barentsen"
+      "name": "Geert Barentsen",
+      "bluesky": "geert.bsky.social"
     },
     {
-      "name": "Catherine Zucker"
+      "name": "Catherine Zucker",
+      "bluesky": "catherinezucker.bsky.social"
     }
   ],
   "links": [
@@ -466,19 +382,28 @@
       "url": "https://www.dotastronomy.com/ten"
     },
     {
+      "label": "Full schedule (XLSX)",
+      "url": "/assets/talks/ten/AstronomyX_Schedule.xlsx",
+      "internal": true
+    },
+    {
       "label": "vcalderon2009/dotAstronomy_X",
-      "url": "https://github.com/vcalderon2009/dotAstronomy_X"
+      "url": "https://github.com/vcalderon2009/dotAstronomy_X",
+      "description": ".Astronomy X resources repository"
     },
     {
       "label": "cmurray-astro/dotastro_hack",
-      "url": "https://github.com/cmurray-astro/dotastro_hack"
+      "url": "https://github.com/cmurray-astro/dotastro_hack",
+      "description": "outreach hack"
     },
     {
       "label": "dr-rodriguez/dotAstroX_scripts",
-      "url": "https://github.com/dr-rodriguez/dotAstroX_scripts"
+      "url": "https://github.com/dr-rodriguez/dotAstroX_scripts",
+      "description": "scripts from .Astronomy X"
     }
   ],
+  "url": "https://dotastro.github.io/dotastrosite/events/ten/",
   "participant_count": 36,
-  "hack_count": 3,
+  "hack_count": 7,
   "talk_count": 27
 }

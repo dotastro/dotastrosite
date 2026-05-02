@@ -1,0 +1,144 @@
+---
+layout: default
+---
+{% assign event = site.data.events[page.event_slug] %}
+
+<div class="event-page-hero" data-num="{{ page.event_num }}">
+  <div class="event-page-kicker">{{ event.name }}</div>
+  <h1 class="event-page-title">{{ event.city }}{% if event.country != "Online" %}, {{ event.country | split: " " | last }}{% endif %}</h1>
+  <div class="event-page-meta">
+    <span>{{ event.dates }}</span>
+    <span>{{ event.venue }}</span>
+  </div>
+  <p class="event-page-desc">{{ event.description }}</p>
+</div>
+
+<nav class="event-page-nav" aria-label="Jump to section">
+  {% if event.organisers.size > 0 %}<a href="#organisers">Organisers</a>{% endif %}
+  {% if event.talks.size > 0 %}<a href="#talks">Talks</a>{% endif %}
+  {% if event.hacks.size > 0 %}<a href="#hacks">Hacks</a>{% endif %}
+  {% if event.participants.size > 0 %}<a href="#participants">Participants</a>{% endif %}
+  {% if event.links.size > 0 %}<a href="#links">Links</a>{% endif %}
+</nav>
+
+{% if event.organisers.size > 0 %}
+<span class="section-label">// organisers</span>
+## Organisers {#organisers}
+
+{% for org in event.organisers %}- {{ org.name }}{% if org.affiliation %} ({{ org.affiliation }}){% endif %}
+{% endfor %}
+{% if event.organisers_notes %}
+{{ event.organisers_notes }}
+{% endif %}
+{% endif %}
+
+{% if event.programme_notes %}
+<span class="section-label">// programme</span>
+## Programme {#programme}
+
+{{ event.programme_notes }}
+{% endif %}
+
+{% if event.talks.size > 0 %}
+<span class="section-label">// talks</span>
+## Talks {#talks}
+
+{% if event.schedule %}{% for s in event.schedule %}
+<a href="{{ site.baseurl }}{{ s.url }}" class="btn btn-outline btn-sm" target="_blank" rel="noopener" style="margin-bottom:1.5rem">Full schedule ({{ s.format }})</a>
+{% endfor %}{% endif %}
+
+{% assign current_type = "" %}
+{% for talk in event.talks %}{% if talk.type != current_type %}{% assign current_type = talk.type %}
+{% case current_type %}
+{% when "invited" %}### Invited Talks
+{% when "lightning" %}### Lightning Talks
+{% when "day_zero" %}### Day Zero
+{% when "contributed" %}### Contributed Talks
+{% when "unconference" %}### Unconference Sessions
+{% when "remote" %}### Remote / Skype Presentations
+{% when "tutorial" %}### Tutorials
+{% else %}### Talks
+{% endcase %}
+{% endif %}{% if talk.speaker != "" %}- **{{ talk.speaker }}**{% if talk.affiliation %} ({{ talk.affiliation }}){% endif %}{% if talk.title %}: *{{ talk.title }}*{% endif %}{% if talk.notes %} -- {{ talk.notes }}{% endif %}
+{% else %}- {{ talk.title }}
+{% endif %}{% endfor %}
+
+{% if event.talks_narrative %}
+{{ event.talks_narrative }}
+{% endif %}
+{% endif %}
+
+{% if event.hacks.size > 0 %}
+<span class="section-label">// hacks</span>
+## Hacks {#hacks}
+
+<div class="hacks-grid">
+{% for hack in event.hacks %}
+<div class="hack-card">
+<div class="hack-title">{{ hack.title }}</div>
+<div class="hack-creators">{{ hack.creators | join: ", " }}</div>
+{% if hack.description %}<p class="hack-desc">{{ hack.description }}</p>{% endif %}
+{% if hack.source_url or hack.live_url %}<div class="hack-links">{% if hack.source_url %}<a href="{{ hack.source_url }}" target="_blank" rel="noopener">Source</a>{% endif %}{% if hack.source_url and hack.live_url %} | {% endif %}{% if hack.live_url %}<a href="{{ hack.live_url }}" target="_blank" rel="noopener">Live</a>{% endif %}</div>{% endif %}
+</div>
+{% endfor %}
+</div>
+{% endif %}
+
+{% if event.unproceedings %}
+<span class="section-label">// unproceedings</span>
+## Unproceedings {#unproceedings}
+
+{{ event.unproceedings }}
+
+{% if event.unproceedings_authors %}**Authors:** {{ event.unproceedings_authors }}{% endif %}
+
+{% if event.unproceedings_arxiv %}<a href="{{ event.unproceedings_arxiv }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm">Read on arXiv</a>{% endif %}
+{% endif %}
+
+{% if event.participants.size > 0 %}
+<span class="section-label">// participants</span>
+## Participants {#participants}
+
+{% for p in event.participants %}- {{ p.name }}{% if p.affiliation %} ({{ p.affiliation }}){% endif %}
+{% endfor %}
+{% endif %}
+
+{% if event.links.size > 0 %}
+<span class="section-label">// links</span>
+## Links {#links}
+
+{% for link in event.links %}- [{{ link.label }}]({% if link.internal %}{{ site.baseurl }}{% endif %}{{ link.url }}){% if link.description %}: {{ link.description }}{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if event.sponsors %}
+### Sponsors
+
+{{ event.sponsors }}
+{% endif %}
+
+{% if event.community_posts %}
+<span class="section-label">// from the community</span>
+<h2 id="community">From the community</h2>
+
+<div class="community-posts">
+{% for post in event.community_posts %}
+<div class="community-post">
+<div class="cp-text">{{ post.text }}</div>
+<div class="cp-meta"><span class="cp-author">{{ post.author }}</span> <span class="cp-date">{{ post.date }}</span>{% if post.url %} <a href="{{ post.url }}" class="cp-link" target="_blank" rel="noopener">View</a>{% endif %} <span class="cp-source">{{ post.source }}</span></div>
+</div>
+{% endfor %}
+</div>
+{% endif %}
+
+{{ content }}
+
+<div class="contribute-section" data-event="{{ event.name }}">
+<span class="section-label">// want to add something?</span>
+<div class="contribute-bar">
+  <span class="contribute-bar-label">Know something missing?</span>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A%20{{ event.name | url_encode }}%20%E2%80%94%20{{ event.city | url_encode }}%2C%20{{ event.year }}" target="_blank" rel="noopener" class="contribute-bar-link">Add a hack</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20{{ event.name | url_encode }}%20%E2%80%94%20{{ event.city | url_encode }}%2C%20{{ event.year }}" target="_blank" rel="noopener" class="contribute-bar-link">Add a talk</a>
+  <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_participant.yml&title=participant%3A%20{{ event.name | url_encode }}%20%E2%80%94%20{{ event.city | url_encode }}%2C%20{{ event.year }}" target="_blank" rel="noopener" class="contribute-bar-link">Add a participant</a>
+</div>
+</div>

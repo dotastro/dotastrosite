@@ -2,16 +2,15 @@
   "name": ".Astronomy Conference Archive API",
   "version": "1.0",
   "description": "A read-only JSON API for the .Astronomy conference series archive. Free to use, no auth required.",
-  "base_url": "https://dotastronomy.com/api/v1",
+  "base_url": "https://dotastro.github.io/dotastrosite/api/v1",
   "endpoints": {
     "events": "/events.json",
-    "event": "/events/{slug}.json  (slug: one, two, three, ..., thirteen, alpha)",
+    "event": "/events/{slug}.json",
     "people": "/people.json",
     "hacks": "/hacks.json",
-    "talks": "/talks.json",
-    "search": "See documentation -- use client-side filtering on the JSON endpoints"
+    "talks": "/talks.json"
   },
-  "generated_at": "2026-04-30T19:53:57.014012+00:00",
+  "generated_at": "2026-05-02T05:55:00.976310+00:00",
   "source": "https://github.com/dotastro/dotastrosite",
   "licence": "CC BY 4.0"
 }

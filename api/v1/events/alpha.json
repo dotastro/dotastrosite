@@ -7,7 +7,7 @@
   "country": "Online",
   "venue": "Online (synchronous parts ran 14:00–21:00 UTC)",
   "dates": "17, 19, and 26 August 2020",
-  "url": "https://dotastronomy.com/events/alpha/",
+  "description": "DotDotAstro (also known as .Astronomy alpha) was the first fully online edition of the .Astronomy conference. Amazingly, this had been planned before the COVID-19 pandemic as an experiment in what a truly online conference could be, though the pandemic made it all the more relevant. The conference ran over three non-consecutive days in August 2020 to reduce barriers to participation. It was open to a maximum of around 75 participants to preserve the small-group feel of a normal .Astronomy. The synchronous parts ran from 14:00–21:00 UTC to accommodate participants across time zones. The conference especially welcomed participation from those who had been unable to join in-person .Astronomy events in the past, whether due to family commitments, funding constraints, or reduced travel for environmental reasons.",
   "organisers": [
     {
       "name": "Sarah Kendrew",
@@ -32,36 +32,25 @@
   ],
   "talks": [
     {
-      "event": "alpha",
-      "year": 2020,
       "speaker": "Brett Morris",
+      "type": "talk",
       "affiliation": "University of Bern",
-      "title": "talk (topic to be confirmed)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (topic to be confirmed)"
     },
     {
-      "event": "alpha",
-      "year": 2020,
       "speaker": "Leo Burtscher",
-      "affiliation": "Leiden Observatory",
-      "title": "talk (topic to be confirmed)",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Leiden Observatory",
+      "notes": "talk (topic to be confirmed)"
     },
     {
-      "event": "alpha",
-      "year": 2020,
       "speaker": "Sarah Kendrew",
-      "affiliation": "ESO",
-      "title": "talk (topic to be confirmed)",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "ESO",
+      "notes": "talk (topic to be confirmed)"
     }
   ],
+  "talks_narrative": "The conference featured talks recorded and edited in advance, plus live unconference sessions and a hack day, all adapted for the online format. Known speakers:\nThe event ran across three non-consecutive days (17, 19 and 26 August 2020), 14:00--21:00 UTC each day.\n_Know what was discussed? [Add a talk via GitHub](https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%20alpha%20%E2%80%94%20Online%2C%202020)_",
   "hacks": [],
   "participants": [
     {
@@ -78,31 +67,38 @@
     },
     {
       "name": "Becky Smethurst",
-      "affiliation": "University of Oxford"
+      "affiliation": "University of Oxford",
+      "bluesky": "drbecky.bsky.social"
     },
     {
       "name": "Brett Morris",
-      "affiliation": "University of Bern"
+      "affiliation": "University of Bern",
+      "bluesky": "brettmorr.is"
     },
     {
       "name": "Chris Lintott",
-      "affiliation": "University of Oxford"
+      "affiliation": "University of Oxford",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
       "name": "Cliff Johnson",
-      "affiliation": "Zooniverse / Northwestern University"
+      "affiliation": "Zooniverse / Northwestern University",
+      "bluesky": "lcjohnso.bsky.social"
     },
     {
       "name": "Danielle Rowland",
-      "affiliation": "American Museum of Natural History"
+      "affiliation": "American Museum of Natural History",
+      "bluesky": "deendn.bsky.social"
     },
     {
       "name": "Devontae Baxter",
-      "affiliation": "University of California, Irvine"
+      "affiliation": "University of California, Irvine",
+      "bluesky": "sentientstarstuff.bsky.social"
     },
     {
       "name": "Emily Hunt",
-      "affiliation": "Landessternwarte Heidelberg"
+      "affiliation": "Landessternwarte Heidelberg",
+      "bluesky": "emilyhunt.bsky.social"
     },
     {
       "name": "Gabriele Cepparulo",
@@ -114,11 +110,13 @@
     },
     {
       "name": "Joanna Barstow",
-      "affiliation": "The Open University"
+      "affiliation": "The Open University",
+      "bluesky": "drjovian.bsky.social"
     },
     {
       "name": "Joseph Ribaudo",
-      "affiliation": "Providence College"
+      "affiliation": "Providence College",
+      "bluesky": "jribaudo.bsky.social"
     },
     {
       "name": "Juanjo Bazan",
@@ -138,7 +136,8 @@
     },
     {
       "name": "Meg Schwamb",
-      "affiliation": "Queen's University Belfast"
+      "affiliation": "Queen's University Belfast",
+      "bluesky": "megschwamb.bsky.social"
     },
     {
       "name": "Nina Cameron",
@@ -150,7 +149,8 @@
     },
     {
       "name": "Robert Simpson",
-      "affiliation": "Google"
+      "affiliation": "Google",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
       "name": "Samuel Pearson",
@@ -158,7 +158,8 @@
     },
     {
       "name": "Sarah Kendrew",
-      "affiliation": "ESO"
+      "affiliation": "ESO",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
       "name": "Shreyas Bapat",
@@ -195,6 +196,7 @@
       "url": "https://www.dotastronomy.com/alpha"
     }
   ],
+  "url": "https://dotastro.github.io/dotastrosite/events/alpha/",
   "participant_count": 31,
   "hack_count": 0,
   "talk_count": 3

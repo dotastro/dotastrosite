@@ -1,0 +1,124 @@
+slug: alpha
+number: α
+name: .Astronomy α
+year: 2020
+city: Online
+country: Online
+venue: "Online (synchronous parts ran 14:00–21:00 UTC)"
+dates: "17, 19, and 26 August 2020"
+description: "DotDotAstro (also known as .Astronomy alpha) was the first fully online edition of the .Astronomy conference.\
+  \ Amazingly, this had been planned before the COVID-19 pandemic as an experiment in what a truly online conference could\
+  \ be, though the pandemic made it all the more relevant. The conference ran over three non-consecutive days in August 2020\
+  \ to reduce barriers to participation. It was open to a maximum of around 75 participants to preserve the small-group feel\
+  \ of a normal .Astronomy. The synchronous parts ran from 14:00–21:00 UTC to accommodate participants across time zones.\
+  \ The conference especially welcomed participation from those who had been unable to join in-person .Astronomy events in\
+  \ the past, whether due to family commitments, funding constraints, or reduced travel for environmental reasons."
+organisers:
+- name: Sarah Kendrew
+  affiliation: ESA/STScI
+  bluesky: sarahkendrew.bsky.social
+- name: Chris Lintott
+  affiliation: University of Oxford
+  bluesky: chrislintott.bsky.social
+- name: Robert Simpson
+  affiliation: Google
+  bluesky: orbitingfrog.bsky.social
+- name: Becky Smethurst
+  affiliation: University of Oxford
+  bluesky: drbecky.bsky.social
+talks:
+- speaker: Brett Morris
+  type: talk
+  affiliation: University of Bern
+  notes: talk (topic to be confirmed)
+- speaker: Leo Burtscher
+  type: talk
+  affiliation: Leiden Observatory
+  notes: talk (topic to be confirmed)
+- speaker: Sarah Kendrew
+  type: talk
+  affiliation: ESO
+  notes: talk (topic to be confirmed)
+talks_narrative: |-
+  The conference featured talks recorded and edited in advance, plus live unconference sessions and a hack day, all adapted for the online format. Known speakers:
+  The event ran across three non-consecutive days (17, 19 and 26 August 2020), 14:00--21:00 UTC each day.
+  _Know what was discussed? [Add a talk via GitHub](https://github.com/dotastro/dotastrosite/issues/new?template=add_talk.yml&title=talk%3A%20.Astronomy%20alpha%20%E2%80%94%20Online%2C%202020)_
+hacks: []
+participants:
+- name: Alex Gagliano
+  affiliation: "University of Illinois at Urbana-Champaign"
+- name: Angela Tanner
+  affiliation: Mississippi State University
+- name: Ania Kapuscinska
+  affiliation: Thought Machine / Open University
+- name: Becky Smethurst
+  affiliation: University of Oxford
+  bluesky: drbecky.bsky.social
+- name: Brett Morris
+  affiliation: University of Bern
+  bluesky: brettmorr.is
+- name: Chris Lintott
+  affiliation: University of Oxford
+  bluesky: chrislintott.bsky.social
+- name: Cliff Johnson
+  affiliation: Zooniverse / Northwestern University
+  bluesky: lcjohnso.bsky.social
+- name: Danielle Rowland
+  affiliation: American Museum of Natural History
+  bluesky: deendn.bsky.social
+- name: Devontae Baxter
+  affiliation: "University of California, Irvine"
+  bluesky: sentientstarstuff.bsky.social
+- name: Emily Hunt
+  affiliation: Landessternwarte Heidelberg
+  bluesky: emilyhunt.bsky.social
+- name: Gabriele Cepparulo
+  affiliation: University of Manchester
+- name: Heidi Thiemann
+  affiliation: Open University
+- name: Joanna Barstow
+  affiliation: The Open University
+  bluesky: drjovian.bsky.social
+- name: Joseph Ribaudo
+  affiliation: Providence College
+  bluesky: jribaudo.bsky.social
+- name: Juanjo Bazan
+  affiliation: Independent
+- name: "Justyn Campbell-White"
+  affiliation: University of Dundee
+- name: Leo Burtscher
+  affiliation: Leiden Observatory
+- name: Matt Brealey
+  affiliation: Developer
+- name: Meg Schwamb
+  affiliation: Queen's University Belfast
+  bluesky: megschwamb.bsky.social
+- name: Nina Cameron
+  affiliation: Glasgow Science Centre
+- name: Raquel Yumi Shida
+  affiliation: ESO / IAU / ESA
+- name: Robert Simpson
+  affiliation: Google
+  bluesky: orbitingfrog.bsky.social
+- name: Samuel Pearson
+  affiliation: University of St Andrews
+- name: Sarah Kendrew
+  affiliation: ESO
+  bluesky: sarahkendrew.bsky.social
+- name: Shreyas Bapat
+  affiliation: IIT Mandi
+- name: Stefania Amodeo
+  affiliation: Cornell University
+- name: Tamara Civera
+  affiliation: CEFCA
+- name: Timothy Gebhard
+  affiliation: CEFCA
+- name: Tomas Muller
+  affiliation: University of Southampton
+- name: Wilhelmina Nekoto
+  affiliation: "HTW-Berlin"
+- name: Yan Grange
+  affiliation: ASTRON
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/alpha"

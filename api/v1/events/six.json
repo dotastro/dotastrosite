@@ -7,7 +7,7 @@
   "country": "United States",
   "venue": "Adler Planetarium, Chicago, Illinois",
   "dates": "8–10 December 2014",
-  "url": "https://dotastronomy.com/events/six/",
+  "description": "The sixth .Astronomy conference was held at the Adler Planetarium in Chicago, the first modern planetarium in the Western Hemisphere, founded in 1930. This was a particularly significant edition: it included visitors from non-astronomy fields, supported by the Alfred P. Sloan Foundation, to observe and potentially replicate the .Astronomy format in their own disciplines. The event also marked a strong upward trend in diversity, building on discussions from .Astronomy 5. The Adler had established an astronomy research group and a citizen science department, making it an ideal host.",
   "organisers": [
     {
       "name": "Laura Trouille",
@@ -24,385 +24,248 @@
   ],
   "talks": [
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Arfon Smith",
+      "type": "invited",
       "affiliation": "GitHub",
-      "title": "GitHub for Science",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "title": "GitHub for Science"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Erin Braswell",
+      "type": "invited",
       "affiliation": "Center for Open Science",
-      "title": "The Open Science Framework",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "title": "The Open Science Framework"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Dustin Lang",
+      "type": "invited",
       "affiliation": "Carnegie Mellon University",
-      "title": "Astrometry.net",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "title": "Astrometry.net"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Alberto Pepe",
+      "type": "invited",
       "affiliation": "Authorea",
-      "title": "Authorea: Collaborative Scientific Writing",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "title": "Authorea: Collaborative Scientific Writing"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Stefano Meschiari",
+      "type": "invited",
       "affiliation": "UT Austin",
-      "title": "Super Planet Crash",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "title": "Super Planet Crash"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Laura Whyte",
-      "affiliation": "Adler Planetarium",
-      "title": "Engaging Young People with Astronomy and Tech",
       "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Adler Planetarium",
+      "title": "Engaging Young People with Astronomy and Tech"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Adam Becker",
-      "affiliation": "Freelance",
-      "title": "How to Destroy Science Publishing",
       "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Freelance",
+      "title": "How to Destroy Science Publishing"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Geert Barentsen",
+      "type": "lightning",
       "affiliation": "University of Hertfordshire",
-      "title": "There Is No Data Deluge",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "There Is No Data Deluge"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Emily Rice",
-      "affiliation": null,
-      "title": "and **Demitri Muna**: *Astronomy on Tap*",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "and **Demitri Muna**: *Astronomy on Tap*"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Grace Wolf-Chase",
-      "affiliation": "Adler Planetarium",
-      "title": "Yellow Balls in the Milky Way Project",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Adler Planetarium",
+      "title": "Yellow Balls in the Milky Way Project"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Emily Rice",
-      "affiliation": null,
-      "title": "STARtorialist",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "STARtorialist"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Reed Riddle",
+      "type": "lightning",
       "affiliation": "Caltech",
-      "title": "Robo-AO",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Robo-AO"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Ali Swanson",
-      "affiliation": "University of Oxford",
-      "title": "Snapshot Serengeti",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "University of Oxford",
+      "title": "Snapshot Serengeti"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Elisabeth Newton",
+      "type": "lightning",
       "affiliation": "Harvard",
-      "title": "ComSciCon",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "ComSciCon"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Eric Hilton",
-      "affiliation": null,
-      "title": "Universe Sandbox",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Universe Sandbox"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Hanno Rein",
+      "type": "lightning",
       "affiliation": "University of Toronto",
-      "title": "Open Exoplanet Catalogue",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Open Exoplanet Catalogue"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Ivelina Momcheva",
+      "type": "lightning",
       "affiliation": "Yale University",
-      "title": "3D-HST",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "3D-HST"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Jesse Rogerson",
+      "type": "lightning",
       "affiliation": "York University",
-      "title": "Online Astronomy Radio",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Online Astronomy Radio"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Meredith Rawls",
+      "type": "lightning",
       "affiliation": "New Mexico State University",
-      "title": "Astrobites",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Astrobites"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Andy Casey",
+      "type": "lightning",
       "affiliation": "University of Cambridge",
-      "title": "Metrics for Code",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Metrics for Code"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Robert Nemiroff",
+      "type": "lightning",
       "affiliation": "Michigan Technological University",
-      "title": "APOD Wall",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "APOD Wall"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Angelle Tanner",
+      "type": "lightning",
       "affiliation": "MSU",
-      "title": "STARCHIVE: an open access stellar archive",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "STARCHIVE: an open access stellar archive"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Lucianne Walkowicz",
+      "type": "lightning",
       "affiliation": "Adler Planetarium",
-      "title": "Science Train",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "Science Train"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Alice Allen",
+      "type": "lightning",
       "affiliation": "Astrophysics Source Code Library",
-      "title": "ASCL",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "ASCL"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Alyssa Goodman",
+      "type": "lightning",
       "affiliation": "Harvard University",
-      "title": "WWT",
-      "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "title": "WWT"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Chris Lintott",
-      "affiliation": "University of Oxford",
-      "title": "Threshold Fear",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "University of Oxford",
+      "title": "Threshold Fear"
     },
     {
-      "event": "six",
-      "year": 2014,
       "speaker": "Vladimir Sudilovsky",
-      "affiliation": "NASA/ADS",
-      "title": "ADS Services",
       "type": "lightning",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "NASA/ADS",
+      "title": "ADS Services"
     }
   ],
+  "talks_narrative": "Monday: Hacking the Journal, .Astronomy Culture, Open Source WWT, Improving Credit/Discovery for Software, Sharing Documents for Teaching, Gaming for Science, Robotic Telescopes, Astropy, Voices of Early Career Researchers, Museums.\nWednesday: JavaScript 101, Phones as Sensors, Alternative Discussion Formats, Improving Software Citation, The Journal of Brief Ideas, Communicating .Astronomy, Software Training, ASCL, Lion Data Viz for Astronomy, Peer Review, Engaging New Groups, Open Source Sky Survey, Hubot 101, Libraries are Friends, Making Astro Memes, STARchive.",
   "hacks": [
     {
       "title": "AAS Job Viz",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Vanessa Moss"
       ],
       "description": "A visualisation of the AAS job register using location to pin jobs on a map. Allows users to filter jobs by type and location, using the Leaflet.js JavaScript library.",
-      "source_url": null,
-      "live_url": null
+      "live_url": "http://www.physics.usyd.edu.au/~vmoss/jobvis"
     },
     {
       "title": "Adler Zodiac Story",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Lucianne Walkowicz"
       ],
-      "description": "",
-      "source_url": null,
-      "live_url": null
+      "description": "Online storytelling connecting the Chinese Zodiac to astronomy."
     },
     {
       "title": "Astronomer Bot (BotAstro)",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Robert Simpson"
       ],
       "description": "A Twitter bot for astronomers.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/ttfnrob/botastro/",
+      "live_url": "https://twitter.com/botastro"
     },
     {
       "title": "Cite Me Maybe",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Andy Casey"
       ],
       "description": "See which articles were referenced in your \"field\" that a paper did not cite.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/andycasey/cite-me-maybe"
     },
     {
       "title": "Elevate ApJ",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "James Davenport"
       ],
       "description": "Working to elevate the readability and design of astronomy journal articles.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/jradavenport/elevate-apj"
     },
     {
       "title": "Kepler Song and Drum Machine",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Ruth Angus"
       ],
-      "description": "",
-      "source_url": null,
-      "live_url": null
+      "description": "Making music from Kepler light curves."
     },
     {
       "title": "Rate My Institution",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Laura Trouille"
       ],
-      "description": "",
-      "source_url": null,
-      "live_url": null
+      "description": "A way to honestly rate your place of academic work.",
+      "live_url": "https://docs.google.com/forms/d/1Y-i95JpvraKRWYegdfsUXnLuq-NMlPLdfbp7Wc0MO1Y/viewform?c=0&w=1"
     },
     {
       "title": "Tones and Drones: Sampling Stars",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Sascha Ishikawa"
       ],
       "description": "Sonifying Kepler light curves to create music.",
-      "source_url": null,
-      "live_url": null
+      "live_url": "https://soundcloud.com/sascha-ishikawa/tones-drones-sampling-stars"
     },
     {
       "title": "Unclockify",
-      "event": "six",
-      "year": 2014,
       "creators": [
         "Adrian Price-Whelan"
       ],
-      "description": "",
-      "source_url": null,
-      "live_url": null
+      "description": "Chrome extension to find and replace sexagesimal coordinates on Wikipedia."
     }
   ],
   "participants": [
     {
       "name": "Adam Becker",
-      "affiliation": "Freelance"
+      "affiliation": "Freelance",
+      "bluesky": "adambecker.bsky.social"
     },
     {
       "name": "Adrian Price-Whelan",
-      "affiliation": "Columbia University"
+      "affiliation": "Columbia University",
+      "bluesky": "adrian.pw"
     },
     {
       "name": "Alberto Pepe",
@@ -410,7 +273,8 @@
     },
     {
       "name": "Alasdair Allan",
-      "affiliation": "Bablim Light Industries"
+      "affiliation": "Bablim Light Industries",
+      "bluesky": "alasdairallan.com"
     },
     {
       "name": "Ali Swanson",
@@ -422,7 +286,8 @@
     },
     {
       "name": "Alyssa Goodman",
-      "affiliation": "Harvard University"
+      "affiliation": "Harvard University",
+      "bluesky": "alyssagoodman.bsky.social"
     },
     {
       "name": "Andy Casey",
@@ -430,15 +295,18 @@
     },
     {
       "name": "Angelle Tanner",
-      "affiliation": "MSU"
+      "affiliation": "MSU",
+      "bluesky": "astrochic73.bsky.social"
     },
     {
       "name": "Arfon Smith",
-      "affiliation": "GitHub"
+      "affiliation": "GitHub",
+      "bluesky": "arfon.bsky.social"
     },
     {
       "name": "Arif Solmaz",
-      "affiliation": "Cag University"
+      "affiliation": "Cag University",
+      "bluesky": "arifsolmaz.bsky.social"
     },
     {
       "name": "Arna Karick",
@@ -446,15 +314,18 @@
     },
     {
       "name": "Benjamin Weiner",
-      "affiliation": "Steward Observatory"
+      "affiliation": "Steward Observatory",
+      "bluesky": "cloud149.bsky.social"
     },
     {
       "name": "Brooke Simmons",
-      "affiliation": "Oxford"
+      "affiliation": "Oxford",
+      "bluesky": "vrooje.net"
     },
     {
       "name": "Chris Lintott",
-      "affiliation": "University of Oxford"
+      "affiliation": "University of Oxford",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
       "name": "Coleman Krawczyk",
@@ -466,11 +337,13 @@
     },
     {
       "name": "David W. Hogg",
-      "affiliation": "New York University"
+      "affiliation": "New York University",
+      "bluesky": "hogg.bsky.social"
     },
     {
       "name": "Demitri Muna",
-      "affiliation": "Ohio State University"
+      "affiliation": "Ohio State University",
+      "bluesky": "pentingmode.bsky.social"
     },
     {
       "name": "Doug Roberts",
@@ -490,7 +363,8 @@
     },
     {
       "name": "Emily Rice",
-      "affiliation": "CUNY/AMNH"
+      "affiliation": "CUNY/AMNH",
+      "bluesky": "emilylrice.me"
     },
     {
       "name": "Eric Hilton",
@@ -498,7 +372,8 @@
     },
     {
       "name": "Erik Tollerud",
-      "affiliation": "Yale University"
+      "affiliation": "Yale University",
+      "bluesky": "eteq.bsky.social"
     },
     {
       "name": "Erin Braswell",
@@ -510,7 +385,8 @@
     },
     {
       "name": "Geert Barentsen",
-      "affiliation": "University of Hertfordshire"
+      "affiliation": "University of Hertfordshire",
+      "bluesky": "geert.bsky.social"
     },
     {
       "name": "Grace Wolf-Chase",
@@ -518,7 +394,8 @@
     },
     {
       "name": "Grant Miller",
-      "affiliation": "University of Oxford / Zooniverse"
+      "affiliation": "University of Oxford / Zooniverse",
+      "bluesky": "gmill15.bsky.social"
     },
     {
       "name": "Hanno Rein",
@@ -534,7 +411,8 @@
     },
     {
       "name": "James Davenport",
-      "affiliation": "University of Washington"
+      "affiliation": "University of Washington",
+      "bluesky": "jradavenport.com"
     },
     {
       "name": "Jeff Grube",
@@ -546,7 +424,8 @@
     },
     {
       "name": "Jeyhan Kartaltepe",
-      "affiliation": "NOAO"
+      "affiliation": "NOAO",
+      "bluesky": "jeyhan.bsky.social"
     },
     {
       "name": "Jonathan Fay",
@@ -578,7 +457,8 @@
     },
     {
       "name": "Mark SubbaRao",
-      "affiliation": "Adler Planetarium"
+      "affiliation": "Adler Planetarium",
+      "bluesky": "marksubbarao.bsky.social"
     },
     {
       "name": "Matthew Sottile",
@@ -586,11 +466,13 @@
     },
     {
       "name": "Matthew Turk",
-      "affiliation": "Columbia University"
+      "affiliation": "Columbia University",
+      "bluesky": "matthewturk.bsky.social"
     },
     {
       "name": "Meredith Rawls",
-      "affiliation": "New Mexico State University"
+      "affiliation": "New Mexico State University",
+      "bluesky": "merrdiff.bsky.social"
     },
     {
       "name": "Peter Krautzberger",
@@ -614,15 +496,18 @@
     },
     {
       "name": "Robert Simpson",
-      "affiliation": "Zooniverse"
+      "affiliation": "Zooniverse",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
       "name": "Ruth Angus",
-      "affiliation": "University of Oxford"
+      "affiliation": "University of Oxford",
+      "bluesky": "ruthangus.bsky.social"
     },
     {
       "name": "Sarah Kendrew",
-      "affiliation": "University of Oxford"
+      "affiliation": "University of Oxford",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
       "name": "Stefano Meschiari",
@@ -634,7 +519,8 @@
     },
     {
       "name": "Vanessa Moss",
-      "affiliation": "University of Sydney"
+      "affiliation": "University of Sydney",
+      "bluesky": "cosmicpudding.bsky.social"
     },
     {
       "name": "Vladimir Sudilovsky",
@@ -647,6 +533,8 @@
       "url": "https://www.dotastronomy.com/six"
     }
   ],
+  "organisers_notes": "Supported by GitHub and the Alfred P. Sloan Foundation.",
+  "url": "https://dotastro.github.io/dotastrosite/events/six/",
   "participant_count": 61,
   "hack_count": 9,
   "talk_count": 27

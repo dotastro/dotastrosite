@@ -7,13 +7,15 @@
   "country": "South Africa",
   "venue": "South African Astronomical Observatory, Cape Town",
   "dates": "14–17 November 2017",
-  "url": "https://dotastronomy.com/events/nine/",
+  "description": "The ninth .Astronomy conference was held at the South African Astronomical Observatory (SAAO) in Cape Town, bringing the conference to Africa for the first time. The rapid growth of astronomy in South Africa, with major projects like the SKA, SALT, and the Office of Astronomy for Development, made it an exciting backdrop. The conference focused on how new technologies (machine learning, web interfaces, software development) could help astronomical research, education, and outreach, and how diversity could help us better understand the Universe.",
   "organisers": [
     {
-      "name": "Steve Crawford"
+      "name": "Steve Crawford",
+      "bluesky": "astrocrawford.bsky.social"
     },
     {
-      "name": "Kevin Govender"
+      "name": "Kevin Govender",
+      "bluesky": "govender.bsky.social"
     },
     {
       "name": "Carolina Odman-Govender"
@@ -21,274 +23,186 @@
   ],
   "talks": [
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Bradley Frank",
+      "type": "invited",
       "affiliation": "University of Cape Town",
       "title": "Jupyter Notebooks for Radio Astronomy on the Cloud",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "MeerKAT and SKA data challenges; using cloud computing and Jupyter notebooks for radio interferometric data analysis and training."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Amanda Bauer",
+      "type": "invited",
       "affiliation": "LSST",
       "title": "LSST: Education and Public Outreach",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "How LSST EPO will enable public access to survey data via a Portal, Skyviewer, Jupyter notebooks, and citizen science projects."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Bruce Bassett",
+      "type": "invited",
       "affiliation": "UCT/SAAO/AIMS",
       "title": "Threads of a Future Research 3.0",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Lessons from experiments in research, collaboration and mentoring: how can we do research better?"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Arna Karick",
+      "type": "invited",
       "affiliation": "Tech Savvy Astronomer",
       "title": "Getting the most out of hack day: Lessons learned from hacking for humanity",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Experience as a Random Hacks of Kindness organiser; tips for the .Astronomy 9 Hack Day."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Wanda Diaz Merced",
+      "type": "invited",
       "affiliation": "IAU Office of Astronomy for Development",
       "title": "Is the use of multimodal perception a real possibility for Astronomy research, education and outreach?",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "The history and future of sonification and multimodal approaches in astronomy."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Brian Nord",
+      "type": "invited",
       "affiliation": "Fermi National Accelerator Laboratory",
       "title": "The role of narrative in the culture and practice of science",
-      "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Storytelling as a fundamental mode of scientific communication and research."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Chris Lintott",
-      "affiliation": "Oxford University",
-      "title": null,
       "type": "invited",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Oxford University"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Temba Matomela",
+      "type": "contributed",
       "affiliation": "Iziko Planetarium, South Africa",
       "title": "The AmaXhosa understanding of the night sky",
-      "type": "contributed",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Indigenous astronomy: Xhosa knowledge of the Pleiades, Orion's Belt, Canopus, and the Moon."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Susan Murabana",
+      "type": "contributed",
       "affiliation": "Travelling Telescope Africa, Kenya",
       "title": "The Travelling Telescope",
-      "type": "contributed",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Promoting science and technology in African schools; reached 40,000+ students in Kenya."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Lisa Ballard",
+      "type": "contributed",
       "affiliation": "SETI Institute, USA",
       "title": "Postcards from the Outer Planets",
-      "type": "contributed",
-      "slides_url": null,
-      "video_url": null
+      "notes": "NASA Planetary Data System search interface and API for Voyager, Cassini, New Horizons, and Galileo imagery."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Fernando Becerra",
+      "type": "contributed",
       "affiliation": "Harvard University",
       "title": "Astrollytelling: Astronomy through visual stories",
-      "type": "contributed",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Using scrollytelling and D3.js to explain astronomy concepts interactively at astrollytelling.io."
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Charl Cater",
+      "type": "day_zero",
       "affiliation": "Cape Town Creative Academy",
-      "title": "Information design, animation, data visualisation",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Information design, animation, data visualisation"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Ben Cook",
+      "type": "day_zero",
       "affiliation": "Harvard University, PhD",
-      "title": "Galaxy photometry modelling, HPC, machine learning, science outreach",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Galaxy photometry modelling, HPC, machine learning, science outreach"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Nicholas Earl",
+      "type": "day_zero",
       "affiliation": "STScI",
-      "title": "Science software for JWST; circumgalactic medium research",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Science software for JWST; circumgalactic medium research"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Kevin Govender",
+      "type": "day_zero",
       "affiliation": "IAU Office of Astronomy for Development",
-      "title": "Astronomy for development in Africa",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Astronomy for development in Africa"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Brett Morris",
+      "type": "day_zero",
       "affiliation": "University of Washington",
-      "title": "Astropy affiliated package astroplan; stellar activity and exoplanets",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Astropy affiliated package astroplan; stellar activity and exoplanets"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Brian Nord",
+      "type": "day_zero",
       "affiliation": "Fermilab/UChicago",
-      "title": "AI applications in cosmology; science communication workshops",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "AI applications in cosmology; science communication workshops"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Josh Peek",
+      "type": "day_zero",
       "affiliation": "STScI",
-      "title": "Project Scientist, Data Science Mission Office; ISM and MAST",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Project Scientist, Data Science Mission Office; ISM and MAST"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Brigitta Sipocz",
-      "affiliation": null,
-      "title": "Astropy Project; exoplanets, low mass stars, asteroids",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "type": "day_zero",
+      "title": "Astropy Project; exoplanets, low mass stars, asteroids"
     },
     {
-      "event": "nine",
-      "year": 2017,
       "speaker": "Becky Smethurst",
+      "type": "day_zero",
       "affiliation": "University of Nottingham",
-      "title": "Galaxy quenching and AGN feedback; YouTube science communicator",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "Galaxy quenching and AGN feedback; YouTube science communicator"
     }
   ],
   "hacks": [
     {
       "title": "Hack Graveyard",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Will Armentrout",
         "Arna Karick",
         "Lisa Ballard"
       ],
       "description": ".Astronomy is full of amazing pitches and hacks. Unfortunately, there are never enough hours in the Hack Day to complete all of them. The Hack Graveyard tracks these incomplete hacks so they can be revived in the future.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/WillArmentrout/dotAstroGraveyard",
+      "live_url": "https://willarmentrout.github.io/dotAstroGraveyard/"
     },
     {
       "title": "Hack Roulette",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Lisa Ballard",
         "Daina Bouquin",
         "Steve Crawford"
       ],
       "description": "Spin the wheel to generate a new hack using past dotastro hacks.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/dbouquin/hack_roulette"
     },
     {
       "title": "Project PHaEDRA Website and Logo",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Charl Cater",
         "Daina Bouquin"
       ],
-      "description": "",
-      "source_url": null,
-      "live_url": null
+      "description": "Rethinking and rough drafting a logo and website for Project PHaEDRA: a collaborative effort to digitize and transcribe the work of early astronomers."
     },
     {
       "title": "Sketch dotAstro: Hunting for Jupiter Sketches in Archival Notebooks",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Daina Bouquin",
         "Chris Lintott",
         "Teresa de Young"
       ],
       "description": "Attempting to use computer vision to distinguish between boring pages in archival notebooks and pages with sketches of Jupiter.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/dbouquin/sketch_dotastro"
     },
     {
       "title": "Wave At Kepler",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Ben Cook",
         "Becky Smethurst"
       ],
       "description": "Static website to compute the direction to Kepler when it takes a photo, so you can wave at the right moment.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/bacook17/hello-kepler",
+      "live_url": "waveatkepler.space"
     },
     {
       "title": "Where in the Universe?",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Becky Smethurst",
         "Brigitta Sipocz",
@@ -296,13 +210,11 @@
         "Lisa Ballard"
       ],
       "description": "Have you ever wondered where you'd be in the Universe if you were launched toward the zenith above your birth place at the time you were born? This site calculates your position in space and the nearest star.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/bsipocz/where-in-the-universe",
+      "live_url": "https://where-in-the-universe.herokuapp.com/"
     },
     {
       "title": "Whose Line Is It Anyway?",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Brett Morris",
         "Nick Earl",
@@ -312,13 +224,11 @@
         "Becky Smethurst"
       ],
       "description": "A small package for plotting common spectral line lists on your spectra, so you can discover which absorption/emission features are responsible for what you see.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/bmorris3/whoseline-vis/",
+      "live_url": "dotastro.muna.net:8000/"
     },
     {
       "title": "xorastro: Extremely Open, Extremely Reproducible Astronomy",
-      "event": "nine",
-      "year": 2017,
       "creators": [
         "Joshua Peek",
         "Orapeleng Mogawana",
@@ -326,8 +236,7 @@
         "Chris Lintott"
       ],
       "description": "Built a neural network to predict galaxy colors from galaxy shapes in the most open and reproducible way possible.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/jegpeek/xorastro"
     }
   ],
   "participants": [
@@ -335,11 +244,13 @@
       "name": "Adrianna Pinska"
     },
     {
-      "name": "Alasdair Allan"
+      "name": "Alasdair Allan",
+      "bluesky": "alasdairallan.com"
     },
     {
       "name": "Amanda Bauer",
-      "affiliation": "LSST"
+      "affiliation": "LSST",
+      "bluesky": "amandabauer.bsky.social"
     },
     {
       "name": "Arna Karick",
@@ -347,11 +258,13 @@
     },
     {
       "name": "Arfon Smith",
-      "affiliation": "STScI"
+      "affiliation": "STScI",
+      "bluesky": "arfon.bsky.social"
     },
     {
       "name": "Becky Smethurst",
-      "affiliation": "University of Nottingham"
+      "affiliation": "University of Nottingham",
+      "bluesky": "drbecky.bsky.social"
     },
     {
       "name": "Ben Cook",
@@ -363,7 +276,8 @@
     },
     {
       "name": "Brett Morris",
-      "affiliation": "University of Washington"
+      "affiliation": "University of Washington",
+      "bluesky": "brettmorr.is"
     },
     {
       "name": "Brian Nord",
@@ -386,17 +300,20 @@
     },
     {
       "name": "Chris Lintott",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
       "name": "Daina Bouquin"
     },
     {
-      "name": "Demitri Muna"
+      "name": "Demitri Muna",
+      "bluesky": "pentingmode.bsky.social"
     },
     {
       "name": "Fernando Becerra",
-      "affiliation": "Harvard University"
+      "affiliation": "Harvard University",
+      "bluesky": "fbecerra.bsky.social"
     },
     {
       "name": "Joshua Peek",
@@ -404,11 +321,13 @@
     },
     {
       "name": "Kevin Govender",
-      "affiliation": "IAU-OAD"
+      "affiliation": "IAU-OAD",
+      "bluesky": "govender.bsky.social"
     },
     {
       "name": "Lisa Ballard",
-      "affiliation": "SETI Institute"
+      "affiliation": "SETI Institute",
+      "bluesky": "drlmhb.bsky.social"
     },
     {
       "name": "Mike Walmsley"
@@ -422,11 +341,13 @@
     },
     {
       "name": "Sarah Kendrew",
-      "affiliation": "ESA/STScI"
+      "affiliation": "ESA/STScI",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
       "name": "Steve Crawford",
-      "affiliation": "SAAO"
+      "affiliation": "SAAO",
+      "bluesky": "astrocrawford.bsky.social"
     },
     {
       "name": "Susan Murabana",
@@ -454,13 +375,17 @@
     },
     {
       "label": "bmorris3/dotastro9_astroplan_astroquery",
-      "url": "https://github.com/bmorris3/dotastro9_astroplan_astroquery"
+      "url": "https://github.com/bmorris3/dotastro9_astroplan_astroquery",
+      "description": "tutorial materials for astroplan and astroquery"
     },
     {
       "label": "drarnakarick/dotastro9_we_are_science",
-      "url": "https://github.com/drarnakarick/dotastro9_we_are_science"
+      "url": "https://github.com/drarnakarick/dotastro9_we_are_science",
+      "description": "\"We Are Science\" project materials from .Astronomy 9"
     }
   ],
+  "programme_notes": "Themes included machine learning, web interfaces, software development, education, and leveraging diversity in the astronomical community. This was the first .Astronomy held in Africa.",
+  "url": "https://dotastro.github.io/dotastrosite/events/nine/",
   "participant_count": 31,
   "hack_count": 8,
   "talk_count": 20

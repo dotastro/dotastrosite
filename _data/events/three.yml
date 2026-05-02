@@ -1,0 +1,225 @@
+slug: three
+number: "3"
+name: .Astronomy 3
+year: 2011
+city: Oxford
+country: United Kingdom
+venue: "New College, Oxford University"
+dates: 4–8 April 2011
+description: "The third .Astronomy conference was held at New College, Oxford. It brought together the growing community of\
+  \ astronomers, developers, educators, and communicators interested in using the web and new technology to advance astronomy.\
+  \ Topics ranged from citizen science and Amazon Web Services to browser-based visualisation and careers for astronomers\
+  \ leaving academia. A .Astronomy 3 trailer was produced by Markus Poessel. Amanda Bauer and the TNOs performed \"Pluto,\
+  \ the Previous Planet\" during the conference."
+organisers:
+- name: Robert Simpson
+  affiliation: University of Oxford
+  bluesky: orbitingfrog.bsky.social
+- name: Chris Lintott
+  affiliation: University of Oxford
+  bluesky: chrislintott.bsky.social
+- name: Arfon Smith
+  affiliation: University of Oxford
+  bluesky: arfon.bsky.social
+talks:
+- speaker: Jill Tarter
+  type: talk
+  affiliation: SETI Institute
+  title: "invited keynote (09:30--10:30)"
+- speaker: Ed Gomez
+  type: talk
+  affiliation: LCOGT
+  notes: "talk (11:00--11:20)"
+- speaker: Mike Peel
+  type: talk
+  affiliation: Wikimedia UK
+  notes: "talk (11:20--11:30)"
+- speaker: Matt Wood
+  type: talk
+  affiliation: AWS
+  notes: "talk (11:40--12:00)"
+- speaker: Chris Lintott
+  type: talk
+  affiliation: Oxford University
+  notes: "talk (12:00--12:20)"
+- speaker: Tom Robitaille
+  type: talk
+  affiliation: "Harvard-Smithsonian CfA"
+  notes: "talk (09:30)"
+- speaker: Thomas Boch
+  type: talk
+  affiliation: "CDS, Observatoire de Strasbourg"
+  notes: "talk (09:30)"
+- speaker: Jonathan Fay
+  type: talk
+  affiliation: Microsoft Research
+  notes: "talk (11:00--11:40)"
+- speaker: Rob Simpson
+  type: talk
+  affiliation: Oxford University
+  notes: talk
+- speaker: Cameron Neylon
+  type: talk
+  affiliation: STFC
+  notes: talk
+- speaker: David Hogg
+  type: talk
+  affiliation: New York University
+  notes: "talk (09:30 onwards)"
+- speaker: "Francisco Sanchez-Moreno"
+  type: talk
+  affiliation: Universidad Politécnica de Madrid
+  notes: talk
+- speaker: Geert Barentsen
+  type: talk
+  affiliation: Armagh Observatory
+  notes: talk
+- speaker: Matthew Graham
+  type: talk
+  affiliation: Caltech
+  notes: talk
+- speaker: Pamela Gay
+  type: talk
+  affiliation: SIUE
+  notes: talk
+talks_narrative: |-
+  - Unconference sessions (afternoon)
+  - Debrief (17:00--17:30)
+  - Hack Day (afternoon)
+  - Unconference sessions (afternoon)
+  - Debrief and conference dinner
+hacks:
+- title: Pluto the Previous Planet
+  creators:
+  - Amanda Bauer
+  description: "A song about Pluto's demotion from planetary status, performed by Amanda Bauer and collaborators at the hack\
+    \ day. Covered by Universe Today."
+  live_url: "https://www.universetoday.com/articles/new-hit-single-pluto-the-previous-planet"
+- title: Chromotone
+  creators:
+  - Jon Yardley
+  - Chris North
+  - Haley Gomez
+  - Edward Gomez
+  description: "Exploring multiwavelength astronomy with sound. Each waveband has a pitch; the intensity/brightness in that\
+    \ waveband is represented by the volume of a note. When you scan a mouse over an image, Chromotone plays a chord with\
+    \ components corresponding to the intensity at each pixel. This .Astronomy 3 version aimed to make a lighter, more web-friendly\
+    \ version of the original Processing implementation, with added functionality."
+  source_url: "https://github.com/jonyardley/Chromotone"
+participants:
+- name: Alasdair Allan
+  affiliation: University of Exeter
+  bluesky: alasdairallan.com
+- name: Amanda Bauer
+  affiliation: Australian Astronomical Observatory
+  bluesky: amandabauer.bsky.social
+- name: Arfon Smith
+  affiliation: Oxford University
+  bluesky: arfon.bsky.social
+- name: Ariel Waldman
+  affiliation: Spacehack.org / Science Hack Day SF
+  bluesky: arielwaldman.com
+- name: Aude Alapini Odunlade
+  affiliation: University of Exeter
+- name: Bipana Bantawa
+  affiliation: Oxford University
+- name: Boris Häußler
+  affiliation: University of Nottingham
+- name: Cameron Neylon
+  affiliation: STFC
+- name: "Carolina Ödman-Govender"
+  affiliation: SKA / SAAO / AIMS
+- name: Chris Kemp
+  affiliation: NASA
+- name: Chris Lintott
+  affiliation: Oxford University
+  bluesky: chrislintott.bsky.social
+- name: Chris North
+  affiliation: Cardiff University
+- name: Cory Lehan
+  affiliation: SIUE
+- name: Danny Price
+  affiliation: Oxford University
+- name: David Hogg
+  affiliation: New York University
+  bluesky: hogg.bsky.social
+- name: Edward Gomez
+  affiliation: Las Cumbres Observatory
+- name: Eli Bressert
+  affiliation: Exeter / ESO / CfA
+- name: "Francisco Manuel Sánchez-Moreno"
+  affiliation: Universidad Politécnica de Madrid
+- name: Geert Barentsen
+  affiliation: Armagh Observatory
+  bluesky: geert.bsky.social
+- name: Griffin Foster
+  affiliation: Oxford University
+- name: Haley Gomez
+  affiliation: Cardiff University
+- name: Jill Tarter
+  affiliation: SETI Institute
+- name: Joe Zuntz
+  affiliation: Oxford University
+  bluesky: joezuntz.bsky.social
+- name: Jon Yardley
+  affiliation: Freelance Web Developer
+- name: Jonathan Fay
+  affiliation: Microsoft Research
+- name: Jose Enrique Ruiz
+  affiliation: Instituto Astrofísica Andalucia
+- name: Karen Masters
+  affiliation: University of Portsmouth
+  bluesky: karenlmasters.bsky.social
+- name: Kevin Govender
+  bluesky: govender.bsky.social
+- name: Markus Pössel
+  affiliation: "CAEO, Heidelberg"
+  bluesky: mpoessel.de
+- name: Matthew Graham
+  affiliation: Caltech
+- name: Matthew Povich
+  affiliation: Penn State University
+- name: Meg Schwamb
+  affiliation: Yale University
+  bluesky: megschwamb.bsky.social
+- name: Michael Williams
+  affiliation: Oxford University
+  bluesky: michaeljwilliams.bsky.social
+- name: Mike Peel
+  affiliation: Jodrell Bank / Wikimedia UK
+- name: Nick Howes
+  affiliation: Astronomy Now Magazine
+- name: Norman Gray
+  affiliation: University of Glasgow
+- name: Pamela Gay
+  affiliation: SIUE
+  bluesky: starstryder.space
+- name: Phil Bull
+  affiliation: Oxford University
+  bluesky: philbull.bsky.social
+- name: Phil Marshall
+  affiliation: Oxford University
+- name: Robert Hollow
+  affiliation: CSIRO Astronomy and Space Science
+- name: Robert Simpson
+  affiliation: Oxford University
+  bluesky: orbitingfrog.bsky.social
+- name: Sarah Kendrew
+  affiliation: MPIA
+  bluesky: sarahkendrew.bsky.social
+- name: Stuart Lowe
+  affiliation: Las Cumbres Observatory
+- name: Stuart Lynn
+  affiliation: Oxford University
+- name: Thomas Boch
+  affiliation: "CDS, Observatoire de Strasbourg"
+- name: Thomas Robitaille
+  affiliation: "Harvard-Smithsonian CfA"
+  bluesky: astrofrog.trobitaille.dev
+- name: Toner Stevenson
+  affiliation: Sydney Observatory
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/three"
+- label: .Astronomy 3 trailer
+  url: "https://vimeo.com/22025233"

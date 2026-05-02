@@ -7,7 +7,7 @@
   "country": "United Kingdom",
   "venue": "New College, Oxford University",
   "dates": "4–8 April 2011",
-  "url": "https://dotastronomy.com/events/three/",
+  "description": "The third .Astronomy conference was held at New College, Oxford. It brought together the growing community of astronomers, developers, educators, and communicators interested in using the web and new technology to advance astronomy. Topics ranged from citizen science and Amazon Web Services to browser-based visualisation and careers for astronomers leaving academia. A .Astronomy 3 trailer was produced by Markus Poessel. Amanda Bauer and the TNOs performed \"Pluto, the Previous Planet\" during the conference.",
   "organisers": [
     {
       "name": "Robert Simpson",
@@ -27,161 +27,108 @@
   ],
   "talks": [
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Jill Tarter",
+      "type": "talk",
       "affiliation": "SETI Institute",
-      "title": "invited keynote (09:30--10:30)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "title": "invited keynote (09:30--10:30)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Ed Gomez",
+      "type": "talk",
       "affiliation": "LCOGT",
-      "title": "talk (11:00--11:20)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (11:00--11:20)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Mike Peel",
+      "type": "talk",
       "affiliation": "Wikimedia UK",
-      "title": "talk (11:20--11:30)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (11:20--11:30)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Matt Wood",
+      "type": "talk",
       "affiliation": "AWS",
-      "title": "talk (11:40--12:00)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (11:40--12:00)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Chris Lintott",
-      "affiliation": "Oxford University",
-      "title": "talk (12:00--12:20)",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Oxford University",
+      "notes": "talk (12:00--12:20)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Tom Robitaille",
+      "type": "talk",
       "affiliation": "Harvard-Smithsonian CfA",
-      "title": "talk (09:30)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (09:30)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Thomas Boch",
+      "type": "talk",
       "affiliation": "CDS, Observatoire de Strasbourg",
-      "title": "talk (09:30)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (09:30)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Jonathan Fay",
+      "type": "talk",
       "affiliation": "Microsoft Research",
-      "title": "talk (11:00--11:40)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (11:00--11:40)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Rob Simpson",
+      "type": "talk",
       "affiliation": "Oxford University",
-      "title": "talk",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Cameron Neylon",
+      "type": "talk",
       "affiliation": "STFC",
-      "title": "talk",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "David Hogg",
+      "type": "talk",
       "affiliation": "New York University",
-      "title": "talk (09:30 onwards)",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk (09:30 onwards)"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Francisco Sanchez-Moreno",
+      "type": "talk",
       "affiliation": "Universidad Politécnica de Madrid",
-      "title": "talk",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Geert Barentsen",
+      "type": "talk",
       "affiliation": "Armagh Observatory",
-      "title": "talk",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "talk"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Matthew Graham",
-      "affiliation": "Caltech",
-      "title": "talk",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "Caltech",
+      "notes": "talk"
     },
     {
-      "event": "three",
-      "year": 2011,
       "speaker": "Pamela Gay",
-      "affiliation": "SIUE",
-      "title": "talk",
       "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "affiliation": "SIUE",
+      "notes": "talk"
     }
   ],
+  "talks_narrative": "- Unconference sessions (afternoon)\n- Debrief (17:00--17:30)\n- Hack Day (afternoon)\n- Unconference sessions (afternoon)\n- Debrief and conference dinner",
   "hacks": [
     {
+      "title": "Pluto the Previous Planet",
+      "creators": [
+        "Amanda Bauer"
+      ],
+      "description": "A song about Pluto's demotion from planetary status, performed by Amanda Bauer and collaborators at the hack day. Covered by Universe Today.",
+      "live_url": "https://www.universetoday.com/articles/new-hit-single-pluto-the-previous-planet"
+    },
+    {
       "title": "Chromotone",
-      "event": "three",
-      "year": 2011,
       "creators": [
         "Jon Yardley",
         "Chris North",
@@ -189,26 +136,29 @@
         "Edward Gomez"
       ],
       "description": "Exploring multiwavelength astronomy with sound. Each waveband has a pitch; the intensity/brightness in that waveband is represented by the volume of a note. When you scan a mouse over an image, Chromotone plays a chord with components corresponding to the intensity at each pixel. This .Astronomy 3 version aimed to make a lighter, more web-friendly version of the original Processing implementation, with added functionality.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/jonyardley/Chromotone"
     }
   ],
   "participants": [
     {
       "name": "Alasdair Allan",
-      "affiliation": "University of Exeter"
+      "affiliation": "University of Exeter",
+      "bluesky": "alasdairallan.com"
     },
     {
       "name": "Amanda Bauer",
-      "affiliation": "Australian Astronomical Observatory"
+      "affiliation": "Australian Astronomical Observatory",
+      "bluesky": "amandabauer.bsky.social"
     },
     {
       "name": "Arfon Smith",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "arfon.bsky.social"
     },
     {
       "name": "Ariel Waldman",
-      "affiliation": "Spacehack.org / Science Hack Day SF"
+      "affiliation": "Spacehack.org / Science Hack Day SF",
+      "bluesky": "arielwaldman.com"
     },
     {
       "name": "Aude Alapini Odunlade",
@@ -236,7 +186,8 @@
     },
     {
       "name": "Chris Lintott",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "chrislintott.bsky.social"
     },
     {
       "name": "Chris North",
@@ -252,7 +203,8 @@
     },
     {
       "name": "David Hogg",
-      "affiliation": "New York University"
+      "affiliation": "New York University",
+      "bluesky": "hogg.bsky.social"
     },
     {
       "name": "Edward Gomez",
@@ -268,7 +220,8 @@
     },
     {
       "name": "Geert Barentsen",
-      "affiliation": "Armagh Observatory"
+      "affiliation": "Armagh Observatory",
+      "bluesky": "geert.bsky.social"
     },
     {
       "name": "Griffin Foster",
@@ -284,7 +237,8 @@
     },
     {
       "name": "Joe Zuntz",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "joezuntz.bsky.social"
     },
     {
       "name": "Jon Yardley",
@@ -300,14 +254,17 @@
     },
     {
       "name": "Karen Masters",
-      "affiliation": "University of Portsmouth"
+      "affiliation": "University of Portsmouth",
+      "bluesky": "karenlmasters.bsky.social"
     },
     {
-      "name": "Kevin Govender"
+      "name": "Kevin Govender",
+      "bluesky": "govender.bsky.social"
     },
     {
       "name": "Markus Pössel",
-      "affiliation": "CAEO, Heidelberg"
+      "affiliation": "CAEO, Heidelberg",
+      "bluesky": "mpoessel.de"
     },
     {
       "name": "Matthew Graham",
@@ -319,11 +276,13 @@
     },
     {
       "name": "Meg Schwamb",
-      "affiliation": "Yale University"
+      "affiliation": "Yale University",
+      "bluesky": "megschwamb.bsky.social"
     },
     {
       "name": "Michael Williams",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "michaeljwilliams.bsky.social"
     },
     {
       "name": "Mike Peel",
@@ -339,11 +298,13 @@
     },
     {
       "name": "Pamela Gay",
-      "affiliation": "SIUE"
+      "affiliation": "SIUE",
+      "bluesky": "starstryder.space"
     },
     {
       "name": "Phil Bull",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "philbull.bsky.social"
     },
     {
       "name": "Phil Marshall",
@@ -355,11 +316,13 @@
     },
     {
       "name": "Robert Simpson",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
       "name": "Sarah Kendrew",
-      "affiliation": "MPIA"
+      "affiliation": "MPIA",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
       "name": "Stuart Lowe",
@@ -375,7 +338,8 @@
     },
     {
       "name": "Thomas Robitaille",
-      "affiliation": "Harvard-Smithsonian CfA"
+      "affiliation": "Harvard-Smithsonian CfA",
+      "bluesky": "astrofrog.trobitaille.dev"
     },
     {
       "name": "Toner Stevenson",
@@ -386,9 +350,14 @@
     {
       "label": "dotastronomy.com",
       "url": "https://www.dotastronomy.com/three"
+    },
+    {
+      "label": ".Astronomy 3 trailer",
+      "url": "https://vimeo.com/22025233"
     }
   ],
+  "url": "https://dotastro.github.io/dotastrosite/events/three/",
   "participant_count": 47,
-  "hack_count": 1,
+  "hack_count": 2,
   "talk_count": 15
 }

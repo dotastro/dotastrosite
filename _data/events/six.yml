@@ -1,0 +1,326 @@
+slug: six
+number: "6"
+name: .Astronomy 6
+year: 2014
+city: Chicago
+country: United States
+venue: "Adler Planetarium, Chicago, Illinois"
+dates: 8–10 December 2014
+description: "The sixth .Astronomy conference was held at the Adler Planetarium in Chicago, the first modern planetarium in\
+  \ the Western Hemisphere, founded in 1930. This was a particularly significant edition: it included visitors from non-astronomy\
+  \ fields, supported by the Alfred P. Sloan Foundation, to observe and potentially replicate the .Astronomy format in their\
+  \ own disciplines. The event also marked a strong upward trend in diversity, building on discussions from .Astronomy 5.\
+  \ The Adler had established an astronomy research group and a citizen science department, making it an ideal host."
+organisers:
+- name: Laura Trouille
+  affiliation: Northwestern University
+- name: Lucianne Walkowicz
+  affiliation: Adler Planetarium
+- name: Laura Whyte
+  affiliation: Adler Planetarium
+talks:
+- speaker: Arfon Smith
+  type: invited
+  affiliation: GitHub
+  title: GitHub for Science
+- speaker: Erin Braswell
+  type: invited
+  affiliation: Center for Open Science
+  title: The Open Science Framework
+- speaker: Dustin Lang
+  type: invited
+  affiliation: Carnegie Mellon University
+  title: Astrometry.net
+- speaker: Alberto Pepe
+  type: invited
+  affiliation: Authorea
+  title: "Authorea: Collaborative Scientific Writing"
+- speaker: Stefano Meschiari
+  type: invited
+  affiliation: UT Austin
+  title: Super Planet Crash
+- speaker: Laura Whyte
+  type: invited
+  affiliation: Adler Planetarium
+  title: Engaging Young People with Astronomy and Tech
+- speaker: Adam Becker
+  type: invited
+  affiliation: Freelance
+  title: How to Destroy Science Publishing
+- speaker: Geert Barentsen
+  type: lightning
+  affiliation: University of Hertfordshire
+  title: There Is No Data Deluge
+- speaker: Emily Rice
+  type: lightning
+  title: "and **Demitri Muna**: *Astronomy on Tap*"
+- speaker: "Grace Wolf-Chase"
+  type: lightning
+  affiliation: Adler Planetarium
+  title: Yellow Balls in the Milky Way Project
+- speaker: Emily Rice
+  type: lightning
+  title: STARtorialist
+- speaker: Reed Riddle
+  type: lightning
+  affiliation: Caltech
+  title: "Robo-AO"
+- speaker: Ali Swanson
+  type: lightning
+  affiliation: University of Oxford
+  title: Snapshot Serengeti
+- speaker: Elisabeth Newton
+  type: lightning
+  affiliation: Harvard
+  title: ComSciCon
+- speaker: Eric Hilton
+  type: lightning
+  title: Universe Sandbox
+- speaker: Hanno Rein
+  type: lightning
+  affiliation: University of Toronto
+  title: Open Exoplanet Catalogue
+- speaker: Ivelina Momcheva
+  type: lightning
+  affiliation: Yale University
+  title: "3D-HST"
+- speaker: Jesse Rogerson
+  type: lightning
+  affiliation: York University
+  title: Online Astronomy Radio
+- speaker: Meredith Rawls
+  type: lightning
+  affiliation: New Mexico State University
+  title: Astrobites
+- speaker: Andy Casey
+  type: lightning
+  affiliation: University of Cambridge
+  title: Metrics for Code
+- speaker: Robert Nemiroff
+  type: lightning
+  affiliation: Michigan Technological University
+  title: APOD Wall
+- speaker: Angelle Tanner
+  type: lightning
+  affiliation: MSU
+  title: "STARCHIVE: an open access stellar archive"
+- speaker: Lucianne Walkowicz
+  type: lightning
+  affiliation: Adler Planetarium
+  title: Science Train
+- speaker: Alice Allen
+  type: lightning
+  affiliation: Astrophysics Source Code Library
+  title: ASCL
+- speaker: Alyssa Goodman
+  type: lightning
+  affiliation: Harvard University
+  title: WWT
+- speaker: Chris Lintott
+  type: lightning
+  affiliation: University of Oxford
+  title: Threshold Fear
+- speaker: Vladimir Sudilovsky
+  type: lightning
+  affiliation: NASA/ADS
+  title: ADS Services
+talks_narrative: |-
+  Monday: Hacking the Journal, .Astronomy Culture, Open Source WWT, Improving Credit/Discovery for Software, Sharing Documents for Teaching, Gaming for Science, Robotic Telescopes, Astropy, Voices of Early Career Researchers, Museums.
+  Wednesday: JavaScript 101, Phones as Sensors, Alternative Discussion Formats, Improving Software Citation, The Journal of Brief Ideas, Communicating .Astronomy, Software Training, ASCL, Lion Data Viz for Astronomy, Peer Review, Engaging New Groups, Open Source Sky Survey, Hubot 101, Libraries are Friends, Making Astro Memes, STARchive.
+hacks:
+- title: AAS Job Viz
+  creators:
+  - Vanessa Moss
+  description: "A visualisation of the AAS job register using location to pin jobs on a map. Allows users to filter jobs by\
+    \ type and location, using the Leaflet.js JavaScript library."
+  live_url: "http://www.physics.usyd.edu.au/~vmoss/jobvis"
+- title: Adler Zodiac Story
+  creators:
+  - Lucianne Walkowicz
+  description: Online storytelling connecting the Chinese Zodiac to astronomy.
+- title: Astronomer Bot (BotAstro)
+  creators:
+  - Robert Simpson
+  description: A Twitter bot for astronomers.
+  source_url: "https://github.com/ttfnrob/botastro/"
+  live_url: "https://twitter.com/botastro"
+- title: Cite Me Maybe
+  creators:
+  - Andy Casey
+  description: See which articles were referenced in your "field" that a paper did not cite.
+  source_url: "https://github.com/andycasey/cite-me-maybe"
+- title: Elevate ApJ
+  creators:
+  - James Davenport
+  description: Working to elevate the readability and design of astronomy journal articles.
+  source_url: "https://github.com/jradavenport/elevate-apj"
+- title: Kepler Song and Drum Machine
+  creators:
+  - Ruth Angus
+  description: Making music from Kepler light curves.
+- title: Rate My Institution
+  creators:
+  - Laura Trouille
+  description: A way to honestly rate your place of academic work.
+  live_url: "https://docs.google.com/forms/d/1Y-i95JpvraKRWYegdfsUXnLuq-NMlPLdfbp7Wc0MO1Y/viewform?c=0&w=1"
+- title: "Tones and Drones: Sampling Stars"
+  creators:
+  - Sascha Ishikawa
+  description: Sonifying Kepler light curves to create music.
+  live_url: "https://soundcloud.com/sascha-ishikawa/tones-drones-sampling-stars"
+- title: Unclockify
+  creators:
+  - "Adrian Price-Whelan"
+  description: Chrome extension to find and replace sexagesimal coordinates on Wikipedia.
+participants:
+- name: Adam Becker
+  affiliation: Freelance
+  bluesky: adambecker.bsky.social
+- name: "Adrian Price-Whelan"
+  affiliation: Columbia University
+  bluesky: adrian.pw
+- name: Alberto Pepe
+  affiliation: Authorea
+- name: Alasdair Allan
+  affiliation: Bablim Light Industries
+  bluesky: alasdairallan.com
+- name: Ali Swanson
+  affiliation: University of Oxford
+- name: Alice Allen
+  affiliation: Astrophysics Source Code Library
+- name: Alyssa Goodman
+  affiliation: Harvard University
+  bluesky: alyssagoodman.bsky.social
+- name: Andy Casey
+  affiliation: University of Cambridge
+- name: Angelle Tanner
+  affiliation: MSU
+  bluesky: astrochic73.bsky.social
+- name: Arfon Smith
+  affiliation: GitHub
+  bluesky: arfon.bsky.social
+- name: Arif Solmaz
+  affiliation: Cag University
+  bluesky: arifsolmaz.bsky.social
+- name: Arna Karick
+  affiliation: Swinburne University of Technology
+- name: Benjamin Weiner
+  affiliation: Steward Observatory
+  bluesky: cloud149.bsky.social
+- name: Brooke Simmons
+  affiliation: Oxford
+  bluesky: vrooje.net
+- name: Chris Lintott
+  affiliation: University of Oxford
+  bluesky: chrislintott.bsky.social
+- name: Coleman Krawczyk
+  affiliation: Portsmouth ICG
+- name: "Dan Foreman-Mackey"
+  affiliation: NYU
+- name: David W. Hogg
+  affiliation: New York University
+  bluesky: hogg.bsky.social
+- name: Demitri Muna
+  affiliation: Ohio State University
+  bluesky: pentingmode.bsky.social
+- name: Doug Roberts
+  affiliation: WWT
+- name: Dorotea Dudas
+  affiliation: ESO HITS
+- name: Dustin Lang
+  affiliation: Carnegie Mellon University
+- name: Elisabeth Newton
+  affiliation: Harvard
+- name: Emily Rice
+  affiliation: CUNY/AMNH
+  bluesky: emilylrice.me
+- name: Eric Hilton
+  affiliation: Universe Sandbox
+- name: Erik Tollerud
+  affiliation: Yale University
+  bluesky: eteq.bsky.social
+- name: Erin Braswell
+  affiliation: Center for Open Science
+- name: Gary McDowell
+  affiliation: Tufts University
+- name: Geert Barentsen
+  affiliation: University of Hertfordshire
+  bluesky: geert.bsky.social
+- name: "Grace Wolf-Chase"
+  affiliation: Adler Planetarium
+- name: Grant Miller
+  affiliation: University of Oxford / Zooniverse
+  bluesky: gmill15.bsky.social
+- name: Hanno Rein
+  affiliation: University of Toronto
+- name: Heidi Tebbe
+  affiliation: NCSU
+- name: Ivelina Momcheva
+  affiliation: Yale University
+- name: James Davenport
+  affiliation: University of Washington
+  bluesky: jradavenport.com
+- name: Jeff Grube
+  affiliation: Adler Planetarium
+- name: Jesse Rogerson
+  affiliation: York University
+- name: Jeyhan Kartaltepe
+  affiliation: NOAO
+  bluesky: jeyhan.bsky.social
+- name: Jonathan Fay
+  affiliation: Microsoft Research
+- name: Jonathan Sick
+  affiliation: Queen's University
+- name: Julie Feldt
+  affiliation: Adler Planetarium
+- name: Kelle Cruz
+  affiliation: Hunter College / AMNH
+- name: Laura Trouille
+  affiliation: Northwestern University
+- name: Laura Whyte
+  affiliation: Adler Planetarium
+- name: Lucianne Walkowicz
+  affiliation: Adler Planetarium
+- name: Mark SubbaRao
+  affiliation: Adler Planetarium
+  bluesky: marksubbarao.bsky.social
+- name: Matthew Sottile
+  affiliation: Galois
+- name: Matthew Turk
+  affiliation: Columbia University
+  bluesky: matthewturk.bsky.social
+- name: Meredith Rawls
+  affiliation: New Mexico State University
+  bluesky: merrdiff.bsky.social
+- name: Peter Krautzberger
+  affiliation: MathJax
+- name: Rachel Prudden
+  affiliation: UK MET Office
+- name: Rebecca Smethurst
+  affiliation: University of Oxford
+- name: Reed Riddle
+  affiliation: Caltech
+- name: Robert Nemiroff
+  affiliation: Michigan Technological University
+- name: Robert Simpson
+  affiliation: Zooniverse
+  bluesky: orbitingfrog.bsky.social
+- name: Ruth Angus
+  affiliation: University of Oxford
+  bluesky: ruthangus.bsky.social
+- name: Sarah Kendrew
+  affiliation: University of Oxford
+  bluesky: sarahkendrew.bsky.social
+- name: Stefano Meschiari
+  affiliation: UT Austin
+- name: Stuart Lynn
+  affiliation: Adler Planetarium
+- name: Vanessa Moss
+  affiliation: University of Sydney
+  bluesky: cosmicpudding.bsky.social
+- name: Vladimir Sudilovsky
+  affiliation: NASA/ADS
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/six"
+organisers_notes: Supported by GitHub and the Alfred P. Sloan Foundation.

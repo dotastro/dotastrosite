@@ -1,0 +1,195 @@
+slug: seven
+number: "7"
+name: .Astronomy 7
+year: 2015
+city: Sydney
+country: Australia
+venue: "Justice and Police Museum, Sydney CBD"
+dates: 3–6 November 2015
+description: ".Astronomy 7 was held in Sydney, the first .Astronomy conference outside Europe and the United States. The conference\
+  \ was officially opened by Professor Mary O'Kane, the NSW Chief Scientist and Engineer. This edition introduced \".Astronomy\
+  \ Day Zero\", an optional day of introductory tutorials on commonly used tools to help participants feel more prepared for\
+  \ the Hack Day. This format continued in subsequent years. A public lecture on Giant Telescopes of the Future was given\
+  \ by Sarah Kendrew at the University of Sydney during the conference."
+organisers:
+- name: Amanda Bauer
+  affiliation: Chair
+  bluesky: amandabauer.bsky.social
+- name: Arna Karick
+- name: James Allen
+  bluesky: tljamesa.com
+- name: Vanessa Moss
+  bluesky: cosmicpudding.bsky.social
+- name: Rob Hollow
+talks:
+- speaker: Tom Robitaille
+  type: invited
+  title: Astropy and the Open Source Revolution in Astronomy
+- speaker: Lisa Ballard
+  type: invited
+  title: "Cataloging the World's Active Space Probes: How We Made the Spaceprob.es Website"
+- speaker: Alice Williamson
+  type: invited
+  affiliation: ", University of Sydney"
+  title: "Open Source Malaria: A New Way of Finding Medicines"
+- speaker: Danny Vohl
+  type: invited
+  title: "Astronomy in the Petascale Data Era: Storage, Transfer and Visualization"
+- speaker: Yeshe Fenner
+  type: invited
+  affiliation: ", AAL"
+  title: Investing in Astronomy Infrastructure and Lessons Building a Federated Data Hub
+- speaker: Nuria Lorente
+  type: invited
+  affiliation: AAO
+  title: Software development from the perspectives of astronomers and engineers
+- speaker: "Sze-leung Cheng"
+  type: invited
+  title: Astronomy education
+- speaker: Kirsten Gottschalk
+  type: invited
+  title: "Astronomy education mini-websites"
+- speaker: Katie Mack
+  type: lightning
+  title: Using Twitter effectively for science communication
+- speaker: Brett Morris
+  type: lightning
+  title: "astroplan: Open source observation planning for Python"
+- speaker: Tamara Davis
+  type: lightning
+  title: "Marz: spectral redshifting in the browser"
+- speaker: George Hobbs
+  type: lightning
+  title: "Data archives, working in China, and Julia vs Python"
+- speaker: Sarah Kendrew
+  type: talk
+  title: Giant Telescopes of the Future
+  notes: (University of Sydney)
+talks_narrative: |-
+  - **Professor Mary O'Kane**, NSW Chief Scientist and Engineer
+  .Astronomy 7 introduced "Day Zero", a day of introductory tutorials aimed at helping participants feel prepared for the Hack Day. This was a significant innovation that continued at all subsequent events.
+  Finding needles in big data, Engaging disconnected communities, Cool code environments, Dataverse and data standards, astroplan tutorial and development, Credit for code, Astronomy GUIs and data visualisation, Python 2 to Python 3 migration, Making data VO-compliant, Diversity in open source projects, Recognition for .Astronomy hacks, Future of publishing.
+  Tom Robitaille discussed astropy's open development model, noting the gender diversity gap in code contributors (90:10 male:female) was worse than the astronomy community overall, sparking discussion about accessibility barriers.
+  Alice Williamson, a non-astronomer, gave a cross-disciplinary talk about Open Source Malaria, demonstrating how open collaborative research could reduce drug discovery costs.
+hacks:
+- title: Life Cycle of Astronomers
+  creators:
+  - Jennifer Piscionere
+  description: Visualising astronomy career paths with D3.js.
+  source_url: "https://github.com/jpiscionere/jpiscionere.github.io"
+  live_url: "http://jpiscionere.github.io/Sequences_sunburst.html"
+- title: Friendly Virtual Radio Interferometer
+  creators:
+  - Cormac Purcell
+  - Nuria Lorente
+  - George Howitt
+  - Andrew O'Brien
+  - Demitri Muna
+  description: A friendly virtual radio interferometer.
+- title: Literal Virtual Observatory
+  creators:
+  - Aidan Hotan
+  description: "Drive around telescope observatories in a Mad Max/gamer-style interactive visualisation."
+- title: Pudding to the Max
+  creators:
+  - Vanessa Moss
+  description: "Catch up with the exploits of the Cosmic Pudding at .Astronomy through a Koalas-to-the-Max style interface."
+  source_url: "http://github.com/rhobslein/tothemax"
+  live_url: "http://t.co/QIj14OYPcK"
+- title: Radio Yourself
+  creators:
+  - Kirsten Gottschalk
+  description: Upload an image and see what you'd look like through a radio telescope.
+  source_url: "http://github.com/kirstengottschalk/kirstengottschalk.github.io"
+  live_url: "http://kirstengottschalk.github.io/"
+- title: "robo-ph"
+  creators:
+  - Tom Robitaille
+  - Josh Peek
+  - Katie Mack
+  - Arna Karick
+  description: "A podcast that reads astro-ph abstracts one by one."
+  source_url: "https://github.com/astrofrog/robo-ph"
+  live_url: "https://itunes.apple.com/us/podcast/robo-ph/id1056099851?mt=2"
+- title: Space Shark
+  creators:
+  - James Gilbert
+  - Simon Mutch
+  - Dany Vohl
+  - Pascal Elahi
+  - Kieran Leschinski
+  - Kirsten Gottschalk
+  description: "An alt-az pointer to be used for education."
+  source_url: "http://github.com/spaceshark"
+- title: webcite
+  creators:
+  - Becky Smethurst
+  - Lisa Ballard
+  - Demitri Muna
+  description: Takes an ADS bibliographic code and plots a geographical web of citations for that paper. Finds the institutions
+    of first authors of papers that cite the given paper.
+  source_url: "https://github.com/rjsmethurst/webcites_flask"
+  live_url: "http://webcites.herokuapp.com"
+- title: "What's Up?"
+  creators:
+  - Aaron Robotham
+  description: Updated Astroplan web app to help you plan observations.
+  live_url: "http://whatsup.icrar.org"
+participants:
+- name: Aidan Hotan
+- name: Alice Williamson
+  affiliation: University of Sydney
+  bluesky: acwilliamson.bsky.social
+- name: Amanda Bauer
+  affiliation: Chair
+  bluesky: amandabauer.bsky.social
+- name: Andrew O'Brien
+- name: Arna Karick
+- name: Aaron Robotham
+- name: Becky Smethurst
+  affiliation: University of Oxford
+  bluesky: drbecky.bsky.social
+- name: Brett Morris
+  bluesky: brettmorr.is
+- name: Cormac Purcell
+- name: Dany Vohl
+- name: Darren Croton
+- name: Demitri Muna
+  bluesky: pentingmode.bsky.social
+- name: Edward Gomez
+- name: George Hobbs
+- name: George Howitt
+- name: James Allen
+  bluesky: tljamesa.com
+- name: James Gilbert
+  bluesky: astrosurf.bsky.social
+- name: Jeffrey Simpson
+- name: Jennifer Piscionere
+- name: Josh Peek
+  bluesky: jegpeek.bsky.social
+- name: Katie Mack
+  bluesky: astrokatie.com
+- name: Kieran Leschinski
+- name: Kirsten Gottschalk
+- name: Lisa Ballard
+  bluesky: drlmhb.bsky.social
+- name: Madhura Killedar
+- name: Nuria Lorente
+- name: Pascal Elahi
+- name: Rob Hollow
+- name: Sarah Kendrew
+  bluesky: sarahkendrew.bsky.social
+- name: Simon Mutch
+- name: "Sze-leung Cheng"
+- name: Tamara Davis
+  bluesky: tamarastro.bsky.social
+- name: Tom Robitaille
+- name: Vanessa Moss
+  bluesky: cosmicpudding.bsky.social
+- name: Yeshe Fenner
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/seven"
+- label: demitri/dotastro7dayzero
+  url: "https://github.com/demitri/dotastro7dayzero"
+  description: Day Zero tutorial materials

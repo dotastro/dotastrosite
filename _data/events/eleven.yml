@@ -1,0 +1,191 @@
+slug: eleven
+number: "11"
+name: .Astronomy 11
+year: 2019
+city: Toronto
+country: Canada
+venue: "Chestnut Residence and Conference Centre, 89 Chestnut St, Toronto"
+dates: 22–25 October 2019
+description: "The first .Astronomy in Canada, hosted by the Dunlap Institute for Astronomy and Astrophysics at the University\
+  \ of Toronto. The conference acknowledged the traditional lands of the Huron-Wendat, the Seneca, and the Mississaugas of\
+  \ the Credit River."
+schedule:
+- url: /assets/talks/eleven/dotAstronomy11_schedule.pdf
+  format: PDF
+organisers:
+- name: Renée Hložek
+  affiliation: "Dunlap Institute, University of Toronto"
+- name: Bryan Gaensler
+  affiliation: Dunlap Institute
+  bluesky: scibry.bsky.social
+- name: Katie Breivik
+  bluesky: katiebreivik.bsky.social
+- name: Kartheik Iyer
+- name: Siqi Liu
+- name: Meaghan MacSween
+- name: Tina Peters
+- name: Mubdi Rahman
+  bluesky: mubdi.bsky.social
+- name: Mike Reid
+  bluesky: rationalremise.bsky.social
+- name: Ingrid Small
+- name: Nathaniel Starkman
+- name: Alice Chow
+- name: Joanna Baylon
+- name: Zoe Jaremus
+talks:
+- speaker: "Rob Simpson:"
+  type: day_zero
+  title: How to get the most from .Astronomy
+- speaker: Suresh Sivanandam
+  type: day_zero
+  affiliation: invited
+  title: "Data-Driven Approaches for Astronomical Adaptive Optics"
+- speaker: "Alyssa Goodman:"
+  type: day_zero
+  title: "Enhancing our appreciation for high-dimensional data"
+- speaker: "Nathaniel Starkman:"
+  type: day_zero
+  title: Plot all the things
+- speaker: "Mike Reid:"
+  type: day_zero
+  title: Astronomy outreach at scale
+- speaker: "David Neto:"
+  type: day_zero
+  title: "Astronomy tricks of a magician &nbsp; PDF"
+- speaker: "Tina Peters:"
+  type: day_zero
+  title: "Learn from machine learning: PLAsTiCC"
+- speaker: "Demitri Muna:"
+  type: day_zero
+  title: "Accessing Heterogeneous Data &nbsp; PDF"
+- speaker: "Kartheik Iyer:"
+  type: day_zero
+  title: "What can we learn from the SEDs of galaxies? &nbsp; PDF"
+- speaker: "Katharina Lutz:"
+  type: day_zero
+  title: "Write a paper in one Jupyter notebook &nbsp; PDF"
+- speaker: "Becky Smethurst:"
+  type: day_zero
+  title: Engaging astronomers in the era of clickbait
+- speaker: "Erik Tollerud:"
+  type: day_zero
+  title: "The Astropy community &nbsp; Files"
+- speaker: "Tina Peters:"
+  type: day_zero
+  title: "Learn from machine learning: PLAsTiCC &nbsp; PDF"
+- speaker: "Coleman Krawczyk:"
+  type: day_zero
+  title: "Zooniverse overview &nbsp; PDF"
+- speaker: "Coleman Krawczyk:"
+  type: day_zero
+  title: "Workshop: Building a Zooniverse Project &nbsp; PDF"
+- speaker: "Kelly Lepo:"
+  type: day_zero
+  title: "Editing Wikipedia &nbsp; PPTX"
+- speaker: "Mike Reid:"
+  type: day_zero
+  title: "Astronomy outreach at scale &nbsp; PDF"
+- speaker: Brittany Kamai
+  type: talk
+  affiliation: invited
+  title: Designing the Future of Gravitational Wave Detectors
+- speaker: Nicole Cabrera Salazar
+  type: talk
+  affiliation: invited
+  title: The Incredible Wholeness of Being
+- speaker: Cassandra Mangroo
+  type: talk
+  affiliation: invited
+  title: BenchSci
+- speaker: "Hilding Neilson:"
+  type: talk
+  title: "Integrating Indigenous Knowledge and Astronomy &nbsp; PDF"
+- speaker: "Mubdi Rahman:"
+  type: talk
+  title: Gaussian Process Regression
+- speaker: "Bridget Falck:"
+  type: talk
+  title: "A crash course in philosophy of science for astrophysicists &nbsp; PDF"
+- speaker: Jessie Christiansen
+  type: talk
+  affiliation: invited
+  title: Inreach vs Outreach
+- speaker: "Leah Fulmer:"
+  type: talk
+  title: Networking in astronomy
+- speaker: "Lauren Corlies:"
+  type: talk
+  title: "Outreach to Non-Astronomers &nbsp; PDF"
+talks_narrative: |-
+  - Unconference sessions
+  - Unconference sessions
+  - Hack presentations
+hacks:
+- title: "Ru-stronomy"
+  creators:
+  - Becky Smethurst
+  description: "A Markov chain generator trained on drag queen names, astronomical acronyms, RuPaul lyrics, and clickbait\
+    \ science headlines. Generates new astronomical mission names that sound like drag queens -- and vice versa. Created as\
+    \ part of the \"Engaging astronomers in the era of clickbait\" talk."
+  source_url: "{{ site.baseurl }}/assets/talks/eleven/Smethurst_Rustronomy_drag_queen_names.docx"
+  live_url: "{{ site.baseurl }}/assets/talks/eleven/Smethurst_generate.py"
+participants:
+- name: Renée Hložek
+- name: Bryan Gaensler
+  bluesky: scibry.bsky.social
+- name: Katie Breivik
+  bluesky: katiebreivik.bsky.social
+- name: Kartheik Iyer
+- name: Siqi Liu
+- name: Meaghan MacSween
+- name: Tina Peters
+- name: Mubdi Rahman
+  bluesky: mubdi.bsky.social
+- name: Mike Reid
+  bluesky: rationalremise.bsky.social
+- name: Ingrid Small
+- name: Nathaniel Starkman
+- name: Alice Chow
+- name: Joanna Baylon
+- name: Zoe Jaremus
+- name: Rob Simpson
+  bluesky: orbitingfrog.bsky.social
+- name: Suresh Sivanandam
+- name: Alyssa Goodman
+  bluesky: alyssagoodman.bsky.social
+- name: David Neto
+  bluesky: "stellar-forge.bsky.social"
+- name: Tina Peters
+- name: Demitri Muna
+  bluesky: pentingmode.bsky.social
+- name: Katharina Lutz
+- name: Becky Smethurst
+  bluesky: drbecky.bsky.social
+- name: Erik Tollerud
+  bluesky: eteq.bsky.social
+- name: Coleman Krawczyk
+- name: Kelly Lepo
+  bluesky: kellylepo.bsky.social
+- name: Brittany Kamai
+- name: Nicole Cabrera Salazar
+- name: Cassandra Mangroo
+- name: Hilding Neilson
+  bluesky: astrojipjawej.bsky.social
+- name: Jessie Christiansen
+  bluesky: aussiastronomer.bsky.social
+- name: Leah Fulmer
+- name: Lauren Corlies
+- name: Bridget Falck
+links:
+- label: dotastronomy.com
+  url: "https://www.dotastronomy.com/eleven"
+- label: Full schedule PDF
+  url: /assets/talks/eleven/dotAstronomy11_schedule.pdf
+  internal: true
+- label: mubdi/dotastroto_gaussianprocesses
+  url: "https://github.com/mubdi/dotastroto_gaussianprocesses"
+  description: Gaussian Processes tutorial
+- label: "nstarman/2019-10-22-dotAstronomy-Plotting-Workshop"
+  url: "https://github.com/nstarman/2019-10-22-dotAstronomy-Plotting-Workshop"
+  description: Plotting workshop

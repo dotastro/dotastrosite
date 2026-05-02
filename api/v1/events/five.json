@@ -7,15 +7,17 @@
   "country": "United States",
   "venue": "New England Research and Development Center (NERD), Cambridge, Massachusetts",
   "dates": "16–18 September 2013",
-  "url": "https://dotastronomy.com/events/five/",
+  "description": "The fifth .Astronomy conference was held at Microsoft Research's New England Research and Development (NERD) Center in Cambridge, Massachusetts, hosted by the Seamless Astronomy group at Harvard's Center for Astrophysics. It was the first .Astronomy event in North America, bringing the conference to a new continent. 60% of attendees were new to the meeting. The gender balance was 33% female.",
   "organisers": [
     {
       "name": "August Muench",
-      "affiliation": "Harvard-Smithsonian CfA"
+      "affiliation": "Harvard-Smithsonian CfA",
+      "bluesky": "augustfly.bsky.social"
     },
     {
       "name": "Alyssa Goodman",
-      "affiliation": "Harvard CfA"
+      "affiliation": "Harvard CfA",
+      "bluesky": "alyssagoodman.bsky.social"
     },
     {
       "name": "Alberto Pepe",
@@ -36,113 +38,132 @@
   ],
   "talks": [
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Stuart Lynn",
+      "type": "talk",
       "affiliation": "Zooniverse",
       "title": "A Smarter Zooniverse",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "real-time volunteer understanding and adaptive task routing"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Elisabeth Newton",
+      "type": "talk",
       "affiliation": "Harvard",
       "title": "Astronomy Blogging and Astrobites",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "founding Astrobites as a gateway to the online astronomy community"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Curtis Wong",
+      "type": "talk",
       "affiliation": "Microsoft Research",
       "title": "Outreach and Learning with Astronomy Data Visualization",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "WorldWide Telescope guided tours and large spatial-temporal datasets"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "David Hogg",
+      "type": "talk",
       "affiliation": "NYU",
       "title": "Crowdsourcing a High Dynamic-Range Image of the Entire Night Sky",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "building all-sky surveys from astrophotographer images on Flickr"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Alberto Accomazzi",
+      "type": "talk",
       "affiliation": "SAO",
       "title": "The dotAstrophysics Data System",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "ADS 2.0 launch with public API, iterative search refinement, and grant acknowledgment queries"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Laura Trouille",
+      "type": "talk",
       "affiliation": "Adler Planetarium / Northwestern",
       "title": "An Experiment in Supporting the Public in Research",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "Galaxy Zoo Quench: citizens doing end-to-end science with Zootools and Authorea"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Amy Robinson",
+      "type": "talk",
       "affiliation": "EyeWire",
       "title": "EyeWire",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "a game to map the brain with 80,000 players, using citizen science to train machine learning algorithms"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Amanda Bauer",
+      "type": "talk",
       "affiliation": "Australian Astronomical Observatory",
       "title": "Communication Strategies: How to Organize a Party in Space",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "defining goals, measuring impact, and promoting research"
     },
     {
-      "event": "five",
-      "year": 2013,
       "speaker": "Tony Hey",
+      "type": "talk",
       "affiliation": "Microsoft Research",
       "title": "The Fourth Paradigm: Data-Intensive Scientific Discovery",
-      "type": "talk",
-      "slides_url": null,
-      "video_url": null
+      "notes": "open access, the data deluge, cloud computing for science"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Speaking up for diversity and equality"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "AstroQuery: web tool for querying catalogs"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Outreach in public settings and measuring impact"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "How to build a killer astronomy show with WWT"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Massively Open Online Courses (MOOCs)"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Share the Love: a better system for credit in astronomy"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Connecting popular literature to the astro literature"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "The future of astronomy figures in the literature"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Transitioning into industry from the ivory tower"
+    },
+    {
+      "speaker": "",
+      "type": "unconference",
+      "title": "Indexing all the measurements in the literature"
     }
   ],
+  "talks_narrative": "Stuart Lynn argued that as Big Data grows, citizen science projects need smarter analysis methods and better use of volunteer time.\nDavid Hogg presented a project using astronomical images posted to Flickr by astrophotographers worldwide to build an all-sky survey. Using astrometry.net to calibrate the images, his team was finding stars that the professional astronomical literature had never catalogued.\nAlberto Accomazzi announced the launch of ADS 2.0, featuring a new search engine with iterative refinement, a public API, and powerful query capabilities including grant acknowledgment searches and citation analysis.",
   "hacks": [
     {
       "title": "Don't Call Me Colin",
-      "event": "five",
-      "year": 2013,
       "creators": [
         "Niall Deacon",
         "Ruth Angus"
       ],
       "description": "The International Astronomical Union announced that extrasolar planets might get more interesting names. This hack is about a planet (Gliese 581d) that really wants a nice mythical name like the Solar System planets, and not to be named after a celebrity or someone's cat (Colin).",
-      "source_url": null,
-      "live_url": null
+      "live_url": "https://www.youtube.com/watch?v=dFMoEpj-v7o"
     },
     {
       "title": "D3PO",
-      "event": "five",
-      "year": 2013,
       "creators": [
         "Adrian Price-Whelan",
         "Josh Peek",
@@ -151,19 +172,16 @@
         "Michelle Borkin"
       ],
       "description": "D3PO is designed to allow an astronomer, with no specialised data visualisation skills, to make an interactive, publication-quality figure with staged builds and linked brushing across plots.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/adrn/d3po",
+      "live_url": "http://www.d3po.org/"
     },
     {
       "title": "Python Client for the NASA ADS API",
-      "event": "five",
-      "year": 2013,
       "creators": [
         "Andy Casey (remote simultaneous hack)"
       ],
       "description": "A Python module to interact with NASA's ADS that Doesn't Suck.",
-      "source_url": null,
-      "live_url": null
+      "source_url": "https://github.com/andycasey/ads"
     }
   ],
   "participants": [
@@ -173,7 +191,8 @@
     },
     {
       "name": "Adrian Price-Whelan",
-      "affiliation": "Columbia University"
+      "affiliation": "Columbia University",
+      "bluesky": "adrian.pw"
     },
     {
       "name": "Alberto Accomazzi",
@@ -185,15 +204,18 @@
     },
     {
       "name": "Alyssa Goodman",
-      "affiliation": "Harvard-Smithsonian CfA"
+      "affiliation": "Harvard-Smithsonian CfA",
+      "bluesky": "alyssagoodman.bsky.social"
     },
     {
       "name": "Amanda Bauer",
-      "affiliation": "Australian Astronomical Observatory"
+      "affiliation": "Australian Astronomical Observatory",
+      "bluesky": "amandabauer.bsky.social"
     },
     {
       "name": "Amy Robinson",
-      "affiliation": "EyeWire / MIT"
+      "affiliation": "EyeWire / MIT",
+      "bluesky": "amy-robinson.bsky.social"
     },
     {
       "name": "Andy Casey",
@@ -201,11 +223,13 @@
     },
     {
       "name": "August Muench",
-      "affiliation": "Harvard CfA"
+      "affiliation": "Harvard CfA",
+      "bluesky": "augustfly.bsky.social"
     },
     {
       "name": "Brooke Simmons",
-      "affiliation": "Oxford Astrophysics"
+      "affiliation": "Oxford Astrophysics",
+      "bluesky": "vrooje.net"
     },
     {
       "name": "Carolina Ödman-Govender"
@@ -215,22 +239,26 @@
     },
     {
       "name": "Curtis Wong",
-      "affiliation": "Microsoft Research"
+      "affiliation": "Microsoft Research",
+      "bluesky": "curtismwong.bsky.social"
     },
     {
       "name": "David Hogg",
-      "affiliation": "New York University"
+      "affiliation": "New York University",
+      "bluesky": "hogg.bsky.social"
     },
     {
       "name": "Demitri Muna",
-      "affiliation": "NYU"
+      "affiliation": "NYU",
+      "bluesky": "pentingmode.bsky.social"
     },
     {
       "name": "Elisabeth Newton",
       "affiliation": "Harvard"
     },
     {
-      "name": "Geert Barentsen"
+      "name": "Geert Barentsen",
+      "bluesky": "geert.bsky.social"
     },
     {
       "name": "Jenine Humber"
@@ -243,14 +271,16 @@
       "name": "Jose Galache"
     },
     {
-      "name": "Josh Peek"
+      "name": "Josh Peek",
+      "bluesky": "jegpeek.bsky.social"
     },
     {
       "name": "Kelle Cruz"
     },
     {
       "name": "Kevin Govender",
-      "affiliation": "IAU-OAD"
+      "affiliation": "IAU-OAD",
+      "bluesky": "govender.bsky.social"
     },
     {
       "name": "Laura Trouille",
@@ -264,17 +294,20 @@
       "affiliation": "Harvard"
     },
     {
-      "name": "Niall Deacon"
+      "name": "Niall Deacon",
+      "bluesky": "nialldeacon.com"
     },
     {
       "name": "Renée Hložek"
     },
     {
       "name": "Robert Simpson",
-      "affiliation": "Oxford University"
+      "affiliation": "Oxford University",
+      "bluesky": "orbitingfrog.bsky.social"
     },
     {
-      "name": "Ruth Angus"
+      "name": "Ruth Angus",
+      "bluesky": "ruthangus.bsky.social"
     },
     {
       "name": "Sarah Block",
@@ -282,7 +315,8 @@
     },
     {
       "name": "Sarah Kendrew",
-      "affiliation": "MPIA"
+      "affiliation": "MPIA",
+      "bluesky": "sarahkendrew.bsky.social"
     },
     {
       "name": "Stuart Lynn",
@@ -293,7 +327,8 @@
       "affiliation": "Microsoft Research"
     },
     {
-      "name": "Vanessa Moss"
+      "name": "Vanessa Moss",
+      "bluesky": "cosmicpudding.bsky.social"
     },
     {
       "name": "Will Silversmith",
@@ -306,7 +341,40 @@
       "url": "https://www.dotastronomy.com/five"
     }
   ],
+  "community_posts": [
+    {
+      "text": "The internet is an amazing platform for astronomers & research. This week's #dotastro illuminates the possibilities hvrd.me/1623t7I",
+      "author": "Harvard University",
+      "date": "2013-09-15",
+      "source": "storify"
+    },
+    {
+      "text": "4:30am alarm. On my way to my first #dotastro conference!",
+      "author": "Alex Viana",
+      "date": "2013-09-15",
+      "source": "storify"
+    },
+    {
+      "text": "Schedule, speakers and talks for #dotastro 5 are up at dotastronomy.com/events/five/",
+      "author": ".Astronomy",
+      "date": "2013-09-15",
+      "source": "storify"
+    },
+    {
+      "text": "Follow along on Bluesky at @dotastro.bsky.social and with the #dotastro tag.",
+      "author": ".Astronomy",
+      "date": "2013-09-15",
+      "source": "storify"
+    },
+    {
+      "text": "Now LHR to IAD to BOS for #dotastro and more jetlag. Gotta keep that body on its toes #whereintheworldissarah",
+      "author": "Sarah Horst",
+      "date": "2013-09-15",
+      "source": "storify"
+    }
+  ],
+  "url": "https://dotastro.github.io/dotastrosite/events/five/",
   "participant_count": 36,
   "hack_count": 3,
-  "talk_count": 9
+  "talk_count": 19
 }
