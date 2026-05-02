@@ -8,7 +8,7 @@ permalink: /hacks/
 <span class="section-label">// hacks</span>
 <h1>All Hacks</h1>
 
-<p class="page-lead">Every hack built at a .Astronomy conference since the first hack day in Leiden in 2009. 80 projects and counting -- websites, apps, tools, songs, bots, games, and more. This list is incomplete. If you built something at a .Astronomy hack day that isn't here, please add it.</p>
+<p class="page-lead">Every hack built at a .Astronomy conference since the first hack day in Leiden in 2009. 80 projects and counting: websites, apps, tools, songs, bots, games, and more. This list is incomplete. If you built something at a .Astronomy hack day that isn't here, please add it.</p>
 
 <a href="https://github.com/dotastro/dotastrosite/issues/new?template=add_hack.yml&title=hack%3A+%5Bevent%5D+%5Btitle%5D" target="_blank" rel="noopener" class="btn btn-outline btn-sm" style="margin-bottom:1.5rem">Add a hack via GitHub</a>
 
