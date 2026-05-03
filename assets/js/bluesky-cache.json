@@ -439,7 +439,11 @@
     "platform is open source": true,
     "separate components that anyone can/will host": true,
     "will eventually be federated": true,
-    "posts are called \"skeets\" this is non-negotiable": true
+    "posts are called \"skeets\" this is non-negotiable": true,
+    "invited talks:": true,
+    "contributed talks:": true,
+    "unconference sessions (3 parallel tracks):": true,
+    "unconference sessions:": true
   },
   "found": {
     "will gater": "willgater.bsky.social",
