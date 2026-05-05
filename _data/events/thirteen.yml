@@ -48,7 +48,7 @@ talks:
 - speaker: ""
   type: day_zero
   title: "Introduction to Sonification for Discovery, Education and Accessibility"
-- speaker: ""
+- speaker: "Juanjo Bazán"
   type: day_zero
   title: Introduction to Publishing Open Source Software
 - speaker: ""
@@ -175,6 +175,9 @@ participants:
 - name: James Trayford
   bluesky: trayford.bsky.social
 - name: Jose A. Caballero
+- name: Juanjo Bazán
+  affiliation: UAM
+  bluesky: xuanxu.bsky.social
 - name: Mike Walmsley
 - name: Sandor Kruk
   affiliation: ESAC/ESA
