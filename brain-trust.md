@@ -64,7 +64,7 @@ The people who have shaped and continue to guide the .Astronomy series.
 <img class="person-avatar" src="https://cdn.bsky.app/img/avatar/plain/did:plc:llthgghnyeym3xmytdeakn5h/bafkreihhqeveicf3la7ftuytlpyfwqdpvjy7j3fbafhrghugftgj3kefhm@jpeg" alt="Alasdair Allan" loading="lazy">
 <div>
 <div class="person-name">Alasdair Allan</div>
-<div class="person-role">Raspberry Pi, Ltd</div>
+<div class="person-role">Negroni Venture Studios</div>
 <div class="person-handle"><a href="https://bsky.app/profile/alasdairallan.com" target="_blank" rel="noopener">alasdairallan.com</a></div>
 </div>
 </div>
