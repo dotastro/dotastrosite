@@ -32,7 +32,7 @@ The people who have shaped and continue to guide the .Astronomy series.
 <div class="person-handle"><a href="https://bsky.app/profile/chrislintott.bsky.social" target="_blank" rel="noopener">chrislintott.bsky.social</a></div>
 </div>
 </div>
-<p class="person-bio" data-bsky-bio>Astronomer, writer and zookeeper. Oxford, Gresham and the Zooniverse. The human half of the Dog Stars podcast.</p>
+<p class="person-bio">University of Oxford / Gresham College / AAS Journals editor / Zooniverse co-founder / Author and speaker</p>
 </div>
 
 <div class="person-card" data-handle="sarahkendrew.bsky.social">
