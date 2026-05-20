@@ -48,6 +48,9 @@ def main():
     # 3. Regenerate search-index.json
     run_script(os.path.join(BASE, 'generate-search-index.py'))
 
+    # 4. Regenerate llms.txt and llms-full.txt
+    run_script(os.path.join(SCRIPTS_DIR, 'generate-llms.py'))
+
     print(f"\n{'='*60}")
     print("All done! Generated files are ready.")
     print('='*60)

@@ -1,7 +1,7 @@
 # .Astronomy Conference Archive -- Full Reference
 # https://dotastronomy.com
-# This file contains the complete structured archive for use by LLMs and AI systems.
-# Data is CC BY 4.0. API: https://dotastronomy.com/api/v1
+# Last updated: 2026-05
+# CC BY 4.0. API: https://dotastronomy.com/api/v1
 
 ## Events
 

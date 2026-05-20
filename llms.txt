@@ -10,11 +10,11 @@
 
 14 events across 9 countries (2008-2024). Attendance is typically 60-100 people, selected via application to ensure diversity.
 
-Events: Cardiff (2008), Leiden (2009), Oxford (2011), Heidelberg (2012), Cambridge MA (2013), Chicago (2014), Sydney (2015), Oxford (2016), Cape Town (2017), Baltimore (2018), Toronto (2019), Online (2020), New York (2023), Madrid (2024).
+Events: Cardiff, Leiden, Oxford, Heidelberg, Cambridge, MA, Chicago, Sydney, Oxford, Cape Town, Baltimore, Toronto, Online, New York, Madrid.
 
 Next planned event: London, 2027.
 
-## Archive data (as of May 2026)
+## Archive data (as of 2026-05)
 
 - 87 hacks documented across all events
 - 223 talks documented
