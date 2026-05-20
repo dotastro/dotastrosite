@@ -111,29 +111,38 @@ talks:
   title: Hubble Image Discovery using Transfer Learning
 - speaker: "Unconference sessions:"
   type: talk
-talks_narrative: |-
-  Tutorials and workshops running in parallel across three rooms:
-  Session 1:
-  - Bokeh 101 [David R] -- <a href="https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - Make Astro People Believe Social Scientists [Azalee] -- <a href="https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - What Can Google Do for Astronomers [Rob S] -- <a href="https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  Session 2:
-  - Deep Learning with Kepler [Jonathan F] -- <a href="https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - NOAO Data Lab: Tutorials and Demos [S. Juneau] -- <a href="https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - More Discussion about Credit for Software [Chris L] -- <a href="https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  Session 3:
-  - Cloud Compute 101 [Iva M] -- <a href="https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - Multi-Dimensional Data-Viz with Glue [Catherine Z] -- <a href="https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - Thinking More About Race/Gender in Physics [Lauren C] -- <a href="https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit" class="hack-link" target="_blank" rel="noopener">notes</a>
-  - Techniques and Tools for Maintaining Mental Health [Bridget]
-  - What Should Journals do with Jupyter Notebooks? [Chris L]
-  - Inclusiveness Statistics [Geert]
-  - How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]
-  - Q&A on Astro to Tech Careers
-  - Reproducibility in Astronomy: How are we Doing? [Erik]
-  - Auto ML 101 [Iva]
-  - Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]
-  - What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]
+talks_narrative: |
+  <p>Parallel unconference sessions across three tracks:</p>
+  <h3>Session 1</h3>
+  <ul>
+  <li>Bokeh 101 [David R] <a href="https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  <li>Make Astro People Believe Social Scientists [Azalee] <a href="https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  <li>What Can Google Do for Astronomers [Rob S] <a href="https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  </ul>
+  <h3>Session 2</h3>
+  <ul>
+  <li>Deep Learning with Kepler [Jonathan F] <a href="https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  <li>NOAO Data Lab: Tutorials and Demos [S. Juneau] <a href="https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  <li>More Discussion about Credit for Software [Chris L] <a href="https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  </ul>
+  <h3>Session 3</h3>
+  <ul>
+  <li>Cloud Compute 101 [Iva M] <a href="https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  <li>Multi-Dimensional Data-Viz with Glue [Catherine Z] <a href="https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  <li>Thinking More About Race/Gender in Physics [Lauren C] <a href="https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
+  </ul>
+  <h3>Session 4</h3>
+  <ul>
+  <li>Techniques and Tools for Maintaining Mental Health [Bridget]</li>
+  <li>What Should Journals do with Jupyter Notebooks? [Chris L]</li>
+  <li>Inclusiveness Statistics [Geert]</li>
+  <li>How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]</li>
+  <li>Q&amp;A on Astro to Tech Careers</li>
+  <li>Reproducibility in Astronomy: How are we Doing? [Erik]</li>
+  <li>Auto ML 101 [Iva]</li>
+  <li>Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]</li>
+  <li>What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]</li>
+  </ul>
 hacks:
 - title: "Contributor Plots for Astropy-Affiliated Packages"
   creators:

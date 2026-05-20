@@ -119,7 +119,9 @@ layout: default
   {% if next_talk.type != current_type or forloop.last %}</ul>{% endif %}
 {% endfor %}
 
-{% if event.talks_narrative %}<p>{{ event.talks_narrative }}</p>{% endif %}
+{% if event.talks_narrative %}
+<div class="talks-narrative">{{ event.talks_narrative }}</div>
+{% endif %}
 {% endif %}
 
 {% if event.hacks.size > 0 %}

@@ -73,14 +73,15 @@ talks:
 - speaker: Alexander Nolte
   type: invited
   title: Keynote 4 (Day 3)
-talks_narrative: |-
-  - Tour of ESAC
-  - Multiple parallel unconference sessions (A, B, C, D tracks)
-  - Speed networking (Emily Hunt)
-  - Conference dinner in Madrid
-  Hack pitches followed by a full day of hacking. See the hacks section below for projects.
-  Hack presentations and wrap-up.
-hacks:
+talks_narrative: |
+  <ul>
+  <li>Tour of ESAC</li>
+  <li>Multiple parallel unconference sessions (A, B, C, D tracks)</li>
+  <li>Speed networking (Emily Hunt)</li>
+  <li>Conference dinner in Madrid</li>
+  </ul>
+  <p>Hack pitches followed by a full day of hacking. See the hacks section below for projects.</p>
+  <p>Hack presentations and wrap-up.</p>hacks:
 - title: Promoting Bluesky to Astronomers
   creators:
   - Emily Hunt (Heidelberg University)

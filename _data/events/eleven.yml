@@ -117,11 +117,12 @@ talks:
 - speaker: "Lauren Corlies:"
   type: talk
   title: "Outreach to Non-Astronomers &nbsp; PDF"
-talks_narrative: |-
-  - Unconference sessions
-  - Unconference sessions
-  - Hack presentations
-hacks:
+talks_narrative: |
+  <ul>
+  <li>Unconference sessions</li>
+  <li>Unconference sessions</li>
+  <li>Hack presentations</li>
+  </ul>hacks:
 - title: "Ru-stronomy"
   creators:
   - Becky Smethurst

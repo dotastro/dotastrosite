@@ -76,19 +76,20 @@ talks:
 - speaker: "Unconference sessions:"
   type: talk
   title: "Three parallel sessions (A, B, C)"
-talks_narrative: |-
-  - How to Unconference (fast format)
-  - Snakemake Pipelines and ShowYourWork (Ned and Mark)
-  - Astro-animation Workshop (Robin and Laurence)
-  - Creative Science Curriculum (Natalie)
-  - Data sharing for small collaborations (Kelle)
-  - Web tools for making data accessible (Luciano)
-  - GenAI for Research and Teaching (Ashley)
-  - Funding, algorithms, telescopes: ethical practices (Charlotte)
-  - More Open Space + Glue + WWT (Micah, Jackie, Alyssa, Theo, Emily)
-  - How to Make a Free Personal Website via GitHub (Lindsay G)
-  - 3D/VR/AR Resources for Art and Education (Stephanie and Ashley)
-hacks:
+talks_narrative: |
+  <ul>
+  <li>How to Unconference (fast format)</li>
+  <li>Snakemake Pipelines and ShowYourWork (Ned and Mark)</li>
+  <li>Astro-animation Workshop (Robin and Laurence)</li>
+  <li>Creative Science Curriculum (Natalie)</li>
+  <li>Data sharing for small collaborations (Kelle)</li>
+  <li>Web tools for making data accessible (Luciano)</li>
+  <li>GenAI for Research and Teaching (Ashley)</li>
+  <li>Funding, algorithms, telescopes: ethical practices (Charlotte)</li>
+  <li>More Open Space + Glue + WWT (Micah, Jackie, Alyssa, Theo, Emily)</li>
+  <li>How to Make a Free Personal Website via GitHub (Lindsay G)</li>
+  <li>3D/VR/AR Resources for Art and Education (Stephanie and Ashley)</li>
+  </ul>hacks:
 - title: Contributing to Astropy
   creators:
   - Elliott Molter

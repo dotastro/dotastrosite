@@ -65,13 +65,14 @@ talks:
   type: talk
   title: Giant Telescopes of the Future
   notes: (University of Sydney)
-talks_narrative: |-
-  - **Professor Mary O'Kane**, NSW Chief Scientist and Engineer
-  .Astronomy 7 introduced "Day Zero", a day of introductory tutorials aimed at helping participants feel prepared for the Hack Day. This was a significant innovation that continued at all subsequent events.
-  Finding needles in big data, Engaging disconnected communities, Cool code environments, Dataverse and data standards, astroplan tutorial and development, Credit for code, Astronomy GUIs and data visualisation, Python 2 to Python 3 migration, Making data VO-compliant, Diversity in open source projects, Recognition for .Astronomy hacks, Future of publishing.
-  Tom Robitaille discussed astropy's open development model, noting the gender diversity gap in code contributors (90:10 male:female) was worse than the astronomy community overall, sparking discussion about accessibility barriers.
-  Alice Williamson, a non-astronomer, gave a cross-disciplinary talk about Open Source Malaria, demonstrating how open collaborative research could reduce drug discovery costs.
-hacks:
+talks_narrative: |
+  <ul>
+  <li>**Professor Mary O'Kane**, NSW Chief Scientist and Engineer</li>
+  </ul>
+  <p>.Astronomy 7 introduced "Day Zero", a day of introductory tutorials aimed at helping participants feel prepared for the Hack Day. This was a significant innovation that continued at all subsequent events.</p>
+  <p>Finding needles in big data, Engaging disconnected communities, Cool code environments, Dataverse and data standards, astroplan tutorial and development, Credit for code, Astronomy GUIs and data visualisation, Python 2 to Python 3 migration, Making data VO-compliant, Diversity in open source projects, Recognition for .Astronomy hacks, Future of publishing.</p>
+  <p>Tom Robitaille discussed astropy's open development model, noting the gender diversity gap in code contributors (90:10 male:female) was worse than the astronomy community overall, sparking discussion about accessibility barriers.</p>
+  <p>Alice Williamson, a non-astronomer, gave a cross-disciplinary talk about Open Source Malaria, demonstrating how open collaborative research could reduce drug discovery costs.</p>hacks:
 - title: Life Cycle of Astronomers
   creators:
   - Jennifer Piscionere

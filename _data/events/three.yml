@@ -82,13 +82,14 @@ talks:
   type: talk
   affiliation: SIUE
   notes: talk
-talks_narrative: |-
-  - Unconference sessions (afternoon)
-  - Debrief (17:00--17:30)
-  - Hack Day (afternoon)
-  - Unconference sessions (afternoon)
-  - Debrief and conference dinner
-hacks:
+talks_narrative: |
+  <ul>
+  <li>Unconference sessions (afternoon)</li>
+  <li>Debrief (17:00--17:30)</li>
+  <li>Hack Day (afternoon)</li>
+  <li>Unconference sessions (afternoon)</li>
+  <li>Debrief and conference dinner</li>
+  </ul>hacks:
 - title: Pluto the Previous Planet
   creators:
   - Amanda Bauer

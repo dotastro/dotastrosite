@@ -3688,3 +3688,18 @@ html, body { overflow-x: hidden; max-width: 100vw; }
   opacity: 0.8;
   text-decoration: none;
 }
+
+/* Talks narrative (free-form text from YAML with embedded HTML) */
+.talks-narrative {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.7;
+  margin-top: 1rem;
+}
+
+.talks-narrative h3 {
+  margin-top: 1.25rem;
+  font-size: 1rem;
+  border-bottom: none;
+  padding-bottom: 0;
+}
