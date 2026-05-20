@@ -36,8 +36,27 @@ def run_script(script_path, args=None):
         sys.exit(result.returncode)
 
 
+def validate_yaml():
+    """Validate all YAML files before rebuilding."""
+    import yaml, glob
+    errors = []
+    for f in sorted(glob.glob(os.path.join(BASE, '_data/**/*.yml'), recursive=True)):
+        try:
+            with open(f) as fh:
+                yaml.safe_load(fh)
+        except Exception as e:
+            errors.append((f, str(e)))
+    if errors:
+        print("YAML VALIDATION FAILED:")
+        for f, e in errors:
+            print(f"  {f}: {e}")
+        sys.exit(1)
+    print(f"YAML valid ({len(list(glob.glob(os.path.join(BASE, '_data/**/*.yml'), recursive=True)))} files)")
+
+
 def main():
     print("=== Rebuilding everything from _data/ ===")
+    validate_yaml()
 
     # 1. Generate API JSON files
     run_script(os.path.join(SCRIPTS_DIR, 'generate-api.py'))
