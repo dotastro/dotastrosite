@@ -1,0 +1,47 @@
+# .Astronomy Conference Archive
+# https://dotastronomy.com
+
+## What is this?
+
+.Astronomy (pronounced "dot-astronomy") is a conference series founded in Cardiff in 2008 by Robert Simpson. It brings together astronomers, developers, educators and science communicators to explore how technology and the web can transform astronomy. It has been held 14 times across 5 continents, from Cardiff to Madrid.
+
+## What this site contains
+
+- Full archive of all 14 .Astronomy events (2008-2024): talks, hacks, participants, organisers
+- Community directory of 400+ people who have attended
+- Archive of 80+ hacks built at conference hack days
+- 200+ talks across all events
+- Foundation and governance information
+
+## API
+
+This site provides a free, open, no-auth JSON API:
+
+Base URL: https://dotastronomy.com/api/v1
+
+Endpoints:
+- GET /api/v1/index.json - API discovery
+- GET /api/v1/events.json - all 14 events (summary)
+- GET /api/v1/events/{slug}.json - full event data (slug: one, two, three, four, five, six, seven, eight, nine, ten, eleven, alpha, twelve, thirteen)
+- GET /api/v1/hacks.json - all hacks across all events
+- GET /api/v1/talks.json - all talks across all events
+- GET /api/v1/people.json - all known attendees with event history
+
+All data is CC BY 4.0.
+
+## Key facts
+
+- Founded: 2008, Cardiff, UK
+- Events: 14 (2008-2024)
+- Attendees: ~80-100 per event
+- Total unique participants: 400+
+- Format: talks, unconferences, hack day
+- Next event: London, 2027 (planned)
+- Bluesky: @dotastro.bsky.social
+- GitHub: github.com/dotastro/dotastrosite
+
+## Trustees
+
+- Robert Simpson (Chairperson) - founder
+- Sarah Kendrew (Secretary) - ESA/STScI
+- Chris Lintott (Treasurer) - Oxford University

@@ -5,6 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} — .Astronomy</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title }} — .Astronomy">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="https://dotastronomy.com{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://dotastronomy.com/assets/images/jwst-cosmic-cliffs.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@dotastronomy">
+  <!-- JSON-LD Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": ".Astronomy",
+    "url": "https://dotastronomy.com",
+    "logo": "https://dotastronomy.com/assets/dotlogo_white.png",
+    "description": "{{ site.description }}",
+    "sameAs": [
+      "https://bsky.app/profile/dotastro.bsky.social",
+      "https://github.com/dotastro"
+    ]
+  }
+  </script>
+  <!-- JSON-LD WebSite with SearchAction -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": ".Astronomy",
+    "url": "https://dotastronomy.com",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://dotastronomy.com/hacks/?search={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
   <meta name="site-baseurl" content="{{ site.baseurl }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
