@@ -2,6 +2,65 @@
 layout: default
 ---
 {% assign event = site.data.events[page.event_slug] %}
+{% capture page_description %}{{ event.name }}, {{ event.city }}, {{ event.year }}. {{ event.description | truncate: 160 }}{% endcapture %}
+<meta name="description" content="{{ page_description | strip_html }}" data-event-override>
+<meta property="og:description" content="{{ page_description | strip_html }}" data-event-override>
+<meta property="og:title" content="{{ event.name }}, {{ event.city }}, {{ event.year }} — .Astronomy" data-event-override>
+{% capture page_title %}{{ event.name }}, {{ event.city }}, {{ event.year }}{% endcapture %}
+
+<meta name="description" content="{{ page_description | strip_html }}" itemprop="description">
+<meta property="og:title" content="{{ page_title }} — .Astronomy">
+<meta property="og:description" content="{{ page_description | strip_html | truncate: 200 }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{{ event.name }}",
+  "startDate": "{{ event.year }}",
+  "location": {
+    "@type": "Place",
+    "name": "{{ event.venue }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ event.city }}",
+      "addressCountry": "{{ event.country }}"
+    }
+  },
+  "description": "{{ event.description | strip_html | truncate: 300 }}",
+  "url": "https://dotastronomy.com/events/{{ event.slug }}/",
+  "organizer": {
+    "@type": "Organization",
+    "name": ".Astronomy",
+    "url": "https://dotastronomy.com"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{{ event.name }}",
+  "startDate": "{{ event.year }}",
+  "location": {
+    "@type": "Place",
+    "name": "{{ event.venue }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ event.city }}",
+      "addressCountry": "{{ event.country }}"
+    }
+  },
+  "description": "{{ event.description | strip_html | truncate: 300 | replace: '"', '\"' }}",
+  "url": "https://dotastronomy.com/events/{{ event.slug }}/",
+  "organizer": {
+    "@type": "Organization",
+    "name": ".Astronomy",
+    "url": "https://dotastronomy.com"
+  }
+}
+</script>
 
 <div class="event-page-hero" data-num="{{ page.event_num }}">
   <div class="event-page-kicker">{{ event.name }}</div>
