@@ -120,7 +120,7 @@ layout: default
 {% endfor %}
 
 {% if event.talks_narrative %}
-<div class="talks-narrative">{{ event.talks_narrative }}</div>
+<div class="talks-narrative">{{ event.talks_narrative | raw }}</div>
 {% endif %}
 {% endif %}
 
