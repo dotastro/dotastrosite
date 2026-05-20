@@ -81,7 +81,8 @@ talks_narrative: |
   <li>Conference dinner in Madrid</li>
   </ul>
   <p>Hack pitches followed by a full day of hacking. See the hacks section below for projects.</p>
-  <p>Hack presentations and wrap-up.</p>hacks:
+  <p>Hack presentations and wrap-up.</p>
+hacks:
 - title: Promoting Bluesky to Astronomers
   creators:
   - Emily Hunt (Heidelberg University)

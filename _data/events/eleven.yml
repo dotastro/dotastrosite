@@ -122,7 +122,8 @@ talks_narrative: |
   <li>Unconference sessions</li>
   <li>Unconference sessions</li>
   <li>Hack presentations</li>
-  </ul>hacks:
+  </ul>
+hacks:
 - title: "Ru-stronomy"
   creators:
   - Becky Smethurst

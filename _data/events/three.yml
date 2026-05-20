@@ -89,7 +89,8 @@ talks_narrative: |
   <li>Hack Day (afternoon)</li>
   <li>Unconference sessions (afternoon)</li>
   <li>Debrief and conference dinner</li>
-  </ul>hacks:
+  </ul>
+hacks:
 - title: Pluto the Previous Planet
   creators:
   - Amanda Bauer

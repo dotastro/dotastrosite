@@ -89,7 +89,8 @@ talks_narrative: |
   <li>More Open Space + Glue + WWT (Micah, Jackie, Alyssa, Theo, Emily)</li>
   <li>How to Make a Free Personal Website via GitHub (Lindsay G)</li>
   <li>3D/VR/AR Resources for Art and Education (Stephanie and Ashley)</li>
-  </ul>hacks:
+  </ul>
+hacks:
 - title: Contributing to Astropy
   creators:
   - Elliott Molter
