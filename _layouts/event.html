@@ -114,14 +114,12 @@ layout: default
     {% endcase %}
     <ul>
   {% endif %}
-  <li>{% if talk.speaker != "" %}<strong>{{ talk.speaker }}</strong>{% if talk.affiliation %} ({{ talk.affiliation }}){% endif %}{% if talk.title %}: <em>{{ talk.title }}</em>{% endif %}{% if talk.notes %} &mdash; {{ talk.notes | replace: " -- ", " " }}{% endif %}{% else %}{{ talk.title }}{% endif %}</li>
+  <li>{% if talk.speaker != "" and talk.speaker != nil %}<strong>{{ talk.speaker }}</strong>{% if talk.affiliation %} ({{ talk.affiliation }}){% endif %}{% if talk.title %}: <em>{{ talk.title }}</em>{% endif %}{% else %}{{ talk.title }}{% endif %}{% if talk.notes %} &mdash; {{ talk.notes }}{% endif %}{% if talk.slides_url %} <a href="{{ talk.slides_url }}" class="hack-link" target="_blank" rel="noopener">notes</a>{% endif %}</li>
   {% assign next_talk = event.talks[forloop.index] %}
   {% if next_talk.type != current_type or forloop.last %}</ul>{% endif %}
 {% endfor %}
 
-{% if event.talks_narrative %}
-<div class="talks-narrative">{{ event.talks_narrative | raw }}</div>
-{% endif %}
+
 {% endif %}
 
 {% if event.hacks.size > 0 %}

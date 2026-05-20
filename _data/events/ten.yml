@@ -111,38 +111,78 @@ talks:
   title: Hubble Image Discovery using Transfer Learning
 - speaker: "Unconference sessions:"
   type: talk
-talks_narrative: |
-  <p>Parallel unconference sessions across three tracks:</p>
-  <h3>Session 1</h3>
-  <ul>
-  <li>Bokeh 101 [David R] <a href="https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  <li>Make Astro People Believe Social Scientists [Azalee] <a href="https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  <li>What Can Google Do for Astronomers [Rob S] <a href="https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  </ul>
-  <h3>Session 2</h3>
-  <ul>
-  <li>Deep Learning with Kepler [Jonathan F] <a href="https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  <li>NOAO Data Lab: Tutorials and Demos [S. Juneau] <a href="https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  <li>More Discussion about Credit for Software [Chris L] <a href="https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  </ul>
-  <h3>Session 3</h3>
-  <ul>
-  <li>Cloud Compute 101 [Iva M] <a href="https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  <li>Multi-Dimensional Data-Viz with Glue [Catherine Z] <a href="https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  <li>Thinking More About Race/Gender in Physics [Lauren C] <a href="https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit" class="hack-link" target="_blank" rel="noopener">notes</a></li>
-  </ul>
-  <h3>Session 4</h3>
-  <ul>
-  <li>Techniques and Tools for Maintaining Mental Health [Bridget]</li>
-  <li>What Should Journals do with Jupyter Notebooks? [Chris L]</li>
-  <li>Inclusiveness Statistics [Geert]</li>
-  <li>How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]</li>
-  <li>Q&amp;A on Astro to Tech Careers</li>
-  <li>Reproducibility in Astronomy: How are we Doing? [Erik]</li>
-  <li>Auto ML 101 [Iva]</li>
-  <li>Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]</li>
-  <li>What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]</li>
-  </ul>
+  - speaker: ""
+    title: "Bokeh 101 [David R]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1926PqPdzUkLEf2Q_EuP5Z094bfRi9l7QMr49V8TzjAM/edit"
+  - speaker: ""
+    title: "Make Astro People Believe Social Scientists [Azalee]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1ItKvDYnv8AUeFq5KWHotXTbC6e-oXgSAZ3lEMhMcjxc/edit"
+  - speaker: ""
+    title: "What Can Google Do for Astronomers [Rob S]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1MXrGAgEmkt7dPTw1ulT2jTngsDweoaEKmxVy9_K1Jmc/edit"
+  - speaker: ""
+    title: "Deep Learning with Kepler [Jonathan F]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1nbUl1OelMCHyDQ1Jf4UMAvMqfNYOgVGvpiH76EjtAq4/edit"
+  - speaker: ""
+    title: "NOAO Data Lab: Tutorials and Demos [S. Juneau]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1LAN8QM7Ngz-IHz2VooA6x2py1_0JVXYzX-gTwCjrvYc/edit"
+  - speaker: ""
+    title: "More Discussion about Credit for Software [Chris L]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1gKlqLR03pIpu_UGcTMhTPc92CXHLH_8H6cTxTSNlF7s/edit"
+  - speaker: ""
+    title: "Cloud Compute 101 [Iva M]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1l5YkalIaRKPec4fx0B_KAV2ov8R0EXGxV1IqEIh6r2U/edit"
+  - speaker: ""
+    title: "Multi-Dimensional Data-Viz with Glue [Catherine Z]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/14fvCM1LGqzyqiSJ7AGx4rbFvEraroYuIUmLhX4RND7A/edit"
+  - speaker: ""
+    title: "Thinking More About Race/Gender in Physics [Lauren C]"
+    type: "unconference"
+    notes: ""
+    slides_url: "https://docs.google.com/document/d/1PwKKGj8WHOTo5dVHQ0iVvwVQUf5UIDZyEP9sSdjfNwI/edit"
+  - speaker: ""
+    title: "Techniques and Tools for Maintaining Mental Health [Bridget]"
+    type: "unconference"
+  - speaker: ""
+    title: "What Should Journals do with Jupyter Notebooks? [Chris L]"
+    type: "unconference"
+  - speaker: ""
+    title: "Inclusiveness Statistics [Geert]"
+    type: "unconference"
+  - speaker: ""
+    title: "How do We Build a Culture, Software and Data Astro Discovery Engine? [Josh]"
+    type: "unconference"
+  - speaker: ""
+    title: "Q&A on Astro to Tech Careers"
+    type: "unconference"
+  - speaker: ""
+    title: "Reproducibility in Astronomy: How are we Doing? [Erik]"
+    type: "unconference"
+  - speaker: ""
+    title: "Auto ML 101 [Iva]"
+    type: "unconference"
+  - speaker: ""
+    title: "Which Viz Tools to Use to Explore Images and Catalogues [Stephanie]"
+    type: "unconference"
+  - speaker: ""
+    title: "What Are Interesting Astro Compute Problems Other than Big Scale Simulation? [Jules]"
+    type: "unconference"
 hacks:
 - title: "Contributor Plots for Astropy-Affiliated Packages"
   creators:
