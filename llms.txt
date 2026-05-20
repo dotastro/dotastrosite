@@ -1,47 +1,58 @@
 # .Astronomy Conference Archive
 # https://dotastronomy.com
+# Last updated: 2026-05
 
-## What is this?
+## What is .Astronomy?
 
-.Astronomy (pronounced "dot-astronomy") is a conference series founded in Cardiff in 2008 by Robert Simpson. It brings together astronomers, developers, educators and science communicators to explore how technology and the web can transform astronomy. It has been held 14 times across 5 continents, from Cardiff to Madrid.
+.Astronomy (pronounced "dot-astronomy") is a conference series founded in Cardiff in 2008 by Robert Simpson, then a PhD student at the University of Cardiff. It brings together astronomers, developers, educators and science communicators to explore how the web and technology can transform science. It is not a traditional research conference. The focus is on people, tools, and collaboration: talks, unconferences, and hack days.
 
-## What this site contains
+## Events
 
-- Full archive of all 14 .Astronomy events (2008-2024): talks, hacks, participants, organisers
-- Community directory of 400+ people who have attended
-- Archive of 80+ hacks built at conference hack days
-- 200+ talks across all events
-- Foundation and governance information
+14 events across 9 countries (2008-2024). Attendance is typically 60-100 people, selected via application to ensure diversity.
+
+Events: Cardiff (2008), Leiden (2009), Oxford (2011), Heidelberg (2012), Cambridge MA (2013), Chicago (2014), Sydney (2015), Oxford (2016), Cape Town (2017), Baltimore (2018), Toronto (2019), Online (2020), New York (2023), Madrid (2024).
+
+Next planned event: London, 2027.
+
+## Archive data (as of May 2026)
+
+- 87 hacks documented across all events
+- 223 talks documented
+- 446 known participants
+- 141 Bluesky profiles matched to participants
 
 ## API
 
-This site provides a free, open, no-auth JSON API:
+Free, open, no authentication required. CC BY 4.0.
 
 Base URL: https://dotastronomy.com/api/v1
 
-Endpoints:
-- GET /api/v1/index.json - API discovery
-- GET /api/v1/events.json - all 14 events (summary)
-- GET /api/v1/events/{slug}.json - full event data (slug: one, two, three, four, five, six, seven, eight, nine, ten, eleven, alpha, twelve, thirteen)
-- GET /api/v1/hacks.json - all hacks across all events
-- GET /api/v1/talks.json - all talks across all events
-- GET /api/v1/people.json - all known attendees with event history
+- GET /api/v1/index.json -- API discovery and metadata
+- GET /api/v1/events.json -- all 14 events (summary)
+- GET /api/v1/events/{slug}.json -- full event: organisers, talks, hacks, participants, links
+  Slugs: one, two, three, four, five, six, seven, eight, nine, ten, eleven, alpha, twelve, thirteen
+- GET /api/v1/hacks.json -- all 87 hacks with creators, descriptions, source/live URLs
+- GET /api/v1/talks.json -- all 223 talks with speakers, affiliations, types
+- GET /api/v1/people.json -- all 446 known participants with event history, roles, Bluesky handles
 
-All data is CC BY 4.0.
+## Foundation
 
-## Key facts
+The .Astronomy Foundation is a registered charitable trust (UK), founded 30 April 2019. Objects: "For the public benefit, the advancement of astronomy and related fields, in any part of the world, by people using technology to innovate the practice and communication of the subject."
 
-- Founded: 2008, Cardiff, UK
-- Events: 14 (2008-2024)
-- Attendees: ~80-100 per event
-- Total unique participants: 400+
-- Format: talks, unconferences, hack day
-- Next event: London, 2027 (planned)
-- Bluesky: @dotastro.bsky.social
-- GitHub: github.com/dotastro/dotastrosite
+Trustees: Robert Simpson (Chairperson), Sarah Kendrew (Secretary), Chris Lintott (Treasurer).
 
-## Trustees
+## Key people
 
-- Robert Simpson (Chairperson) - founder
-- Sarah Kendrew (Secretary) - ESA/STScI
-- Chris Lintott (Treasurer) - Oxford University
+- Robert Simpson: founder, organiser of multiple events, Chairperson of Foundation. Bluesky: orbitingfrog.bsky.social
+- Sarah Kendrew: ESA instrument scientist (JWST/MIRI), most prolific event organiser. Bluesky: sarahkendrew.bsky.social
+- Chris Lintott: Professor of Astrophysics, Oxford; Zooniverse co-founder; AAS Journals editor. Bluesky: chrislintott.bsky.social
+- Amanda Bauer: Deputy Director, Yerkes Observatory. Bluesky: amandabauer.bsky.social
+- Becky Smethurst: Oxford astrophysicist, science communicator (Dr Becky YouTube). Bluesky: drbecky.bsky.social
+- Arfon Smith: Schmidt Sciences. Bluesky: arfon.bsky.social
+- Alasdair Allan: Negroni Venture Studios. Bluesky: alasdairallan.com
+
+## Community
+
+Bluesky: @dotastro.bsky.social
+GitHub: github.com/dotastro
+Source: github.com/dotastro/dotastrosite
